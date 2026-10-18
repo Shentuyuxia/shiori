@@ -161,6 +161,20 @@ form.add .row{grid-column:1/-1;display:flex;gap:8px;justify-content:flex-end}
 textarea.io{width:100%;min-height:110px;box-sizing:border-box;padding:10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);font-family:ui-monospace,Menlo,monospace;font-size:12px}
 .iorow{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
 
+/* speech */
+.player{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:-4px 0 18px}
+.btn{display:inline-flex;align-items:center;gap:6px}
+.btn.sm{padding:6px 10px;font-size:13px}
+.spk{width:16px;height:16px;flex:none}
+.iconbtn{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:50%;border:1px solid var(--line);background:var(--surface);color:var(--accent);margin-left:8px;vertical-align:middle;padding:0}
+.iconbtn.sm{width:26px;height:26px}.iconbtn.sm .spk{width:13px;height:13px}
+.card .iconbtn{margin:0}
+.sen{border-radius:4px;transition:background-color .2s}
+.sen.reading{background:var(--accent-soft);box-shadow:0 0 0 2px var(--accent-soft)}
+@media (prefers-reduced-motion:reduce){.sen{transition:none}}
+.whead{display:flex;align-items:center;flex-wrap:wrap}
+.sheet .row.left{justify-content:flex-start}
+.sel{padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);max-width:200px}
 /* sheet & floating */
 .scrim{position:fixed;inset:0;background:var(--shade);z-index:20}
 .sheet{position:fixed;left:0;right:0;bottom:0;z-index:21;background:var(--surface);border-top:1px solid var(--line);border-radius:16px 16px 0 0;padding-bottom:calc(18px + env(safe-area-inset-bottom,0px));box-shadow:0 -8px 30px var(--shade);max-height:80vh;overflow-y:auto}
@@ -328,7 +342,7 @@ j2z:"日→中",z2j:"中→日",mix:"混合",goal:"每日目標",goalP:"每天�
 data:"資料",dataP:"單字只存在這個瀏覽器裡。換手機或清除瀏覽紀錄前，請先匯出備份。",
 exp:"複製備份",imp:"匯入備份",impPh:"把備份文字貼在這裡",rmSeed:"移除範例卡",
 copied:"已複製",copyFail:"無法自動複製，請手動全選複製。",imported:n=>`已匯入 ${n} 個單字`,badImport:"格式不對，請貼上完整的備份文字。",
-savedT:"已加入單字本",removedSeed:"已移除範例卡",needWord:"請至少填寫單字和意思。"},
+savedT:"已加入單字本",listen:"朗讀全文",pause:"暫停",resume:"繼續",stop:"停止",speed:"朗讀速度",speedP:"整篇朗讀與單字發音的語速。",voice:"日語語音",voiceP:"使用這台裝置內建的日語語音。",auto:"自動",autoSay:"翻卡時自動發音",autoSayP:"練習時翻到背面就唸出單字。",on:"開",off:"關",sayLine:"朗讀這句",fromHere:"從這句開始朗讀",say:"發音",noVoice:"這台裝置找不到日語語音。iPhone 可到「設定 → 輔助使用 → 朗讀內容 → 聲音 → 日文」下載。",noTTS:"這個瀏覽器不支援朗讀。",removedSeed:"已移除範例卡",needWord:"請至少填寫單字和意思。"},
 "ja":{sub:"日本語 · 繁體中文",tRead:"読む",tVocab:"単語帳",tPrac:"練習",tSet:"設定",
 readEy:"読みもの",readH:"今日の一編",readLede:"下線の語をタップすると意味が出ます。文字を選択すれば、そのまま単語帳に追加できます。",
 lv:{all:"全て",n3:"N3 初中級",n2:"N2 中上級",n1:"N1 上級",pro:"上級＋ ネイティブ級",x:"古典 超上級"},lvl:"読解レベル",lvlP:"一覧にはこのレベルの文章だけを表示します。",lvlN:n=>`${n} 編`,noArt:"このレベルの文章はまだありません。",doneMark:"読了",back:"← 一覧へ",
@@ -349,7 +363,7 @@ j2z:"日→中",z2j:"中→日",mix:"ランダム",goal:"1日の目標",goalP:"1
 data:"データ",dataP:"単語はこのブラウザ内にだけ保存されます。機種変更や履歴削除の前にバックアップしてください。",
 exp:"バックアップをコピー",imp:"バックアップを読み込む",impPh:"ここにバックアップを貼り付け",rmSeed:"サンプルを削除",
 copied:"コピーしました",copyFail:"自動コピーできません。全選択してコピーしてください。",imported:n=>`${n} 語を読み込みました`,badImport:"形式が正しくありません。バックアップ全文を貼り付けてください。",
-savedT:"単語帳に追加しました",removedSeed:"サンプルを削除しました",needWord:"単語と意味は必須です。"}
+savedT:"単語帳に追加しました",listen:"全文を読み上げ",pause:"一時停止",resume:"再開",stop:"停止",speed:"読み上げ速度",speedP:"全文の読み上げと単語の発音の速さ。",voice:"日本語の音声",voiceP:"この端末に入っている日本語音声を使います。",auto:"自動",autoSay:"めくると自動で発音",autoSayP:"練習でカードを裏返すと単語を読み上げます。",on:"オン",off:"オフ",sayLine:"この文を読む",fromHere:"ここから読み上げ",say:"発音",noVoice:"日本語の音声が見つかりません。iPhone は「設定 → アクセシビリティ → 読み上げコンテンツ → 声 → 日本語」で追加できます。",noTTS:"このブラウザは読み上げに対応していません。",removedSeed:"サンプルを削除しました",needWord:"単語と意味は必須です。"}
 };
 
 /* ---------- state ---------- */
@@ -357,7 +371,7 @@ const KEY="shiori-v1", OLDKEY="kotoba-ci-v1", IV=[0,1,2,4,8,16,30];
 const todayStr=()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")};
 const addDays=(s,n)=>{const d=new Date(s+"T12:00:00");d.setDate(d.getDate()+n);return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")};
 const uid=()=>Math.random().toString(36).slice(2,9);
-function fresh(){return{set:{ui:"zh-Hant",fg:"annot",size:19,dir:"j2z",goal:20,vert:false,lvl:"all"},
+function fresh(){return{set:{ui:"zh-Hant",fg:"annot",size:19,dir:"j2z",goal:20,vert:false,lvl:"all",rate:0.9,voice:"",autoSay:true},
 cards:SEED.map(([w,r,m,n])=>({id:uid(),w,r,m,ex:"",note:n,src:"",box:0,due:todayStr(),seed:true})),log:{},read:{}}}
 function load(){try{const s=JSON.parse(localStorage.getItem(KEY)||localStorage.getItem(OLDKEY));if(s&&s.cards)return Object.assign(fresh(),s,{set:Object.assign(fresh().set,s.set)})}catch(e){}return fresh()}
 function persist(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
@@ -374,14 +388,19 @@ function streak(){let n=0,d=todayStr();if(!S.log[d])d=addDays(d,-1);while(S.log[
 /* ---------- parsing ---------- */
 const RX=/\[\[([^|\]]+)\|([^\]]+)\]\]|\{([^|}]+)\|([^}]+)\}/g;
 const plain=s=>s.replace(RX,(m,a,b,c)=>a||c);
+let SENTS=[];
+const sayText=s=>s.replace(RX,(m,w,r,k,kr)=>w?r:kr);
 function renderPara(p,art){
   return (p.match(/[^。！？]+[。！？」]*|[。！？」]+/g)||[p]).map(sen=>{
-    const sp=esc(plain(sen).trim());
+    const sp=esc(plain(sen).trim()), si=SENTS.length; SENTS.push(sayText(sen).trim());
+    return `<span class="sen" data-i="${si}">`+sen0(sen,sp,si,art)+`</span>`}).join("");
+}
+function sen0(sen,sp,si,art){{
     return sen.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])).replace(RX,(m,w,r,k,kr)=>{
       if(w){const sv=has(w)?" saved":"";const inner=r===w?esc(w):`${esc(w)}<rt>${esc(r)}</rt>`;
-        return `<ruby class="an${sv}" tabindex="0" role="button" data-w="${esc(w)}" data-r="${esc(r)}" data-a="${art.id}" data-s="${sp}">${inner}</ruby>`}
+        return `<ruby class="an${sv}" tabindex="0" role="button" data-w="${esc(w)}" data-r="${esc(r)}" data-a="${art.id}" data-s="${sp}" data-i="${si}">${inner}</ruby>`}
       return `<ruby>${esc(k)}<rt>${esc(kr)}</rt></ruby>`});
-  }).join("");
+  }
 }
 
 /* ---------- views ---------- */
@@ -393,7 +412,7 @@ function tabs(){
 }
 function viewRead(){
   if(V.art){const a=ARTICLES.find(x=>x.id===V.art);
-    const paras=a.body.split(/\n\n/).map(p=>a.letter?`<p>${p.split("\n").map(l=>renderPara(l,a)).join("<br>")}</p>`:`<p>${renderPara(p,a)}</p>`).join("");
+    SENTS=[];const paras=a.body.split(/\n\n/).map(p=>a.letter?`<p>${p.split("\n").map(l=>renderPara(l,a)).join("<br>")}</p>`:`<p>${renderPara(p,a)}</p>`).join("");
     return `<button class="back" data-act="back">${t("back")}</button>
     <div class="rhead"><span class="chip ${a.lv==="n1"||a.lv==="pro"||a.lv==="x"?"k-adv":""}">${t("lv")[a.lv]}</span><span class="chip">${esc(a.genre[S.set.ui])}</span></div>
     <h2 class="reader-title" lang="ja">${esc(a.title)}</h2><p class="reader-sub">${esc(a.sub)}</p>
@@ -401,6 +420,7 @@ function viewRead(){
       <span class="seg" role="group" aria-label="${t("fg")}">${[["all","fgAll"],["annot","fgAnnot"],["none","fgNone"]].map(([v,k])=>`<button data-fg="${v}" aria-pressed="${S.set.fg===v}">${t(k)}</button>`).join("")}</span>
       <span class="seg" role="group" aria-label="${t("dirLab")}"><button data-vert="0" aria-pressed="${!S.set.vert}">${t("hor")}</button><button data-vert="1" aria-pressed="${S.set.vert}">${t("ver")}</button></span>
     </div>
+    <div class="player" id="player">${playerHTML()}</div>
     <div id="reader" lang="ja" class="fg-${S.set.fg} ${S.set.vert?"vert":""}">${paras}</div>
     ${S.set.vert?`<p class="tip">${t("tip")}</p>`:""}
     <div class="mark-done"><button class="btn ${S.read[a.id]?"ghost":"primary"}" data-act="markread">${S.read[a.id]?t("markedRead"):t("markRead")}</button></div>`}
@@ -427,7 +447,7 @@ function viewVocab(){
   ${V.showAdd?addForm():""}
   ${S.cards.length===0?`<p class="empty">${t("noWords")}</p>`:list.length===0?`<p class="empty">${t("noMatch")}</p>`:
   `<ul class="vlist">${list.map(c=>`<li>
-    <div><span class="vw" lang="ja">${esc(c.w)}</span>${c.r&&c.r!==c.w?`<span class="vr" lang="ja">${esc(c.r)}</span>`:""}</div>
+    <div><span class="vw" lang="ja">${esc(c.w)}</span>${c.r&&c.r!==c.w?`<span class="vr" lang="ja">${esc(c.r)}</span>`:""}<button class="iconbtn sm" data-say="${esc(c.r||c.w)}" aria-label="${t("say")}">${SPK}</button></div>
     <div class="vm">${esc(c.m)}${c.note?` <span style="color:var(--muted);font-size:13px">— ${esc(c.note)}</span>`:""}</div>
     ${c.ex?`<div class="vx" lang="ja">${esc(c.ex)}</div>`:""}
     <div class="vside">${c.seed?`<span class="chip">${t("seed")}</span>`:""}<span class="boxpip">${c.due<=todayStr()?t("due"):t("box",c.box)}</span>
@@ -440,7 +460,7 @@ function viewPrac(){
     const c=S.cards.find(x=>x.id===s.q[s.i]);if(!c){s.i++;return viewPrac()}
     const mode=S.set.dir==="mix"?(c.id.charCodeAt(0)%2?"j2z":"z2j"):S.set.dir;
     const front=mode==="j2z"?`<div class="big" lang="ja">${esc(c.w)}</div>`:`<div class="meaning">${esc(c.m)}</div>`;
-    const back=`<div class="big" lang="ja">${esc(c.w)}</div>${c.r&&c.r!==c.w?`<div class="reading" lang="ja">${esc(c.r)}</div>`:""}<div class="meaning">${esc(c.m)}</div>${c.note?`<div class="hint">${esc(c.note)}</div>`:""}${c.ex?`<div class="ex" lang="ja">${esc(c.ex)}</div>`:""}`;
+    const back=`<div class="big" lang="ja">${esc(c.w)}</div><button class="iconbtn" data-say="${esc(c.r||c.w)}" aria-label="${t("say")}">${SPK}</button>${c.r&&c.r!==c.w?`<div class="reading" lang="ja">${esc(c.r)}</div>`:""}<div class="meaning">${esc(c.m)}</div>${c.note?`<div class="hint">${esc(c.note)}</div>`:""}${c.ex?`<div class="ex" lang="ja">${esc(c.ex)}</div>`:""}`;
     const nb=Math.min(c.box+1,IV.length-1);
     return `<p class="eyebrow">${t("pracEy")}</p>
     <div class="card ${V.flip?"flip":""}" id="card" tabindex="0" role="button">${V.flip?back:front+`<div class="hint">${t("tapFlip")}</div>`}</div>
@@ -465,6 +485,9 @@ function viewSet(){
   <div class="item"><span class="lab">${t("fg")}</span><p>${t("fgP")}</p><div class="c">${seg("fg",[["all",t("fgAll")],["annot",t("fgAnnot")],["none",t("fgNone")]],s.fg)}</div></div>
   <div class="item"><span class="lab">${t("dirLab")}</span><p></p><div class="c">${seg("vert",[["0",t("hor")],["1",t("ver")]],s.vert?1:0)}</div></div>
   <div class="item"><span class="lab">${t("size")}</span><p lang="ja" style="font-family:var(--f-read);font-size:${s.size}px;color:var(--ink)">秋の夜長</p><div class="c"><input id="size" type="range" min="15" max="26" value="${s.size}" aria-label="${t("size")}"></div></div>
+  <div class="item"><span class="lab">${t("speed")}</span><p>${t("speedP")}</p><div class="c">${seg("rate",[[0.7,"0.7×"],[0.9,"0.9×"],[1.1,"1.1×"],[1.3,"1.3×"]],s.rate)}</div></div>
+  <div class="item"><span class="lab">${t("voice")}</span><p>${TTS.ok?t("voiceP"):t("noTTS")}</p><div class="c"><select id="voiceSel" class="sel" ${TTS.voices.length?"":"disabled"} aria-label="${t("voice")}"><option value="">${t("auto")}</option>${TTS.voices.map(v=>`<option value="${esc(v.voiceURI)}" ${v.voiceURI===s.voice?"selected":""}>${esc(v.name)}</option>`).join("")}</select></div></div>
+  <div class="item"><span class="lab">${t("autoSay")}</span><p>${t("autoSayP")}</p><div class="c">${seg("autosay",[["1",t("on")],["0",t("off")]],s.autoSay?"1":"0")}</div></div>
   <div class="item"><span class="lab">${t("dir")}</span><p>${t("dirP")}</p><div class="c">${seg("pdir",[["j2z",t("j2z")],["z2j",t("z2j")],["mix",t("mix")]],s.dir)}</div></div>
   <div class="item"><span class="lab">${t("goal")}</span><p>${t("goalP")}</p><div class="c">${seg("goal",[[10,t("cards",10)],[20,t("cards",20)],[40,t("cards",40)]],s.goal)}</div></div>
   <div class="item stack"><span class="lab">${t("data")}</span><p>${t("dataP")}</p><div class="c">
@@ -473,12 +496,38 @@ function viewSet(){
     <div class="iorow"><button class="btn" data-act="import">${t("imp")}</button></div></div></div></div>`;
 }
 function render(){
+  if(TTS.playing&&!(V.view==="read"&&V.art))stopAll();
   document.documentElement.lang=S.set.ui==="ja"?"ja":"zh-Hant";
   document.documentElement.style.setProperty("--read-size",S.set.size+"px");
   tabs();
   $("#app").innerHTML=V.view==="read"?viewRead():V.view==="vocab"?viewVocab():V.view==="prac"?viewPrac():viewSet();
-  if(V.view==="read"&&V.art&&S.set.vert){const r=$("#reader");if(r)r.scrollLeft=r.scrollWidth}
+  if(V.view==="read"&&V.art&&S.set.vert&&!TTS.playing){const r=$("#reader");if(r)r.scrollLeft=r.scrollWidth}
+  if(TTS.playing)hl(TTS.idx);
 }
+
+
+/* ---------- speech ---------- */
+const SPK='<svg class="spk" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor"/><path d="M16.5 8.5a5 5 0 0 1 0 7M19 6a8.5 8.5 0 0 1 0 12" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>';
+const TTS={ok:"speechSynthesis" in window,voices:[],playing:false,paused:false,idx:-1,gen:0};
+function loadVoices(){if(!TTS.ok)return;try{TTS.voices=speechSynthesis.getVoices().filter(v=>/^ja/i.test(v.lang))}catch(e){TTS.voices=[]}}
+if(TTS.ok){loadVoices();try{speechSynthesis.addEventListener("voiceschanged",()=>{loadVoices();if(V.view==="set")render()})}catch(e){}}
+function pickVoice(){return TTS.voices.find(v=>v.voiceURI===S.set.voice)||TTS.voices.find(v=>/ja-JP/i.test(v.lang))||TTS.voices[0]||null}
+function utter(text,rate){const u=new SpeechSynthesisUtterance(text);u.lang="ja-JP";const v=pickVoice();if(v)u.voice=v;u.rate=rate||S.set.rate;return u}
+function say(text){if(!TTS.ok){toast(t("noTTS"));return}if(!text)return;stopAll();if(!TTS.voices.length)loadVoices();if(!TTS.voices.length)toast(t("noVoice"));try{speechSynthesis.speak(utter(text))}catch(e){toast(t("noTTS"))}}
+function hl(i){document.querySelectorAll(".sen.reading").forEach(e=>e.classList.remove("reading"));if(i<0)return;const el=document.querySelector(`.sen[data-i="${i}"]`);if(el){el.classList.add("reading");try{el.scrollIntoView({block:"nearest",inline:"nearest",behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"})}catch(e){}}}
+function playFrom(i){if(!TTS.ok){toast(t("noTTS"));return}stopAll();if(!TTS.voices.length)loadVoices();if(!TTS.voices.length)toast(t("noVoice"));
+  const g=++TTS.gen;TTS.playing=true;TTS.paused=false;
+  const step=k=>{if(g!==TTS.gen)return;if(k>=SENTS.length){TTS.playing=false;TTS.idx=-1;hl(-1);updPlayer();return}
+    if(!SENTS[k].replace(/[「」、。！？\s]/g,"")){step(k+1);return}
+    TTS.idx=k;hl(k);updPlayer();const u=utter(SENTS[k]);u.onend=()=>step(k+1);u.onerror=ev=>{if(g===TTS.gen&&ev.error!=="interrupted"&&ev.error!=="canceled")step(k+1)};
+    try{speechSynthesis.speak(u)}catch(e){stopAll()}};
+  step(i);}
+function stopAll(){TTS.gen++;TTS.playing=false;TTS.paused=false;TTS.idx=-1;try{if(TTS.ok)speechSynthesis.cancel()}catch(e){}hl(-1);updPlayer()}
+function togglePause(){if(!TTS.playing)return;try{if(TTS.paused){speechSynthesis.resume();TTS.paused=false}else{speechSynthesis.pause();TTS.paused=true}}catch(e){}updPlayer()}
+function playerHTML(){const rates=[[0.7,"0.7×"],[0.9,"0.9×"],[1.1,"1.1×"]];
+  return `${TTS.playing?`<button class="btn" data-act="tpause">${SPK}${TTS.paused?t("resume"):t("pause")}</button><button class="btn ghost" data-act="tstop">${t("stop")}</button>`:`<button class="btn primary" data-act="tplay">${SPK}${t("listen")}</button>`}
+  <span class="seg" role="group" aria-label="${t("speed")}">${rates.map(([v,l])=>`<button data-rate="${v}" aria-pressed="${S.set.rate===v}">${l}</button>`).join("")}</span>`}
+function updPlayer(){const p=$("#player");if(p)p.innerHTML=playerHTML()}
 
 /* ---------- sheet ---------- */
 function closeSheet(){$("#layer").innerHTML="";document.querySelectorAll(".an.on").forEach(e=>e.classList.remove("on"))}
@@ -486,9 +535,10 @@ function openGloss(el){
   const a=ARTICLES.find(x=>x.id===el.dataset.a), w=el.dataset.w, r=el.dataset.r, g=a.gloss[w]||{m:""};
   el.classList.add("on");
   $("#layer").innerHTML=`<div class="scrim" data-act="close"></div><div class="sheet" role="dialog" aria-label="${esc(w)}"><div class="wrap">
-  <div><span class="w" lang="ja">${esc(w)}</span>${r!==w?`<span class="r" lang="ja">${esc(r)}</span>`:""}</div>
+  <div class="whead"><span class="w" lang="ja">${esc(w)}</span>${r!==w?`<span class="r" lang="ja">${esc(r)}</span>`:""}<button class="iconbtn" data-say="${esc(r)}" aria-label="${t("say")}">${SPK}</button></div>
   <div class="m">${esc(g.m)}</div>${g.n?`<div class="n">${esc(g.n)}</div>`:""}
   <div class="ex" lang="ja">${esc(el.dataset.s)}</div>
+  <div class="row left"><button class="btn ghost sm" data-say="${esc(SENTS[+el.dataset.i]||el.dataset.s)}">${SPK}${t("sayLine")}</button><button class="btn ghost sm" data-from="${el.dataset.i}">${t("fromHere")}</button></div>
   <div class="row"><button class="btn ghost" data-act="close">${t("cancel")}</button>
   <button class="btn ${has(w)?"ghost":"primary"}" ${has(w)?"disabled":""} data-act="savegloss" data-w="${esc(w)}" data-r="${esc(r)}" data-a="${a.id}" data-s="${esc(el.dataset.s)}">${has(w)?t("added"):t("add")}</button></div></div></div>`;
 }
@@ -506,12 +556,16 @@ function addCard(o){S.cards.push(Object.assign({id:uid(),r:"",ex:"",note:"",src:
 
 /* ---------- events ---------- */
 document.addEventListener("click",e=>{
-  const b=e.target.closest("[data-tab],[data-art],[data-act],[data-fg],[data-vert],[data-ui],[data-pdir],[data-goal],[data-lvl],[data-del],[data-ans],.an,#card");
+  const b=e.target.closest("[data-say],[data-from],[data-rate],[data-voice],[data-autosay],[data-tab],[data-art],[data-act],[data-fg],[data-vert],[data-ui],[data-pdir],[data-goal],[data-lvl],[data-del],[data-ans],.an,#card");
   if(!b)return; const d=b.dataset;
+  if(d.say!==undefined){e.stopPropagation();say(d.say);return}
+  if(d.from!==undefined){closeSheet();playFrom(+d.from);return}
+  if(d.rate){S.set.rate=+d.rate;persist();if(V.view==="set")render();else updPlayer();return}
+  if(d.autosay){S.set.autoSay=d.autosay==="1";persist();render();return}
   if(d.tab){V.view=d.tab;V.art=null;V.sess=null;V.confirm=null;closeSheet();render();scrollTo(0,0);return}
   if(d.art){V.art=d.art;render();scrollTo(0,0);return}
   if(b.classList.contains("an")){openGloss(b);return}
-  if(b.id==="card"&&!V.flip){V.flip=true;render();return}
+  if(b.id==="card"&&!V.flip){V.flip=true;render();if(S.set.autoSay&&V.sess){const c=S.cards.find(x=>x.id===V.sess.q[V.sess.i]);if(c)say(c.r||c.w)}return}
   if(d.lvl){S.set.lvl=d.lvl;persist();render();return}
   if(d.fg){S.set.fg=d.fg;persist();render();return}
   if(d.vert!==undefined){S.set.vert=d.vert==="1";persist();render();return}
@@ -525,6 +579,9 @@ document.addEventListener("click",e=>{
     else{c.box=Math.min(c.box+1,IV.length-1);c.due=addDays(td,IV[c.box])}
     S.log[td]=(S.log[td]||0)+1;s.n++;s.i++;V.flip=false;persist();render();return}
   switch(d.act){
+    case "tplay":playFrom(0);break;
+    case "tpause":togglePause();break;
+    case "tstop":stopAll();break;
     case "back":V.art=null;render();scrollTo(0,0);break;
     case "markread":S.read[V.art]=!S.read[V.art];persist();render();break;
     case "close":closeSheet();break;
@@ -544,6 +601,7 @@ document.addEventListener("keydown",e=>{
   if(e.key==="Escape")closeSheet();
   if((e.key==="Enter"||e.key===" ")&&e.target.classList&&(e.target.classList.contains("an")||e.target.id==="card")){e.preventDefault();e.target.click()}
 });
+document.addEventListener("change",e=>{if(e.target.id==="voiceSel"){S.set.voice=e.target.value;persist();say("こんにちは。栞へようこそ。")}});
 document.addEventListener("input",e=>{
   if(e.target.id==="q"&&!e.isComposing)doSearch(e.target);
   if(e.target.id==="size"){S.set.size=+e.target.value;persist();document.documentElement.style.setProperty("--read-size",S.set.size+"px");const p=e.target.closest(".item").querySelector("p");p.style.fontSize=S.set.size+"px"}
