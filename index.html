@@ -1,0 +1,571 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Shiori 栞</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;700&family=Noto+Serif+JP:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap">
+<style>
+:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}[hidden]{display:none!important}
+/* Layout: one narrow column like a pocket notebook; sticky tab strip; bottom sheet for glosses. Ink-indigo on cool paper, celadon (青磁) as the single accent. */
+:root{
+  --paper:#f2f4f3; --surface:#ffffff; --ink:#1c2930; --muted:#5d6a70; --line:#d5dbda;
+  --accent:#2c6b64; --accent-soft:#dbeae6; --on-accent:#ffffff;
+  --again:#a8473a; --hard:#9a6f17; --good:#2c6b64; --shade:rgba(20,30,34,.32);
+  --f-display:"Zen Old Mincho","Noto Serif JP","Noto Serif TC",serif;
+  --f-read:"Noto Serif JP","Hiragino Mincho ProN","Yu Mincho",serif;
+  --f-ui:"Noto Sans TC","PingFang TC","Microsoft JhengHei",system-ui,sans-serif;
+  --read-size:19px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#12181b; --surface:#1a2226; --ink:#e3eaeb; --muted:#93a1a6; --line:#2b373b;
+  --accent:#7ebdb2; --accent-soft:#1f3735; --on-accent:#0f1a19;
+  --again:#e08a7c; --hard:#d6ad5c; --good:#7ebdb2; --shade:rgba(0,0,0,.55); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#12181b; --surface:#1a2226; --ink:#e3eaeb; --muted:#93a1a6; --line:#2b373b;
+  --accent:#7ebdb2; --accent-soft:#1f3735; --on-accent:#0f1a19;
+  --again:#e08a7c; --hard:#d6ad5c; --good:#7ebdb2; --shade:rgba(0,0,0,.55); color-scheme:dark}
+html[lang="ja"]{--f-ui:"Noto Sans JP","Hiragino Sans",system-ui,sans-serif}
+
+body{background:var(--paper);color:var(--ink);font-family:var(--f-ui);font-size:15px;line-height:1.6}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--paper)}
+.wrap{max-width:720px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+button,input,select,textarea{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:baseline;justify-content:space-between;gap:12px;padding-block:16px 6px}
+.brand h1{font-family:var(--f-display);font-weight:700;font-size:26px;margin:0;letter-spacing:.02em}
+.brand h1 span{color:var(--accent)}
+.brand small{color:var(--muted);font-size:12px;letter-spacing:.08em}
+nav.tabs{display:flex;gap:4px;overflow-x:auto}
+nav.tabs button{background:none;border:0;padding:10px 12px 11px;color:var(--muted);font-weight:500;border-bottom:2px solid transparent;white-space:nowrap}
+nav.tabs button[aria-current="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+nav.tabs .badge{display:inline-block;min-width:18px;padding:0 5px;margin-left:4px;border-radius:9px;background:var(--accent);color:var(--on-accent);font-size:11px;line-height:18px;text-align:center;font-variant-numeric:tabular-nums}
+
+main{padding-block:20px 120px}
+.eyebrow{font-size:12px;letter-spacing:.1em;color:var(--muted);text-transform:uppercase;margin:0 0 6px}
+h2{font-family:var(--f-display);font-size:22px;margin:0 0 4px;text-wrap:balance}
+.lede{color:var(--muted);margin:0 0 18px;font-size:14px}
+
+/* reading list */
+.alist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+.alist li{border-top:1px solid var(--line)}
+.alist li:last-child{border-bottom:1px solid var(--line)}
+.alist button{display:grid;grid-template-columns:1fr auto;gap:2px 12px;width:100%;text-align:left;background:none;border:0;padding:16px 4px}
+.alist .t{font-family:var(--f-display);font-size:19px;min-width:0}
+.alist .s{grid-column:1;color:var(--muted);font-size:13px}
+.alist .lv{grid-row:1/3;grid-column:2;align-self:center}
+.chip{display:inline-block;font-size:11px;padding:2px 8px;border-radius:999px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.chip.k-adv{border-color:var(--accent);color:var(--accent)}
+.alist .done{color:var(--accent);font-size:12px}
+
+/* reader */
+.back{background:none;border:0;color:var(--accent);padding:0;margin-bottom:14px;font-weight:500}
+.rhead{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:6px}
+.reader-title{font-family:var(--f-display);font-size:28px;line-height:1.35;margin:4px 0 4px;text-wrap:balance}
+.reader-sub{color:var(--muted);margin:0 0 18px}
+.ctrl{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}
+.seg{display:inline-flex;flex-wrap:wrap;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{background:var(--surface);border:0;padding:5px 10px;font-size:13px;color:var(--muted)}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button[aria-pressed="true"]{background:var(--accent-soft);color:var(--ink);font-weight:500}
+#reader{font-family:var(--f-read);font-size:var(--read-size);line-height:2.15;letter-spacing:.02em}
+#reader p{margin:0 0 1.1em}
+#reader.vert{writing-mode:vertical-rl;height:min(70vh,560px);overflow-x:auto;overflow-y:hidden;line-height:2;padding:4px 2px;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+#reader.vert p{margin:0 0 0 1em}
+rt{font-size:.5em;color:var(--muted);font-family:var(--f-ui)}
+.fg-none rt{visibility:hidden}
+.fg-annot ruby:not(.an) rt{visibility:hidden}
+.an{cursor:pointer;text-decoration:underline dotted var(--accent);text-underline-offset:.32em;text-decoration-thickness:1.5px;border-radius:3px}
+.an.saved{text-decoration-style:solid}
+.an:hover,.an.on{background:var(--accent-soft)}
+.letter{white-space:pre-line}
+.tip{font-size:13px;color:var(--muted);border-left:2px solid var(--line);padding-left:10px;margin:22px 0 0}
+.mark-done{margin-top:18px}
+
+/* vocab */
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}
+.toolbar input{flex:1 1 180px;min-width:0;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+.btn{border:1px solid var(--line);background:var(--surface);padding:8px 14px;border-radius:8px;font-weight:500}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
+.btn.ghost{background:none}
+.btn.danger{color:var(--again);border-color:var(--again)}
+.vlist{list-style:none;margin:0;padding:0}
+.vlist li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 12px;padding:12px 2px;border-top:1px solid var(--line)}
+.vw{font-family:var(--f-read);font-size:20px}
+.vr{font-size:13px;color:var(--muted);margin-left:8px;font-family:var(--f-ui)}
+.vm{grid-column:1;min-width:0}
+.vx{grid-column:1/3;font-family:var(--f-read);color:var(--muted);font-size:14px;min-width:0}
+.vside{grid-row:1/3;grid-column:2;display:flex;flex-direction:column;align-items:flex-end;gap:6px}
+.boxpip{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+.linkbtn{background:none;border:0;padding:0;color:var(--muted);font-size:12px;text-decoration:underline}
+.linkbtn.warn{color:var(--again)}
+form.add{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:16px;border:1px solid var(--line);border-radius:12px;background:var(--surface);margin-bottom:18px}
+form.add label,.sheet label{display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--muted);min-width:0}
+form.add .full{grid-column:1/-1}
+form.add input,form.add textarea,.sheet input,.sheet textarea{padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--paper);font-size:15px;color:var(--ink)}
+form.add .row{grid-column:1/-1;display:flex;gap:8px;justify-content:flex-end}
+@media (max-width:480px){form.add{grid-template-columns:1fr}}
+.empty{color:var(--muted);padding:24px 0;text-align:center}
+
+/* practice */
+.stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-bottom:20px}
+.stat{padding:12px;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+.stat b{display:block;font-size:24px;font-variant-numeric:tabular-nums;font-weight:500}
+.stat span{font-size:12px;color:var(--muted)}
+.prog{height:4px;background:var(--line);border-radius:2px;overflow:hidden;margin-top:8px}
+.prog i{display:block;height:100%;background:var(--accent)}
+.boxes{display:flex;flex-direction:column;gap:6px;margin:4px 0 22px}
+.boxes .r{display:grid;grid-template-columns:64px minmax(0,1fr) 32px;gap:10px;align-items:center;font-size:12px;color:var(--muted)}
+.boxes .bar{height:8px;background:var(--accent-soft);border-radius:4px;overflow:hidden}
+.boxes .bar i{display:block;height:100%;background:var(--accent)}
+.boxes .n{text-align:right;font-variant-numeric:tabular-nums}
+.card{min-height:280px;border:1px solid var(--line);border-radius:16px;background:var(--surface);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:28px 20px;gap:10px;cursor:pointer;user-select:none}
+.card .big{font-family:var(--f-read);font-size:40px;line-height:1.3}
+.card .meaning{font-size:20px}
+.card .reading{color:var(--accent);font-size:16px}
+.card .ex{font-family:var(--f-read);color:var(--muted);font-size:15px;max-width:34em}
+.card .hint{color:var(--muted);font-size:12px}
+.card.flip{animation:fade .25s ease}
+@keyframes fade{from{opacity:.4}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.card.flip{animation:none}}
+.answers{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:12px}
+.answers button{padding:12px 6px;border-radius:10px;border:1px solid var(--line);background:var(--surface);font-weight:500}
+.answers .a0{color:var(--again)} .answers .a1{color:var(--hard)} .answers .a2{color:var(--good);border-color:var(--good)}
+.answers small{display:block;font-weight:400;font-size:11px;color:var(--muted)}
+.qcount{text-align:center;color:var(--muted);font-size:12px;margin-top:10px;font-variant-numeric:tabular-nums}
+
+/* settings */
+.set{display:flex;flex-direction:column}
+.set .item{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 16px;align-items:center;padding:14px 0;border-top:1px solid var(--line)}
+.set .item p{margin:0;font-size:12px;color:var(--muted);grid-column:1}
+.set .item .lab{font-weight:500}
+.set .item .c{grid-row:1/3;grid-column:2}
+.set .stack{grid-template-columns:1fr}
+.set .stack .c{grid-row:auto;grid-column:1}
+.set input[type=range]{width:140px;accent-color:var(--accent)}
+textarea.io{width:100%;min-height:110px;box-sizing:border-box;padding:10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);font-family:ui-monospace,Menlo,monospace;font-size:12px}
+.iorow{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+
+/* sheet & floating */
+.scrim{position:fixed;inset:0;background:var(--shade);z-index:20}
+.sheet{position:fixed;left:0;right:0;bottom:0;z-index:21;background:var(--surface);border-top:1px solid var(--line);border-radius:16px 16px 0 0;padding-bottom:calc(18px + env(safe-area-inset-bottom,0px));box-shadow:0 -8px 30px var(--shade);max-height:80vh;overflow-y:auto}
+.sheet .wrap{padding-block:18px 0;display:flex;flex-direction:column;gap:10px}
+.sheet .w{font-family:var(--f-read);font-size:30px;line-height:1.3}
+.sheet .r{color:var(--accent);margin-left:10px;font-size:16px;font-family:var(--f-ui)}
+.sheet .m{font-size:17px}
+.sheet .n{font-size:13px;color:var(--muted)}
+.sheet .ex{font-family:var(--f-read);font-size:15px;color:var(--muted);border-left:2px solid var(--accent-soft);padding-left:10px}
+.sheet .row{display:flex;gap:8px;justify-content:flex-end;flex-wrap:wrap}
+.sheet .grid2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.selbtn{position:fixed;z-index:15;left:50%;transform:translateX(-50%);bottom:calc(20px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--paper);border:0;border-radius:999px;padding:11px 18px;font-weight:500;box-shadow:0 6px 20px var(--shade);max-width:calc(100% - 32px);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.toast{position:fixed;z-index:30;left:50%;transform:translateX(-50%);top:calc(14px + env(safe-area-inset-top,0px));background:var(--ink);color:var(--paper);padding:8px 16px;border-radius:999px;font-size:13px}
+</style>
+</head>
+<body>
+
+<header class="top"><div class="wrap">
+  <div class="brand"><h1>栞 <span>Shiori</span></h1><small id="brandSub"></small></div>
+  <nav class="tabs" id="tabs"></nav>
+</div></header>
+<main class="wrap" id="app"></main>
+<div id="layer"></div>
+
+<script>
+/* ---------- content ---------- */
+const ARTICLES=[
+{id:"sento",lv:"n3",genre:{"zh-Hant":"日常","ja":"くらし"},title:"はじめての銭湯",sub:"第一次去澡堂",
+body:`近所に古い[[銭湯|せんとう]]がある。先週、はじめて行ってみた。入り口で[[料金|りょうきん]]を払うと、おばあさんが「タオルは持ってる？」と聞いてくれた。
+
+お湯はとても熱かったけれど、[[壁|かべ]]に{描|か}かれた富士山の絵を見ながら入ると、[[気持ち|きもち]]がよかった。となりのおじいさんが「どこから来たの？」と[[話しかけて|はなしかけて]]くれて、台湾の話を少しした。
+
+帰り道、体が[[ぽかぽか|ぽかぽか]]していた。また来週も行こうと思う。`,
+gloss:{"銭湯":{m:"公共澡堂"},"料金":{m:"費用、價錢"},"壁":{m:"牆壁"},"気持ち":{m:"心情、感覺",n:"「気持ちがいい」＝很舒服。"},"話しかけて":{m:"搭話（原形：話しかける）"},"ぽかぽか":{m:"暖呼呼的"}}},
+
+{id:"oden",lv:"n3",genre:{"zh-Hant":"飲食","ja":"たべもの"},title:"コンビニのおでん",sub:"便利商店的關東煮",
+body:`日本のコンビニでは、秋になると[[おでん|おでん]]を売りはじめる。レジの{横|よこ}に大きな[[鍋|なべ]]があって、自分で好きな[[具|ぐ]]を選ぶ。
+
+私のお気に入りは、[[大根|だいこん]]と[[卵|たまご]]だ。台湾のコンビニにも「関東煮」があるけれど、[[味|あじ]]は少し違う。日本のほうが[[だし|だし]]の味が強い気がする。
+
+寒い日の帰り道に食べるおでんは、小さな[[ご褒美|ごほうび]]だ。`,
+gloss:{"おでん":{m:"關東煮"},"鍋":{m:"鍋子"},"具":{m:"料、配料"},"大根":{m:"白蘿蔔"},"卵":{m:"蛋"},"味":{m:"味道"},"だし":{m:"高湯（柴魚、昆布熬的湯底）"},"ご褒美":{m:"獎勵、犒賞自己"}}},
+{id:"kanji",lv:"n2",genre:{"zh-Hant":"專欄","ja":"コラム"},title:"同じ漢字、違う意味",sub:"同一個漢字，不同的意思",
+body:`台湾から日本に来たばかりの頃、大学の[[掲示板|けいじばん]]に「{本日|ほんじつ}の授業は[[休講|きゅうこう]]」と書いてあって、一瞬だけ戸惑った。漢字を見れば意味はだいたい分かる。けれど、分かったつもりになるのがいちばん危ない。
+
+友人に「この前は[[迷惑|めいわく]]をかけてごめんね」と言われたとき、私は「迷惑」を中国語の「困惑」に近い言葉だと思い込んでいた。日本語の「迷惑」は、相手に面倒をかけることだ。[[勘違い|かんちがい]]に気づいたのは、ずいぶん後になってからだった。
+
+漢字という[[共通点|きょうつうてん]]は、[[近道|ちかみち]]であると同時に[[落とし穴|おとしあな]]でもある。{似|に}ている言葉ほど、一度立ち止まって辞書を引く。それが、二つの言語のあいだで暮らす人の、ささやかな[[知恵|ちえ]]なのかもしれない。`,
+gloss:{"掲示板":{m:"公告欄、布告欄"},"休講":{m:"停課（課程臨時取消）"},"迷惑":{m:"給人添麻煩；困擾",n:"中文「迷惑」是困惑不解，日文是「麻煩到別人」。"},"勘違い":{m:"誤會、搞錯"},"共通点":{m:"共同點"},"近道":{m:"捷徑"},"落とし穴":{m:"陷阱"},"知恵":{m:"智慧、生活中的巧思"}}},
+
+{id:"yonaga",lv:"n1",genre:{"zh-Hant":"季節的詞","ja":"季節のことば"},title:"秋の夜長",sub:"秋夜漫長",
+body:`[[立秋|りっしゅう]]を過ぎても、東京の暑さはなかなか{引|ひ}かない。それでも十月に入ると、{日|ひ}が{暮|く}れるのがはっきりと早くなる。俳句の世界では、この{頃|ころ}を「[[夜長|よなが]]」と呼ぶ。夜が長いことを[[嘆く|なげく]]のではなく、むしろ[[味わう|あじわう]]ための言葉だ。
+
+[[虫の音|むしのね]]を聞きながら本を読む。温かいほうじ茶を{淹|い}れる。誰かに手紙を書く。そんな[[ささやかな|ささやかな]]時間こそが、秋という季節の[[醍醐味|だいごみ]]なのだろう。
+
+ちなみに「[[灯火親しむ|とうかしたしむ]]」という[[季語|きご]]もある。{灯|あか}りの下で読書を楽しむのにふさわしい季節、という意味だ。今夜は少しだけ早く[[家路|いえじ]]につこうか。`,
+gloss:{"立秋":{m:"立秋（節氣）"},"夜長":{m:"秋夜漫長",n:"秋季的季語。"},"嘆く":{m:"嘆息、悲嘆"},"味わう":{m:"品味、細細體會"},"虫の音":{m:"蟲鳴聲"},"ささやかな":{m:"小小的、不起眼卻珍貴的"},"醍醐味":{m:"真正的樂趣、精髓"},"灯火親しむ":{m:"適合燈下讀書的時節",n:"秋季季語，典出韓愈〈符讀書城南〉「燈火稍可親」。"},"季語":{m:"季語（俳句中表示季節的詞）"},"家路":{m:"回家的路"}}},
+
+{id:"mail",lv:"n2",genre:{"zh-Hant":"商務書信","ja":"ビジネスメール"},title:"お見積書送付の件",sub:"寄送報價單",letter:true,
+body:`株式会社みどり書房
+営業部　佐藤様
+
+いつも大変お世話になっております。台北デザイン事務所の林でございます。
+先日は[[お忙しいところ|おいそがしいところ]]、打ち合わせのお時間をいただき、{誠|まこと}にありがとうございました。
+
+ご依頼いただいておりました[[お見積書|おみつもりしょ]]を[[添付|てんぷ]]にてお送りいたします。[[ご査収|ごさしゅう]]のほど、よろしくお願い申し上げます。
+
+なお、[[納期|のうき]]につきましては、正式なご[[発注|はっちゅう]]をいただいてから約三週間を予定しております。ご不明な点がございましたら、[[お気軽に|おきがるに]]お[[申し付け|もうしつけ]]ください。
+
+引き続きどうぞよろしくお願いいたします。`,
+gloss:{"お忙しいところ":{m:"在您百忙之中"},"お見積書":{m:"報價單"},"添付":{m:"附件、附上"},"ご査収":{m:"請查收",n:"寄送文件時的固定商務用語。"},"納期":{m:"交期、交貨期限"},"発注":{m:"下訂單"},"お気軽に":{m:"請別客氣、隨時"},"申し付け":{m:"吩咐、交代",n:"「お申し付けください」＝請儘管吩咐。"}}},
+
+{id:"shoten",lv:"n1",genre:{"zh-Hant":"新聞","ja":"ニュース"},title:"町の本屋が消えていく",sub:"街角書店正在消失",
+body:`全国の書店の数は、この二十年あまりで[[半減|はんげん]]したと言われる。[[ネット通販|ネットつうはん]]や電子書籍の[[普及|ふきゅう]]に加え、人口減少も[[追い打ち|おいうち]]をかけた。書店が一軒もない自治体も、もはや[[珍しく|めずらしく]]ない。
+
+一方で、新しい形の本屋も生まれている。店主が選んだ本だけを並べる小さな「[[独立系書店|どくりつけいしょてん]]」や、本棚の{一区画|ひとくかく}を個人に貸し出す「[[シェア型書店|シェアがたしょてん]]」だ。売り上げだけを見れば[[採算|さいさん]]は厳しい。それでも、人と本が[[偶然|ぐうぜん]]出会える場所を残したいという思いが、各地で静かに広がっている。`,
+gloss:{"半減":{m:"減半"},"ネット通販":{m:"網購"},"普及":{m:"普及"},"追い打ち":{m:"雪上加霜",n:"「追い打ちをかける」＝落井下石、雪上加霜。"},"珍しく":{m:"罕見、稀奇（原形：珍しい）"},"独立系書店":{m:"獨立書店"},"シェア型書店":{m:"共享書架型書店",n:"個人承租一格書櫃，擺自己選的書來賣。"},"採算":{m:"收支平衡、划不划算"},"偶然":{m:"偶然"}}},
+
+{id:"shuden",lv:"n2",genre:{"zh-Hant":"短篇","ja":"掌編"},title:"終電のあと",sub:"末班車之後",
+body:`[[終電|しゅうでん]]を[[逃した|のがした]]のは、これで二度目だった。
+
+駅前のロータリーには、タクシーを待つ人の列が[[ぼんやり|ぼんやり]]と{伸|の}びている。私はその列には{並|なら}ばず、コンビニで温かい缶コーヒーを買って、[[歩道橋|ほどうきょう]]の上に立った。
+
+{眼下|がんか}を流れる車の{光|ひかり}は、台北の夜とどこか似ていた。違うのは、[[屋台|やたい]]の匂いがしないことくらいだ。
+
+「帰りたい」と思った。けれど、どこへ帰りたいのか、自分でもよく分からなかった。缶コーヒーが[[ぬるく|ぬるく]]なるまで、私はそこに[[立ち尽くして|たちつくして]]いた。`,
+gloss:{"終電":{m:"末班電車"},"逃した":{m:"錯過（原形：逃す）"},"ぼんやり":{m:"模模糊糊、朦朧"},"歩道橋":{m:"天橋（行人陸橋）"},"屋台":{m:"路邊攤、攤販"},"ぬるく":{m:"變得溫溫的、不冷不熱（原形：ぬるい）"},"立ち尽くして":{m:"呆立良久（原形：立ち尽くす）"}}},
+{id:"kuki",lv:"pro",genre:{"zh-Hant":"評論","ja":"評論"},title:"「空気を読む」ということ",sub:"所謂「察言觀色」",
+body:`日本で暮らしていると、「空気を読む」という言葉に何度も出会う。会議で誰も反対しないのは、全員が賛成しているからではない。反対を口にすることで場が[[気まずく|きまずく]]なるのを避けているだけ、ということも少なくない。
+
+もちろん、相手の気持ちを[[察する|さっする]]力は、[[円滑|えんかつ]]な人間関係に欠かせない。しかしそれが行き過ぎると、[[同調圧力|どうちょうあつりょく]]となって個人の判断を[[縛る|しばる]]。上の立場の人の{意向|いこう}を先回りして[[忖度|そんたく]]するうちに、本来の目的が見失われ、手続きだけが[[形骸化|けいがいか]]していく。
+
+[[逆説的|ぎゃくせつてき]]だが、本当に空気を読める人とは、あえて空気を読まない勇気を持つ人なのかもしれない。{沈黙|ちんもく}が[[暗黙の了解|あんもくのりょうかい]]と[[見なされる|みなされる]]場で、「本当にそれでいいのでしょうか」と問うこと。その一言の[[重み|おもみ]]を、[[一概に|いちがいに]][[軽んじる|かろんじる]]べきではないだろう。`,
+gloss:{"気まずく":{m:"尷尬（原形：気まずい）"},"察する":{m:"體察、揣測（對方心意）"},"円滑":{m:"順暢、圓融"},"同調圧力":{m:"從眾壓力、同儕壓力"},"縛る":{m:"束縛、綁住"},"忖度":{m:"揣摩上意",n:"原意是推測他人心思，近年多指「看上面臉色主動行事」。"},"形骸化":{m:"流於形式、徒具形式"},"逆説的":{m:"弔詭地、看似矛盾地"},"暗黙の了解":{m:"心照不宣的默契"},"見なされる":{m:"被視為"},"重み":{m:"分量、份量"},"一概に":{m:"一概",n:"多接否定：一概に～とは言えない。"},"軽んじる":{m:"輕視"}}},
+
+{id:"shasetsu",lv:"pro",genre:{"zh-Hant":"社論","ja":"社説"},title:"働き方改革の陰で",sub:"「工作方式改革」的陰影",
+body:`長時間労働の[[是正|ぜせい]]を[[掲げた|かかげた]]「働き方改革」が始まって久しい。残業時間には上限が設けられ、[[有給休暇|ゆうきゅうきゅうか]]の取得も[[義務付け|ぎむづけ]]られた。数字の上では、一定の成果が上がったと言えよう。
+
+だが、現場の実感は必ずしもそうではない。仕事の量が変わらないまま時間だけが[[削られ|けずられ]]、持ち帰り残業や[[サービス残業|サービスざんぎょう]]で[[帳尻を合わせる|ちょうじりをあわせる]]例も後を絶たない。管理職に負担が[[しわ寄せ|しわよせ]]される[[弊害|へいがい]]も指摘されている。
+
+制度を整えるだけでは[[看板倒れ|かんばんだおれ]]に終わりかねない。業務そのものを見直す[[抜本的|ばっぽんてき]]な取り組みと、それを[[検証|けんしょう]]する仕組みこそが[[喫緊|きっきん]]の課題である。`,
+gloss:{"是正":{m:"矯正、導正"},"掲げた":{m:"標舉（口號、目標）（原形：掲げる）"},"有給休暇":{m:"帶薪休假"},"義務付け":{m:"規定為義務（義務付ける）"},"削られ":{m:"被削減（原形：削る）"},"サービス残業":{m:"無償加班"},"帳尻を合わせる":{m:"把帳湊平；勉強交差"},"しわ寄せ":{m:"負擔被轉嫁（到弱勢一方）"},"弊害":{m:"弊端"},"看板倒れ":{m:"名不副實、徒有其名"},"抜本的":{m:"根本性的、徹底的"},"検証":{m:"驗證、檢討"},"喫緊":{m:"迫切、當務之急"}}},
+
+{id:"kansai",lv:"pro",genre:{"zh-Hant":"方言","ja":"方言"},title:"なんぼしたん？",sub:"關西腔對話",letter:true,
+body:`「あんた、それ[[なんぼ|なんぼ]]したん？」
+「三千円やったかな」
+「[[高っ|たかっ]]！ そんなん、うちの近所[[やったら|やったら]]半額で売ってるで」
+「[[ほんまに|ほんまに]]？ [[ほな|ほな]]今度連れてってや」
+「ええよ。[[せやけど|せやけど]]、あそこの[[おっちゃん|おっちゃん]]話長いから[[覚悟しときや|かくごしときや]]」`,
+gloss:{"なんぼ":{m:"多少（錢）",n:"標準語：いくら。「～したん？」＝「～したの？」"},"高っ":{m:"好貴！",n:"形容詞去掉「い」加促音，口語感嘆。"},"やったら":{m:"如果是…的話",n:"標準語：だったら。關西腔「だ」→「や」。"},"ほんまに":{m:"真的嗎",n:"標準語：本当に。"},"ほな":{m:"那麼",n:"標準語：それなら。"},"せやけど":{m:"可是、不過",n:"標準語：そうだけど。"},"おっちゃん":{m:"大叔",n:"標準語：おじさん。"},"覚悟しときや":{m:"要有心理準備喔",n:"＝覚悟しておきなさい。「～とき」＝「～ておき」。"}}},
+
+{id:"kusamakura",lv:"pro",genre:{"zh-Hant":"文學原文","ja":"文学（原文）"},title:"草枕（冒頭）",sub:"夏目漱石《草枕》開頭（1906）",
+body:`[[山路|やまみち]]を登りながら、こう考えた。
+
+[[智に働けば角が立つ|ちにはたらけばかどがたつ]]。[[情に棹させば|じょうにさおさせば]]流される。[[意地を通せば|いじをとおせば]][[窮屈|きゅうくつ]]だ。[[とかくに|とかくに]]人の世は住みにくい。
+
+住みにくさが[[高じる|こうじる]]と、安い所へ引き越したくなる。どこへ越しても住みにくいと[[悟った|さとった]]時、詩が{生|うま}れて、{画|え}が{出来|でき}る。`,
+gloss:{"山路":{m:"山路"},"智に働けば角が立つ":{m:"太講理，就會與人起衝突"},"情に棹させば":{m:"太順著感情走（就會被沖走）",n:"「棹さす」原意是撐篙順流而行；現代常被誤用成「逆流」。"},"意地を通せば":{m:"堅持己見的話"},"窮屈":{m:"拘束、侷促、不自在"},"とかくに":{m:"總之、反正（古風）"},"高じる":{m:"加劇、越來越嚴重"},"悟った":{m:"領悟（原形：悟る）"}}},
+
+{id:"kumo",lv:"n1",genre:{"zh-Hant":"文學原文","ja":"文学（原文）"},title:"蜘蛛の糸（冒頭）",sub:"芥川龍之介《蜘蛛之絲》開頭（1918）",
+body:`ある日の事でございます。[[御釈迦様|おしゃかさま]]は[[極楽|ごくらく]]の[[蓮池|はすいけ]]のふちを、独りで[[ぶらぶら|ぶらぶら]][[御歩きになっていらっしゃいました|おあるきになっていらっしゃいました]]。
+
+池の中に咲いている{蓮|はす}の花は、みんな{玉|たま}のようにまっ白で、そのまん中にある金色の[[蕊|ずい]]からは、[[何とも云えない|なんともいえない]]好い{匂|におい}が、[[絶間なく|たえまなく]]あたりへ[[溢れて|あふれて]][[居ります|おります]]。極楽は{丁度|ちょうど}朝なのでございましょう。`,
+gloss:{"御釈迦様":{m:"釋迦牟尼佛"},"極楽":{m:"極樂世界"},"蓮池":{m:"蓮花池"},"ぶらぶら":{m:"悠閒地散步"},"御歩きになっていらっしゃいました":{m:"（佛祖）正在散步",n:"「お～になる」加「いらっしゃる」的雙重尊敬語，是說書人口吻。"},"蕊":{m:"花蕊"},"何とも云えない":{m:"難以言喻",n:"「云う」是「言う」的舊寫法。"},"絶間なく":{m:"不間斷地"},"溢れて":{m:"滿溢（原形：溢れる）"},"居ります":{m:"＝おります（いる的謙讓／鄭重語）"}}},
+{id:"makura",lv:"x",genre:{"zh-Hant":"古典","ja":"古典"},title:"枕草子・秋は夕暮れ",sub:"清少納言《枕草子》第一段（秋）",
+body:`秋は[[夕暮れ|ゆうぐれ]]。夕日のさして[[山の端|やまのは]][[いと|いと]][[近うなりたる|ちこうなりたる]]に、{烏|からす}の[[寝どころ|ねどころ]]へ行くとて、三つ四つ、二つ三つなど[[飛び急ぐ|とびいそぐ]]さへ[[あはれなり|あはれなり]]。[[まいて|まいて]][[雁|かり]]などの[[連ねたる|つらねたる]]が、いと小さく見ゆるは、いと[[をかし|をかし]]。
+
+[[日入り果てて|ひいりはてて]]、風の音、虫の音など、はた[[言ふべきにあらず|いうべきにあらず]]。`,
+gloss:{"夕暮れ":{m:"黃昏、傍晚"},"山の端":{m:"山稜線"},"いと":{m:"非常、很（古語）"},"近うなりたる":{m:"變近了",n:"現代語：近くなった。"},"寝どころ":{m:"歸巢處、睡覺的地方"},"飛び急ぐ":{m:"急急飛去"},"あはれなり":{m:"令人動容、深有感觸（古語）",n:"「さへ」＝連…都。"},"まいて":{m:"更何況",n:"現代語：まして。"},"雁":{m:"雁"},"連ねたる":{m:"排成一列的"},"をかし":{m:"有趣、雅致（古語）",n:"與「あはれ」並列為平安文學兩大美感。"},"日入り果てて":{m:"太陽完全落下之後"},"言ふべきにあらず":{m:"無法言喻",n:"「はた」＝更是、又。"}}}
+];
+const SEED=[
+["勉強","べんきょう","學習、讀書","中文「勉強」是不情願地做；日文是唸書。"],
+["手紙","てがみ","信、書信","不是衛生紙。"],
+["大丈夫","だいじょうぶ","沒問題、不要緊",""],
+["留守","るす","不在家、外出",""],
+["油断","ゆだん","疏忽大意","油断大敵＝大意失荊州。"],
+["工夫","くふう","下功夫、巧思","中文「工夫」偏指時間或功夫。"],
+["新聞","しんぶん","報紙","中文的新聞是ニュース。"],
+["床","ゆか","地板","中文的床是ベッド。"],
+["汽車","きしゃ","火車（蒸汽列車）","中文的汽車是車／自動車。"],
+["丈夫","じょうぶ","結實、耐用；健康","中文「丈夫」是先生、配偶。"],
+["結束","けっそく","團結","中文「結束」是終わる。"],
+["用意","ようい","準備","中文「用意」是意圖。"]
+];
+
+/* ---------- i18n ---------- */
+const I18N={
+"zh-Hant":{sub:"日本語 · 繁體中文",tRead:"閱讀",tVocab:"單字本",tPrac:"練習",tSet:"設定",
+readEy:"閱讀材料",readH:"今天讀一篇",readLede:"點有底線的詞看釋義；選取任何文字，可以直接加入單字本。",
+lv:{all:"全部",n3:"N3 初中級",n2:"N2 中上級",n1:"N1 上級",pro:"上級＋ 母語者程度",x:"古典 超上級"},lvl:"閱讀程度",lvlP:"列表只顯示這個程度的文章。",lvlN:n=>`${n} 篇`,noArt:"這個程度還沒有文章。",doneMark:"已讀",back:"← 回到列表",
+fg:"振假名",fgAll:"全部",fgAnnot:"只標註詞",fgNone:"隱藏",dirLab:"排版",hor:"橫排",ver:"直排",
+tip:"小提示：在直排模式左右滑動閱讀。",markRead:"標記為已讀",markedRead:"已讀 ✓",
+add:"加入單字本",added:"已在單字本",addSel:s=>`＋ 加入「${s}」`,
+word:"單字",reading:"讀音",meaning:"意思",example:"例句",note:"備註",source:"來源",save:"儲存",cancel:"取消",
+vocabEy:"單字本",vocabH:n=>`${n} 個單字`,search:"搜尋單字或意思",newWord:"新增單字",
+seed:"範例",del:"刪除",delSure:"確定刪除？",due:"今天複習",box:n=>`第 ${n} 盒`,noWords:"還沒有單字。先去讀一篇，點詞加入吧。",noMatch:"找不到符合的單字。",
+pracEy:"練習",pracH:"今天的複習",today:"今日進度",dueNow:"待複習",streak:"連續天數",days:n=>`${n} 天`,
+boxes:"記憶盒分布",boxLab:n=>n===0?"新卡":`盒 ${n}`,start:"開始練習",tapFlip:"點卡片翻面",
+again:"再一次",hard:"有點難",good:"記得",later:{again:"馬上",hard:"1 天後",good:d=>`${d} 天後`},
+nothing:"今天沒有要複習的卡片。",nothing2:"可以去閱讀，加入新的單字。",doneH:"今天完成了",doneP:n=>`複習了 ${n} 張卡片。`,
+left:(a,b)=>`${a} / ${b}`,
+setEy:"設定",setH:"語言與閱讀",ui:"介面語言",uiP:"按鈕和說明的語言。",
+fgP:"閱讀時漢字上方的假名。",size:"閱讀字級",dir:"出題方向",dirP:"卡片正面顯示什麼。",
+j2z:"日→中",z2j:"中→日",mix:"混合",goal:"每日目標",goalP:"每天複習幾張卡片。",cards:n=>`${n} 張`,
+data:"資料",dataP:"單字只存在這個瀏覽器裡。換手機或清除瀏覽紀錄前，請先匯出備份。",
+exp:"複製備份",imp:"匯入備份",impPh:"把備份文字貼在這裡",rmSeed:"移除範例卡",
+copied:"已複製",copyFail:"無法自動複製，請手動全選複製。",imported:n=>`已匯入 ${n} 個單字`,badImport:"格式不對，請貼上完整的備份文字。",
+savedT:"已加入單字本",removedSeed:"已移除範例卡",needWord:"請至少填寫單字和意思。"},
+"ja":{sub:"日本語 · 繁體中文",tRead:"読む",tVocab:"単語帳",tPrac:"練習",tSet:"設定",
+readEy:"読みもの",readH:"今日の一編",readLede:"下線の語をタップすると意味が出ます。文字を選択すれば、そのまま単語帳に追加できます。",
+lv:{all:"全て",n3:"N3 初中級",n2:"N2 中上級",n1:"N1 上級",pro:"上級＋ ネイティブ級",x:"古典 超上級"},lvl:"読解レベル",lvlP:"一覧にはこのレベルの文章だけを表示します。",lvlN:n=>`${n} 編`,noArt:"このレベルの文章はまだありません。",doneMark:"読了",back:"← 一覧へ",
+fg:"ふりがな",fgAll:"全て",fgAnnot:"注釈語のみ",fgNone:"非表示",dirLab:"組み方",hor:"横書き",ver:"縦書き",
+tip:"縦書きは左右にスクロールして読めます。",markRead:"読了にする",markedRead:"読了 ✓",
+add:"単語帳に追加",added:"追加済み",addSel:s=>`＋「${s}」を追加`,
+word:"単語",reading:"読み",meaning:"意味",example:"例文",note:"メモ",source:"出典",save:"保存",cancel:"キャンセル",
+vocabEy:"単語帳",vocabH:n=>`${n} 語`,search:"単語や意味で検索",newWord:"単語を追加",
+seed:"サンプル",del:"削除",delSure:"本当に削除？",due:"今日復習",box:n=>`${n} 番の箱`,noWords:"まだ単語がありません。読みものから追加してみましょう。",noMatch:"該当する単語がありません。",
+pracEy:"練習",pracH:"今日の復習",today:"今日の進み具合",dueNow:"復習待ち",streak:"連続日数",days:n=>`${n} 日`,
+boxes:"箱ごとの枚数",boxLab:n=>n===0?"新規":`箱 ${n}`,start:"練習を始める",tapFlip:"タップして裏返す",
+again:"もう一度",hard:"難しい",good:"覚えた",later:{again:"すぐ",hard:"1 日後",good:d=>`${d} 日後`},
+nothing:"今日の復習はありません。",nothing2:"読みものから新しい単語を追加しましょう。",doneH:"今日の分、完了",doneP:n=>`${n} 枚を復習しました。`,
+left:(a,b)=>`${a} / ${b}`,
+setEy:"設定",setH:"言語と表示",ui:"表示言語",uiP:"ボタンや説明の言語。",
+fgP:"漢字の上に表示する読み。",size:"文字サイズ",dir:"出題方向",dirP:"カードの表に出すもの。",
+j2z:"日→中",z2j:"中→日",mix:"ランダム",goal:"1日の目標",goalP:"1日に復習する枚数。",cards:n=>`${n} 枚`,
+data:"データ",dataP:"単語はこのブラウザ内にだけ保存されます。機種変更や履歴削除の前にバックアップしてください。",
+exp:"バックアップをコピー",imp:"バックアップを読み込む",impPh:"ここにバックアップを貼り付け",rmSeed:"サンプルを削除",
+copied:"コピーしました",copyFail:"自動コピーできません。全選択してコピーしてください。",imported:n=>`${n} 語を読み込みました`,badImport:"形式が正しくありません。バックアップ全文を貼り付けてください。",
+savedT:"単語帳に追加しました",removedSeed:"サンプルを削除しました",needWord:"単語と意味は必須です。"}
+};
+
+/* ---------- state ---------- */
+const KEY="shiori-v1", OLDKEY="kotoba-ci-v1", IV=[0,1,2,4,8,16,30];
+const todayStr=()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")};
+const addDays=(s,n)=>{const d=new Date(s+"T12:00:00");d.setDate(d.getDate()+n);return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")};
+const uid=()=>Math.random().toString(36).slice(2,9);
+function fresh(){return{set:{ui:"zh-Hant",fg:"annot",size:19,dir:"j2z",goal:20,vert:false,lvl:"all"},
+cards:SEED.map(([w,r,m,n])=>({id:uid(),w,r,m,ex:"",note:n,src:"",box:0,due:todayStr(),seed:true})),log:{},read:{}}}
+function load(){try{const s=JSON.parse(localStorage.getItem(KEY)||localStorage.getItem(OLDKEY));if(s&&s.cards)return Object.assign(fresh(),s,{set:Object.assign(fresh().set,s.set)})}catch(e){}return fresh()}
+function persist(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
+let S=load(), V={view:"read",art:null,q:"",showAdd:false,sess:null,flip:false,confirm:null,sel:""};
+const L=()=>I18N[S.set.ui]||I18N["zh-Hant"];
+const t=(k,...a)=>{const v=L()[k];return typeof v==="function"?v(...a):v};
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const $=s=>document.querySelector(s);
+const has=w=>S.cards.some(c=>c.w===w);
+const dueCards=()=>S.cards.filter(c=>c.due<=todayStr()).sort((a,b)=>a.box-b.box||a.due.localeCompare(b.due));
+function toast(m){const el=document.createElement("div");el.className="toast";el.textContent=m;document.body.appendChild(el);setTimeout(()=>el.remove(),1800)}
+function streak(){let n=0,d=todayStr();if(!S.log[d])d=addDays(d,-1);while(S.log[d]){n++;d=addDays(d,-1)}return n}
+
+/* ---------- parsing ---------- */
+const RX=/\[\[([^|\]]+)\|([^\]]+)\]\]|\{([^|}]+)\|([^}]+)\}/g;
+const plain=s=>s.replace(RX,(m,a,b,c)=>a||c);
+function renderPara(p,art){
+  return (p.match(/[^。！？]+[。！？」]*|[。！？」]+/g)||[p]).map(sen=>{
+    const sp=esc(plain(sen).trim());
+    return sen.replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])).replace(RX,(m,w,r,k,kr)=>{
+      if(w){const sv=has(w)?" saved":"";const inner=r===w?esc(w):`${esc(w)}<rt>${esc(r)}</rt>`;
+        return `<ruby class="an${sv}" tabindex="0" role="button" data-w="${esc(w)}" data-r="${esc(r)}" data-a="${art.id}" data-s="${sp}">${inner}</ruby>`}
+      return `<ruby>${esc(k)}<rt>${esc(kr)}</rt></ruby>`});
+  }).join("");
+}
+
+/* ---------- views ---------- */
+function tabs(){
+  const n=dueCards().length;
+  $("#tabs").innerHTML=[["read","tRead"],["vocab","tVocab"],["prac","tPrac"],["set","tSet"]].map(([v,k])=>
+    `<button data-tab="${v}" aria-current="${V.view===v}">${t(k)}${v==="prac"&&n?`<span class="badge">${n}</span>`:""}</button>`).join("");
+  $("#brandSub").textContent=t("sub");
+}
+function viewRead(){
+  if(V.art){const a=ARTICLES.find(x=>x.id===V.art);
+    const paras=a.body.split(/\n\n/).map(p=>a.letter?`<p>${p.split("\n").map(l=>renderPara(l,a)).join("<br>")}</p>`:`<p>${renderPara(p,a)}</p>`).join("");
+    return `<button class="back" data-act="back">${t("back")}</button>
+    <div class="rhead"><span class="chip ${a.lv==="n1"||a.lv==="pro"||a.lv==="x"?"k-adv":""}">${t("lv")[a.lv]}</span><span class="chip">${esc(a.genre[S.set.ui])}</span></div>
+    <h2 class="reader-title" lang="ja">${esc(a.title)}</h2><p class="reader-sub">${esc(a.sub)}</p>
+    <div class="ctrl">
+      <span class="seg" role="group" aria-label="${t("fg")}">${[["all","fgAll"],["annot","fgAnnot"],["none","fgNone"]].map(([v,k])=>`<button data-fg="${v}" aria-pressed="${S.set.fg===v}">${t(k)}</button>`).join("")}</span>
+      <span class="seg" role="group" aria-label="${t("dirLab")}"><button data-vert="0" aria-pressed="${!S.set.vert}">${t("hor")}</button><button data-vert="1" aria-pressed="${S.set.vert}">${t("ver")}</button></span>
+    </div>
+    <div id="reader" lang="ja" class="fg-${S.set.fg} ${S.set.vert?"vert":""}">${paras}</div>
+    ${S.set.vert?`<p class="tip">${t("tip")}</p>`:""}
+    <div class="mark-done"><button class="btn ${S.read[a.id]?"ghost":"primary"}" data-act="markread">${S.read[a.id]?t("markedRead"):t("markRead")}</button></div>`}
+  return `<p class="eyebrow">${t("readEy")}</p><h2>${t("readH")}</h2><p class="lede">${t("readLede")}</p>
+  ${lvlSeg()}${(()=>{const list=ARTICLES.filter(a=>S.set.lvl==="all"||a.lv===S.set.lvl);return list.length?`<ul class="alist">${list.map(a=>`<li><button data-art="${a.id}"><span class="t" lang="ja">${esc(a.title)}</span>
+  <span class="s">${esc(a.sub)} · ${esc(a.genre[S.set.ui])}${S.read[a.id]?` · <span class="done">${t("doneMark")}</span>`:""}</span>
+  <span class="lv"><span class="chip ${a.lv==="n1"||a.lv==="pro"||a.lv==="x"?"k-adv":""}">${t("lv")[a.lv]}</span></span></button></li>`).join("")}</ul>`:`<p class="empty">${t("noArt")}</p>`})()}`;
+}
+function lvlSeg(){const lv=t("lv");return `<div class="ctrl" role="group" aria-label="${t("lvl")}"><span class="seg lvseg">${["all","n3","n2","n1","pro","x"].map(k=>`<button data-lvl="${k}" aria-pressed="${S.set.lvl===k}">${k==="all"?lv.all:({x:"古典",pro:"上級＋"}[k]||k.toUpperCase())}</button>`).join("")}</span></div>`}
+function addForm(){
+  return `<form class="add" id="addForm">
+  <label>${t("word")}<input id="f_w" required lang="ja"></label>
+  <label>${t("reading")}<input id="f_r" lang="ja"></label>
+  <label class="full">${t("meaning")}<input id="f_m" required></label>
+  <label class="full">${t("example")}<input id="f_ex" lang="ja"></label>
+  <label class="full">${t("note")}<input id="f_n"></label>
+  <div class="row"><button type="button" class="btn ghost" data-act="closeadd">${t("cancel")}</button><button class="btn primary">${t("save")}</button></div></form>`;
+}
+function viewVocab(){
+  const q=V.q.trim().toLowerCase();
+  const list=S.cards.filter(c=>!q||[c.w,c.r,c.m,c.note].join(" ").toLowerCase().includes(q)).slice().reverse();
+  return `<p class="eyebrow">${t("vocabEy")}</p><h2>${t("vocabH",S.cards.length)}</h2>
+  <div class="toolbar"><input id="q" type="search" placeholder="${t("search")}" value="${esc(V.q)}"><button class="btn primary" data-act="openadd">${t("newWord")}</button></div>
+  ${V.showAdd?addForm():""}
+  ${S.cards.length===0?`<p class="empty">${t("noWords")}</p>`:list.length===0?`<p class="empty">${t("noMatch")}</p>`:
+  `<ul class="vlist">${list.map(c=>`<li>
+    <div><span class="vw" lang="ja">${esc(c.w)}</span>${c.r&&c.r!==c.w?`<span class="vr" lang="ja">${esc(c.r)}</span>`:""}</div>
+    <div class="vm">${esc(c.m)}${c.note?` <span style="color:var(--muted);font-size:13px">— ${esc(c.note)}</span>`:""}</div>
+    ${c.ex?`<div class="vx" lang="ja">${esc(c.ex)}</div>`:""}
+    <div class="vside">${c.seed?`<span class="chip">${t("seed")}</span>`:""}<span class="boxpip">${c.due<=todayStr()?t("due"):t("box",c.box)}</span>
+    <button class="linkbtn ${V.confirm===c.id?"warn":""}" data-del="${c.id}">${V.confirm===c.id?t("delSure"):t("del")}</button></div></li>`).join("")}</ul>`}`;
+}
+function viewPrac(){
+  const done=S.log[todayStr()]||0, goal=S.set.goal, due=dueCards().length;
+  if(V.sess){const s=V.sess;
+    if(s.i>=s.q.length){const n=s.n;V.sess=null;return `<p class="eyebrow">${t("pracEy")}</p><h2>${t("doneH")}</h2><p class="lede">${t("doneP",n)}</p>${statsBlock(done,goal,due)}`}
+    const c=S.cards.find(x=>x.id===s.q[s.i]);if(!c){s.i++;return viewPrac()}
+    const mode=S.set.dir==="mix"?(c.id.charCodeAt(0)%2?"j2z":"z2j"):S.set.dir;
+    const front=mode==="j2z"?`<div class="big" lang="ja">${esc(c.w)}</div>`:`<div class="meaning">${esc(c.m)}</div>`;
+    const back=`<div class="big" lang="ja">${esc(c.w)}</div>${c.r&&c.r!==c.w?`<div class="reading" lang="ja">${esc(c.r)}</div>`:""}<div class="meaning">${esc(c.m)}</div>${c.note?`<div class="hint">${esc(c.note)}</div>`:""}${c.ex?`<div class="ex" lang="ja">${esc(c.ex)}</div>`:""}`;
+    const nb=Math.min(c.box+1,IV.length-1);
+    return `<p class="eyebrow">${t("pracEy")}</p>
+    <div class="card ${V.flip?"flip":""}" id="card" tabindex="0" role="button">${V.flip?back:front+`<div class="hint">${t("tapFlip")}</div>`}</div>
+    ${V.flip?`<div class="answers"><button class="a0" data-ans="0">${t("again")}<small>${t("later").again}</small></button><button class="a1" data-ans="1">${t("hard")}<small>${t("later").hard}</small></button><button class="a2" data-ans="2">${t("good")}<small>${t("later").good(IV[nb])}</small></button></div>`:""}
+    <p class="qcount">${t("left",s.i+1,s.q.length)}</p>`}
+  return `<p class="eyebrow">${t("pracEy")}</p><h2>${t("pracH")}</h2>${statsBlock(done,goal,due)}
+  ${due?`<button class="btn primary" data-act="start" style="width:100%;padding:13px">${t("start")}</button>`:`<p class="empty">${t("nothing")}<br>${t("nothing2")}</p>`}`;
+}
+function statsBlock(done,goal,due){
+  const counts=IV.map((_,i)=>S.cards.filter(c=>c.box===i).length), mx=Math.max(1,...counts);
+  return `<div class="stats">
+  <div class="stat"><b>${done}<span style="font-size:14px;color:var(--muted)"> / ${goal}</span></b><span>${t("today")}</span><div class="prog"><i style="width:${Math.min(100,done/goal*100)}%"></i></div></div>
+  <div class="stat"><b>${due}</b><span>${t("dueNow")}</span></div>
+  <div class="stat"><b>${streak()}</b><span>${t("streak")}</span></div></div>
+  <p class="eyebrow">${t("boxes")}</p><div class="boxes">${counts.map((n,i)=>`<div class="r"><span>${t("boxLab",i)}</span><span class="bar"><i style="width:${n/mx*100}%"></i></span><span class="n">${n}</span></div>`).join("")}</div>`;
+}
+function viewSet(){
+  const s=S.set, seg=(attr,opts,cur)=>`<span class="seg">${opts.map(([v,l])=>`<button data-${attr}="${v}" aria-pressed="${String(cur)===String(v)}">${l}</button>`).join("")}</span>`;
+  return `<p class="eyebrow">${t("setEy")}</p><h2>${t("setH")}</h2><div class="set">
+  <div class="item"><span class="lab">${t("ui")}</span><p>${t("uiP")}</p><div class="c">${seg("ui",[["zh-Hant","繁體中文"],["ja","日本語"]],s.ui)}</div></div>
+  <div class="item stack"><span class="lab">${t("lvl")}</span><p>${t("lvlP")}</p><div class="c">${seg("lvl",["all","n3","n2","n1","pro","x"].map(k=>[k,t("lv")[k]+(k==="all"?"":" · "+t("lvlN",ARTICLES.filter(a=>a.lv===k).length))]),s.lvl)}</div></div>
+  <div class="item"><span class="lab">${t("fg")}</span><p>${t("fgP")}</p><div class="c">${seg("fg",[["all",t("fgAll")],["annot",t("fgAnnot")],["none",t("fgNone")]],s.fg)}</div></div>
+  <div class="item"><span class="lab">${t("dirLab")}</span><p></p><div class="c">${seg("vert",[["0",t("hor")],["1",t("ver")]],s.vert?1:0)}</div></div>
+  <div class="item"><span class="lab">${t("size")}</span><p lang="ja" style="font-family:var(--f-read);font-size:${s.size}px;color:var(--ink)">秋の夜長</p><div class="c"><input id="size" type="range" min="15" max="26" value="${s.size}" aria-label="${t("size")}"></div></div>
+  <div class="item"><span class="lab">${t("dir")}</span><p>${t("dirP")}</p><div class="c">${seg("pdir",[["j2z",t("j2z")],["z2j",t("z2j")],["mix",t("mix")]],s.dir)}</div></div>
+  <div class="item"><span class="lab">${t("goal")}</span><p>${t("goalP")}</p><div class="c">${seg("goal",[[10,t("cards",10)],[20,t("cards",20)],[40,t("cards",40)]],s.goal)}</div></div>
+  <div class="item stack"><span class="lab">${t("data")}</span><p>${t("dataP")}</p><div class="c">
+    <div class="iorow"><button class="btn" data-act="export">${t("exp")}</button>${S.cards.some(c=>c.seed)?`<button class="btn danger" data-act="rmseed">${t("rmSeed")}</button>`:""}</div>
+    <textarea class="io" id="io" placeholder="${t("impPh")}" style="margin-top:10px"></textarea>
+    <div class="iorow"><button class="btn" data-act="import">${t("imp")}</button></div></div></div></div>`;
+}
+function render(){
+  document.documentElement.lang=S.set.ui==="ja"?"ja":"zh-Hant";
+  document.documentElement.style.setProperty("--read-size",S.set.size+"px");
+  tabs();
+  $("#app").innerHTML=V.view==="read"?viewRead():V.view==="vocab"?viewVocab():V.view==="prac"?viewPrac():viewSet();
+  if(V.view==="read"&&V.art&&S.set.vert){const r=$("#reader");if(r)r.scrollLeft=r.scrollWidth}
+}
+
+/* ---------- sheet ---------- */
+function closeSheet(){$("#layer").innerHTML="";document.querySelectorAll(".an.on").forEach(e=>e.classList.remove("on"))}
+function openGloss(el){
+  const a=ARTICLES.find(x=>x.id===el.dataset.a), w=el.dataset.w, r=el.dataset.r, g=a.gloss[w]||{m:""};
+  el.classList.add("on");
+  $("#layer").innerHTML=`<div class="scrim" data-act="close"></div><div class="sheet" role="dialog" aria-label="${esc(w)}"><div class="wrap">
+  <div><span class="w" lang="ja">${esc(w)}</span>${r!==w?`<span class="r" lang="ja">${esc(r)}</span>`:""}</div>
+  <div class="m">${esc(g.m)}</div>${g.n?`<div class="n">${esc(g.n)}</div>`:""}
+  <div class="ex" lang="ja">${esc(el.dataset.s)}</div>
+  <div class="row"><button class="btn ghost" data-act="close">${t("cancel")}</button>
+  <button class="btn ${has(w)?"ghost":"primary"}" ${has(w)?"disabled":""} data-act="savegloss" data-w="${esc(w)}" data-r="${esc(r)}" data-a="${a.id}" data-s="${esc(el.dataset.s)}">${has(w)?t("added"):t("add")}</button></div></div></div>`;
+}
+function openCustom(word,sentence){
+  const a=ARTICLES.find(x=>x.id===V.art);
+  $("#layer").innerHTML=`<div class="scrim" data-act="close"></div><div class="sheet" role="dialog"><form class="wrap" id="selForm">
+  <div class="grid2"><label>${t("word")}<input id="s_w" value="${esc(word)}" lang="ja" required></label><label>${t("reading")}<input id="s_r" lang="ja"></label></div>
+  <label>${t("meaning")}<input id="s_m" required></label>
+  <label>${t("example")}<textarea id="s_ex" rows="2" lang="ja">${esc(sentence)}</textarea></label>
+  <div class="row"><button type="button" class="btn ghost" data-act="close">${t("cancel")}</button><button class="btn primary">${t("save")}</button></div></form></div>`;
+  $("#selForm").dataset.src=a?a.title:"";
+  setTimeout(()=>{const m=$("#s_r");m&&m.focus()},50);
+}
+function addCard(o){S.cards.push(Object.assign({id:uid(),r:"",ex:"",note:"",src:"",box:0,due:todayStr()},o));persist();toast(t("savedT"))}
+
+/* ---------- events ---------- */
+document.addEventListener("click",e=>{
+  const b=e.target.closest("[data-tab],[data-art],[data-act],[data-fg],[data-vert],[data-ui],[data-pdir],[data-goal],[data-lvl],[data-del],[data-ans],.an,#card");
+  if(!b)return; const d=b.dataset;
+  if(d.tab){V.view=d.tab;V.art=null;V.sess=null;V.confirm=null;closeSheet();render();scrollTo(0,0);return}
+  if(d.art){V.art=d.art;render();scrollTo(0,0);return}
+  if(b.classList.contains("an")){openGloss(b);return}
+  if(b.id==="card"&&!V.flip){V.flip=true;render();return}
+  if(d.lvl){S.set.lvl=d.lvl;persist();render();return}
+  if(d.fg){S.set.fg=d.fg;persist();render();return}
+  if(d.vert!==undefined){S.set.vert=d.vert==="1";persist();render();return}
+  if(d.ui){S.set.ui=d.ui;persist();render();return}
+  if(d.pdir){S.set.dir=d.pdir;persist();render();return}
+  if(d.goal){S.set.goal=+d.goal;persist();render();return}
+  if(d.del){if(V.confirm===d.del){S.cards=S.cards.filter(c=>c.id!==d.del);V.confirm=null;persist()}else V.confirm=d.del;render();return}
+  if(d.ans){const s=V.sess,c=S.cards.find(x=>x.id===s.q[s.i]),a=+d.ans,td=todayStr();
+    if(a===0){c.box=0;c.due=td;if(!s.re[c.id]){s.q.push(c.id);s.re[c.id]=1}}
+    else if(a===1){c.box=Math.max(1,c.box);c.due=addDays(td,1)}
+    else{c.box=Math.min(c.box+1,IV.length-1);c.due=addDays(td,IV[c.box])}
+    S.log[td]=(S.log[td]||0)+1;s.n++;s.i++;V.flip=false;persist();render();return}
+  switch(d.act){
+    case "back":V.art=null;render();scrollTo(0,0);break;
+    case "markread":S.read[V.art]=!S.read[V.art];persist();render();break;
+    case "close":closeSheet();break;
+    case "savegloss":{const a=ARTICLES.find(x=>x.id===d.a),g=a.gloss[d.w]||{};addCard({w:d.w,r:d.r===d.w?"":d.r,m:g.m||"",note:g.n||"",ex:d.s,src:a.title});closeSheet();render();break}
+    case "openadd":V.showAdd=true;render();setTimeout(()=>$("#f_w")&&$("#f_w").focus(),30);break;
+    case "closeadd":V.showAdd=false;render();break;
+    case "start":{const rem=S.set.goal-(S.log[todayStr()]||0);V.sess={q:dueCards().slice(0,rem>0?rem:S.set.goal).map(c=>c.id),i:0,n:0,re:{}};V.flip=false;render();break}
+    case "export":{const txt=JSON.stringify({app:"shiori",v:1,cards:S.cards,log:S.log,read:S.read});const io=$("#io");io.value=txt;
+      try{navigator.clipboard.writeText(txt).then(()=>toast(t("copied")),()=>{io.select();toast(t("copyFail"))})}catch(err){io.select();toast(t("copyFail"))}break}
+    case "import":{try{const o=JSON.parse($("#io").value);if(!Array.isArray(o.cards))throw 0;let n=0;
+      o.cards.forEach(c=>{if(c&&c.w&&!S.cards.some(x=>x.w===c.w)){S.cards.push(Object.assign({id:uid(),r:"",m:"",ex:"",note:"",box:0,due:todayStr()},c));n++}});
+      Object.assign(S.log,o.log||{});Object.assign(S.read,o.read||{});persist();render();toast(t("imported",n))}catch(err){toast(t("badImport"))}break}
+    case "rmseed":S.cards=S.cards.filter(c=>!c.seed);persist();render();toast(t("removedSeed"));break;
+  }
+});
+document.addEventListener("keydown",e=>{
+  if(e.key==="Escape")closeSheet();
+  if((e.key==="Enter"||e.key===" ")&&e.target.classList&&(e.target.classList.contains("an")||e.target.id==="card")){e.preventDefault();e.target.click()}
+});
+document.addEventListener("input",e=>{
+  if(e.target.id==="q"&&!e.isComposing)doSearch(e.target);
+  if(e.target.id==="size"){S.set.size=+e.target.value;persist();document.documentElement.style.setProperty("--read-size",S.set.size+"px");const p=e.target.closest(".item").querySelector("p");p.style.fontSize=S.set.size+"px"}
+});
+function doSearch(el){V.q=el.value;const pos=el.selectionStart;render();const q=$("#q");q.focus();try{q.setSelectionRange(pos,pos)}catch(err){}}
+document.addEventListener("compositionend",e=>{if(e.target.id==="q")doSearch(e.target)});
+document.addEventListener("submit",e=>{
+  e.preventDefault();
+  if(e.target.id==="addForm"){const w=$("#f_w").value.trim(),m=$("#f_m").value.trim();if(!w||!m){toast(t("needWord"));return}
+    addCard({w,r:$("#f_r").value.trim(),m,ex:$("#f_ex").value.trim(),note:$("#f_n").value.trim()});V.showAdd=false;render()}
+  if(e.target.id==="selForm"){const w=$("#s_w").value.trim(),m=$("#s_m").value.trim();if(!w||!m){toast(t("needWord"));return}
+    addCard({w,r:$("#s_r").value.trim(),m,ex:$("#s_ex").value.trim(),src:e.target.dataset.src||""});closeSheet();window.getSelection().removeAllRanges();render()}
+});
+/* selection → add */
+let selTimer;
+document.addEventListener("selectionchange",()=>{clearTimeout(selTimer);selTimer=setTimeout(()=>{
+  const sel=window.getSelection(),r=$("#reader"),old=$("#selbtn");
+  const txt=sel&&sel.rangeCount?sel.toString().replace(/\s+/g,"").trim():"";
+  const inside=r&&sel.rangeCount&&r.contains(sel.getRangeAt(0).commonAncestorContainer);
+  if(!inside||!txt||txt.length>30){if(old)old.remove();return}
+  let sentence="";const node=sel.anchorNode&&(sel.anchorNode.nodeType===3?sel.anchorNode.parentElement:sel.anchorNode);const p=node&&node.closest("p");
+  if(p){const c=p.cloneNode(true);c.querySelectorAll("rt").forEach(x=>x.remove());const full=c.textContent;
+    sentence=((full.match(/[^。！？\n]+[。！？」]*/g)||[full]).find(x=>x.includes(txt))||"").trim()}
+  V.sel=txt;let b=old;if(!b){b=document.createElement("button");b.id="selbtn";b.className="selbtn";document.body.appendChild(b);
+    b.addEventListener("mousedown",ev=>ev.preventDefault());b.addEventListener("touchstart",ev=>ev.preventDefault(),{passive:false});
+    const go=ev=>{ev.preventDefault();if(!b.isConnected)return;b.remove();openCustom(V.sel,b.dataset.s||"")};b.addEventListener("click",go);b.addEventListener("touchend",go)}
+  b.textContent=t("addSel",txt.length>12?txt.slice(0,12)+"…":txt);b.dataset.s=sentence;
+},250)});
+
+render();
+</script>
+
+</body>
+</html>
