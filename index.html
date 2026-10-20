@@ -10,7 +10,7 @@
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;700&family=Noto+Serif+JP:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;700&family=Noto+Serif+JP:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@400;700&family=Noto+Serif+TC:wght@400;700&display=swap">
 </head><body>
 <style>
 /* Layout: one narrow column like a pocket notebook; sticky tab strip; bottom sheet for glosses. Ink-indigo on cool paper, celadon (青磁) as the single accent. */
@@ -200,7 +200,18 @@ nav.tabs .dot{display:inline-block;width:6px;height:6px;border-radius:50%;backgr
 .selbtn{position:fixed;z-index:15;left:50%;transform:translateX(-50%);bottom:calc(20px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--paper);border:0;border-radius:999px;padding:11px 18px;font-weight:500;box-shadow:0 6px 20px var(--shade);max-width:calc(100% - 32px);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .toast{position:fixed;z-index:30;left:50%;transform:translateX(-50%);top:calc(14px + env(safe-area-inset-top,0px));background:var(--ink);color:var(--paper);padding:8px 16px;border-radius:999px;font-size:13px}
 /* multilingual + beginner additions */
-html[lang="zh-Hans"]{--f-ui:"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans SC","Noto Sans TC",system-ui,sans-serif}
+html[lang="zh-Hans"]{--f-ui:"Noto Sans SC","PingFang SC","Hiragino Sans GB","Microsoft YaHei",system-ui,sans-serif;--f-display:"Noto Serif SC","Songti SC","SimSun",serif}
+html[lang="zh-Hant"]{--f-display:"Noto Serif TC","PingFang TC","Songti TC",serif}
+.acct-card{border:1px solid var(--line);border-radius:14px;padding:16px;background:var(--surface);margin:0 0 18px}
+.acct-row{display:flex;gap:12px;align-items:center}
+.av{width:42px;height:42px;border-radius:50%;background:var(--accent);color:var(--paper);display:flex;align-items:center;justify-content:center;font-weight:600;font-size:17px;flex:none}
+.av-off{background:var(--line);color:var(--muted)}
+.acct-who{min-width:0;display:flex;flex-direction:column;gap:2px}
+.acct-who b{overflow-wrap:anywhere;font-weight:600}
+.acct-who span{font-size:13px;color:var(--muted);line-height:1.5}
+.acct-acts{margin-top:14px}
+.acct-msg{font-size:14px;margin:10px 0 0}
+.acct-card input{width:100%;box-sizing:border-box;max-width:none}
 html[lang="en"],html[lang="de"]{--f-ui:system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans JP",sans-serif}
 h3{font-family:var(--f-display);font-size:18px;margin:0 0 4px}
 .wide{width:100%;justify-content:center;padding:13px;margin-top:14px}
@@ -1723,6 +1734,7 @@ function statsBlock(done,goal,due){
 function viewSet(){
   const s=S.set, seg=(attr,opts,cur)=>`<span class="seg">${opts.map(([v,l])=>`<button data-${attr}="${v}" aria-pressed="${String(cur)===String(v)}">${l}</button>`).join("")}</span>`;
   return `<p class="eyebrow">${t("setEy")}</p><h2>${t("setH")}</h2><div class="set">
+  ${acctBox()}
   <div class="item stack"><span class="lab">${t("ui")}</span><p>${t("uiP")}</p><div class="c">${seg("ui",UIS,s.ui)}</div></div>
   <div class="item stack"><span class="lab">${t("glLab")}</span><p>${t("glP")}</p><div class="c">${seg("gl",GLS,s.gl)}</div></div>
   <div class="item stack"><span class="lab">${t("welLvl")}</span><p></p><div class="c">${seg("mode",[["begin",t("lvBegin")],["read",t("lvRead")]],s.mode)}</div></div>
@@ -1737,7 +1749,6 @@ function viewSet(){
   <div class="item"><span class="lab">${t("autoSay")}</span><p>${t("autoSayP")}</p><div class="c">${seg("autosay",[["1",t("on")],["0",t("off")]],s.autoSay?"1":"0")}</div></div>
   <div class="item"><span class="lab">${t("dir")}</span><p>${t("dirP")}</p><div class="c">${seg("pdir",[["j2z",t("j2z")],["z2j",t("z2j")],["mix",t("mix")]],s.dir)}</div></div>
   <div class="item"><span class="lab">${t("goal")}</span><p>${t("goalP")}</p><div class="c">${seg("goal",[[10,t("cards",10)],[20,t("cards",20)],[40,t("cards",40)]],s.goal)}</div></div>
-  <div class="item stack"><span class="lab">${t("acctLab")}</span><p>${t("acctP")}</p><div class="c">${acctBox()}</div></div>
   <div class="item stack"><span class="lab">${t("data")}</span><p>${t("dataP")}</p><div class="c">
     <div class="iorow"><button class="btn" data-act="export">${t("exp")}</button>${S.cards.some(c=>c.seed)?`<button class="btn danger" data-act="rmseed">${t("rmSeed")}</button>`:""}</div>
     <textarea class="io" id="io" placeholder="${t("impPh")}" style="margin-top:10px"></textarea>
@@ -1827,19 +1838,21 @@ document.addEventListener("visibilitychange",()=>{if(!syOn())return;if(document.
 window.addEventListener("online",()=>syncNow());
 
 function acctBox(){
-  const msg=V.acctMsg?`<p class="acct-msg" role="status" style="font-size:14px;margin:10px 0 0">${esc(V.acctMsg)}</p>`:"";
+  const msg=V.acctMsg?`<p class="acct-msg" role="status">${esc(V.acctMsg)}</p>`:"";
   if(syOn()){
     const last=SY.last?t("acctLast",new Date(SY.last).toLocaleString(S.set.ui)):t("acctNever");
-    return `<div class="acct-on"><p style="margin:0 0 10px"><b>${esc(SY.email||"")}</b><br>${esc(SY.err||last)}</p>
-      <div class="iorow"><button class="btn" data-act="acctnow">${t("acctNow")}</button><button class="btn" data-act="acctout">${t("acctOut")}</button><button class="btn danger" data-act="acctdel">${t("acctDel")}</button></div>${msg}</div>`;
+    const ini=esc(((SY.email||"·")[0]||"·").toUpperCase());
+    return `<div class="acct-card"><div class="acct-row"><span class="av" aria-hidden="true">${ini}</span><div class="acct-who"><b>${esc(SY.email||"")}</b><span>${esc(SY.err||last)}</span></div></div>
+      <div class="iorow acct-acts"><button class="btn" data-act="acctnow">${t("acctNow")}</button><button class="btn" data-act="acctout">${t("acctOut")}</button><button class="btn danger" data-act="acctdel">${t("acctDel")}</button></div>${msg}</div>`;
   }
+  const head=`<div class="acct-row"><span class="av av-off" aria-hidden="true">·</span><div class="acct-who"><b>${t("acctLab")}</b><span>${t("acctP")}</span></div></div>`;
   if(!V.acct||V.acct.step!==2){
-    return `<div class="acct-off"><input id="acct-email" class="sel" type="email" inputmode="email" autocomplete="email" placeholder="${t("acctEmailPh")}" value="${esc(SY.email||"")}" aria-label="${t("acctEmailPh")}" style="width:100%;max-width:340px">
-      <div class="iorow" style="margin-top:10px"><button class="btn primary" data-act="acctsend">${t("acctSend")}</button></div>${msg}</div>`;
+    return `<div class="acct-card">${head}<div class="acct-acts"><input id="acct-email" class="sel" type="email" inputmode="email" autocomplete="email" placeholder="${t("acctEmailPh")}" value="${esc(SY.email||"")}" aria-label="${t("acctEmailPh")}">
+      <div class="iorow" style="margin-top:10px"><button class="btn primary" data-act="acctsend">${t("acctSend")}</button></div></div>${msg}</div>`;
   }
-  return `<div class="acct-off"><p style="margin:0 0 10px">${t("acctSent",esc(V.acct.email))}</p>
-    <input id="acct-code" class="sel" inputmode="numeric" autocomplete="one-time-code" placeholder="${t("acctCodePh")}" aria-label="${t("acctCodePh")}" style="width:100%;max-width:340px">
-    <div class="iorow" style="margin-top:10px"><button class="btn primary" data-act="acctverify">${t("acctVerify")}</button><button class="btn" data-act="acctsend">${t("acctResend")}</button></div>${msg}</div>`;
+  return `<div class="acct-card">${head}<div class="acct-acts"><p style="margin:0 0 10px;font-size:14px">${t("acctSent",esc(V.acct.email))}</p>
+    <input id="acct-code" class="sel" inputmode="numeric" autocomplete="one-time-code" placeholder="${t("acctCodePh")}" aria-label="${t("acctCodePh")}">
+    <div class="iorow" style="margin-top:10px"><button class="btn primary" data-act="acctverify">${t("acctVerify")}</button><button class="btn" data-act="acctsend">${t("acctResend")}</button></div></div>${msg}</div>`;
 }
 async function acctSend(){
   const e=((document.getElementById("acct-email")||{}).value||"").trim().toLowerCase();
