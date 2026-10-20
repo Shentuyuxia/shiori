@@ -41,8 +41,8 @@ button{cursor:pointer}
 
 header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);border-bottom:1px solid var(--line)}
 .brand{display:flex;align-items:center;gap:12px;padding-block:14px 8px}
-.brand .txt{display:flex;flex-direction:column;min-width:0;gap:2px}
-.mark{width:40px;height:40px;flex:none;color:var(--ink)}
+.brand .txt{display:flex;flex-direction:column;min-width:0}
+.mark{width:46px;height:50px;flex:none;color:var(--ink)}
 .brand h1{font-family:var(--f-ui);font-weight:600;font-size:21px;line-height:1.2;margin:0;letter-spacing:.01em;color:var(--ink)}
 
 .brand small{color:var(--muted);font-size:11px;letter-spacing:.12em;text-transform:uppercase;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
@@ -285,7 +285,7 @@ nav.tabs button{padding-inline:10px}
 </style>
 
 <header class="top"><div class="wrap">
-  <div class="brand"><svg class="mark" viewBox="0 0 64 64" aria-hidden="true"><path d="M21 9 H43 V48 L32 40.5 L21 48 Z" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linejoin="round"/><path d="M26 19 H38 M26 25 H38 M26 31 H33" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M32 48 V55" stroke="#b08a3e" stroke-width="2.2" stroke-linecap="round"/><circle cx="32" cy="57.5" r="2.8" fill="#b08a3e"/></svg><div class="txt"><h1>栞 Shiori</h1><small id="brandSub">A quieter way to read</small></div></div>
+  <div class="brand"><svg class="mark" viewBox="6 4 52 56" aria-hidden="true"><path d="M20 8 H44 V50 L32 41.5 L20 50 Z" fill="none" stroke="currentColor" stroke-width="3.6" stroke-linejoin="round"/><path d="M26 19 H38 M26 26 H38 M26 33 H33" stroke="currentColor" stroke-width="3.2" stroke-linecap="round"/><path d="M32 50 V56" stroke="#b08a3e" stroke-width="3.2" stroke-linecap="round"/><circle cx="32" cy="58.5" r="3.4" fill="#b08a3e"/></svg><div class="txt"><h1>栞 Shiori</h1></div></div>
   <nav class="tabs" id="tabs"></nav>
 </div></header>
 <main class="wrap" id="app"></main>
