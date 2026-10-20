@@ -40,12 +40,12 @@ button{cursor:pointer}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
 header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);border-bottom:1px solid var(--line)}
-.brand{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:16px 6px}
-.lockup{display:flex;align-items:center;gap:10px;min-width:0}
-.mark{width:34px;height:34px;flex:none}
-.brand h1{font-family:var(--f-display);font-weight:700;font-size:26px;margin:0;letter-spacing:.02em}
-.brand h1 span{color:var(--accent)}
-.brand small{color:var(--muted);font-size:12px;letter-spacing:.08em}
+.brand{display:flex;align-items:center;gap:12px;padding-block:14px 8px}
+.brand .txt{display:flex;flex-direction:column;min-width:0;gap:2px}
+.mark{width:46px;height:46px;flex:none;border-radius:12px}
+.brand h1{font-family:var(--f-ui);font-weight:600;font-size:21px;line-height:1.2;margin:0;letter-spacing:.01em;color:var(--ink)}
+
+.brand small{color:var(--muted);font-size:11px;letter-spacing:.12em;text-transform:uppercase;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 nav.tabs{display:flex;gap:4px;overflow-x:auto}
 nav.tabs button{background:none;border:0;padding:10px 12px 11px;color:var(--muted);font-weight:500;border-bottom:2px solid transparent;white-space:nowrap}
 nav.tabs button[aria-current="true"]{color:var(--ink);border-bottom-color:var(--accent)}
@@ -285,7 +285,7 @@ nav.tabs button{padding-inline:10px}
 </style>
 
 <header class="top"><div class="wrap">
-  <div class="brand"><div class="lockup"><svg class="mark" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="var(--ink)"/><path d="M9 21 Q20 16.5 31 20.5 V45 Q20 41 9 45.5 Z M33 20.5 Q44 16.5 55 21 V45.5 Q44 41 33 45 Z" fill="var(--paper)"/><path d="M13 26 Q20 23.5 27 25.5 M13 31 Q20 28.5 27 30.5 M37 25.5 Q44 23.5 51 26 M37 30.5 Q44 28.5 51 31" stroke="var(--line)" stroke-width="1.4" fill="none" stroke-linecap="round"/><path d="M29.5 17 H34.5 V55 L32 51.6 L29.5 55 Z" fill="var(--accent)"/></svg><h1>栞 <span>Shiori</span></h1></div><small id="brandSub"></small></div>
+  <div class="brand"><svg class="mark" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#1c2930"/><path d="M10 22 Q21 17.5 32 21.5 V45 Q21 41 10 45.5 Z M32 21.5 Q43 17.5 54 22 V45.5 Q43 41 32 45 Z" fill="#f2f4f3"/><path d="M14 27 Q21 24.5 27 26.5 M14 32 Q21 29.5 27 31.5 M37 26.5 Q43 24.5 50 27 M37 31.5 Q43 29.5 50 32" stroke="#8fa0a6" stroke-width="1.4" fill="none" stroke-linecap="round"/></svg><div class="txt"><h1>栞 Shiori</h1><small id="brandSub">A quieter way to read</small></div></div>
   <nav class="tabs" id="tabs"></nav>
 </div></header>
 <main class="wrap" id="app"></main>
@@ -1539,7 +1539,7 @@ function tabs(){
   const n=dueCards().length;
   $("#tabs").innerHTML=[["start","tStart"],["read","tRead"],["vocab","tVocab"],["prac","tPrac"],["set","tSet"]].map(([v,k])=>
     `<button data-tab="${v}" aria-current="${V.view===v}">${t(k)}${v==="read"&&todayPiece()&&!S.read[todayPiece().id]&&S.set.mode!=="begin"?`<span class="dot" aria-hidden="true"></span>`:""}${v==="prac"&&n?`<span class="badge">${n}</span>`:""}</button>`).join("");
-  $("#brandSub").textContent=t("sub");
+  
 }
 function viewWelcome(){
   const s=S.set;
@@ -1746,7 +1746,7 @@ function render(){
   if(TTS.playing&&!reading)stopAll();
   document.documentElement.lang=S.set.ui;
   document.documentElement.style.setProperty("--read-size",S.set.size+"px");
-  if(!S.set.onb){$("#tabs").innerHTML="";$("#brandSub").textContent=t("sub");$("#app").innerHTML=viewWelcome();return}
+  if(!S.set.onb){$("#tabs").innerHTML="";$("#app").innerHTML=viewWelcome();return}
   tabs();
   $("#app").innerHTML=V.view==="start"?viewStart():V.view==="read"?viewRead():V.view==="vocab"?viewVocab():V.view==="prac"?viewPrac():viewSet();
   if(V.view==="read"&&V.art&&S.set.vert&&!TTS.playing){const r=$("#reader");if(r)r.scrollLeft=r.scrollWidth}
