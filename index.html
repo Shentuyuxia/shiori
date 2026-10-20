@@ -218,8 +218,7 @@ html[lang="zh-Hant"]{--f-display:"Noto Serif TC","PingFang TC","Songti TC",serif
 .acct-who span{font-size:13px;color:var(--muted);line-height:1.5}
 .acct-acts{margin-top:14px}
 .acct-msg{font-size:14px;margin:10px 0 0}
-.goal-ctl{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
-.goal-ctl input[type=range]{flex:1;min-width:160px}
+.goal-row{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
 .goal-num{display:flex;align-items:center;gap:6px}
 .goal-num input{width:76px;padding:7px 9px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink);font:inherit}
 .acct-card input{width:100%;box-sizing:border-box;max-width:none}
@@ -1762,7 +1761,7 @@ function viewSet(){
   <div class="item"><span class="lab">${t("voice")}</span><p>${TTS.ok?t("voiceP"):t("noTTS")}</p><div class="c"><select id="voiceSel" class="sel" ${TTS.voices.length?"":"disabled"} aria-label="${t("voice")}"><option value="">${t("auto")}</option>${TTS.voices.map(v=>`<option value="${esc(v.voiceURI)}" ${v.voiceURI===s.voice?"selected":""}>${esc(v.name)}</option>`).join("")}</select></div></div>
   <div class="item"><span class="lab">${t("autoSay")}</span><p>${t("autoSayP")}</p><div class="c">${seg("autosay",[["1",t("on")],["0",t("off")]],s.autoSay?"1":"0")}</div></div>
   <div class="item"><span class="lab">${t("dir")}</span><p>${t("dirP")}</p><div class="c">${seg("pdir",[["j2z",t("j2z")],["z2j",t("z2j")],["mix",t("mix")]],s.dir)}</div></div>
-  <div class="item stack"><span class="lab">${t("goal")}</span><p>${t("goalP")}</p><div class="c"><div class="goal-ctl"><input id="goalRange" type="range" min="5" max="100" step="5" value="${Math.min(100,Math.max(5,s.goal))}" aria-label="${t("goal")}"><span class="goal-num"><input id="goalNum" type="number" min="1" max="500" inputmode="numeric" value="${s.goal}" aria-label="${t("goal")}"><span>${t("goalUnit")}</span></span></div></div></div>
+  <div class="item stack"><span class="lab">${t("goal")}</span><p>${t("goalP")}</p><div class="c"><div class="goal-row"><span class="seg">${[5,10,15].map(n=>`<button data-goal="${n}" aria-pressed="${s.goal===n}">${t("cards",n)}</button>`).join("")}</span><span class="goal-num"><input id="goalNum" type="number" min="1" max="500" inputmode="numeric" value="${s.goal}" aria-label="${t("goal")}"><span>${t("goalUnit")}</span></span></div></div></div>
   <div class="item stack"><span class="lab">${t("data")}</span><p>${t("dataP")}</p><div class="c">
     <div class="iorow"><button class="btn" data-act="export">${t("exp")}</button>${S.cards.some(c=>c.seed)?`<button class="btn danger" data-act="rmseed">${t("rmSeed")}</button>`:""}</div>
     <textarea class="io" id="io" placeholder="${t("impPh")}" style="margin-top:10px"></textarea>
