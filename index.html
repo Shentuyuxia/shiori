@@ -43,7 +43,8 @@ button{cursor:pointer}
 .kex{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--surface);margin:12px 0}
 .kex-k{font-family:var(--f-read);font-size:30px;line-height:1}
 .kex-w{font-family:var(--f-read);font-size:22px}
-.kex-m{color:var(--muted);font-size:14px}
+.kex-r{color:var(--muted);font-size:13px;font-family:system-ui,sans-serif}
+.kex-m{color:var(--ink);font-size:15px}
 .lang-box{position:absolute;right:16px;top:14px;z-index:6}
 .lang-btn{display:flex;align-items:center;gap:5px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:6px 11px;font:inherit;font-size:13px;cursor:pointer}
 .lang-btn svg{flex:none}
@@ -1640,7 +1641,7 @@ function kanaCell(k){if(!k||k==="・")return `<span class="kc empty"></span>`;co
   return `<button class="kc ${kOK(kk)?"ok":""}" data-kana="${kk}" lang="ja"><b>${kk}</b><small>${romaji(k)}</small></button>`}
 function viewKana(){
   const ex=V.kanaSel&&kexOf(V.kanaSel);
-  const exHTML=ex?`<div class="kex"><span class="kex-k" lang="ja">${esc(V.kanaSel)}</span><span class="kex-w" lang="ja">${esc(ex[0])}</span><span class="kex-m">${esc(ex[1])}</span><button class="btn sm" data-say="${esc(ex[0])}" aria-label="${esc(ex[0])}">${SPK}</button></div>`:"";
+  const exHTML=ex?`<div class="kex"><span class="kex-k" lang="ja">${esc(V.kanaSel)}</span><span class="kex-w" lang="ja">${esc(ex[0])}</span><span class="kex-r">${esc(ex[1])}</span><span class="kex-m">${esc(ex[{"zh-Hant":2,"zh-Hans":3,"en":4,"de":5,"ja":6}[S.set.ui]||4])}</span><button class="btn sm" data-say="${esc(ex[0])}" aria-label="${esc(ex[0])}">${SPK}</button></div>`:"";
   const grid=(rows,cols)=>`<div class="kgrid" style="--cols:${cols}">${rows.map(r=>(Array.isArray(r)?r:r.split("")).map(kanaCell).join("")).join("")}</div>`;
   return `<button class="back" data-act="sback">${t("back2")}</button><p class="eyebrow">${t("step",1)}</p><h2>${t("kanaH")}</h2><p class="lede">${t("kanaP")}</p>${exHTML}
   <div class="ctrl"><span class="seg"><button data-ks="h" aria-pressed="${V.kscript==="h"}">${t("hira")}</button><button data-ks="k" aria-pressed="${V.kscript==="k"}">${t("kata")}</button></span></div>
@@ -1987,17 +1988,8 @@ function pickVoice(){return TTS.voices.find(v=>v.voiceURI===S.set.voice)||TTS.vo
 function utter(text,rate){const u=new SpeechSynthesisUtterance(text);u.lang="ja-JP";const v=pickVoice();if(v)u.voice=v;u.rate=rate||S.set.rate;return u}
 let warned=false;function noVoiceOnce(){if(!warned){warned=true;toast(t("noVoice"))}}
 function say(text){if(!TTS.ok){toast(t("noTTS"));return}if(!text)return;stopAll();if(!TTS.voices.length)loadVoices();if(!TTS.voices.length)noVoiceOnce();try{speechSynthesis.speak(utter(text))}catch(e){toast(t("noTTS"))}}
-/* example word for each kana (trial): hiragana key -> [word, meaning] */
-const KEX={"あ":["あめ","雨"],"い":["いぬ","狗"],"う":["うし","牛"],"え":["えき","車站"],"お":["おはよう","早安"],
-"か":["かさ","雨傘"],"き":["きもの","和服"],"く":["くつ","鞋子"],"け":["けさ","今早"],"こ":["こども","小孩"],
-"さ":["さくら","櫻花"],"し":["しお","鹽"],"す":["すし","壽司"],"せ":["せんせい","老師"],"そ":["そら","天空"],
-"た":["たまご","雞蛋"],"ち":["ちず","地圖"],"つ":["つき","月亮"],"て":["てがみ","信"],"と":["とり","鳥"],
-"な":["なまえ","名字"],"に":["にほん","日本"],"ぬ":["ぬの","布"],"ね":["ねこ","貓"],"の":["のみもの","飲料"],
-"は":["はな","花"],"ひ":["ひと","人"],"ふ":["ふゆ","冬"],"へ":["へや","房間"],"ほ":["ほん","書"],
-"ま":["まど","窗"],"み":["みず","水"],"む":["むし","蟲"],"め":["めがね","眼鏡"],"も":["もも","桃"],
-"や":["やま","山"],"ゆ":["ゆき","雪"],"よ":["よる","夜"],"ら":["らいおん","獅子"],"り":["りんご","蘋果"],
-"る":["るす","不在家"],"れ":["れいぞうこ","冰箱"],"ろ":["ろうそく","蠟燭"],"わ":["わたし","我"],"を":["をんな","女人"],
-"ん":["みかん","橘子"]};
+/* example word for each kana (trial): hiragana key -> [word, romaji, zh-Hant, zh-Hans, en, de, ja] */
+const KEX={"あ":["あめ","ame","雨","雨","rain","Regen","雨"],"い":["いぬ","inu","狗","狗","dog","Hund","犬"],"う":["うし","ushi","牛","牛","cow","Kuh","牛"],"え":["えき","eki","車站","车站","station","Bahnhof","駅"],"お":["おかね","okane","錢","钱","money","Geld","お金"],"か":["かさ","kasa","雨傘","雨伞","umbrella","Regenschirm","傘"],"き":["き","ki","樹","树","tree","Baum","木"],"く":["くつ","kutsu","鞋子","鞋子","shoes","Schuhe","靴"],"け":["けしゴム","keshigomu","橡皮擦","橡皮擦","eraser","Radiergummi","消しゴム"],"こ":["こども","kodomo","小孩","小孩","child","Kind","子ども"],"さ":["さくら","sakura","櫻花","樱花","cherry blossom","Kirschblüte","桜"],"し":["しお","shio","鹽","盐","salt","Salz","塩"],"す":["すし","sushi","壽司","寿司","sushi","Sushi","寿司"],"せ":["せんせい","sensei","老師","老师","teacher","Lehrer/in","先生"],"そ":["そら","sora","天空","天空","sky","Himmel","空"],"た":["たまご","tamago","雞蛋","鸡蛋","egg","Ei","卵"],"ち":["ちず","chizu","地圖","地图","map","Karte","地図"],"つ":["つき","tsuki","月亮","月亮","moon","Mond","月"],"て":["て","te","手","手","hand","Hand","手"],"と":["とり","tori","鳥","鸟","bird","Vogel","鳥"],"な":["なまえ","namae","名字","名字","name","Name","名前"],"に":["にほん","nihon","日本","日本","Japan","Japan","日本"],"ぬ":["ぬの","nuno","布","布","cloth","Stoff","布"],"ね":["ねこ","neko","貓","猫","cat","Katze","猫"],"の":["のむ","nomu","喝","喝","to drink","trinken","飲む"],"は":["はな","hana","花","花","flower","Blume","花"],"ひ":["ひと","hito","人","人","person","Mensch","人"],"ふ":["ふゆ","fuyu","冬","冬","winter","Winter","冬"],"へ":["へや","heya","房間","房间","room","Zimmer","部屋"],"ほ":["ほん","hon","書","书","book","Buch","本"],"ま":["まど","mado","窗","窗","window","Fenster","窓"],"み":["みず","mizu","水","水","water","Wasser","水"],"む":["むし","mushi","蟲","虫","insect","Insekt","虫"],"め":["めがね","megane","眼鏡","眼镜","glasses","Brille","眼鏡"],"も":["もも","momo","桃","桃","peach","Pfirsich","桃"],"や":["やま","yama","山","山","mountain","Berg","山"],"ゆ":["ゆき","yuki","雪","雪","snow","Schnee","雪"],"よ":["よる","yoru","夜","夜","night","Nacht","夜"],"ら":["らいおん","raion","獅子","狮子","lion","Löwe","ライオン"],"り":["りんご","ringo","蘋果","苹果","apple","Apfel","りんご"],"る":["るす","rusu","不在家","不在家","nobody at home","niemand zu Hause","留守"],"れ":["れもん","remon","檸檬","柠檬","lemon","Zitrone","レモン"],"ろ":["ろく","roku","六","六","six","sechs","六"],"わ":["わたし","watashi","我","我","I","ich","私"],"を":["みずを のむ","mizu o nomu","喝水","喝水","drink water","Wasser trinken","水を飲む"],"ん":["みかん","mikan","橘子","橘子","mandarin orange","Mandarine","みかん"]};
 function kexOf(k){const h=String(k||"").replace(/[\u30A1-\u30F6]/g,c=>String.fromCharCode(c.charCodeAt(0)-0x60));return KEX[h]||null}
 /* kana chart: read the single kana three times, slower, with short pauses, then the example word */
 function sayKana(k){if(!TTS.ok){toast(t("noTTS"));return}stopAll();if(!TTS.voices.length)loadVoices();const g=TTS.gen;let n=0;const ex=kexOf(k);
