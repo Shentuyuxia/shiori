@@ -40,6 +40,13 @@ button,input,select,textarea{font:inherit;color:inherit}
 button{cursor:pointer}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
+.lang-box{position:absolute;right:16px;top:14px;z-index:6}
+.lang-btn{display:flex;align-items:center;gap:5px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:6px 11px;font:inherit;font-size:13px;cursor:pointer}
+.lang-btn svg{flex:none}
+.lang-menu{position:absolute;right:0;top:calc(100% + 8px);background:var(--surface);border:1px solid var(--line);border-radius:12px;box-shadow:0 8px 24px var(--shade);padding:6px;min-width:150px;display:flex;flex-direction:column;gap:2px}
+.lang-menu button{display:block;width:100%;text-align:left;border:0;background:none;padding:9px 11px;border-radius:8px;font:inherit;font-size:14px;color:var(--ink);cursor:pointer}
+.lang-menu button:hover{background:var(--line)}
+.lang-menu button[aria-pressed="true"]{color:var(--accent);font-weight:600}
 header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);border-bottom:1px solid var(--line)}
 .brand{display:flex;align-items:center;gap:12px;padding-block:14px 8px}
 .brand .txt{display:flex;flex-direction:column;min-width:0}
@@ -299,7 +306,7 @@ nav.tabs button{padding-inline:10px}
 .sbtns{display:flex;gap:6px}
 </style>
 
-<header class="top"><div class="wrap">
+<header class="top"><div class="wrap"><div id="langBox" class="lang-box"></div>
   <div class="brand"><svg class="mark" viewBox="6 4 52 56" aria-hidden="true"><path d="M20 8 H44 V50 L32 41.5 L20 50 Z" fill="none" stroke="currentColor" stroke-width="3.6" stroke-linejoin="round"/><path d="M26 19 H38 M26 26 H38 M26 33 H33" stroke="currentColor" stroke-width="3.2" stroke-linecap="round"/><path d="M32 50 V56" stroke="#b08a3e" stroke-width="3.2" stroke-linecap="round"/><circle cx="32" cy="58.5" r="3.4" fill="#b08a3e"/></svg><div class="txt"><h1>栞 Shiori</h1></div></div>
   <nav class="tabs" id="tabs"></nav>
 </div></header>
@@ -1757,10 +1764,20 @@ function viewSet(){
     <textarea class="io" id="io" placeholder="${t("impPh")}" style="margin-top:10px"></textarea>
     <div class="iorow"><button class="btn" data-act="import">${t("imp")}</button></div></div></div></div>`;
 }
+const LSHORT={"zh-Hant":"繁","zh-Hans":"简","en":"EN","de":"DE","ja":"日"};
+function langBox(){
+  const cur=S.set.ui;
+  const menu=V.langOpen?`<div class="lang-menu" role="menu">${UIS.map(([v,l])=>`<button type="button" role="menuitem" data-ui="${v}" aria-pressed="${v===cur}">${l}</button>`).join("")}</div>`:"";
+  return `<button type="button" class="lang-btn" data-act="langtoggle" aria-haspopup="true" aria-expanded="${!!V.langOpen}" aria-label="${esc(LSHORT[cur]||cur)}">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 3 2.6 15 0 18M12 3c-2.6 3-2.6 15 0 18"/></svg>
+    <span>${esc(LSHORT[cur]||cur)}</span></button>${menu}`;
+}
 function render(){
   const reading=(V.view==="read"&&V.art)||(V.view==="start"&&V.sv&&V.sv.startsWith("les:"));
   if(TTS.playing&&!reading)stopAll();
   document.documentElement.lang=S.set.ui;
+  const lb=$("#langBox");
+  if(lb) lb.innerHTML=langBox();
   document.documentElement.style.setProperty("--read-size",S.set.size+"px");
   if(!S.set.onb){$("#tabs").innerHTML="";$("#app").innerHTML=viewWelcome();return}
   tabs();
@@ -2018,7 +2035,7 @@ document.addEventListener("click",e=>{
   if(d.lvl){S.set.lvl=d.lvl;persist();render();return}
   if(d.fg){S.set.fg=d.fg;persist();render();return}
   if(d.vert!==undefined){S.set.vert=d.vert==="1";persist();render();return}
-  if(d.ui){S.set.ui=d.ui;if(d.ui!=="ja")S.set.gl=d.ui;persist();render();return}
+  if(d.ui){S.set.ui=d.ui;if(d.ui!=="ja")S.set.gl=d.ui;V.langOpen=false;persist();render();return}
   if(d.gl){S.set.gl=d.gl;persist();render();return}
   if(d.mode){S.set.mode=d.mode;persist();render();return}
   if(d.romaji!==undefined){S.set.romaji=d.romaji==="1";persist();render();return}
@@ -2061,6 +2078,7 @@ document.addEventListener("click",e=>{
     case "acctdel":acctDelete();break;
     case "acctpwlogin":acctPwLogin();break;
     case "acctpwset":acctPwSet();break;
+    case "langtoggle":V.langOpen=!V.langOpen;render();break;
   }
 });
 document.addEventListener("keydown",e=>{
