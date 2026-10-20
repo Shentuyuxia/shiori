@@ -1981,6 +1981,9 @@ function pickVoice(){return TTS.voices.find(v=>v.voiceURI===S.set.voice)||TTS.vo
 function utter(text,rate){const u=new SpeechSynthesisUtterance(text);u.lang="ja-JP";const v=pickVoice();if(v)u.voice=v;u.rate=rate||S.set.rate;return u}
 let warned=false;function noVoiceOnce(){if(!warned){warned=true;toast(t("noVoice"))}}
 function say(text){if(!TTS.ok){toast(t("noTTS"));return}if(!text)return;stopAll();if(!TTS.voices.length)loadVoices();if(!TTS.voices.length)noVoiceOnce();try{speechSynthesis.speak(utter(text))}catch(e){toast(t("noTTS"))}}
+/* kana chart: read the single kana three times, slower, with short pauses, so beginners can hear it */
+function sayKana(k){if(!TTS.ok){toast(t("noTTS"));return}stopAll();if(!TTS.voices.length)loadVoices();const g=TTS.gen;let n=0;
+  const go=()=>{if(g!==TTS.gen||n>=3)return;const u=utter(k);u.rate=0.6;u.onend=()=>{n++;setTimeout(go,450)};u.onerror=()=>{n++;setTimeout(go,450)};try{speechSynthesis.speak(u)}catch(e){}};go();}
 function hl(i){document.querySelectorAll(".sen.reading").forEach(e=>e.classList.remove("reading"));if(i<0)return;const el=document.querySelector(`.sen[data-i="${i}"]`);if(el){el.classList.add("reading");try{el.scrollIntoView({block:"nearest",inline:"nearest",behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"})}catch(e){}}}
 function playFrom(i){if(!TTS.ok){toast(t("noTTS"));return}stopAll();if(!TTS.voices.length)loadVoices();if(!TTS.voices.length)noVoiceOnce();
   const g=++TTS.gen;TTS.playing=true;TTS.paused=false;
@@ -2026,7 +2029,7 @@ document.addEventListener("click",e=>{
   const b=e.target.closest("[data-showall],[data-say],[data-from],[data-rate],[data-voice],[data-autosay],[data-tab],[data-art],[data-act],[data-fg],[data-vert],[data-ui],[data-gl],[data-mode],[data-romaji],[data-wlang],[data-wmode],[data-sv],[data-ks],[data-kana],[data-kqset],[data-kqdir],[data-kpick],[data-addles],[data-addcat],[data-pdir],[data-goal],[data-lvl],[data-del],[data-ans],.an,#card");
   if(!b)return; const d=b.dataset;
   if(d.say!==undefined){e.stopPropagation();say(d.say);return}
-  if(d.kana){say(d.kana);return}
+  if(d.kana){sayKana(d.kana);return}
   if(d.from!==undefined){closeSheet();playFrom(+d.from);return}
   if(d.rate){S.set.rate=+d.rate;persist();if(V.view==="set")render();else updPlayer();return}
   if(d.showall){S.set.showAll=d.showall==="1";persist();render();return}
