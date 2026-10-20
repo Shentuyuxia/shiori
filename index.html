@@ -218,6 +218,10 @@ html[lang="zh-Hant"]{--f-display:"Noto Serif TC","PingFang TC","Songti TC",serif
 .acct-who span{font-size:13px;color:var(--muted);line-height:1.5}
 .acct-acts{margin-top:14px}
 .acct-msg{font-size:14px;margin:10px 0 0}
+.goal-ctl{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.goal-ctl input[type=range]{flex:1;min-width:160px}
+.goal-num{display:flex;align-items:center;gap:6px}
+.goal-num input{width:76px;padding:7px 9px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink);font:inherit}
 .acct-card input{width:100%;box-sizing:border-box;max-width:none}
 .acct-pw{margin-top:14px;border-top:1px solid var(--line);padding-top:12px}
 .acct-pw summary{cursor:pointer;color:var(--accent);font-size:14px}
@@ -1758,7 +1762,7 @@ function viewSet(){
   <div class="item"><span class="lab">${t("voice")}</span><p>${TTS.ok?t("voiceP"):t("noTTS")}</p><div class="c"><select id="voiceSel" class="sel" ${TTS.voices.length?"":"disabled"} aria-label="${t("voice")}"><option value="">${t("auto")}</option>${TTS.voices.map(v=>`<option value="${esc(v.voiceURI)}" ${v.voiceURI===s.voice?"selected":""}>${esc(v.name)}</option>`).join("")}</select></div></div>
   <div class="item"><span class="lab">${t("autoSay")}</span><p>${t("autoSayP")}</p><div class="c">${seg("autosay",[["1",t("on")],["0",t("off")]],s.autoSay?"1":"0")}</div></div>
   <div class="item"><span class="lab">${t("dir")}</span><p>${t("dirP")}</p><div class="c">${seg("pdir",[["j2z",t("j2z")],["z2j",t("z2j")],["mix",t("mix")]],s.dir)}</div></div>
-  <div class="item"><span class="lab">${t("goal")}</span><p>${t("goalP")}</p><div class="c">${seg("goal",[[10,t("cards",10)],[20,t("cards",20)],[40,t("cards",40)]],s.goal)}</div></div>
+  <div class="item stack"><span class="lab">${t("goal")}</span><p>${t("goalP")}</p><div class="c"><div class="goal-ctl"><input id="goalRange" type="range" min="5" max="100" step="5" value="${Math.min(100,Math.max(5,s.goal))}" aria-label="${t("goal")}"><span class="goal-num"><input id="goalNum" type="number" min="1" max="500" inputmode="numeric" value="${s.goal}" aria-label="${t("goal")}"><span>${t("goalUnit")}</span></span></div></div></div>
   <div class="item stack"><span class="lab">${t("data")}</span><p>${t("dataP")}</p><div class="c">
     <div class="iorow"><button class="btn" data-act="export">${t("exp")}</button>${S.cards.some(c=>c.seed)?`<button class="btn danger" data-act="rmseed">${t("rmSeed")}</button>`:""}</div>
     <textarea class="io" id="io" placeholder="${t("impPh")}" style="margin-top:10px"></textarea>
@@ -1854,6 +1858,14 @@ async function syncNow(manual){
   }
 }
 function syLater(){if(!syOn())return;clearTimeout(syT);syT=setTimeout(()=>syncNow(),15000)}
+document.addEventListener("input",e=>{
+  const id=e.target&&e.target.id; if(id!=="goalRange"&&id!=="goalNum") return;
+  let v=Math.round(+e.target.value); if(!(v>=1)) return; v=Math.min(500,v);
+  S.set.goal=v;
+  const other=document.getElementById(id==="goalRange"?"goalNum":"goalRange");
+  if(other) other.value=id==="goalRange"?v:Math.min(100,Math.max(5,v));
+  persist();
+});
 document.addEventListener("toggle",e=>{ if(e.target&&e.target.classList&&e.target.classList.contains("acct-pw")) V.pwOpen=e.target.open; },true);
 document.addEventListener("visibilitychange",()=>{if(!syOn())return;if(document.hidden){clearTimeout(syT);syncNow()}else syncNow()});
 window.addEventListener("online",()=>syncNow());
@@ -1956,6 +1968,8 @@ const ACCT3={
 "ja":{acctLinkOld:"このログインリンクは期限切れか、すでに使われています。下から新しく送ってください。",acctLinkOk:"メールのリンクでログインしました。"}
 };
 for(const k in ACCT3) Object.assign(I18N[k],ACCT3[k]);
+const GOALI={"zh-Hant":{goalUnit:"張"},"zh-Hans":{goalUnit:"张"},"en":{goalUnit:"cards"},"de":{goalUnit:"Karten"},"ja":{goalUnit:"枚"}};
+for(const k in GOALI) Object.assign(I18N[k],GOALI[k]);
 for(const k in ACCT2) Object.assign(I18N[k],ACCT2[k]);
 for(const k in ACCT) Object.assign(I18N[k],ACCT[k]);
 
