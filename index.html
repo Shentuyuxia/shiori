@@ -5,7 +5,7 @@
 <meta name="theme-color" content="#12181b" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="icon" href="icon-192.png" sizes="192x192" type="image/png">
-<link rel="apple-touch-icon" href="apple-touch-icon.png?v=2">
+<link rel="apple-touch-icon" href="apple-touch-icon.png?v=3">
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -42,7 +42,7 @@ button{cursor:pointer}
 header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);border-bottom:1px solid var(--line)}
 .brand{display:flex;align-items:center;gap:12px;padding-block:14px 8px}
 .brand .txt{display:flex;flex-direction:column;min-width:0;gap:2px}
-.mark{width:46px;height:46px;flex:none;border-radius:12px}
+.mark{width:40px;height:40px;flex:none;color:var(--ink)}
 .brand h1{font-family:var(--f-ui);font-weight:600;font-size:21px;line-height:1.2;margin:0;letter-spacing:.01em;color:var(--ink)}
 
 .brand small{color:var(--muted);font-size:11px;letter-spacing:.12em;text-transform:uppercase;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
@@ -285,7 +285,7 @@ nav.tabs button{padding-inline:10px}
 </style>
 
 <header class="top"><div class="wrap">
-  <div class="brand"><svg class="mark" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#1c2930"/><path d="M10 22 Q21 17.5 32 21.5 V45 Q21 41 10 45.5 Z M32 21.5 Q43 17.5 54 22 V45.5 Q43 41 32 45 Z" fill="#f2f4f3"/><path d="M14 27 Q21 24.5 27 26.5 M14 32 Q21 29.5 27 31.5 M37 26.5 Q43 24.5 50 27 M37 31.5 Q43 29.5 50 32" stroke="#8fa0a6" stroke-width="1.4" fill="none" stroke-linecap="round"/></svg><div class="txt"><h1>栞 Shiori</h1><small id="brandSub">A quieter way to read</small></div></div>
+  <div class="brand"><svg class="mark" viewBox="0 0 64 64" aria-hidden="true"><path d="M21 9 H43 V48 L32 40.5 L21 48 Z" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linejoin="round"/><path d="M26 19 H38 M26 25 H38 M26 31 H33" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M32 48 V55" stroke="#b08a3e" stroke-width="2.2" stroke-linecap="round"/><circle cx="32" cy="57.5" r="2.8" fill="#b08a3e"/></svg><div class="txt"><h1>栞 Shiori</h1><small id="brandSub">A quieter way to read</small></div></div>
   <nav class="tabs" id="tabs"></nav>
 </div></header>
 <main class="wrap" id="app"></main>
