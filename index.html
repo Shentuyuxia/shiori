@@ -40,6 +40,10 @@ button,input,select,textarea{font:inherit;color:inherit}
 button{cursor:pointer}
 :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
+.kex{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--surface);margin:12px 0}
+.kex-k{font-family:var(--f-read);font-size:30px;line-height:1}
+.kex-w{font-family:var(--f-read);font-size:22px}
+.kex-m{color:var(--muted);font-size:14px}
 .lang-box{position:absolute;right:16px;top:14px;z-index:6}
 .lang-btn{display:flex;align-items:center;gap:5px;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:6px 11px;font:inherit;font-size:13px;cursor:pointer}
 .lang-btn svg{flex:none}
@@ -1635,8 +1639,10 @@ function viewStart(){
 function kanaCell(k){if(!k||k==="・")return `<span class="kc empty"></span>`;const kk=V.kscript==="k"?toKata(k):k;
   return `<button class="kc ${kOK(kk)?"ok":""}" data-kana="${kk}" lang="ja"><b>${kk}</b><small>${romaji(k)}</small></button>`}
 function viewKana(){
+  const ex=V.kanaSel&&kexOf(V.kanaSel);
+  const exHTML=ex?`<div class="kex"><span class="kex-k" lang="ja">${esc(V.kanaSel)}</span><span class="kex-w" lang="ja">${esc(ex[0])}</span><span class="kex-m">${esc(ex[1])}</span><button class="btn sm" data-say="${esc(ex[0])}" aria-label="${esc(ex[0])}">${SPK}</button></div>`:"";
   const grid=(rows,cols)=>`<div class="kgrid" style="--cols:${cols}">${rows.map(r=>(Array.isArray(r)?r:r.split("")).map(kanaCell).join("")).join("")}</div>`;
-  return `<button class="back" data-act="sback">${t("back2")}</button><p class="eyebrow">${t("step",1)}</p><h2>${t("kanaH")}</h2><p class="lede">${t("kanaP")}</p>
+  return `<button class="back" data-act="sback">${t("back2")}</button><p class="eyebrow">${t("step",1)}</p><h2>${t("kanaH")}</h2><p class="lede">${t("kanaP")}</p>${exHTML}
   <div class="ctrl"><span class="seg"><button data-ks="h" aria-pressed="${V.kscript==="h"}">${t("hira")}</button><button data-ks="k" aria-pressed="${V.kscript==="k"}">${t("kata")}</button></span></div>
   <h3 class="kh">${t("basic")}</h3>${grid(KROWS,5)}
   <h3 class="kh">${t("daku")}</h3>${grid(KDROWS,5)}
@@ -1981,9 +1987,23 @@ function pickVoice(){return TTS.voices.find(v=>v.voiceURI===S.set.voice)||TTS.vo
 function utter(text,rate){const u=new SpeechSynthesisUtterance(text);u.lang="ja-JP";const v=pickVoice();if(v)u.voice=v;u.rate=rate||S.set.rate;return u}
 let warned=false;function noVoiceOnce(){if(!warned){warned=true;toast(t("noVoice"))}}
 function say(text){if(!TTS.ok){toast(t("noTTS"));return}if(!text)return;stopAll();if(!TTS.voices.length)loadVoices();if(!TTS.voices.length)noVoiceOnce();try{speechSynthesis.speak(utter(text))}catch(e){toast(t("noTTS"))}}
-/* kana chart: read the single kana three times, slower, with short pauses, so beginners can hear it */
-function sayKana(k){if(!TTS.ok){toast(t("noTTS"));return}stopAll();if(!TTS.voices.length)loadVoices();const g=TTS.gen;let n=0;
-  const go=()=>{if(g!==TTS.gen||n>=3)return;const u=utter(k);u.rate=0.6;u.onend=()=>{n++;setTimeout(go,450)};u.onerror=()=>{n++;setTimeout(go,450)};try{speechSynthesis.speak(u)}catch(e){}};go();}
+/* example word for each kana (trial): hiragana key -> [word, meaning] */
+const KEX={"あ":["あめ","雨"],"い":["いぬ","狗"],"う":["うし","牛"],"え":["えき","車站"],"お":["おはよう","早安"],
+"か":["かさ","雨傘"],"き":["きもの","和服"],"く":["くつ","鞋子"],"け":["けさ","今早"],"こ":["こども","小孩"],
+"さ":["さくら","櫻花"],"し":["しお","鹽"],"す":["すし","壽司"],"せ":["せんせい","老師"],"そ":["そら","天空"],
+"た":["たまご","雞蛋"],"ち":["ちず","地圖"],"つ":["つき","月亮"],"て":["てがみ","信"],"と":["とり","鳥"],
+"な":["なまえ","名字"],"に":["にほん","日本"],"ぬ":["ぬの","布"],"ね":["ねこ","貓"],"の":["のみもの","飲料"],
+"は":["はな","花"],"ひ":["ひと","人"],"ふ":["ふゆ","冬"],"へ":["へや","房間"],"ほ":["ほん","書"],
+"ま":["まど","窗"],"み":["みず","水"],"む":["むし","蟲"],"め":["めがね","眼鏡"],"も":["もも","桃"],
+"や":["やま","山"],"ゆ":["ゆき","雪"],"よ":["よる","夜"],"ら":["らいおん","獅子"],"り":["りんご","蘋果"],
+"る":["るす","不在家"],"れ":["れいぞうこ","冰箱"],"ろ":["ろうそく","蠟燭"],"わ":["わたし","我"],"を":["をんな","女人"],
+"ん":["みかん","橘子"]};
+function kexOf(k){const h=String(k||"").replace(/[\u30A1-\u30F6]/g,c=>String.fromCharCode(c.charCodeAt(0)-0x60));return KEX[h]||null}
+/* kana chart: read the single kana three times, slower, with short pauses, then the example word */
+function sayKana(k){if(!TTS.ok){toast(t("noTTS"));return}stopAll();if(!TTS.voices.length)loadVoices();const g=TTS.gen;let n=0;const ex=kexOf(k);
+  const go=()=>{if(g!==TTS.gen)return;
+    if(n<3){const u=utter(k);u.rate=0.6;u.onend=()=>{n++;setTimeout(go,450)};u.onerror=()=>{n++;setTimeout(go,450)};try{speechSynthesis.speak(u)}catch(e){}return}
+    if(ex){try{speechSynthesis.speak(utter(ex[0]))}catch(e){}}};go();}
 function hl(i){document.querySelectorAll(".sen.reading").forEach(e=>e.classList.remove("reading"));if(i<0)return;const el=document.querySelector(`.sen[data-i="${i}"]`);if(el){el.classList.add("reading");try{el.scrollIntoView({block:"nearest",inline:"nearest",behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"})}catch(e){}}}
 function playFrom(i){if(!TTS.ok){toast(t("noTTS"));return}stopAll();if(!TTS.voices.length)loadVoices();if(!TTS.voices.length)noVoiceOnce();
   const g=++TTS.gen;TTS.playing=true;TTS.paused=false;
@@ -2029,7 +2049,7 @@ document.addEventListener("click",e=>{
   const b=e.target.closest("[data-showall],[data-say],[data-from],[data-rate],[data-voice],[data-autosay],[data-tab],[data-art],[data-act],[data-fg],[data-vert],[data-ui],[data-gl],[data-mode],[data-romaji],[data-wlang],[data-wmode],[data-sv],[data-ks],[data-kana],[data-kqset],[data-kqdir],[data-kpick],[data-addles],[data-addcat],[data-pdir],[data-goal],[data-lvl],[data-del],[data-ans],.an,#card");
   if(!b)return; const d=b.dataset;
   if(d.say!==undefined){e.stopPropagation();say(d.say);return}
-  if(d.kana){sayKana(d.kana);return}
+  if(d.kana){V.kanaSel=d.kana;render();sayKana(d.kana);return}
   if(d.from!==undefined){closeSheet();playFrom(+d.from);return}
   if(d.rate){S.set.rate=+d.rate;persist();if(V.view==="set")render();else updPlayer();return}
   if(d.showall){S.set.showAll=d.showall==="1";persist();render();return}
