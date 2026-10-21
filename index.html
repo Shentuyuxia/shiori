@@ -1996,7 +1996,7 @@ function pickVoice(){return TTS.voices.find(v=>v.voiceURI===S.set.voice)||ranked
 function utter(text,rate){const u=new SpeechSynthesisUtterance(text);u.lang="ja-JP";const v=pickVoice();if(v)u.voice=v;u.rate=rate||S.set.rate;return u}
 let warned=false;function noVoiceOnce(){if(!warned){warned=true;toast(t("noVoice"))}}
 /* pre-recorded VOICEVOX audio (audio/manifest.json), falls back to device speech */
-const VV_VOICES=[{id:23,name:"WhiteCUL"},{id:118,name:"夜語トバリ"},{id:13,name:"青山龍星"}];
+const VV_VOICES=[{id:118,name:"夜語トバリ"}];
 const VV={on:false,list:[]};
 function h32(s,seed){let h=seed>>>0;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)>>>0}return h.toString(16).padStart(8,"0")}
 const vkey=s=>{s=String(s).trim();return h32(s,2166136261)+h32(s,0x9747b28c)};
