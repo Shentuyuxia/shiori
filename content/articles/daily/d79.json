@@ -1,0 +1,100 @@
+{
+  "id": "d79",
+  "d": 79,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "文學原文",
+    "ja": "文学（原文）"
+  },
+  "title": "坊っちゃん（冒頭）",
+  "sub": "夏目漱石《少爺》開頭（1906）",
+  "src": "青空文庫（夏目漱石『坊っちゃん』）",
+  "body": "親譲りの[[無鉄砲|むてっぽう]]で[[小供|こども]]の時から損ばかりしている。小学校に居る[[時分|じぶん]]学校の二階から飛び降りて一週間ほど[[腰を抜かした|こしをぬかした]]事がある。",
+  "gloss": {
+    "無鉄砲": {
+      "m": "魯莽、不顧後果",
+      "n": "「親譲り」＝遺傳自父母。"
+    },
+    "小供": {
+      "m": "小孩",
+      "n": "今寫作「子供」。"
+    },
+    "時分": {
+      "m": "時候"
+    },
+    "腰を抜かした": {
+      "m": "站不起來、閃到腰",
+      "n": "原意是嚇得腿軟。"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Botchan (opening)",
+      "g": {
+        "無鉄砲": [
+          "reckless",
+          "「親譲り」 = inherited from one's parents."
+        ],
+        "小供": [
+          "child",
+          "Today written 子供."
+        ],
+        "時分": [
+          "time, when"
+        ],
+        "腰を抜かした": [
+          "couldn't stand up",
+          "Literally: legs gave way from shock."
+        ]
+      }
+    },
+    "de": {
+      "s": "Botchan (Anfang)",
+      "g": {
+        "無鉄砲": [
+          "tollkühn",
+          "„親譲り“ = von den Eltern geerbt."
+        ],
+        "小供": [
+          "Kind",
+          "Heute 子供 geschrieben."
+        ],
+        "時分": [
+          "Zeit, damals"
+        ],
+        "腰を抜かした": [
+          "konnte nicht mehr aufstehen",
+          "Wörtlich: vor Schreck weiche Knie."
+        ]
+      }
+    },
+    "hans": {
+      "s": "夏目漱石《少爷》开头（1906）",
+      "g": {
+        "無鉄砲": [
+          "鲁莽、不顾后果",
+          "「亲譲り」＝遗传自父母。"
+        ],
+        "小供": [
+          "小孩",
+          "今写作「子供」。"
+        ],
+        "時分": [
+          "时候"
+        ],
+        "腰を抜かした": [
+          "站不起来、闪到腰",
+          "原意是吓得腿软。"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "我遺傳了父親的莽撞，從小到大總是吃虧。上小學的時候，曾經從學校二樓跳下來，結果腰閃了，躺了一個星期左右。",
+      "zh-Hans": "我遗传了父亲的莽撞，从小到大总是吃亏。上小学的时候，曾经从学校二楼跳下来，结果腰闪了，躺了一个星期左右。",
+      "en": "I inherited my father's recklessness and have been losing out since I was a child. When I was in elementary school, I jumped down from the second floor of the school and was so badly hurt in the back that I couldn't get up for about a week.",
+      "de": "I inherited my father's recklessness and have been losing out since I was a child. When I was in elementary school, I jumped down from the second floor of the school and was so badly hurt in the back that I couldn't get up for about a week."
+    }
+  ]
+}

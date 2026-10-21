@@ -1,0 +1,199 @@
+{
+  "id": "d64",
+  "d": 64,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "冬至とゆず湯",
+  "sub": "冬至與柚子浴",
+  "body": "今年もいよいよ冬至の頃。一年で最も昼が短く、夜が長い日だ。この日を境に、日は少しずつ長くなっていく。古くは「[[一陽来復|いちようらいふく]]」と言い、悪いことが続いた後に運が上向く[[兆し|きざし]]ともされた。\n\n日本の冬至の[[風習|ふうしゅう]]といえば、「ゆず湯」と「かぼちゃ」だ。湯船に柚子を[[浮かべて|うかべて]]入ると、[[風邪|かぜ]]をひかないと言われる。「冬至」を「[[湯治|とうじ]]」に、「柚子」を「[[融通|ゆうずう]]がきく」に[[かけた|かけた]][[洒落|しゃれ]]だという説もある。かぼちゃを食べるのは、栄養をとって冬を乗り切るため。「ん」のつく食べ物を食べると「[[運|うん]]」が呼び込める、とも言う。\n\n台湾の冬至は湯圓を食べる日だ。同じ日に、海を[[挟んだ|はさんだ]]二つの土地で、まったく違う[[温まり方|あたたまりかた]]をしているのが面白い。",
+  "gloss": {
+    "一陽来復": {
+      "m": "一陽來復、否極泰來"
+    },
+    "兆し": {
+      "m": "徵兆"
+    },
+    "風習": {
+      "m": "習俗"
+    },
+    "浮かべて": {
+      "m": "讓…漂浮"
+    },
+    "風邪": {
+      "m": "感冒"
+    },
+    "湯治": {
+      "m": "溫泉療養"
+    },
+    "融通": {
+      "m": "融通、通融",
+      "n": "「融通がきく」＝能變通。"
+    },
+    "かけた": {
+      "m": "雙關"
+    },
+    "洒落": {
+      "m": "雙關語、俏皮話"
+    },
+    "運": {
+      "m": "運氣"
+    },
+    "挟んだ": {
+      "m": "隔著"
+    },
+    "温まり方": {
+      "m": "暖身的方式"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Winter solstice and yuzu baths",
+      "g": {
+        "一陽来復": [
+          "the return of the light, things turn for the better"
+        ],
+        "兆し": [
+          "sign, omen"
+        ],
+        "風習": [
+          "custom"
+        ],
+        "浮かべて": [
+          "floating"
+        ],
+        "風邪": [
+          "cold (illness)"
+        ],
+        "湯治": [
+          "hot-spring cure"
+        ],
+        "融通": [
+          "flexibility",
+          "「融通がきく」 = to be flexible."
+        ],
+        "かけた": [
+          "punning on"
+        ],
+        "洒落": [
+          "pun"
+        ],
+        "運": [
+          "luck"
+        ],
+        "挟んだ": [
+          "across (with something in between)"
+        ],
+        "温まり方": [
+          "way of warming up"
+        ]
+      }
+    },
+    "de": {
+      "s": "Wintersonnenwende und Yuzu-Bad",
+      "g": {
+        "一陽来復": [
+          "die Wende zum Guten"
+        ],
+        "兆し": [
+          "Anzeichen"
+        ],
+        "風習": [
+          "Brauch"
+        ],
+        "浮かべて": [
+          "schwimmen lassend"
+        ],
+        "風邪": [
+          "Erkältung"
+        ],
+        "湯治": [
+          "Badekur"
+        ],
+        "融通": [
+          "Flexibilität",
+          "„融通がきく“ = flexibel sein."
+        ],
+        "かけた": [
+          "ein Wortspiel mit"
+        ],
+        "洒落": [
+          "Wortspiel"
+        ],
+        "運": [
+          "Glück"
+        ],
+        "挟んだ": [
+          "auf der anderen Seite (mit etwas dazwischen)"
+        ],
+        "温まり方": [
+          "Art, sich aufzuwärmen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "冬至与柚子浴",
+      "g": {
+        "一陽来復": [
+          "一阳来复、否极泰来"
+        ],
+        "兆し": [
+          "征兆"
+        ],
+        "風習": [
+          "习俗"
+        ],
+        "浮かべて": [
+          "让…漂浮"
+        ],
+        "風邪": [
+          "感冒"
+        ],
+        "湯治": [
+          "温泉疗养"
+        ],
+        "融通": [
+          "融通、通融",
+          "「融通がきく」＝能变通。"
+        ],
+        "かけた": [
+          "双关"
+        ],
+        "洒落": [
+          "双关语、俏皮话"
+        ],
+        "運": [
+          "运气"
+        ],
+        "挟んだ": [
+          "隔着"
+        ],
+        "温まり方": [
+          "暖身的方式"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "今年的冬至也快到了。這是一年中白天最短、夜晚最長的一天。從這天起，白天會一點一點變長。古時候稱之為「一陽來復」，也被視為在連續遭遇不順之後，運氣開始好轉的徵兆。",
+      "zh-Hans": "今年的冬至也快到了。这是一年中白天最短、夜晚最长的一天。从这天起，白天会一点一点变长。古时候称之为「一阳来复」，也被视为在连续遭遇不顺之后，运气开始好转的征兆。",
+      "en": "The winter solstice is nearly here again. It is the day with the shortest daylight and the longest night of the year. From this day on, the daylight gradually grows longer. In ancient times it was called 「一陽来復」, the return of the yang, and was also seen as a sign that fortune would turn upward after a string of misfortunes.",
+      "de": "The winter solstice is nearly here again. It is the day with the shortest daylight and the longest night of the year. From this day on, the daylight gradually grows longer. In ancient times it was called 「一陽来復」, the return of the yang, and was also seen as a sign that fortune would turn upward after a string of misfortunes."
+    },
+    {
+      "zh-Hant": "說到日本的冬至習俗，就是「柚子湯」和「南瓜」。據說在澡盆裡泡著浮有柚子的熱水，就不會感冒。也有一種說法，認為這是把「冬至」與「湯治」、「柚子」與「融通がきく（變通、靈活）」串在一起的諧音玩笑。吃南瓜則是為了攝取營養，好熬過寒冬。也有人說，吃帶有「ん」音的食物，就能招來「運」。",
+      "zh-Hans": "说到日本的冬至习俗，就是「柚子汤」和「南瓜」。据说在澡盆里泡着浮有柚子的热水，就不会感冒。也有一种说法，认为这是把「冬至」与「汤治」、「柚子」与「融通がきく（变通、灵活）」串在一起的谐音玩笑。吃南瓜则是为了摄取营养，好熬过寒冬。也有人说，吃带有「ん」音的食物，就能招来「运」。",
+      "en": "The main winter solstice customs in Japan are 「ゆず湯」, yuzu baths, and pumpkin. It is said that soaking in a bath with yuzu floating in it will keep you from catching a cold. There is also a theory that this is a pun linking 「冬至」 with 「湯治」 (hot-spring cure) and 「柚子」 with 「融通がきく」 (being flexible). Eating pumpkin provides nutrition to get through the winter. It is also said that eating foods containing the sound \"n\" calls in good luck.",
+      "de": "The main winter solstice customs in Japan are 「ゆず湯」, yuzu baths, and pumpkin. It is said that soaking in a bath with yuzu floating in it will keep you from catching a cold. There is also a theory that this is a pun linking 「冬至」 with 「湯治」 (hot-spring cure) and 「柚子」 with 「融通がきく」 (being flexible). Eating pumpkin provides nutrition to get through the winter. It is also said that eating foods containing the sound \"n\" calls in good luck."
+    },
+    {
+      "zh-Hant": "台灣的冬至是吃湯圓的日子。在同一天，隔著海的兩片土地，以完全不同的方式取暖，這很有意思。",
+      "zh-Hans": "台湾的冬至是吃汤圆的日子。在同一天，隔着海的两片土地，以完全不同的方式取暖，这很有意思。",
+      "en": "In Taiwan, the winter solstice is the day to eat tangyuan. It is interesting that on the same day, two lands across the sea warm themselves in completely different ways.",
+      "de": "In Taiwan, the winter solstice is the day to eat tangyuan. It is interesting that on the same day, two lands across the sea warm themselves in completely different ways."
+    }
+  ]
+}

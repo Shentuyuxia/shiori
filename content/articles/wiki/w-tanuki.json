@@ -1,0 +1,178 @@
+{
+  "id": "w-tanuki",
+  "d": -1,
+  "lv": "n2",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "化けるのはどっち？",
+  "sub": "會變身的是誰？狸與狐",
+  "body": "日本には「キツネは七化け、タヌキは八化け」という言葉がある。どちらも人を[[化かす|ばかす]]動物として、昔話に繰り返し登場してきた。\n\nタヌキは、英語で raccoon dog と呼ばれるイヌ科の動物で、東アジアに広く[[生息|せいそく]]している。夜行性で、都会の公園や線路沿いに住みついていることも珍しくない。民話の中のタヌキは、[[間が抜けて|まがぬけて]]いて憎めない存在として描かれることが多い。茶釜に化けて戻れなくなる「[[分福茶釜|ぶんぶくちゃがま]]」はその代表だ。店先に置かれる信楽焼のタヌキの置物も、「他を抜く」という[[語呂合わせ|ごろあわせ]]で、商売繁盛の[[縁起物|えんぎもの]]とされている。\n\n一方、キツネはもう少し[[神秘的|しんぴてき]]だ。全国に三万社以上あるとされる[[稲荷神社|いなりじんじゃ]]では、キツネは神様の[[使い|つかい]]として祀られている。好物とされる油揚げを使った料理が「きつね」と呼ばれるのはそのためだ。\n\nちなみに、関東の「たぬきそば」には、天ぷらの揚げ玉が入っている。「種（たね）抜き」の天ぷら、つまり[[具|ぐ]]のない天ぷらだから、という説がある。",
+  "gloss": {
+    "化かす": {
+      "m": "迷惑、捉弄（使人上當）"
+    },
+    "生息": {
+      "m": "棲息"
+    },
+    "間が抜けて": {
+      "m": "傻乎乎、少根筋"
+    },
+    "分福茶釜": {
+      "m": "分福茶釜（狸變茶壺的民間故事）"
+    },
+    "語呂合わせ": {
+      "m": "諧音"
+    },
+    "縁起物": {
+      "m": "吉祥物"
+    },
+    "神秘的": {
+      "m": "神秘"
+    },
+    "稲荷神社": {
+      "m": "稻荷神社"
+    },
+    "使い": {
+      "m": "使者"
+    },
+    "具": {
+      "m": "料、配料"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Who's the shape-shifter? Tanuki and fox",
+      "g": {
+        "化かす": [
+          "to bewitch, trick"
+        ],
+        "生息": [
+          "to live, inhabit"
+        ],
+        "間が抜けて": [
+          "silly, scatterbrained"
+        ],
+        "分福茶釜": [
+          "Bunbuku Chagama (folktale of a tanuki-kettle)"
+        ],
+        "語呂合わせ": [
+          "pun on sounds"
+        ],
+        "縁起物": [
+          "lucky charm"
+        ],
+        "神秘的": [
+          "mysterious"
+        ],
+        "稲荷神社": [
+          "Inari shrine"
+        ],
+        "使い": [
+          "messenger"
+        ],
+        "具": [
+          "filling, topping"
+        ]
+      }
+    },
+    "de": {
+      "s": "Wer verwandelt sich? Tanuki und Fuchs",
+      "g": {
+        "化かす": [
+          "verhexen, foppen"
+        ],
+        "生息": [
+          "leben, vorkommen"
+        ],
+        "間が抜けて": [
+          "tollpatschig"
+        ],
+        "分福茶釜": [
+          "Bunbuku Chagama (Märchen vom Tanuki-Teekessel)"
+        ],
+        "語呂合わせ": [
+          "Wortspiel"
+        ],
+        "縁起物": [
+          "Glücksbringer"
+        ],
+        "神秘的": [
+          "geheimnisvoll"
+        ],
+        "稲荷神社": [
+          "Inari-Schrein"
+        ],
+        "使い": [
+          "Bote"
+        ],
+        "具": [
+          "Einlage"
+        ]
+      }
+    },
+    "hans": {
+      "s": "会变身的是谁？狸与狐",
+      "g": {
+        "化かす": [
+          "迷惑、捉弄（使人上当）"
+        ],
+        "生息": [
+          "栖息"
+        ],
+        "間が抜けて": [
+          "傻乎乎、少根筋"
+        ],
+        "分福茶釜": [
+          "分福茶釜（狸变茶壶的民间故事）"
+        ],
+        "語呂合わせ": [
+          "谐音"
+        ],
+        "縁起物": [
+          "吉祥物"
+        ],
+        "神秘的": [
+          "神秘"
+        ],
+        "稲荷神社": [
+          "稻荷神社"
+        ],
+        "使い": [
+          "使者"
+        ],
+        "具": [
+          "料、配料"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本有句話說「狐狸七變，狸八變」。兩者都是會迷惑人的動物，在民間故事裡一再登場。",
+      "zh-Hans": "日本有句话说「狐狸七变，狸八变」。两者都是会迷惑人的动物，在民间故事里一再登场。",
+      "en": "Japan has a saying: \"the fox has seven disguises, the tanuki eight.\" Both appear again and again in folk tales as animals that bewitch people.",
+      "de": "In Japan sagt man: „Der Fuchs hat sieben Verwandlungen, der Tanuki acht.“ Beide tauchen in Märchen immer wieder als Tiere auf, die Menschen foppen."
+    },
+    {
+      "zh-Hant": "狸在英文叫 raccoon dog，是犬科動物，廣泛分布在東亞。牠們晝伏夜出，住在都市公園或鐵路旁也不稀奇。民間故事裡的狸大多被描寫成傻乎乎、讓人恨不起來的角色，變成茶壺後變不回來的「分福茶釜」就是代表。店門口擺的信樂燒狸擺飾，因為「狸（たぬき）」諧音「他を抜く（勝過別人）」，被當成生意興隆的吉祥物。",
+      "zh-Hans": "狸在英文叫 raccoon dog，是犬科动物，广泛分布在东亚。牠们昼伏夜出，住在都市公园或铁路旁也不稀奇。民间故事里的狸大多被描写成傻乎乎、让人恨不起来的角色，变成茶壶后变不回来的「分福茶釜」就是代表。店门口摆的信乐烧狸摆饰，因为「狸（たぬき）」谐音「他を抜く（胜过别人）」，被当成生意兴隆的吉祥物。",
+      "en": "The tanuki, called raccoon dog in English, belongs to the dog family and lives across East Asia. It's nocturnal and often settles in city parks or along railway lines. In folk tales the tanuki is usually a lovable fool; the best-known example is Bunbuku Chagama, where it turns into a tea kettle and can't change back. The Shigaraki ceramic tanuki outside shops is a lucky charm for business, thanks to a pun on \"outdoing others\" (ta-nuki).",
+      "de": "Der Tanuki, auf Englisch raccoon dog, gehört zu den Hunden und lebt in ganz Ostasien. Er ist nachtaktiv und wohnt oft in Stadtparks oder an Bahngleisen. Im Märchen ist er meist ein liebenswerter Tollpatsch – am bekanntesten in Bunbuku Chagama, wo er sich in einen Teekessel verwandelt und nicht mehr zurückkann. Die Tanuki-Figuren aus Shigaraki-Keramik vor Läden gelten dank eines Wortspiels („andere überholen“, ta-nuki) als Glücksbringer fürs Geschäft."
+    },
+    {
+      "zh-Hant": "另一方面，狐狸就神秘一些。全國據說有三萬座以上的稻荷神社，狐狸被當作神的使者供奉。用狐狸愛吃的油豆皮做的料理叫「きつね」，就是這個緣故。",
+      "zh-Hans": "另一方面，狐狸就神秘一些。全国据说有三万座以上的稻荷神社，狐狸被当作神的使者供奉。用狐狸爱吃的油豆皮做的料理叫「きつね」，就是这个缘故。",
+      "en": "The fox, on the other hand, is more mysterious. At Inari shrines, of which there are said to be over 30,000 across the country, the fox is revered as the messenger of the god. That is why dishes made with fried tofu, its supposed favourite food, are called kitsune.",
+      "de": "Der Fuchs dagegen ist geheimnisvoller. In den Inari-Schreinen, von denen es über 30.000 im Land geben soll, wird er als Bote der Gottheit verehrt. Deshalb heißen Gerichte mit frittiertem Tofu, seiner angeblichen Leibspeise, „Kitsune“."
+    },
+    {
+      "zh-Hant": "順帶一提，關東的「狸蕎麥麵」裡放的是炸天婦羅剩下的麵衣碎。有一種說法是：那是「去掉料（たね抜き）」的天婦羅，也就是沒有配料的天婦羅。",
+      "zh-Hans": "顺带一提，关东的「狸荞麦面」里放的是炸天妇罗剩下的面衣碎。有一种说法是：那是「去掉料（たね抜き）」的天妇罗，也就是没有配料的天妇罗。",
+      "en": "By the way, tanuki soba in the Kantō region comes with crunchy tempura bits. One theory says it's tempura with the filling taken out (tane-nuki), in other words tempura without anything inside.",
+      "de": "Übrigens: Tanuki-Soba in der Kantō-Region kommt mit knusprigen Tempura-Krümeln. Eine Erklärung lautet, es sei Tempura „ohne Füllung“ (tane-nuki), also Tempura ohne Inhalt."
+    }
+  ]
+}

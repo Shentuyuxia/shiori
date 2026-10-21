@@ -1,0 +1,175 @@
+{
+  "id": "d76",
+  "d": 76,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "專欄",
+    "ja": "コラム"
+  },
+  "title": "箱根駅伝",
+  "sub": "箱根驛傳",
+  "body": "正月二日と三日、日本の多くの家庭のテレビには、[[襷|たすき]]をつないで走る大学生の姿が映っている。「東京箱根間往復大学駅伝競走」、通称「箱根駅伝」だ。\n\n東京・大手町から箱根の[[芦ノ湖|あしのこ]]まで、往路と[[復路|ふくろ]]の二日間で二百キロ以上を十人でつなぐ。中でも、標高差八百メートル以上を一気に駆け上がる「山登り」の区間は、毎年[[ドラマ|ドラマ]]を生む。\n\n駅伝が日本でこれほど愛されるのは、個人の速さだけでなく、襷を「つなぐ」ことに価値が置かれるからだろう。[[繰り上げスタート|くりあげスタート]]で襷が[[途切れる|とぎれる]]場面では、走り終えた選手が[[泣き崩れ|なきくずれ]]、見ている側も胸が[[詰まる|つまる]]。チームのために走るという[[美学|びがく]]は、良くも悪くも、日本の組織文化の[[縮図|しゅくず]]のようにも見える。",
+  "gloss": {
+    "襷": {
+      "m": "接力帶"
+    },
+    "芦ノ湖": {
+      "m": "蘆之湖"
+    },
+    "復路": {
+      "m": "回程"
+    },
+    "ドラマ": {
+      "m": "戲劇性場面"
+    },
+    "繰り上げスタート": {
+      "m": "提前出發",
+      "n": "前一棒超時未到，下一棒就用備用接力帶先跑。"
+    },
+    "途切れる": {
+      "m": "中斷"
+    },
+    "泣き崩れ": {
+      "m": "痛哭倒地"
+    },
+    "詰まる": {
+      "m": "哽住"
+    },
+    "美学": {
+      "m": "美學"
+    },
+    "縮図": {
+      "m": "縮影"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Hakone Ekiden",
+      "g": {
+        "襷": [
+          "sash (passed in a relay)"
+        ],
+        "芦ノ湖": [
+          "Lake Ashi"
+        ],
+        "復路": [
+          "return leg"
+        ],
+        "ドラマ": [
+          "drama"
+        ],
+        "繰り上げスタート": [
+          "early start (with a spare sash)",
+          "If the previous runner is too late, the next one sets off with a spare sash."
+        ],
+        "途切れる": [
+          "to be broken off"
+        ],
+        "泣き崩れ": [
+          "breaking down in tears"
+        ],
+        "詰まる": [
+          "to choke up"
+        ],
+        "美学": [
+          "aesthetics"
+        ],
+        "縮図": [
+          "microcosm"
+        ]
+      }
+    },
+    "de": {
+      "s": "Hakone-Ekiden",
+      "g": {
+        "襷": [
+          "Schärpe (beim Staffellauf übergeben)"
+        ],
+        "芦ノ湖": [
+          "Ashi-See"
+        ],
+        "復路": [
+          "Rückweg"
+        ],
+        "ドラマ": [
+          "Drama"
+        ],
+        "繰り上げスタート": [
+          "vorgezogener Start (mit Ersatzschärpe)",
+          "Kommt der Vorläufer zu spät, startet der nächste mit einer Ersatzschärpe."
+        ],
+        "途切れる": [
+          "abreißen"
+        ],
+        "泣き崩れ": [
+          "in Tränen zusammenbrechen"
+        ],
+        "詰まる": [
+          "stocken (vor Rührung)"
+        ],
+        "美学": [
+          "Ästhetik"
+        ],
+        "縮図": [
+          "Spiegelbild im Kleinen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "箱根驿传",
+      "g": {
+        "襷": [
+          "接力带"
+        ],
+        "芦ノ湖": [
+          "芦之湖"
+        ],
+        "復路": [
+          "回程"
+        ],
+        "ドラマ": [
+          "戏剧性场面"
+        ],
+        "繰り上げスタート": [
+          "提前出发",
+          "前一棒超时未到，下一棒就用备用接力带先跑。"
+        ],
+        "途切れる": [
+          "中断"
+        ],
+        "泣き崩れ": [
+          "痛哭倒地"
+        ],
+        "詰まる": [
+          "哽住"
+        ],
+        "美学": [
+          "美学"
+        ],
+        "縮図": [
+          "缩影"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "一月二日與三日，日本許多家庭的電視上，都會出現大學生傳遞接力帶奔跑的身影。這就是「東京箱根間往返大學接力賽」，俗稱「箱根駅伝」。",
+      "zh-Hans": "一月二日与三日，日本许多家庭的电视上，都会出现大学生传递接力带奔跑的身影。这就是「东京箱根间往返大学接力赛」，俗称「箱根駅伝」。",
+      "en": "On January 2nd and 3rd, the TV screens of many Japanese households show university students running while passing along the tasuki sash. This is the 「東京箱根間往復大学駅伝競走」, popularly known as the Hakone Ekiden.",
+      "de": "On January 2nd and 3rd, the TV screens of many Japanese households show university students running while passing along the tasuki sash. This is the 「東京箱根間往復大学駅伝競走」, popularly known as the Hakone Ekiden."
+    },
+    {
+      "zh-Hant": "從東京的大手町到箱根的蘆之湖，往程與返程共兩天，十名選手要接力跑完兩百多公里。其中，一口氣爬上海拔落差超過八百公尺的「山登り」路段，每年都會誕生戲劇性的故事。",
+      "zh-Hans": "从东京的大手町到箱根的芦之湖，往程与返程共两天，十名选手要接力跑完两百多公里。其中，一口气爬上海拔落差超过八百公尺的「山登り」路段，每年都会诞生戏剧性的故事。",
+      "en": "From Otemachi in Tokyo to Lake Ashi in Hakone, ten runners relay more than 200 kilometers over two days, outbound and return. Among the stretches, the \"mountain climb\" section, which climbs more than 800 meters in elevation at a stretch, produces drama every year.",
+      "de": "From Otemachi in Tokyo to Lake Ashi in Hakone, ten runners relay more than 200 kilometers over two days, outbound and return. Among the stretches, the \"mountain climb\" section, which climbs more than 800 meters in elevation at a stretch, produces drama every year."
+    },
+    {
+      "zh-Hant": "駅伝之所以在日本如此受到喜愛，不只是因為個人的速度，而是因為它看重把接力帶「傳遞」下去。當接力帶因為提前出發而斷掉時，跑完的選手會哭倒在地，看的人也會心頭發緊。為團隊而跑的美學，無論好壞，看起來都像是日本組織文化的縮影。",
+      "zh-Hans": "駅伝之所以在日本如此受到喜爱，不只是因为个人的速度，而是因为它看重把接力带「传递」下去。当接力带因为提前出发而断掉时，跑完的选手会哭倒在地，看的人也会心头发紧。为团队而跑的美学，无论好坏，看起来都像是日本组织文化的缩影。",
+      "en": "Ekiden is so beloved in Japan probably because value is placed not only on individual speed but on \"connecting\" the sash. When the sash is cut due to an early start, the runner who has finished collapses in tears, and viewers feel a lump in their throats. The aesthetic of running for the team, for better or worse, seems like a miniature of Japan's organizational culture.",
+      "de": "Ekiden is so beloved in Japan probably because value is placed not only on individual speed but on \"connecting\" the sash. When the sash is cut due to an early start, the runner who has finished collapses in tears, and viewers feel a lump in their throats. The aesthetic of running for the team, for better or worse, seems like a miniature of Japan's organizational culture."
+    }
+  ]
+}

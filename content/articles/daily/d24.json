@@ -1,0 +1,159 @@
+{
+  "id": "d24",
+  "d": 24,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "專欄",
+    "ja": "コラム"
+  },
+  "title": "「ご自愛ください」",
+  "sub": "「請保重身體」",
+  "body": "日本語の手紙やメールの結びに、「寒さ厳しき[[折|おり]]、どうぞご[[自愛|じあい]]ください」という一文がよく添えられる。「自愛」とは、自分の体を大切にすること。中国語の「自愛」が「[[品行|ひんこう]]を慎む」意味にもなるのとは、少し[[趣|おもむき]]が違う。\n\n注意したいのは、「お体をご自愛ください」という言い方だ。「自愛」にすでに「体を大切に」の意味が含まれているため、「[[重言|じゅうげん]]」だとして避ける人も多い。また、病気の人に使うのは[[ふさわしくない|ふさわしくない]]とされる。その場合は「どうぞお大事になさってください」がよい。\n\n季節の挨拶で始め、相手の体を気づかって終わる。この型は[[堅苦しい|かたくるしい]]ようでいて、実は書き手を助けてくれる。何を書けばいいか迷ったときの、[[頼もしい|たのもしい]][[枠|わく]]なのだ。",
+  "gloss": {
+    "折": {
+      "m": "時節、時候"
+    },
+    "自愛": {
+      "m": "保重"
+    },
+    "品行": {
+      "m": "品行"
+    },
+    "趣": {
+      "m": "意趣、韻味"
+    },
+    "重言": {
+      "m": "贅語、重複表達"
+    },
+    "ふさわしくない": {
+      "m": "不恰當"
+    },
+    "堅苦しい": {
+      "m": "拘謹、生硬"
+    },
+    "頼もしい": {
+      "m": "可靠"
+    },
+    "枠": {
+      "m": "框架"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "\"Please take care of yourself\"",
+      "g": {
+        "折": [
+          "time, occasion"
+        ],
+        "自愛": [
+          "taking care of oneself"
+        ],
+        "品行": [
+          "conduct"
+        ],
+        "趣": [
+          "charm, flavour"
+        ],
+        "重言": [
+          "redundancy"
+        ],
+        "ふさわしくない": [
+          "inappropriate"
+        ],
+        "堅苦しい": [
+          "stiff, formal"
+        ],
+        "頼もしい": [
+          "reliable, reassuring"
+        ],
+        "枠": [
+          "frame, framework"
+        ]
+      }
+    },
+    "de": {
+      "s": "„Bitte geben Sie gut auf sich acht“",
+      "g": {
+        "折": [
+          "Zeit, Anlass"
+        ],
+        "自愛": [
+          "auf sich achten"
+        ],
+        "品行": [
+          "Betragen, Lebenswandel"
+        ],
+        "趣": [
+          "Reiz, Note"
+        ],
+        "重言": [
+          "Pleonasmus"
+        ],
+        "ふさわしくない": [
+          "unpassend"
+        ],
+        "堅苦しい": [
+          "steif, förmlich"
+        ],
+        "頼もしい": [
+          "zuverlässig, vertrauenerweckend"
+        ],
+        "枠": [
+          "Rahmen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "「请保重身体」",
+      "g": {
+        "折": [
+          "时节、时候"
+        ],
+        "自愛": [
+          "保重"
+        ],
+        "品行": [
+          "品行"
+        ],
+        "趣": [
+          "意趣、韵味"
+        ],
+        "重言": [
+          "赘语、重复表达"
+        ],
+        "ふさわしくない": [
+          "不恰当"
+        ],
+        "堅苦しい": [
+          "拘谨、生硬"
+        ],
+        "頼もしい": [
+          "可靠"
+        ],
+        "枠": [
+          "框架"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日文書信或電子郵件的結尾，常會附上「寒さ厳しき折、どうぞご自愛ください」這樣一句話。「自愛」指珍惜自己的身體。與中文「自愛」有「檢點品行」的意思，略有不同。",
+      "zh-Hans": "日文书信或电子邮件的结尾，常会附上「寒さ厳しき折、どうぞご自爱ください」这样一句话。「自爱」指珍惜自己的身体。与中文「自爱」有「检点品行」的意思，略有不同。",
+      "en": "Japanese letters and emails often close with a line such as 「寒さ厳しき折、どうぞご自愛ください」, \"In this bitter cold, please take good care of yourself.\" 「自愛」 means cherishing one's own body. This differs a little from the Chinese 「自愛」, which can also mean behaving with dignity.",
+      "de": "Japanese letters and emails often close with a line such as 「寒さ厳しき折、どうぞご自愛ください」, \"In this bitter cold, please take good care of yourself.\" 「自愛」 means cherishing one's own body. This differs a little from the Chinese 「自愛」, which can also mean behaving with dignity."
+    },
+    {
+      "zh-Hant": "需要注意的是「お体をご自愛ください」這種說法。因為「自愛」本身已經包含了「珍惜身體」的意思，許多人認為這是「重言」（語意重複），因此會避免使用。另外，對生病的人使用也不太合適。這種情況下，「どうぞお大事になさってください」會更好。",
+      "zh-Hans": "需要注意的是「お体をご自爱ください」这种说法。因为「自爱」本身已经包含了「珍惜身体」的意思，许多人认为这是「重言」（语意重复），因此会避免使用。另外，对生病的人使用也不太合适。这种情况下，「どうぞお大事になさってください」会更好。",
+      "en": "Be careful with the phrase 「お体をご自愛ください」. Because 「自愛」 already includes the meaning of \"caring for your body,\" many people avoid it as 「重言」, a redundancy. It is also considered unsuitable for someone who is ill. In that case, 「どうぞお大事になさってください」 is better.",
+      "de": "Be careful with the phrase 「お体をご自愛ください」. Because 「自愛」 already includes the meaning of \"caring for your body,\" many people avoid it as 「重言」, a redundancy. It is also considered unsuitable for someone who is ill. In that case, 「どうぞお大事になさってください」 is better."
+    },
+    {
+      "zh-Hant": "以季節問候開頭，以關心對方的身體結尾。這種格式看似拘謹，其實反而能幫助寫信的人。當你不知道該寫什麼的時候，它是一個很可靠的框架。",
+      "zh-Hans": "以季节问候开头，以关心对方的身体结尾。这种格式看似拘谨，其实反而能帮助写信的人。当你不知道该写什么的时候，它是一个很可靠的框架。",
+      "en": "Begin with a seasonal greeting and end by expressing concern for the other person's health. This format may seem stiff, but it actually helps the writer. When you don't know what to write, it is a reliable framework.",
+      "de": "Begin with a seasonal greeting and end by expressing concern for the other person's health. This format may seem stiff, but it actually helps the writer. When you don't know what to write, it is a reliable framework."
+    }
+  ]
+}

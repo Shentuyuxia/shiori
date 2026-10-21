@@ -1,0 +1,158 @@
+{
+  "id": "d13",
+  "d": 13,
+  "lv": "x",
+  "genre": {
+    "zh-Hant": "古典",
+    "ja": "古典"
+  },
+  "title": "方丈記（冒頭）",
+  "sub": "鴨長明《方丈記》開頭（1212）",
+  "src": "鴨長明『方丈記』",
+  "body": "ゆく河の流れは[[絶えずして|たえずして]]、しかも[[もとの水にあらず|もとのみずにあらず]]。[[よどみ|よどみ]]に浮かぶ[[うたかた|うたかた]]は、[[かつ消えかつ結びて|かつきえかつむすびて]]、久しく[[とどまりたるためしなし|とどまりたるためしなし]]。世の中にある人と[[栖|すみか]]と、またかくのごとし。\n\n【現代語訳】流れていく川の水は絶えることがなく、それでいて、もとの水ではない。よどんだところに浮かぶ泡は、消えたかと思えば[[できて|できて]]、長くとどまっている[[例|れい]]はない。世の中の人と住まいも、またこれと同じである。",
+  "gloss": {
+    "絶えずして": {
+      "m": "不斷地"
+    },
+    "もとの水にあらず": {
+      "m": "已非原來的水"
+    },
+    "よどみ": {
+      "m": "水流停滯處"
+    },
+    "うたかた": {
+      "m": "泡沫"
+    },
+    "かつ消えかつ結びて": {
+      "m": "一邊消失一邊形成"
+    },
+    "とどまりたるためしなし": {
+      "m": "從無長久停留之例",
+      "n": "「ためし」＝前例。"
+    },
+    "栖": {
+      "m": "住處、棲身之所"
+    },
+    "できて": {
+      "m": "形成、出現"
+    },
+    "例": {
+      "m": "例子"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Hōjōki (opening)",
+      "g": {
+        "絶えずして": [
+          "without ceasing"
+        ],
+        "もとの水にあらず": [
+          "it is no longer the same water"
+        ],
+        "よどみ": [
+          "still pool (where water stagnates)"
+        ],
+        "うたかた": [
+          "foam, bubbles"
+        ],
+        "かつ消えかつ結びて": [
+          "vanishing and forming at once"
+        ],
+        "とどまりたるためしなし": [
+          "never has one lasted",
+          "「ためし」 = precedent."
+        ],
+        "栖": [
+          "dwelling, abode"
+        ],
+        "できて": [
+          "coming into being"
+        ],
+        "例": [
+          "example"
+        ]
+      }
+    },
+    "de": {
+      "s": "Hōjōki (Anfang)",
+      "g": {
+        "絶えずして": [
+          "unaufhörlich"
+        ],
+        "もとの水にあらず": [
+          "es ist nicht mehr dasselbe Wasser"
+        ],
+        "よどみ": [
+          "stilles Wasser (wo der Fluss stockt)"
+        ],
+        "うたかた": [
+          "Schaum, Wasserblasen"
+        ],
+        "かつ消えかつ結びて": [
+          "vergehend und zugleich entstehend"
+        ],
+        "とどまりたるためしなし": [
+          "nie hat eine Bestand gehabt",
+          "„ためし“ = Präzedenzfall."
+        ],
+        "栖": [
+          "Behausung, Wohnstatt"
+        ],
+        "できて": [
+          "entstehen"
+        ],
+        "例": [
+          "Beispiel"
+        ]
+      }
+    },
+    "hans": {
+      "s": "鸭长明《方丈记》开头（1212）",
+      "g": {
+        "絶えずして": [
+          "不断地"
+        ],
+        "もとの水にあらず": [
+          "已非原来的水"
+        ],
+        "よどみ": [
+          "水流停滞处"
+        ],
+        "うたかた": [
+          "泡沫"
+        ],
+        "かつ消えかつ結びて": [
+          "一边消失一边形成"
+        ],
+        "とどまりたるためしなし": [
+          "从无长久停留之例",
+          "「ためし」＝前例。"
+        ],
+        "栖": [
+          "住处、栖身之所"
+        ],
+        "できて": [
+          "形成、出现"
+        ],
+        "例": [
+          "例子"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "流淌的河水，永遠不曾停歇，然而每一瞬都已不是原來的水。浮在水潭上的泡沫，時而消散，時而凝聚，從不曾久久停留。人與居所，在世間也是如此。",
+      "zh-Hans": "流淌的河水，永远不曾停歇，然而每一瞬都已不是原来的水。浮在水潭上的泡沫，时而消散，时而凝聚，从不曾久久停留。人与居所，在世间也是如此。",
+      "en": "The river flows on without end, yet the water is never the same water. The bubbles floating on the still pools vanish and form again, never lingering for long. So it is with people and their dwellings in this world.",
+      "de": "The river flows on without end, yet the water is never the same water. The bubbles floating on the still pools vanish and form again, never lingering for long. So it is with people and their dwellings in this world."
+    },
+    {
+      "zh-Hant": "【白話譯】流動的河水不曾斷絕，但已經不是原來的水。浮在淤積處的泡沫，剛消失又生成，沒有長久停留的例子。世上的人和住所，也與此相同。",
+      "zh-Hans": "【白话译】流动的河水不曾断绝，但已经不是原来的水。浮在淤积处的泡沫，刚消失又生成，没有长久停留的例子。世上的人和住所，也与此相同。",
+      "en": "[Modern translation] The flowing river never ceases, yet it is no longer the same water. The foam floating on the stagnant pool disappears and forms again, with no example of it staying for long. People in the world and their dwellings are the same.",
+      "de": "[Modern translation] The flowing river never ceases, yet it is no longer the same water. The foam floating on the stagnant pool disappears and forms again, with no example of it staying for long. People in the world and their dwellings are the same."
+    }
+  ]
+}

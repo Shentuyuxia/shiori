@@ -1,0 +1,171 @@
+{
+  "id": "d73",
+  "d": 73,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "大晦日",
+  "sub": "除夕",
+  "body": "一年の最後の日、十二月三十一日は「大晦日（おおみそか）」。「[[晦日|みそか]]」は月の最後の日のことで、一年の最後だから「大」がつく。\n\n大晦日の夜には、[[年越しそば|としこしそば]]を食べる。そばのように細く長く生きられるように、また、切れやすいそばにちなんで一年の[[厄|やく]]を断ち切るように、という意味があるとされる。テレビでは紅白歌合戦が放送され、多くの家庭が[[こたつ|こたつ]]でそれを見ながら年を越す。\n\n[[深夜|しんや]]になると、各地の寺で「[[除夜の鐘|じょやのかね]]」が[[撞かれる|つかれる]]。その数は百八回。人間の[[煩悩|ぼんのう]]の数だと言われる。台湾の除夕は旧暦で、家族で[[団欒|だんらん]]の食卓を囲む日だ。にぎやかな台湾の年越しと、静かな日本の年越し。どちらにも、去っていく一年への[[名残惜しさ|なごりおしさ]]がある。",
+  "gloss": {
+    "晦日": {
+      "m": "月底最後一天"
+    },
+    "年越しそば": {
+      "m": "跨年蕎麥麵"
+    },
+    "厄": {
+      "m": "災厄"
+    },
+    "こたつ": {
+      "m": "暖桌"
+    },
+    "深夜": {
+      "m": "深夜"
+    },
+    "除夜の鐘": {
+      "m": "除夕夜的鐘聲"
+    },
+    "撞かれる": {
+      "m": "被敲響（撞鐘）"
+    },
+    "煩悩": {
+      "m": "煩惱"
+    },
+    "団欒": {
+      "m": "團聚"
+    },
+    "名残惜しさ": {
+      "m": "依依不捨"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "New Year's Eve",
+      "g": {
+        "晦日": [
+          "last day of the month"
+        ],
+        "年越しそば": [
+          "year-crossing soba noodles"
+        ],
+        "厄": [
+          "misfortune"
+        ],
+        "こたつ": [
+          "kotatsu (heated table)"
+        ],
+        "深夜": [
+          "late at night"
+        ],
+        "除夜の鐘": [
+          "New Year's Eve temple bells"
+        ],
+        "撞かれる": [
+          "to be struck (a bell)"
+        ],
+        "煩悩": [
+          "worldly desires"
+        ],
+        "団欒": [
+          "family gathering"
+        ],
+        "名残惜しさ": [
+          "reluctance to part"
+        ]
+      }
+    },
+    "de": {
+      "s": "Silvester",
+      "g": {
+        "晦日": [
+          "letzter Tag des Monats"
+        ],
+        "年越しそば": [
+          "Jahreswechsel-Soba"
+        ],
+        "厄": [
+          "Unglück"
+        ],
+        "こたつ": [
+          "Kotatsu (beheizter Tisch)"
+        ],
+        "深夜": [
+          "tief in der Nacht"
+        ],
+        "除夜の鐘": [
+          "Tempelglocken in der Silvesternacht"
+        ],
+        "撞かれる": [
+          "angeschlagen werden (Glocke)"
+        ],
+        "煩悩": [
+          "weltliche Begierden"
+        ],
+        "団欒": [
+          "gemütliches Familienbeisammensein"
+        ],
+        "名残惜しさ": [
+          "Wehmut beim Abschied"
+        ]
+      }
+    },
+    "hans": {
+      "s": "除夕",
+      "g": {
+        "晦日": [
+          "月底最后一天"
+        ],
+        "年越しそば": [
+          "跨年荞麦面"
+        ],
+        "厄": [
+          "灾厄"
+        ],
+        "こたつ": [
+          "暖桌"
+        ],
+        "深夜": [
+          "深夜"
+        ],
+        "除夜の鐘": [
+          "除夕夜的钟声"
+        ],
+        "撞かれる": [
+          "被敲响（撞钟）"
+        ],
+        "煩悩": [
+          "烦恼"
+        ],
+        "団欒": [
+          "团聚"
+        ],
+        "名残惜しさ": [
+          "依依不舍"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "一年的最後一天，十二月三十一日是「大晦日（おおみそか）」。「晦日」是一個月的最後一天，因為是一年的最後，所以加上「大」字。",
+      "zh-Hans": "一年的最后一天，十二月三十一日是「大晦日（おおみそか）」。「晦日」是一个月的最后一天，因为是一年的最后，所以加上「大」字。",
+      "en": "The last day of the year, December 31st, is 「大晦日」, Ōmisoka. 「晦日」 is the last day of a month, and because it is the last of the year, the character 「大」 is added.",
+      "de": "The last day of the year, December 31st, is 「大晦日」, Ōmisoka. 「晦日」 is the last day of a month, and because it is the last of the year, the character 「大」 is added."
+    },
+    {
+      "zh-Hant": "大晦日夜裡，要吃「年越蕎麥麵」。據說有細水長流、長命百歲的寓意，同時也因蕎麥麵容易斷，象徵斬斷一年的厄運。電視上播放紅白歌合戰，許多家庭一邊圍在暖桌裡看，一邊迎接新年。",
+      "zh-Hans": "大晦日夜里，要吃「年越荞麦面」。据说有细水长流、长命百岁的寓意，同时也因荞麦面容易断，象征斩断一年的厄运。电视上播放红白歌合战，许多家庭一边围在暖桌里看，一边迎接新年。",
+      "en": "On New Year's Eve, people eat 「年越しそば」, toshikoshi soba. It is said to mean living long and thin, like soba noodles, and also to symbolize cutting off the misfortunes of the year, since soba noodles break easily. On TV, the Kōhaku Uta Gassen song competition airs, and many families watch it from under the kotatsu as they usher in the new year.",
+      "de": "On New Year's Eve, people eat 「年越しそば」, toshikoshi soba. It is said to mean living long and thin, like soba noodles, and also to symbolize cutting off the misfortunes of the year, since soba noodles break easily. On TV, the Kōhaku Uta Gassen song competition airs, and many families watch it from under the kotatsu as they usher in the new year."
+    },
+    {
+      "zh-Hant": "深夜，各地的寺院會敲響「除夜之鐘」，次數為一百零八下。據說這代表人類的一百零八種煩惱。台灣的除夕是依農曆過的，全家團聚圍坐在餐桌旁的日子。熱鬧的台灣跨年，與寧靜的日本跨年。兩者之中，都有對逝去的這一年依依不捨的情懷。",
+      "zh-Hans": "深夜，各地的寺院会敲响「除夜之钟」，次数为一百零八下。据说这代表人类的一百零八种烦恼。台湾的除夕是依农历过的，全家团聚围坐在餐桌旁的日子。热闹的台湾跨年，与宁静的日本跨年。两者之中，都有对逝去的这一年依依不舍的情怀。",
+      "en": "Late at night, temples across the country ring the 「除夜の鐘」, the New Year's Eve bell, 108 times. It is said to represent the 108 worldly desires of humanity. In Taiwan, New Year's Eve follows the lunar calendar and is the day families gather around the dinner table. Taiwan's lively New Year's Eve and Japan's quiet one both carry a reluctance to see the departing year go.",
+      "de": "Late at night, temples across the country ring the 「除夜の鐘」, the New Year's Eve bell, 108 times. It is said to represent the 108 worldly desires of humanity. In Taiwan, New Year's Eve follows the lunar calendar and is the day families gather around the dinner table. Taiwan's lively New Year's Eve and Japan's quiet one both carry a reluctance to see the departing year go."
+    }
+  ]
+}

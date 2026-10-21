@@ -1,0 +1,136 @@
+{
+  "id": "d54",
+  "d": 54,
+  "lv": "n1",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "商務日語",
+    "ja": "ビジネス日本語"
+  },
+  "title": "年末のご挨拶",
+  "sub": "商務日語：年終問候郵件",
+  "body": "件名：年末のご挨拶\n\n株式会社さくら商事\n営業部　鈴木様\n\nいつも大変お世話になっております。\n本年も[[格別|かくべつ]]のお[[引き立て|ひきたて]]を[[賜り|たまわり]]、誠にありがとうございました。\n\n[[誠に勝手ながら|まことにかってながら]]、弊社の年末年始休業は下記のとおりとさせていただきます。\n休業期間：12月27日（日）〜1月4日（月）\n期間中にいただいたお問い合わせは、1月5日（火）以降、順次対応いたします。\n\n来年も変わらぬご[[愛顧|あいこ]]のほど、よろしくお願い申し上げます。\nどうぞ[[良いお年をお迎えください|よいおとしをおむかえください]]。",
+  "gloss": {
+    "格別": {
+      "m": "格外的、特別的"
+    },
+    "引き立て": {
+      "m": "關照、提攜"
+    },
+    "賜り": {
+      "m": "承蒙（原形：賜る）"
+    },
+    "誠に勝手ながら": {
+      "m": "恕我們擅自（決定）"
+    },
+    "愛顧": {
+      "m": "惠顧、支持"
+    },
+    "良いお年をお迎えください": {
+      "m": "祝您新年愉快（年底用語）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Year-end greetings",
+      "g": {
+        "格別": [
+          "special, exceptional"
+        ],
+        "引き立て": [
+          "patronage, support"
+        ],
+        "賜り": [
+          "receiving (humbly) (dict. form: 賜る)"
+        ],
+        "誠に勝手ながら": [
+          "we regret to inform you that we have decided"
+        ],
+        "愛顧": [
+          "patronage, custom"
+        ],
+        "良いお年をお迎えください": [
+          "have a happy New Year (said before year-end)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Jahresendgrüße",
+      "g": {
+        "格別": [
+          "besonders"
+        ],
+        "引き立て": [
+          "Förderung, Unterstützung"
+        ],
+        "賜り": [
+          "(ergebenst) erhalten (Grundform: 賜る)"
+        ],
+        "誠に勝手ながら": [
+          "wir erlauben uns mitzuteilen"
+        ],
+        "愛顧": [
+          "Kundentreue"
+        ],
+        "良いお年をお迎えください": [
+          "einen guten Rutsch (vor Jahresende)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "商务日语：年终问候邮件",
+      "g": {
+        "格別": [
+          "格外的、特别的"
+        ],
+        "引き立て": [
+          "关照、提携"
+        ],
+        "賜り": [
+          "承蒙（原形：赐る）"
+        ],
+        "誠に勝手ながら": [
+          "恕我们擅自（决定）"
+        ],
+        "愛顧": [
+          "惠顾、支持"
+        ],
+        "良いお年をお迎えください": [
+          "祝您新年愉快（年底用语）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "主旨：年末問候",
+      "zh-Hans": "主旨：年末问候",
+      "en": "Subject: Year-end greetings",
+      "de": "Subject: Year-end greetings"
+    },
+    {
+      "zh-Hant": "櫻花商事股份有限公司\n業務部　鈴木先生",
+      "zh-Hans": "樱花商事股份有限公司\n业务部　铃木先生",
+      "en": "Sakura Shoji Co., Ltd.\nAttn: Mr. Suzuki, Sales Department",
+      "de": "Sakura Shoji Co., Ltd.\nAttn: Mr. Suzuki, Sales Department"
+    },
+    {
+      "zh-Hant": "一直承蒙您的關照。\n今年也蒙受您格外的厚愛，衷心感謝。",
+      "zh-Hans": "一直承蒙您的关照。\n今年也蒙受您格外的厚爱，衷心感谢。",
+      "en": "Thank you always for your kind support.\nThank you for your special patronage throughout this year.",
+      "de": "Thank you always for your kind support.\nThank you for your special patronage throughout this year."
+    },
+    {
+      "zh-Hant": "冒昧告知，本公司的年末年初休假安排如下。\n休假期間：12月27日（日）至1月4日（一）\n休假期間收到的諮詢，將於1月5日（二）起陸續處理。",
+      "zh-Hans": "冒昧告知，本公司的年末年初休假安排如下。\n休假期间：12月27日（日）至1月4日（一）\n休假期间收到的咨询，将于1月5日（二）起陆续处理。",
+      "en": "I would like to inform you of our year-end and New Year holiday schedule.\nClosed: Sunday, December 27 to Monday, January 4\nInquiries received during the closure will be addressed in order starting Tuesday, January 5.",
+      "de": "I would like to inform you of our year-end and New Year holiday schedule.\nClosed: Sunday, December 27 to Monday, January 4\nInquiries received during the closure will be addressed in order starting Tuesday, January 5."
+    },
+    {
+      "zh-Hant": "明年也請繼續給予我們一如既往的支持，謝謝。\n祝您新年愉快。",
+      "zh-Hans": "明年也请继续给予我们一如既往的支持，谢谢。\n祝您新年愉快。",
+      "en": "We look forward to your continued support in the coming year.\nWishing you a happy New Year.",
+      "de": "We look forward to your continued support in the coming year.\nWishing you a happy New Year."
+    }
+  ]
+}

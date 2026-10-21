@@ -1,0 +1,199 @@
+{
+  "id": "d26",
+  "d": 26,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "隨筆",
+    "ja": "随筆"
+  },
+  "title": "喫茶店という居場所",
+  "sub": "名為「喫茶店」的容身之處",
+  "body": "日本の街には、カフェとは少し違う「喫茶店」がある。[[ネルドリップ|ネルドリップ]]のコーヒー、[[厚切り|あつぎり]]のトースト、ナポリタン。店主は[[寡黙|かもく]]で、[[常連|じょうれん]]は決まった席に座り、新聞を広げる。\n\nチェーンのカフェが「誰でも同じように使える場所」だとすれば、喫茶店は「[[顔なじみ|かおなじみ]]になれる場所」だ。名前を知らなくても、毎朝同じ時間に同じ席にいる人同士には、[[ゆるやか|ゆるやか]]な[[連帯|れんたい]]のようなものが生まれる。\n\n近年、[[後継者|こうけいしゃ]]不足で閉店する喫茶店が増えている。一方で、「[[純喫茶|じゅんきっさ]]」の[[レトロ|レトロ]]な雰囲気を好む若い客も多い。家でも職場でもない「[[第三の場所|だいさんのばしょ]]」として、喫茶店が[[担って|になって]]きた役割は、思っている以上に大きいのかもしれない。",
+  "gloss": {
+    "ネルドリップ": {
+      "m": "法蘭絨濾布手沖"
+    },
+    "厚切り": {
+      "m": "厚片"
+    },
+    "寡黙": {
+      "m": "沉默寡言"
+    },
+    "常連": {
+      "m": "常客"
+    },
+    "顔なじみ": {
+      "m": "熟面孔"
+    },
+    "ゆるやか": {
+      "m": "鬆散、和緩"
+    },
+    "連帯": {
+      "m": "連結、團結感"
+    },
+    "後継者": {
+      "m": "接班人"
+    },
+    "純喫茶": {
+      "m": "純喫茶",
+      "n": "原指不賣酒的喫茶店，今多指昭和風老派咖啡館。"
+    },
+    "レトロ": {
+      "m": "復古"
+    },
+    "第三の場所": {
+      "m": "第三空間"
+    },
+    "担って": {
+      "m": "承擔（原形：担う）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The kissaten as a place to be",
+      "g": {
+        "ネルドリップ": [
+          "flannel-filter drip coffee"
+        ],
+        "厚切り": [
+          "thick-sliced"
+        ],
+        "寡黙": [
+          "taciturn"
+        ],
+        "常連": [
+          "regular customer"
+        ],
+        "顔なじみ": [
+          "familiar face"
+        ],
+        "ゆるやか": [
+          "loose, gentle"
+        ],
+        "連帯": [
+          "solidarity, bond"
+        ],
+        "後継者": [
+          "successor"
+        ],
+        "純喫茶": [
+          "jun-kissa (classic coffee house)",
+          "Originally a café without alcohol; now usually a retro Shōwa-style café."
+        ],
+        "レトロ": [
+          "retro"
+        ],
+        "第三の場所": [
+          "third place"
+        ],
+        "担って": [
+          "bearing, carrying (dict. form: 担う)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Das Kissaten als Zufluchtsort",
+      "g": {
+        "ネルドリップ": [
+          "Flanellfilter-Kaffee"
+        ],
+        "厚切り": [
+          "dick geschnitten"
+        ],
+        "寡黙": [
+          "wortkarg"
+        ],
+        "常連": [
+          "Stammgast"
+        ],
+        "顔なじみ": [
+          "bekanntes Gesicht"
+        ],
+        "ゆるやか": [
+          "locker, sanft"
+        ],
+        "連帯": [
+          "Verbundenheit"
+        ],
+        "後継者": [
+          "Nachfolger"
+        ],
+        "純喫茶": [
+          "Jun-Kissa (klassisches Kaffeehaus)",
+          "Ursprünglich ein Café ohne Alkohol; heute meist ein Retro-Café im Shōwa-Stil."
+        ],
+        "レトロ": [
+          "Retro"
+        ],
+        "第三の場所": [
+          "dritter Ort"
+        ],
+        "担って": [
+          "tragend (Grundform: 担う)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "名为「吃茶店」的容身之处",
+      "g": {
+        "ネルドリップ": [
+          "法兰绒滤布手冲"
+        ],
+        "厚切り": [
+          "厚片"
+        ],
+        "寡黙": [
+          "沉默寡言"
+        ],
+        "常連": [
+          "常客"
+        ],
+        "顔なじみ": [
+          "熟面孔"
+        ],
+        "ゆるやか": [
+          "松散、和缓"
+        ],
+        "連帯": [
+          "连结、团结感"
+        ],
+        "後継者": [
+          "接班人"
+        ],
+        "純喫茶": [
+          "纯吃茶",
+          "原指不卖酒的吃茶店，今多指昭和风老派咖啡馆。"
+        ],
+        "レトロ": [
+          "复古"
+        ],
+        "第三の場所": [
+          "第三空间"
+        ],
+        "担って": [
+          "承担（原形：担う）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本的街上有一種和咖啡館稍有不同的「喫茶店」。有手沖法蘭絨濾布咖啡、厚切吐司、拿坡里義大利麵。店主寡言少語，常客坐在固定的位置上，攤開報紙。",
+      "zh-Hans": "日本的街上有一种和咖啡馆稍有不同的「吃茶店」。有手冲法兰绒滤布咖啡、厚切吐司、拿坡里意大利面。店主寡言少语，常客坐在固定的位置上，摊开报纸。",
+      "en": "Japanese towns have a kind of place called 「喫茶店」, a little different from a café. They serve drip coffee brewed through flannel filters, thick-cut toast, and Napolitan spaghetti. The owner is quiet, and regulars sit in their usual seats and open the newspaper.",
+      "de": "Japanese towns have a kind of place called 「喫茶店」, a little different from a café. They serve drip coffee brewed through flannel filters, thick-cut toast, and Napolitan spaghetti. The owner is quiet, and regulars sit in their usual seats and open the newspaper."
+    },
+    {
+      "zh-Hant": "如果說連鎖咖啡館是「任何人都能以相同方式使用的地方」，那麼喫茶店就是「能與熟面孔相處的地方」。即使不知道彼此的名字，每天同一時間坐在同一個位子的人之間，也會慢慢生出一種鬆散的連結感。",
+      "zh-Hans": "如果说连锁咖啡馆是「任何人都能以相同方式使用的地方」，那么吃茶店就是「能与熟面孔相处的地方」。即使不知道彼此的名字，每天同一时间坐在同一个位子的人之间，也会慢慢生出一种松散的链接感。",
+      "en": "If a chain café is a place anyone can use in the same way, a 「喫茶店」 is a place where you become a familiar face. Even without knowing each other's names, people who sit in the same seat at the same time every morning develop a loose sense of connection.",
+      "de": "If a chain café is a place anyone can use in the same way, a 「喫茶店」 is a place where you become a familiar face. Even without knowing each other's names, people who sit in the same seat at the same time every morning develop a loose sense of connection."
+    },
+    {
+      "zh-Hant": "近年來，因為接班人不足而歇業的喫茶店越來越多。另一方面，也有很多年輕客人喜歡「純喫茶」那種復古的氛圍。作為既非家也非職場的「第三空間」，喫茶店所承擔的角色，或許比我們想像的還要重要。",
+      "zh-Hans": "近年来，因为接班人不足而歇业的吃茶店越来越多。另一方面，也有很多年轻客人喜欢「纯吃茶」那种复古的氛围。作为既非家也非职场的「第三空间」，吃茶店所承担的角色，或许比我们想像的还要重要。",
+      "en": "In recent years, more and more kissaten have closed for lack of successors. On the other hand, many young customers enjoy the retro atmosphere of 「純喫茶」. As a \"third place\" that is neither home nor workplace, the role kissaten have played may be far greater than we realize.",
+      "de": "In recent years, more and more kissaten have closed for lack of successors. On the other hand, many young customers enjoy the retro atmosphere of 「純喫茶」. As a \"third place\" that is neither home nor workplace, the role kissaten have played may be far greater than we realize."
+    }
+  ]
+}

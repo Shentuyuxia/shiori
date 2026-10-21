@@ -1,0 +1,139 @@
+{
+  "id": "d34",
+  "d": 34,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "小雪",
+  "sub": "節氣：小雪",
+  "body": "二十四節気の「小雪」。わずかながら雪が降り始める頃、という意味だ。北国や山では初雪の[[便り|たより]]が届き、平地でも冷たい雨が雪に変わる日がある。\n\nこの時期によく使われる言葉に「[[小春日和|こはるびより]]」がある。「春」という字が入っているので春の言葉と思われがちだが、実は[[晩秋|ばんしゅう]]から初冬にかけての、春のように暖かく穏やかな晴れの日のことだ。英語の Indian summer に近い。\n\n冷え込みが続いたあとに訪れる小春日和は、[[格別|かくべつ]]にありがたい。[[縁側|えんがわ]]に座って日を[[浴びる|あびる]]猫の姿は、まさにこの言葉の[[絵|え]]そのものだ。",
+  "gloss": {
+    "便り": {
+      "m": "消息"
+    },
+    "小春日和": {
+      "m": "小陽春",
+      "n": "晚秋初冬溫暖晴朗的日子，不是春天。"
+    },
+    "晩秋": {
+      "m": "晚秋"
+    },
+    "格別": {
+      "m": "格外"
+    },
+    "縁側": {
+      "m": "簷廊（日式房屋外側的走廊）"
+    },
+    "浴びる": {
+      "m": "沐浴（在陽光下）"
+    },
+    "絵": {
+      "m": "圖畫"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Shōsetsu: light snow",
+      "g": {
+        "便り": [
+          "news, tidings"
+        ],
+        "小春日和": [
+          "Indian summer",
+          "Warm sunny days in late autumn/early winter — not spring."
+        ],
+        "晩秋": [
+          "late autumn"
+        ],
+        "格別": [
+          "exceptional"
+        ],
+        "縁側": [
+          "veranda (wooden walkway of a Japanese house)"
+        ],
+        "浴びる": [
+          "to bathe (in sunlight)"
+        ],
+        "絵": [
+          "picture"
+        ]
+      }
+    },
+    "de": {
+      "s": "Shōsetsu: leichter Schnee",
+      "g": {
+        "便り": [
+          "Nachricht, Kunde"
+        ],
+        "小春日和": [
+          "Altweibersommer",
+          "Warme Sonnentage im Spätherbst/Frühwinter – nicht Frühling."
+        ],
+        "晩秋": [
+          "Spätherbst"
+        ],
+        "格別": [
+          "außerordentlich"
+        ],
+        "縁側": [
+          "Veranda (Holzgang am japanischen Haus)"
+        ],
+        "浴びる": [
+          "(in der Sonne) baden"
+        ],
+        "絵": [
+          "Bild"
+        ]
+      }
+    },
+    "hans": {
+      "s": "节气：小雪",
+      "g": {
+        "便り": [
+          "消息"
+        ],
+        "小春日和": [
+          "小阳春",
+          "晚秋初冬温暖晴朗的日子，不是春天。"
+        ],
+        "晩秋": [
+          "晚秋"
+        ],
+        "格別": [
+          "格外"
+        ],
+        "縁側": [
+          "檐廊（日式房屋外侧的走廊）"
+        ],
+        "浴びる": [
+          "沐浴（在阳光下）"
+        ],
+        "絵": [
+          "图画"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "二十四節氣中的「小雪」，意思是開始稍微下一點雪的時節。北國和山區開始傳來初雪的消息，平原地區也有冷雨轉為雪的日子。",
+      "zh-Hans": "二十四节气中的「小雪」，意思是开始稍微下一点雪的时节。北国和山区开始传来初雪的消息，平原地区也有冷雨转为雪的日子。",
+      "en": "「小雪」, Light Snow, is one of the 24 solar terms, meaning the time when a little snow begins to fall. News of the first snow arrives from northern regions and mountains, and on some days in the lowlands cold rain turns to snow.",
+      "de": "「小雪」, Light Snow, is one of the 24 solar terms, meaning the time when a little snow begins to fall. News of the first snow arrives from northern regions and mountains, and on some days in the lowlands cold rain turns to snow."
+    },
+    {
+      "zh-Hant": "這個時期常用的詞是「小春日和」。因為有「春」字，常被誤以為是春天的詞，但其實它指的是晚秋到初冬，像春天一樣溫暖平和的晴天。接近英文的 Indian summer。",
+      "zh-Hans": "这个时期常用的词是「小春日和」。因为有「春」字，常被误以为是春天的词，但其实它指的是晚秋到初冬，像春天一样温暖平和的晴天。接近英文的 Indian summer。",
+      "en": "A word often used at this time is 「小春日和」, koharu-biyori, \"small spring weather.\" Because it contains the character for spring, it is often mistaken for a spring word, but it actually refers to a warm, calm, sunny day from late autumn into early winter, like spring. It is close to the English \"Indian summer.\"",
+      "de": "A word often used at this time is 「小春日和」, koharu-biyori, \"small spring weather.\" Because it contains the character for spring, it is often mistaken for a spring word, but it actually refers to a warm, calm, sunny day from late autumn into early winter, like spring. It is close to the English \"Indian summer.\""
+    },
+    {
+      "zh-Hant": "連續寒冷之後到來的小春日和，格外令人感激。坐在走廊上曬太陽的貓咪，正是這個詞的畫面本身。",
+      "zh-Hans": "连续寒冷之后到来的小春日和，格外令人感激。坐在走廊上晒太阳的猫咪，正是这个词的画面本身。",
+      "en": "A koharu-biyori that arrives after a spell of cold is especially welcome. A cat sitting on the veranda basking in the sun is exactly the picture this word conjures.",
+      "de": "A koharu-biyori that arrives after a spell of cold is especially welcome. A cat sitting on the veranda basking in the sun is exactly the picture this word conjures."
+    }
+  ]
+}

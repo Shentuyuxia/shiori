@@ -1,0 +1,84 @@
+{
+  "id": "d37",
+  "d": 37,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "文學原文",
+    "ja": "文学（原文）"
+  },
+  "title": "こころ（冒頭）",
+  "sub": "夏目漱石《心》開頭（1914）",
+  "src": "青空文庫（夏目漱石『こころ』）",
+  "body": "私はその人を常に先生と呼んでいた。だからここでもただ先生と書くだけで本名は[[打ち明けない|うちあけない]]。これは世間を[[憚かる|はばかる]][[遠慮|えんりょ]]というよりも、その方が私にとって自然だからである。",
+  "gloss": {
+    "打ち明けない": {
+      "m": "不透露"
+    },
+    "憚かる": {
+      "m": "顧忌、忌憚",
+      "n": "現代一般寫作「憚る」。"
+    },
+    "遠慮": {
+      "m": "顧慮、客氣",
+      "n": "中文「遠慮」是長遠的考量。"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Kokoro (opening)",
+      "g": {
+        "打ち明けない": [
+          "not to reveal"
+        ],
+        "憚かる": [
+          "to hesitate, refrain out of respect",
+          "Usually written 憚る today."
+        ],
+        "遠慮": [
+          "reserve, holding back",
+          "In Chinese 遠慮 means \"long-term planning\"."
+        ]
+      }
+    },
+    "de": {
+      "s": "Kokoro (Anfang)",
+      "g": {
+        "打ち明けない": [
+          "nicht preisgeben"
+        ],
+        "憚かる": [
+          "sich scheuen, Rücksicht nehmen",
+          "Heute meist 憚る geschrieben."
+        ],
+        "遠慮": [
+          "Zurückhaltung",
+          "Im Chinesischen bedeutet 遠慮 „vorausschauende Überlegung“."
+        ]
+      }
+    },
+    "hans": {
+      "s": "夏目漱石《心》开头（1914）",
+      "g": {
+        "打ち明けない": [
+          "不透露"
+        ],
+        "憚かる": [
+          "顾忌、忌惮",
+          "现代一般写作「惮る」。"
+        ],
+        "遠慮": [
+          "顾虑、客气",
+          "中文「远虑」是长远的考量。"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "我一直稱呼那個人為「先生」。所以在這裡，我也只寫「先生」，不透露他的本名。這與其說是對世人的顧慮，不如說是因為我覺得這樣比較自然。",
+      "zh-Hans": "我一直称呼那个人为「先生」。所以在这里，我也只写「先生」，不透露他的本名。这与其说是对世人的顾虑，不如说是因为我觉得这样比较自然。",
+      "en": "I always called that person \"Sensei.\" So here, too, I write only \"Sensei\" and do not reveal his real name. This is less out of concern for the world than because it simply feels more natural to me.",
+      "de": "I always called that person \"Sensei.\" So here, too, I write only \"Sensei\" and do not reveal his real name. This is less out of concern for the world than because it simply feels more natural to me."
+    }
+  ]
+}

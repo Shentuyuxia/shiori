@@ -1,0 +1,171 @@
+{
+  "id": "d44",
+  "d": 44,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "旅行",
+    "ja": "旅"
+  },
+  "title": "京都の底冷え",
+  "sub": "京都的「底冷」",
+  "body": "京都の冬は「[[底冷え|そこびえ]]」がすると言われる。気温の数字以上に、足元から体の芯まで、[[じわじわ|じわじわ]]と冷えが[[染みて|しみて]]くる寒さだ。\n\nその理由の一つは地形にある。京都は三方を山に囲まれた[[盆地|ぼんち]]で、夜のあいだに冷たい空気が底に[[溜まり|たまり]]やすい。風が少ない分、冷気が逃げないのだ。古い[[町家|まちや]]は夏の暑さをしのぐように作られていて、冬は[[隙間風|すきまかぜ]]が入りやすい、という事情もある。\n\nそれでも、冬の京都には冬にしかない[[良さ|よさ]]がある。観光客の少ない朝の寺、雪化粧をした金閣寺、湯気の立つ[[湯豆腐|ゆどうふ]]。[[厚手|あつで]]の靴下を履いて、出かけてみる価値は十分にある。",
+  "gloss": {
+    "底冷え": {
+      "m": "由內而外的濕冷、寒氣透骨"
+    },
+    "じわじわ": {
+      "m": "慢慢地、一點一點"
+    },
+    "染みて": {
+      "m": "滲入"
+    },
+    "盆地": {
+      "m": "盆地"
+    },
+    "溜まり": {
+      "m": "積聚"
+    },
+    "町家": {
+      "m": "町家（京都傳統町屋）"
+    },
+    "隙間風": {
+      "m": "從縫隙吹進來的風"
+    },
+    "良さ": {
+      "m": "好處"
+    },
+    "湯豆腐": {
+      "m": "湯豆腐"
+    },
+    "厚手": {
+      "m": "厚的"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Kyoto's bone-chilling cold",
+      "g": {
+        "底冷え": [
+          "cold that chills to the bone"
+        ],
+        "じわじわ": [
+          "slowly, little by little"
+        ],
+        "染みて": [
+          "seeping in"
+        ],
+        "盆地": [
+          "basin (geography)"
+        ],
+        "溜まり": [
+          "pooling, collecting"
+        ],
+        "町家": [
+          "machiya (traditional Kyoto townhouse)"
+        ],
+        "隙間風": [
+          "draught through gaps"
+        ],
+        "良さ": [
+          "good side, merit"
+        ],
+        "湯豆腐": [
+          "tofu simmered in hot water"
+        ],
+        "厚手": [
+          "thick (fabric)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Kyotos Kälte bis ins Mark",
+      "g": {
+        "底冷え": [
+          "Kälte, die bis in die Knochen geht"
+        ],
+        "じわじわ": [
+          "allmählich, nach und nach"
+        ],
+        "染みて": [
+          "eindringend"
+        ],
+        "盆地": [
+          "Becken (Geografie)"
+        ],
+        "溜まり": [
+          "Ansammlung"
+        ],
+        "町家": [
+          "Machiya (traditionelles Stadthaus in Kyoto)"
+        ],
+        "隙間風": [
+          "Zugluft durch Ritzen"
+        ],
+        "良さ": [
+          "Vorzug"
+        ],
+        "湯豆腐": [
+          "in heißem Wasser gegarter Tofu"
+        ],
+        "厚手": [
+          "dick (Stoff)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "京都的「底冷」",
+      "g": {
+        "底冷え": [
+          "由内而外的湿冷、寒气透骨"
+        ],
+        "じわじわ": [
+          "慢慢地、一点一点"
+        ],
+        "染みて": [
+          "渗入"
+        ],
+        "盆地": [
+          "盆地"
+        ],
+        "溜まり": [
+          "积聚"
+        ],
+        "町家": [
+          "町家（京都传统町屋）"
+        ],
+        "隙間風": [
+          "从缝隙吹进来的风"
+        ],
+        "良さ": [
+          "好处"
+        ],
+        "湯豆腐": [
+          "汤豆腐"
+        ],
+        "厚手": [
+          "厚的"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "京都的冬天，據說有「底冷」。比起氣溫的數字，那是一種從腳下慢慢滲入、直達身體深處的寒冷。",
+      "zh-Hans": "京都的冬天，据说有「底冷」。比起气温的数字，那是一种从脚下慢慢渗入、直达身体深处的寒冷。",
+      "en": "Winter in Kyoto is said to have 「底冷え」, a deep, bone-chilling cold. More than the number on the thermometer, it is a cold that seeps slowly up from your feet to the core of your body.",
+      "de": "Winter in Kyoto is said to have 「底冷え」, a deep, bone-chilling cold. More than the number on the thermometer, it is a cold that seeps slowly up from your feet to the core of your body."
+    },
+    {
+      "zh-Hant": "原因之一在於地形。京都是被三面山脈環繞的盆地，夜裡冷空氣容易沉積在盆地底部。因為風少，冷氣不易散去。另外，古老的町家是為了抵禦夏天的酷熱而建造的，因此冬天容易有縫隙風灌進來，這也是原因之一。",
+      "zh-Hans": "原因之一在于地形。京都是被三面山脉环绕的盆地，夜里冷空气容易沉积在盆地底部。因为风少，冷气不易散去。另外，古老的町家是为了抵御夏天的酷热而建造的，因此冬天容易有缝隙风灌进来，这也是原因之一。",
+      "en": "One reason lies in the terrain. Kyoto is a basin surrounded by mountains on three sides, so cold air easily pools at the bottom of the basin overnight. With little wind, the cold air cannot escape. Also, old machiya townhouses were built to cope with summer heat, so in winter drafts easily get in.",
+      "de": "One reason lies in the terrain. Kyoto is a basin surrounded by mountains on three sides, so cold air easily pools at the bottom of the basin overnight. With little wind, the cold air cannot escape. Also, old machiya townhouses were built to cope with summer heat, so in winter drafts easily get in."
+    },
+    {
+      "zh-Hant": "即便如此，冬天的京都仍有只屬於冬天的好處。遊客稀少的清晨寺院，披上雪妝的金閣寺，冒著熱氣的湯豆腐。穿上厚厚的襪子出門走走，絕對值得。",
+      "zh-Hans": "即便如此，冬天的京都仍有只属于冬天的好处。游客稀少的清晨寺院，披上雪妆的金阁寺，冒着热气的汤豆腐。穿上厚厚的袜子出门走走，绝对值得。",
+      "en": "Even so, Kyoto in winter has charms found only in winter: early-morning temples with few tourists, Kinkaku-ji dusted with snow, and steaming yudofu. Putting on thick socks and going out is well worth it.",
+      "de": "Even so, Kyoto in winter has charms found only in winter: early-morning temples with few tourists, Kinkaku-ji dusted with snow, and steaming yudofu. Putting on thick socks and going out is well worth it."
+    }
+  ]
+}

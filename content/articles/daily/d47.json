@@ -1,0 +1,211 @@
+{
+  "id": "d47",
+  "d": 47,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "飲食",
+    "ja": "たべもの"
+  },
+  "title": "柚子の香り",
+  "sub": "柚子的香氣",
+  "body": "冬の日本料理に欠かせない香りといえば、柚子だろう。[[吸い物|すいもの]]に皮をひとかけら浮かべるだけで、[[椀|わん]]のふたを開けた瞬間、[[ふわり|ふわり]]と冬の香りが立ちのぼる。\n\n日本の柚子は、台湾で「柚子」と呼ぶ[[文旦|ぶんたん]]の仲間とはまったく別の果物だ。小さく、[[でこぼこ|でこぼこ]]した皮をしていて、[[果汁|かじゅう]]は酸っぱく、そのまま食べることはほとんどない。使うのは主に皮と果汁で、[[ポン酢|ポンず]]や柚子[[胡椒|こしょう]]の原料にもなる。\n\n柚子胡椒の「胡椒」は、[[九州|きゅうしゅう]]の方言で[[唐辛子|とうがらし]]のこと。青い柚子の皮と青唐辛子、塩を[[すり合わせた|すりあわせた]][[薬味|やくみ]]で、鍋や焼き鳥によく合う。名前に[[だまされず|だまされず]]、一度試してみてほしい。",
+  "gloss": {
+    "吸い物": {
+      "m": "清湯"
+    },
+    "文旦": {
+      "m": "文旦（柚子）"
+    },
+    "椀": {
+      "m": "碗"
+    },
+    "ふわり": {
+      "m": "輕飄飄地"
+    },
+    "でこぼこ": {
+      "m": "凹凸不平"
+    },
+    "果汁": {
+      "m": "果汁"
+    },
+    "ポン酢": {
+      "m": "柑橘醋醬油"
+    },
+    "胡椒": {
+      "m": "胡椒",
+      "n": "此處九州方言指辣椒。"
+    },
+    "九州": {
+      "m": "九州"
+    },
+    "唐辛子": {
+      "m": "辣椒"
+    },
+    "すり合わせた": {
+      "m": "研磨混合"
+    },
+    "薬味": {
+      "m": "佐料、辛香料"
+    },
+    "だまされず": {
+      "m": "不被騙"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The scent of yuzu",
+      "g": {
+        "吸い物": [
+          "clear soup"
+        ],
+        "文旦": [
+          "pomelo (buntan)"
+        ],
+        "椀": [
+          "soup bowl"
+        ],
+        "ふわり": [
+          "softly, wafting"
+        ],
+        "でこぼこ": [
+          "bumpy"
+        ],
+        "果汁": [
+          "fruit juice"
+        ],
+        "ポン酢": [
+          "ponzu (citrus soy sauce)"
+        ],
+        "胡椒": [
+          "(here) chili pepper",
+          "In Kyushu dialect 胡椒 means chili here."
+        ],
+        "九州": [
+          "Kyushu"
+        ],
+        "唐辛子": [
+          "chili pepper"
+        ],
+        "すり合わせた": [
+          "ground together"
+        ],
+        "薬味": [
+          "condiment, garnish"
+        ],
+        "だまされず": [
+          "without being fooled"
+        ]
+      }
+    },
+    "de": {
+      "s": "Der Duft von Yuzu",
+      "g": {
+        "吸い物": [
+          "klare Suppe"
+        ],
+        "文旦": [
+          "Pampelmuse (Buntan)"
+        ],
+        "椀": [
+          "Suppenschale"
+        ],
+        "ふわり": [
+          "sanft, schwebend"
+        ],
+        "でこぼこ": [
+          "uneben, holprig"
+        ],
+        "果汁": [
+          "Fruchtsaft"
+        ],
+        "ポン酢": [
+          "Ponzu (Zitrus-Sojasauce)"
+        ],
+        "胡椒": [
+          "(hier) Chili",
+          "Im Kyushu-Dialekt meint 胡椒 hier Chili."
+        ],
+        "九州": [
+          "Kyushu"
+        ],
+        "唐辛子": [
+          "Chili"
+        ],
+        "すり合わせた": [
+          "zusammengerieben"
+        ],
+        "薬味": [
+          "Würzbeigabe"
+        ],
+        "だまされず": [
+          "ohne sich täuschen zu lassen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "柚子的香气",
+      "g": {
+        "吸い物": [
+          "清汤"
+        ],
+        "文旦": [
+          "文旦（柚子）"
+        ],
+        "椀": [
+          "碗"
+        ],
+        "ふわり": [
+          "轻飘飘地"
+        ],
+        "でこぼこ": [
+          "凹凸不平"
+        ],
+        "果汁": [
+          "果汁"
+        ],
+        "ポン酢": [
+          "柑橘醋酱油"
+        ],
+        "胡椒": [
+          "胡椒",
+          "此处九州方言指辣椒。"
+        ],
+        "九州": [
+          "九州"
+        ],
+        "唐辛子": [
+          "辣椒"
+        ],
+        "すり合わせた": [
+          "研磨混合"
+        ],
+        "薬味": [
+          "佐料、辛香料"
+        ],
+        "だまされず": [
+          "不被骗"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "說到冬天日式料理中不可或缺的香氣，大概就是柚子了。只要在湯裡漂浮一小塊果皮，揭開湯碗蓋子的瞬間，冬天的香氣就會輕輕地升騰起來。",
+      "zh-Hans": "说到冬天日式料理中不可或缺的香气，大概就是柚子了。只要在汤里漂浮一小块果皮，揭开汤碗盖子的瞬间，冬天的香气就会轻轻地升腾起来。",
+      "en": "When it comes to the fragrance essential to winter Japanese cuisine, it is probably yuzu. Just floating a single piece of its peel in a clear soup creates a moment where, as you lift the lid of the bowl, the scent of winter gently rises.",
+      "de": "When it comes to the fragrance essential to winter Japanese cuisine, it is probably yuzu. Just floating a single piece of its peel in a clear soup creates a moment where, as you lift the lid of the bowl, the scent of winter gently rises."
+    },
+    {
+      "zh-Hant": "日本的柚子，和台灣稱為「柚子」的文旦，屬於完全不同的水果。它小小的，果皮凹凸不平，果汁很酸，幾乎不會直接吃。主要使用的是果皮與果汁，也是柑橘醋（ポン酢）和柚子胡椒的原料。",
+      "zh-Hans": "日本的柚子，和台湾称为「柚子」的文旦，属于完全不同的水果。它小小的，果皮凹凸不平，果汁很酸，几乎不会直接吃。主要使用的是果皮与果汁，也是柑橘醋（ポン酢）和柚子胡椒的原料。",
+      "en": "Japanese yuzu is an entirely different fruit from what Taiwan calls 柚子, which is the pomelo. It is small, with a bumpy rind, and its juice is sour, so it is almost never eaten on its own. Mainly the peel and juice are used, and they are ingredients for ponzu (citrus soy sauce) and yuzu kosho.",
+      "de": "Japanese yuzu is an entirely different fruit from what Taiwan calls 柚子, which is the pomelo. It is small, with a bumpy rind, and its juice is sour, so it is almost never eaten on its own. Mainly the peel and juice are used, and they are ingredients for ponzu (citrus soy sauce) and yuzu kosho."
+    },
+    {
+      "zh-Hant": "柚子胡椒的「胡椒」，在九州方言中指的是辣椒。它是把青色柚子皮、青辣椒和鹽一起磨成的佐料，很適合搭配火鍋或烤雞肉串。別被名字騙了，請務必試一次。",
+      "zh-Hans": "柚子胡椒的「胡椒」，在九州方言中指的是辣椒。它是把青色柚子皮、青辣椒和盐一起磨成的佐料，很适合搭配火锅或烤鸡肉串。别被名字骗了，请务必试一次。",
+      "en": "The 「胡椒」 in yuzu kosho refers to chili peppers in Kyushu dialect. It is a condiment made by grinding green yuzu peel, green chilies, and salt together, and it pairs well with hot pot or yakitori. Don't be fooled by the name; be sure to try it once.",
+      "de": "The 「胡椒」 in yuzu kosho refers to chili peppers in Kyushu dialect. It is a condiment made by grinding green yuzu peel, green chilies, and salt together, and it pairs well with hot pot or yakitori. Don't be fooled by the name; be sure to try it once."
+    }
+  ]
+}

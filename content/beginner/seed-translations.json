@@ -1,0 +1,170 @@
+{
+  "勉強": {
+    "mi": {
+      "zh-Hant": "學習、讀書",
+      "zh-Hans": "学习、读书",
+      "en": "studying",
+      "de": "Lernen"
+    },
+    "ni": {
+      "zh-Hant": "中文「勉強」是不情願地做；日文是唸書。",
+      "zh-Hans": "中文「勉强」是不情愿地做；日文是念书。",
+      "en": "In Chinese 勉強 means doing something reluctantly; in Japanese it means studying.",
+      "de": "Im Chinesischen heißt 勉強 „widerwillig tun“, im Japanischen „lernen“."
+    }
+  },
+  "手紙": {
+    "mi": {
+      "zh-Hant": "信、書信",
+      "zh-Hans": "信、书信",
+      "en": "letter (mail)",
+      "de": "Brief"
+    },
+    "ni": {
+      "zh-Hant": "不是衛生紙。",
+      "zh-Hans": "不是卫生纸。",
+      "en": "Not toilet paper, as in Chinese.",
+      "de": "Nicht Klopapier wie im Chinesischen."
+    }
+  },
+  "大丈夫": {
+    "mi": {
+      "zh-Hant": "沒問題、不要緊",
+      "zh-Hans": "没问题、不要紧",
+      "en": "all right, no problem",
+      "de": "in Ordnung, kein Problem"
+    },
+    "ni": {
+      "zh-Hant": "",
+      "zh-Hans": "",
+      "en": "",
+      "de": ""
+    }
+  },
+  "留守": {
+    "mi": {
+      "zh-Hant": "不在家、外出",
+      "zh-Hans": "不在家、外出",
+      "en": "being out, not at home",
+      "de": "nicht zu Hause, abwesend"
+    },
+    "ni": {
+      "zh-Hant": "",
+      "zh-Hans": "",
+      "en": "",
+      "de": ""
+    }
+  },
+  "油断": {
+    "mi": {
+      "zh-Hant": "疏忽大意",
+      "zh-Hans": "疏忽大意",
+      "en": "carelessness, letting one's guard down",
+      "de": "Unachtsamkeit"
+    },
+    "ni": {
+      "zh-Hant": "油断大敵＝大意失荊州。",
+      "zh-Hans": "油断大敌＝大意失荆州。",
+      "en": "油断大敵 = carelessness is the greatest enemy.",
+      "de": "油断大敵 = Unachtsamkeit ist der größte Feind."
+    }
+  },
+  "工夫": {
+    "mi": {
+      "zh-Hant": "下功夫、巧思",
+      "zh-Hans": "下功夫、巧思",
+      "en": "ingenuity, a clever idea",
+      "de": "Einfallsreichtum, Kniff"
+    },
+    "ni": {
+      "zh-Hant": "中文「工夫」偏指時間或功夫。",
+      "zh-Hans": "中文「工夫」偏指时间或功夫。",
+      "en": "In Chinese 工夫 leans toward \"time\" or \"skill\".",
+      "de": "Im Chinesischen meint 工夫 eher „Zeit“ oder „Können“."
+    }
+  },
+  "新聞": {
+    "mi": {
+      "zh-Hant": "報紙",
+      "zh-Hans": "报纸",
+      "en": "newspaper",
+      "de": "Zeitung"
+    },
+    "ni": {
+      "zh-Hant": "中文的新聞是ニュース。",
+      "zh-Hans": "中文的新闻是ニュース。",
+      "en": "Chinese 新聞 (news) is ニュース in Japanese.",
+      "de": "Chinesisch 新聞 (Nachrichten) heißt auf Japanisch ニュース."
+    }
+  },
+  "床": {
+    "mi": {
+      "zh-Hant": "地板",
+      "zh-Hans": "地板",
+      "en": "floor",
+      "de": "Fußboden"
+    },
+    "ni": {
+      "zh-Hant": "中文的床是ベッド。",
+      "zh-Hans": "中文的床是ベッド。",
+      "en": "Chinese 床 (bed) is ベッド in Japanese.",
+      "de": "Chinesisch 床 (Bett) heißt auf Japanisch ベッド."
+    }
+  },
+  "汽車": {
+    "mi": {
+      "zh-Hant": "火車（蒸汽列車）",
+      "zh-Hans": "火车（蒸汽列车）",
+      "en": "steam train",
+      "de": "Dampfzug"
+    },
+    "ni": {
+      "zh-Hant": "中文的汽車是車／自動車。",
+      "zh-Hans": "中文的汽车是车／自动车。",
+      "en": "Chinese 汽車 (car) is 車 / 自動車 in Japanese.",
+      "de": "Chinesisch 汽車 (Auto) heißt auf Japanisch 車 / 自動車."
+    }
+  },
+  "丈夫": {
+    "mi": {
+      "zh-Hant": "結實、耐用；健康",
+      "zh-Hans": "结实、耐用；健康",
+      "en": "sturdy; healthy",
+      "de": "robust; gesund"
+    },
+    "ni": {
+      "zh-Hant": "中文「丈夫」是先生、配偶。",
+      "zh-Hans": "中文「丈夫」是先生、配偶。",
+      "en": "In Chinese 丈夫 means husband.",
+      "de": "Im Chinesischen heißt 丈夫 Ehemann."
+    }
+  },
+  "結束": {
+    "mi": {
+      "zh-Hant": "團結",
+      "zh-Hans": "团结",
+      "en": "unity, solidarity",
+      "de": "Zusammenhalt"
+    },
+    "ni": {
+      "zh-Hant": "中文「結束」是終わる。",
+      "zh-Hans": "中文「结束」是终わる。",
+      "en": "Chinese 結束 (to end) is 終わる in Japanese.",
+      "de": "Chinesisch 結束 (beenden) heißt auf Japanisch 終わる."
+    }
+  },
+  "用意": {
+    "mi": {
+      "zh-Hant": "準備",
+      "zh-Hans": "准备",
+      "en": "preparation",
+      "de": "Vorbereitung"
+    },
+    "ni": {
+      "zh-Hant": "中文「用意」是意圖。",
+      "zh-Hans": "中文「用意」是意图。",
+      "en": "In Chinese 用意 means intention.",
+      "de": "Im Chinesischen heißt 用意 Absicht."
+    }
+  }
+}

@@ -1,0 +1,27 @@
+# Rebuilds data/content.json whenever an article or other file in content/ changes.
+# So: edit content/articles/…/<id>.json on GitHub (or locally), push — the app picks it up a minute later.
+name: Build content bundle
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["content/**", "tools/build_content.py", ".github/workflows/build-content.yml"]
+permissions:
+  contents: write
+concurrency: { group: build-content, cancel-in-progress: false }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check and bundle content/
+        run: python3 tools/build_content.py
+      - name: Commit data/content.json if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/content.json
+          git diff --cached --quiet && { echo "bundle already up to date"; exit 0; }
+          git commit -m "Rebuild data/content.json"
+          for i in 1 2 3 4 5; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep $((i*5)); done
+          exit 1

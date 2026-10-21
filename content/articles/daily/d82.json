@@ -1,0 +1,195 @@
+{
+  "id": "d82",
+  "d": 82,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "社論",
+    "ja": "社説"
+  },
+  "title": "「大人」になるとは",
+  "sub": "社論風：何謂「成年」",
+  "body": "日本では、成年年齢が二十歳から十八歳に引き下げられた。十八歳になれば、親の[[同意|どうい]]なしに[[携帯電話|けいたいでんわ]]の契約やローンを組むことができる。一方、飲酒や[[喫煙|きつえん]]は、健康への影響を考慮して二十歳からのままだ。\n\n法律上の大人と、社会が考える大人。その線引きは、思ったより[[曖昧|あいまい]]である。多くの自治体では、成人式にあたる式典を、いまも二十歳を対象に「二十歳の[[集い|つどい]]」などの名前で開いている。十八歳は受験や就職の時期と重なり、[[参加|さんか]]が難しいという事情もある。\n\n[[年齢|ねんれい]]で区切ることはできても、「大人になる」ことに決まった日付はない。[[契約|けいやく]]の責任を負い、自分の[[判断|はんだん]]を引き受け、他人の[[弱さ|よわさ]]に想像を[[巡らせる|めぐらせる]]こと。社会の側にも、若者を「一人前」として扱う[[覚悟|かくご]]が問われている。",
+  "gloss": {
+    "同意": {
+      "m": "同意"
+    },
+    "携帯電話": {
+      "m": "手機"
+    },
+    "喫煙": {
+      "m": "吸菸"
+    },
+    "曖昧": {
+      "m": "模糊"
+    },
+    "集い": {
+      "m": "聚會"
+    },
+    "参加": {
+      "m": "參加"
+    },
+    "年齢": {
+      "m": "年齡"
+    },
+    "契約": {
+      "m": "契約"
+    },
+    "判断": {
+      "m": "判斷"
+    },
+    "弱さ": {
+      "m": "軟弱、脆弱"
+    },
+    "巡らせる": {
+      "m": "運轉（想像）"
+    },
+    "覚悟": {
+      "m": "心理準備、決心"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "What it means to become an adult",
+      "g": {
+        "同意": [
+          "consent"
+        ],
+        "携帯電話": [
+          "mobile phone"
+        ],
+        "喫煙": [
+          "smoking"
+        ],
+        "曖昧": [
+          "vague"
+        ],
+        "集い": [
+          "gathering"
+        ],
+        "参加": [
+          "participation"
+        ],
+        "年齢": [
+          "age"
+        ],
+        "契約": [
+          "contract"
+        ],
+        "判断": [
+          "judgement"
+        ],
+        "弱さ": [
+          "weakness"
+        ],
+        "巡らせる": [
+          "to let (one's imagination) run"
+        ],
+        "覚悟": [
+          "resolve, readiness"
+        ]
+      }
+    },
+    "de": {
+      "s": "Was heißt erwachsen werden?",
+      "g": {
+        "同意": [
+          "Zustimmung"
+        ],
+        "携帯電話": [
+          "Handy"
+        ],
+        "喫煙": [
+          "Rauchen"
+        ],
+        "曖昧": [
+          "vage"
+        ],
+        "集い": [
+          "Zusammenkunft"
+        ],
+        "参加": [
+          "Teilnahme"
+        ],
+        "年齢": [
+          "Alter"
+        ],
+        "契約": [
+          "Vertrag"
+        ],
+        "判断": [
+          "Urteil"
+        ],
+        "弱さ": [
+          "Schwäche"
+        ],
+        "巡らせる": [
+          "(die Fantasie) schweifen lassen"
+        ],
+        "覚悟": [
+          "Entschlossenheit, Bereitschaft"
+        ]
+      }
+    },
+    "hans": {
+      "s": "社论风：何谓「成年」",
+      "g": {
+        "同意": [
+          "同意"
+        ],
+        "携帯電話": [
+          "手机"
+        ],
+        "喫煙": [
+          "吸烟"
+        ],
+        "曖昧": [
+          "模糊"
+        ],
+        "集い": [
+          "聚会"
+        ],
+        "参加": [
+          "参加"
+        ],
+        "年齢": [
+          "年龄"
+        ],
+        "契約": [
+          "契约"
+        ],
+        "判断": [
+          "判断"
+        ],
+        "弱さ": [
+          "软弱、脆弱"
+        ],
+        "巡らせる": [
+          "运转（想像）"
+        ],
+        "覚悟": [
+          "心理准备、决心"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "在日本，成年年齡已從二十歲降為十八歲。滿十八歲後，即使沒有父母同意，也可以簽訂手機合約或辦理貸款。另一方面，喝酒與抽菸，考量對健康的影響，仍維持在二十歲。",
+      "zh-Hans": "在日本，成年年龄已从二十岁降为十八岁。满十八岁后，即使没有父母同意，也可以签订手机合约或办理贷款。另一方面，喝酒与抽烟，考量对健康的影响，仍维持在二十岁。",
+      "en": "In Japan, the age of majority was lowered from 20 to 18. Once you turn 18, you can sign a mobile phone contract or take out a loan without parental consent. On the other hand, drinking and smoking remain at 20, out of consideration for health effects.",
+      "de": "In Japan, the age of majority was lowered from 20 to 18. Once you turn 18, you can sign a mobile phone contract or take out a loan without parental consent. On the other hand, drinking and smoking remain at 20, out of consideration for health effects."
+    },
+    {
+      "zh-Hant": "法律上的大人與社會認定的大人，其界線比想像中模糊。許多地方政府仍以二十歲為對象，舉辦名為「二十歲的聚會」等相當於成人典禮的活動。十八歲正值考試與求職的時期，也有難以參加的情況。",
+      "zh-Hans": "法律上的大人与社会认定的大人，其界线比想像中模糊。许多地方政府仍以二十岁为对象，举办名为「二十岁的聚会」等相当于成人典礼的活动。十八岁正值考试与求职的时期，也有难以参加的情况。",
+      "en": "The line between an adult in law and an adult in society's eyes is more ambiguous than one might think. Many local governments still hold ceremonies equivalent to coming-of-age events for twenty-year-olds, under names like \"Twenty-Year-Old Gatherings.\" Eighteen overlaps with exam and job-hunting seasons, which makes attendance difficult for some.",
+      "de": "The line between an adult in law and an adult in society's eyes is more ambiguous than one might think. Many local governments still hold ceremonies equivalent to coming-of-age events for twenty-year-olds, under names like \"Twenty-Year-Old Gatherings.\" Eighteen overlaps with exam and job-hunting seasons, which makes attendance difficult for some."
+    },
+    {
+      "zh-Hant": "即使可以用年齡來劃分，「成為大人」卻沒有固定的日期。承擔契約的責任，為自己的判斷負責，並且去想像他人的脆弱。社會這一方，也正被要求具備以「獨當一面」來對待年輕人的決心。",
+      "zh-Hans": "即使可以用年龄来划分，「成为大人」却没有固定的日期。承担契约的责任，为自己的判断负责，并且去想像他人的脆弱。社会这一方，也正被要求具备以「独当一面」来对待年轻人的决心。",
+      "en": "Age can divide people, but there is no fixed date for \"becoming an adult.\" It means bearing the responsibility of contracts, taking ownership of your own judgment, and imagining the vulnerabilities of others. Society too is asked whether it has the resolve to treat young people as capable individuals in their own right.",
+      "de": "Age can divide people, but there is no fixed date for \"becoming an adult.\" It means bearing the responsibility of contracts, taking ownership of your own judgment, and imagining the vulnerabilities of others. Society too is asked whether it has the resolve to treat young people as capable individuals in their own right."
+    }
+  ]
+}

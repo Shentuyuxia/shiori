@@ -1,0 +1,154 @@
+{
+  "id": "w-shika",
+  "d": -1,
+  "lv": "n2",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "奈良の鹿はなぜお辞儀をするのか",
+  "sub": "奈良的鹿為什麼會鞠躬？",
+  "body": "奈良公園の周辺には、千頭を超える野生の鹿が暮らしている。[[飼育|しいく]]されているわけではなく、柵もない。信号待ちの人の横を鹿が歩いていく光景は、奈良ならではだ。\n\n奈良の鹿が大切にされてきたのは、[[春日大社|かすがたいしゃ]]の神様が白い鹿に乗ってやってきたという伝説があるからだ。鹿は神の使いとされ、昔は鹿を[[殺める|あやめる]]と重い罰を受けたという。現在は国の[[天然記念物|てんねんきねんぶつ]]に指定されている。\n\n観光客が「鹿せんべい」を持つと、鹿は頭を上下に振る。まるでお辞儀をしているように見えるが、これは本来、鹿同士が[[威嚇|いかく]]するときの動きだとも言われる。人間がお辞儀を返すとせんべいがもらえるため、鹿のほうが[[学習|がくしゅう]]した、という見方もある。\n\nただし、鹿はあくまで野生動物だ。せんべいを持ったまま[[じらす|じらす]]と、[[突進|とっしん]]されたり、かまれたりすることもある。ビニール袋を食べてしまう被害も問題になっている。かわいいからこそ、適切な距離を保ちたい。",
+  "gloss": {
+    "飼育": {
+      "m": "飼養"
+    },
+    "春日大社": {
+      "m": "春日大社（奈良的神社）"
+    },
+    "殺める": {
+      "m": "殺害"
+    },
+    "天然記念物": {
+      "m": "天然紀念物（受保護的動植物）"
+    },
+    "威嚇": {
+      "m": "威嚇"
+    },
+    "学習": {
+      "m": "學習"
+    },
+    "じらす": {
+      "m": "吊胃口、故意讓人著急"
+    },
+    "突進": {
+      "m": "衝撞"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Why do Nara's deer bow?",
+      "g": {
+        "飼育": [
+          "keeping, raising (animals)"
+        ],
+        "春日大社": [
+          "Kasuga Taisha (shrine in Nara)"
+        ],
+        "殺める": [
+          "to kill"
+        ],
+        "天然記念物": [
+          "natural monument (protected species)"
+        ],
+        "威嚇": [
+          "intimidation, threat display"
+        ],
+        "学習": [
+          "learning"
+        ],
+        "じらす": [
+          "to tease"
+        ],
+        "突進": [
+          "to charge"
+        ]
+      }
+    },
+    "de": {
+      "s": "Warum verbeugen sich Naras Hirsche?",
+      "g": {
+        "飼育": [
+          "Haltung (von Tieren)"
+        ],
+        "春日大社": [
+          "Kasuga-Taisha (Schrein in Nara)"
+        ],
+        "殺める": [
+          "töten"
+        ],
+        "天然記念物": [
+          "Naturdenkmal (geschützte Art)"
+        ],
+        "威嚇": [
+          "Drohgebärde"
+        ],
+        "学習": [
+          "Lernen"
+        ],
+        "じらす": [
+          "hinhalten, necken"
+        ],
+        "突進": [
+          "losstürmen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "奈良的鹿为什么会鞠躬？",
+      "g": {
+        "飼育": [
+          "饲养"
+        ],
+        "春日大社": [
+          "春日大社（奈良的神社）"
+        ],
+        "殺める": [
+          "杀害"
+        ],
+        "天然記念物": [
+          "天然纪念物（受保护的动植物）"
+        ],
+        "威嚇": [
+          "威吓"
+        ],
+        "学習": [
+          "学习"
+        ],
+        "じらす": [
+          "吊胃口、故意让人着急"
+        ],
+        "突進": [
+          "冲撞"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "奈良公園周邊住著一千多頭野生的鹿。牠們不是被飼養的，也沒有圍欄。鹿從等紅綠燈的人身旁走過的景象，是奈良獨有的。",
+      "zh-Hans": "奈良公园周边住着一千多头野生的鹿。牠们不是被饲养的，也没有围栏。鹿从等红绿灯的人身旁走过的景象，是奈良独有的。",
+      "en": "More than a thousand wild deer live around Nara Park. They aren't kept, and there are no fences. Deer walking past people waiting at traffic lights is a sight you'll only see in Nara.",
+      "de": "Rund um den Nara-Park leben über tausend wilde Hirsche. Sie werden nicht gehalten, Zäune gibt es keine. Hirsche, die an Menschen an der Ampel vorbeilaufen – das gibt es nur in Nara."
+    },
+    {
+      "zh-Hant": "奈良的鹿受到珍視，是因為傳說春日大社的神明是騎著白鹿來的。鹿被視為神的使者，據說以前殺鹿會受到重罰。現在牠們被指定為國家天然紀念物。",
+      "zh-Hans": "奈良的鹿受到珍视，是因为传说春日大社的神明是骑著白鹿来的。鹿被视为神的使者，据说以前杀鹿会受到重罚。现在牠们被指定为国家天然纪念物。",
+      "en": "Nara's deer have been cherished because of a legend that the deity of Kasuga Taisha arrived riding a white deer. Deer were seen as the god's messengers, and killing one was once said to bring severe punishment. Today they are designated a national natural monument.",
+      "de": "Naras Hirsche werden geschätzt, weil die Gottheit des Kasuga-Taisha der Legende nach auf einem weißen Hirsch ankam. Hirsche galten als Boten der Gottheit, und wer einen tötete, soll früher hart bestraft worden sein. Heute sind sie ein nationales Naturdenkmal."
+    },
+    {
+      "zh-Hant": "遊客一拿出鹿仙貝，鹿就會上下擺頭，看起來像在鞠躬。但有人說，這本來是鹿之間互相威嚇的動作。也有一種看法是：人類回禮鞠躬就會給仙貝，所以是鹿自己學會的。",
+      "zh-Hans": "游客一拿出鹿仙贝，鹿就会上下摆头，看起来像在鞠躬。但有人说，这本来是鹿之间互相威吓的动作。也有一种看法是：人类回礼鞠躬就会给仙贝，所以是鹿自己学会的。",
+      "en": "When visitors hold up deer crackers, the deer bob their heads up and down. It looks like bowing, but some say it was originally a threat display between deer. Another view is that the deer learned it, because people bow back and hand over a cracker.",
+      "de": "Halten Besucher Hirschkekse hoch, nicken die Tiere mit dem Kopf. Es sieht aus wie eine Verbeugung, ursprünglich soll es aber eine Drohgebärde unter Hirschen sein. Eine andere Erklärung: Die Hirsche haben es gelernt, weil Menschen sich zurückverbeugen und einen Keks geben."
+    },
+    {
+      "zh-Hant": "不過，鹿終究是野生動物。拿著仙貝吊牠們胃口，可能會被衝撞或咬傷。鹿誤食塑膠袋的問題也越來越嚴重。正因為可愛，才更要保持適當的距離。",
+      "zh-Hans": "不过，鹿终究是野生动物。拿着仙贝吊牠们胃口，可能会被冲撞或咬伤。鹿误食塑料袋的问题也越来越严重。正因为可爱，才更要保持适当的距离。",
+      "en": "Still, the deer are wild animals. If you tease them while holding crackers, they may charge at you or bite. Deer eating plastic bags has also become a problem. Precisely because they're cute, it's worth keeping a proper distance.",
+      "de": "Trotzdem sind die Hirsche wilde Tiere. Wer sie mit Keksen hinhält, riskiert, angerempelt oder gebissen zu werden. Dass Hirsche Plastiktüten fressen, ist ebenfalls ein Problem. Gerade weil sie so niedlich sind, sollte man Abstand halten."
+    }
+  ]
+}

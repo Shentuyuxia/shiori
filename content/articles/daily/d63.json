@@ -1,0 +1,179 @@
+{
+  "id": "d63",
+  "d": 63,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "專欄",
+    "ja": "コラム"
+  },
+  "title": "年末ジャンボの夢",
+  "sub": "年末大樂透",
+  "body": "年末になると、[[宝くじ売り場|たからくじうりば]]に長い列ができる。「年末ジャンボ宝くじ」だ。一等の[[賞金|しょうきん]]は数億円。当たる確率は[[限りなく|かぎりなく]]ゼロに近いと分かっていても、人はつい列に並ぶ。\n\n面白いのは、「よく当たる」と[[評判|ひょうばん]]の売り場があることだ。東京・銀座の売り場には、[[大安|たいあん]]の日になると何時間もの行列ができる。[[統計|とうけい]]的には、たくさん売れる売り場から当たりが多く出るのは当然なのだが、人は[[縁起|えんぎ]]を担がずにはいられない。\n\n買った宝くじを神棚に[[供えて|そなえて]]おく人もいる。[[抽選日|ちゅうせんび]]までの数週間、「もし当たったら」と想像する時間こそが、宝くじの本当の[[商品|しょうひん]]なのかもしれない。",
+  "gloss": {
+    "宝くじ売り場": {
+      "m": "彩券行"
+    },
+    "賞金": {
+      "m": "獎金"
+    },
+    "限りなく": {
+      "m": "無限地"
+    },
+    "評判": {
+      "m": "有名、評價"
+    },
+    "大安": {
+      "m": "大安",
+      "n": "六曜之一，諸事皆宜的吉日。"
+    },
+    "統計": {
+      "m": "統計"
+    },
+    "縁起": {
+      "m": "吉凶、兆頭",
+      "n": "「縁起を担ぐ」＝講究吉利。"
+    },
+    "供えて": {
+      "m": "供奉"
+    },
+    "抽選日": {
+      "m": "開獎日"
+    },
+    "商品": {
+      "m": "商品"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Dreaming of the year-end jumbo lottery",
+      "g": {
+        "宝くじ売り場": [
+          "lottery booth"
+        ],
+        "賞金": [
+          "prize money"
+        ],
+        "限りなく": [
+          "infinitely"
+        ],
+        "評判": [
+          "reputation"
+        ],
+        "大安": [
+          "taian (lucky day)",
+          "One of the six-day calendar labels; good for everything."
+        ],
+        "統計": [
+          "statistics"
+        ],
+        "縁起": [
+          "omen, luck",
+          "「縁起を担ぐ」 = to be superstitious about luck."
+        ],
+        "供えて": [
+          "offering"
+        ],
+        "抽選日": [
+          "draw date"
+        ],
+        "商品": [
+          "product"
+        ]
+      }
+    },
+    "de": {
+      "s": "Der Traum vom Jahresend-Jackpot",
+      "g": {
+        "宝くじ売り場": [
+          "Lotteriestand"
+        ],
+        "賞金": [
+          "Preisgeld"
+        ],
+        "限りなく": [
+          "unendlich"
+        ],
+        "評判": [
+          "Ruf"
+        ],
+        "大安": [
+          "Taian (Glückstag)",
+          "Einer der sechs Kalendertage; günstig für alles."
+        ],
+        "統計": [
+          "Statistik"
+        ],
+        "縁起": [
+          "Omen, Glück",
+          "„縁起を担ぐ“ = auf gute Omen achten."
+        ],
+        "供えて": [
+          "opfernd"
+        ],
+        "抽選日": [
+          "Ziehungstag"
+        ],
+        "商品": [
+          "Ware"
+        ]
+      }
+    },
+    "hans": {
+      "s": "年末大乐透",
+      "g": {
+        "宝くじ売り場": [
+          "彩券行"
+        ],
+        "賞金": [
+          "奖金"
+        ],
+        "限りなく": [
+          "无限地"
+        ],
+        "評判": [
+          "有名、评价"
+        ],
+        "大安": [
+          "大安",
+          "六曜之一，诸事皆宜的吉日。"
+        ],
+        "統計": [
+          "统计"
+        ],
+        "縁起": [
+          "吉凶、兆头",
+          "「縁起を担ぐ」＝讲究吉利。"
+        ],
+        "供えて": [
+          "供奉"
+        ],
+        "抽選日": [
+          "开奖日"
+        ],
+        "商品": [
+          "商品"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "到了年底，彩券行前會排起長長的隊伍。這就是「年末JUMBO彩券」。頭獎金額高達數億日圓。即使明白中獎機率幾乎等於零，人們還是不由自主地排進隊伍裡。",
+      "zh-Hans": "到了年底，彩券行前会排起长长的队伍。这就是「年末JUMBO彩券」。头奖金额高达数亿日圆。即使明白中奖几率几乎等于零，人们还是不由自主地排进队伍里。",
+      "en": "At year's end, long lines form in front of lottery counters. This is the 「年末ジャンボ宝くじ」, the year-end Jumbo Lottery. The top prize reaches hundreds of millions of yen. Even knowing that the odds of winning are nearly zero, people still find themselves joining the line.",
+      "de": "At year's end, long lines form in front of lottery counters. This is the 「年末ジャンボ宝くじ」, the year-end Jumbo Lottery. The top prize reaches hundreds of millions of yen. Even knowing that the odds of winning are nearly zero, people still find themselves joining the line."
+    },
+    {
+      "zh-Hant": "有趣的是，有些彩券行以「很容易中獎」而口碑相傳。在東京銀座的彩券行，每逢大安日就會排起數小時的隊伍。從統計上看，在銷售量大的彩券行中獎的機率自然比較高，但人們還是忍不住要討個吉利。",
+      "zh-Hans": "有趣的是，有些彩券行以「很容易中奖」而口碑相传。在东京银座的彩券行，每逢大安日就会排起数小时的队伍。从统计上看，在销售量大的彩券行中奖的几率自然比较高，但人们还是忍不住要讨个吉利。",
+      "en": "Interestingly, some counters have a reputation for being \"lucky.\" At a counter in Ginza, Tokyo, lines of several hours form on 大安 days, the luckiest days on the traditional calendar. Statistically, counters that sell many tickets naturally produce more winners, yet people cannot help seeking good omens.",
+      "de": "Interestingly, some counters have a reputation for being \"lucky.\" At a counter in Ginza, Tokyo, lines of several hours form on 大安 days, the luckiest days on the traditional calendar. Statistically, counters that sell many tickets naturally produce more winners, yet people cannot help seeking good omens."
+    },
+    {
+      "zh-Hant": "也有人會把買好的彩券供奉在神龕上。在抽獎日到來前的幾個星期裡，想著「如果中了的話」的那段時間，或許才是彩券真正的商品。",
+      "zh-Hans": "也有人会把买好的彩券供奉在神龛上。在抽奖日到来前的几个星期里，想着「如果中了的话」的那段时间，或许才是彩券真正的商品。",
+      "en": "Some people even place their purchased tickets on the household shrine. During the weeks before the drawing, the time spent imagining \"what if I win\" may be the true product the lottery sells.",
+      "de": "Some people even place their purchased tickets on the household shrine. During the weeks before the drawing, the time spent imagining \"what if I win\" may be the true product the lottery sells."
+    }
+  ]
+}

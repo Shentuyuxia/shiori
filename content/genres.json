@@ -1,0 +1,107 @@
+{
+  "日常": {
+    "hans": "日常",
+    "en": "Daily life",
+    "de": "Alltag"
+  },
+  "飲食": {
+    "hans": "饮食",
+    "en": "Food",
+    "de": "Essen"
+  },
+  "專欄": {
+    "hans": "专栏",
+    "en": "Column",
+    "de": "Kolumne"
+  },
+  "季節的詞": {
+    "hans": "季节的词",
+    "en": "Seasonal words",
+    "de": "Wörter der Jahreszeit"
+  },
+  "商務書信": {
+    "hans": "商务书信",
+    "en": "Business email",
+    "de": "Geschäftsmail"
+  },
+  "新聞": {
+    "hans": "新闻",
+    "en": "News",
+    "de": "Nachrichten"
+  },
+  "短篇": {
+    "hans": "短篇",
+    "en": "Short fiction",
+    "de": "Kurzprosa"
+  },
+  "評論": {
+    "hans": "评论",
+    "en": "Essay",
+    "de": "Essay"
+  },
+  "社論": {
+    "hans": "社论",
+    "en": "Editorial",
+    "de": "Leitartikel"
+  },
+  "方言": {
+    "hans": "方言",
+    "en": "Dialect",
+    "de": "Dialekt"
+  },
+  "文學原文": {
+    "hans": "文学原文",
+    "en": "Literature (original)",
+    "de": "Literatur (Original)"
+  },
+  "古典": {
+    "hans": "古典",
+    "en": "Classics",
+    "de": "Klassik"
+  },
+  "隨筆": {
+    "hans": "随笔",
+    "en": "Essay",
+    "de": "Essay"
+  },
+  "同字異義": {
+    "hans": "同字异义",
+    "en": "False friends",
+    "de": "Falsche Freunde"
+  },
+  "俳句・短歌": {
+    "hans": "俳句・短歌",
+    "en": "Haiku & tanka",
+    "de": "Haiku & Tanka"
+  },
+  "商務日語": {
+    "hans": "商务日语",
+    "en": "Business Japanese",
+    "de": "Geschäftsjapanisch"
+  },
+  "台灣與日本": {
+    "hans": "台湾与日本",
+    "en": "Taiwan & Japan",
+    "de": "Taiwan & Japan"
+  },
+  "時事解說": {
+    "hans": "时事解说",
+    "en": "Current affairs",
+    "de": "Aktuelles erklärt"
+  },
+  "語言雜談": {
+    "hans": "语言杂谈",
+    "en": "Language notes",
+    "de": "Sprachnotizen"
+  },
+  "旅行": {
+    "hans": "旅行",
+    "en": "Travel",
+    "de": "Reisen"
+  },
+  "奇妙百科": {
+    "hans": "奇妙百科",
+    "en": "Wonders",
+    "de": "Wunderwelt"
+  }
+}

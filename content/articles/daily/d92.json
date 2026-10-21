@@ -1,0 +1,171 @@
+{
+  "id": "d92",
+  "d": 92,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "時事解說",
+    "ja": "時事解説"
+  },
+  "title": "共通テストという関門",
+  "sub": "時事解說：大學入學共通考試",
+  "body": "一月中旬の週末、日本全国で「大学入学共通テスト」が行われる。かつての「センター試験」を[[引き継いだ|ひきついだ]]試験で、国公立大学を目指す受験生の多くにとって最初の[[関門|かんもん]]となる。\n\n共通テストでは、知識の[[暗記|あんき]]だけでなく、資料を読み取り、[[思考力|しこうりょく]]や判断力を問う問題が増えた。英語では[[リスニング|リスニング]]の比重が高まり、情報の科目も加わった。試験の[[在り方|ありかた]]は、教育の[[目標|もくひょう]]をそのまま映し出す。\n\nこの時期は雪の季節とも重なり、交通の乱れで試験開始が[[繰り下げ|くりさげ]]られることもある。また、私立大学では学力試験以外の[[推薦|すいせん]]や[[総合型選抜|そうごうがたせんばつ]]で入学する学生が増え、「一発勝負」の入試のあり方そのものが問い直されている。",
+  "gloss": {
+    "引き継いだ": {
+      "m": "承接"
+    },
+    "関門": {
+      "m": "關卡"
+    },
+    "暗記": {
+      "m": "背誦"
+    },
+    "思考力": {
+      "m": "思考能力"
+    },
+    "リスニング": {
+      "m": "聽力"
+    },
+    "在り方": {
+      "m": "應有的樣子、方式"
+    },
+    "目標": {
+      "m": "目標"
+    },
+    "繰り下げ": {
+      "m": "延後"
+    },
+    "推薦": {
+      "m": "推甄"
+    },
+    "総合型選抜": {
+      "m": "綜合型選拔（類似申請入學）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The Common Test as a gateway",
+      "g": {
+        "引き継いだ": [
+          "took over"
+        ],
+        "関門": [
+          "barrier, gateway"
+        ],
+        "暗記": [
+          "memorisation"
+        ],
+        "思考力": [
+          "thinking skills"
+        ],
+        "リスニング": [
+          "listening"
+        ],
+        "在り方": [
+          "the way it should be"
+        ],
+        "目標": [
+          "goal"
+        ],
+        "繰り下げ": [
+          "postponement"
+        ],
+        "推薦": [
+          "recommendation-based admission"
+        ],
+        "総合型選抜": [
+          "comprehensive admission (holistic application)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Die Gemeinsame Prüfung als Nadelöhr",
+      "g": {
+        "引き継いだ": [
+          "übernommen"
+        ],
+        "関門": [
+          "Hürde"
+        ],
+        "暗記": [
+          "Auswendiglernen"
+        ],
+        "思考力": [
+          "Denkvermögen"
+        ],
+        "リスニング": [
+          "Hörverstehen"
+        ],
+        "在り方": [
+          "wie es sein sollte"
+        ],
+        "目標": [
+          "Ziel"
+        ],
+        "繰り下げ": [
+          "Verschiebung"
+        ],
+        "推薦": [
+          "Zulassung per Empfehlung"
+        ],
+        "総合型選抜": [
+          "ganzheitliches Auswahlverfahren"
+        ]
+      }
+    },
+    "hans": {
+      "s": "时事解说：大学入学共通考试",
+      "g": {
+        "引き継いだ": [
+          "承接"
+        ],
+        "関門": [
+          "关卡"
+        ],
+        "暗記": [
+          "背诵"
+        ],
+        "思考力": [
+          "思考能力"
+        ],
+        "リスニング": [
+          "听力"
+        ],
+        "在り方": [
+          "应有的样子、方式"
+        ],
+        "目標": [
+          "目标"
+        ],
+        "繰り下げ": [
+          "延后"
+        ],
+        "推薦": [
+          "推甄"
+        ],
+        "総合型選抜": [
+          "综合型选拔（类似申请入学）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "一月中旬的週末，全日本都會舉行「大學入學共通考試」。這是承接過去「中心考試」的考試，對於以國立、公立大學為目標的考生來說，是第一道關卡。",
+      "zh-Hans": "一月中旬的周末，全日本都会举行「大学入学共通考试」。这是承接过去「中心考试」的考试，对于以国立、公立大学为目标的考生来说，是第一道关卡。",
+      "en": "On a weekend in mid-January, the 「大学入学共通テスト」, the Common Test for University Admissions, is held across Japan. It succeeds the former \"Center Test\" and is the first major hurdle for many applicants aiming for national or public universities.",
+      "de": "On a weekend in mid-January, the 「大学入学共通テスト」, the Common Test for University Admissions, is held across Japan. It succeeds the former \"Center Test\" and is the first major hurdle for many applicants aiming for national or public universities."
+    },
+    {
+      "zh-Hant": "共通考試中，不只是背誦知識，要求讀取資料、考驗思考力與判斷力的題目也增加了。英語加重了聽力的比重，還加入了資訊科目。考試的樣貌，原原本本地反映出教育的目標。",
+      "zh-Hans": "共通考试中，不只是背诵知识，要求读取数据、考验思考力与判断力的题目也增加了。英语加重了听力的比重，还加入了信息科目。考试的样貌，原原本本地反映出教育的目标。",
+      "en": "The Common Test has increasingly included questions that require reading materials and testing reasoning and judgment, rather than only memorizing knowledge. Listening has gained weight in English, and an information subject has been added. The form of the exam faithfully reflects the goals of education.",
+      "de": "The Common Test has increasingly included questions that require reading materials and testing reasoning and judgment, rather than only memorizing knowledge. Listening has gained weight in English, and an information subject has been added. The form of the exam faithfully reflects the goals of education."
+    },
+    {
+      "zh-Hant": "這段時期也正值雪季，有時會因交通混亂而延後考試開始時間。另外，私立大學中，透過推薦或綜合型選拔入學的學生增加，「一決勝負」的入學考試本身，也正在被重新檢討。",
+      "zh-Hans": "这段时期也正值雪季，有时会因交通混乱而延后考试开始时间。另外，私立大学中，通过推荐或综合型选拔入学的学生增加，「一决胜负」的入学考试本身，也正在被重新检讨。",
+      "en": "This period also coincides with the snow season, and sometimes transport disruptions delay the start of the exam. Meanwhile, at private universities, more students are admitted through recommendations and comprehensive selection rather than entrance exams alone, and the very nature of the \"one-shot\" entrance exam is being questioned.",
+      "de": "This period also coincides with the snow season, and sometimes transport disruptions delay the start of the exam. Meanwhile, at private universities, more students are admitted through recommendations and comprehensive selection rather than entrance exams alone, and the very nature of the \"one-shot\" entrance exam is being questioned."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "d59",
+  "d": 59,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "同字異義",
+    "ja": "同形異義語"
+  },
+  "title": "人参は高麗人参ではない",
+  "sub": "同字異義⑤：人參、野菜、饅頭",
+  "body": "日本のスーパーで「人参」を買うと、オレンジ色のにんじん、つまり台湾で言う「紅蘿蔔」が出てくる。中国語の「人參」は、日本語では「[[高麗人参|こうらいにんじん]]」や「[[朝鮮人参|ちょうせんにんじん]]」と呼んで区別する。\n\n「野菜」も、日本語では[[ごく|ごく]]普通の「[[蔬菜|そさい]]」のことだ。中国語の「野菜」のように、山野に自生する草を指すなら、日本語では「[[山菜|さんさい]]」と言う。\n\nそして「饅頭」。日本の「まんじゅう」は、小麦粉の皮で[[あんこ|あんこ]]を包んで蒸した、甘い[[和菓子|わがし]]である。台湾の「饅頭」のような、具の入っていない[[蒸しパン|むしパン]]を期待すると[[拍子抜け|ひょうしぬけ]]するだろう。[[肉まん|にくまん]]、つまり中国語の「包子」は、日本ではまんじゅうの[[仲間|なかま]]として名前がつけられている。",
+  "gloss": {
+    "高麗人参": {
+      "m": "高麗參"
+    },
+    "朝鮮人参": {
+      "m": "朝鮮人參"
+    },
+    "ごく": {
+      "m": "極為"
+    },
+    "蔬菜": {
+      "m": "蔬菜"
+    },
+    "山菜": {
+      "m": "山菜、野菜"
+    },
+    "あんこ": {
+      "m": "紅豆餡"
+    },
+    "和菓子": {
+      "m": "和菓子"
+    },
+    "蒸しパン": {
+      "m": "蒸麵包、饅頭類"
+    },
+    "拍子抜け": {
+      "m": "掃興、洩氣"
+    },
+    "肉まん": {
+      "m": "肉包"
+    },
+    "仲間": {
+      "m": "同類"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "人参 is not ginseng",
+      "g": {
+        "高麗人参": [
+          "Korean ginseng"
+        ],
+        "朝鮮人参": [
+          "Korean ginseng"
+        ],
+        "ごく": [
+          "extremely"
+        ],
+        "蔬菜": [
+          "vegetables"
+        ],
+        "山菜": [
+          "wild mountain vegetables"
+        ],
+        "あんこ": [
+          "sweet red bean paste"
+        ],
+        "和菓子": [
+          "Japanese sweets"
+        ],
+        "蒸しパン": [
+          "steamed bun"
+        ],
+        "拍子抜け": [
+          "letdown, anticlimax"
+        ],
+        "肉まん": [
+          "meat bun"
+        ],
+        "仲間": [
+          "the same family, group"
+        ]
+      }
+    },
+    "de": {
+      "s": "人参 ist kein Ginseng",
+      "g": {
+        "高麗人参": [
+          "koreanischer Ginseng"
+        ],
+        "朝鮮人参": [
+          "koreanischer Ginseng"
+        ],
+        "ごく": [
+          "äußerst"
+        ],
+        "蔬菜": [
+          "Gemüse"
+        ],
+        "山菜": [
+          "wildes Berggemüse"
+        ],
+        "あんこ": [
+          "süße Bohnenpaste"
+        ],
+        "和菓子": [
+          "japanische Süßigkeiten"
+        ],
+        "蒸しパン": [
+          "gedämpftes Brötchen"
+        ],
+        "拍子抜け": [
+          "Enttäuschung"
+        ],
+        "肉まん": [
+          "gefülltes Dampfbrötchen"
+        ],
+        "仲間": [
+          "Verwandter, gleiche Gruppe"
+        ]
+      }
+    },
+    "hans": {
+      "s": "同字异义⑤：人参、野菜、馒头",
+      "g": {
+        "高麗人参": [
+          "高丽参"
+        ],
+        "朝鮮人参": [
+          "朝鲜人参"
+        ],
+        "ごく": [
+          "极为"
+        ],
+        "蔬菜": [
+          "蔬菜"
+        ],
+        "山菜": [
+          "山菜、野菜"
+        ],
+        "あんこ": [
+          "红豆馅"
+        ],
+        "和菓子": [
+          "和菓子"
+        ],
+        "蒸しパン": [
+          "蒸面包、馒头类"
+        ],
+        "拍子抜け": [
+          "扫兴、泄气"
+        ],
+        "肉まん": [
+          "肉包"
+        ],
+        "仲間": [
+          "同类"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "在日本的超市買「人参」，拿到的是橘色的胡蘿蔔，也就是台灣所說的「紅蘿蔔」。中文的「人參」，在日語中則會區分為「高麗人参」或「朝鮮人参」來稱呼。",
+      "zh-Hans": "在日本的超市买「人参」，拿到的是橘色的胡萝卜，也就是台湾所说的「红萝卜」。中文的「人参」，在日语中则会区分为「高丽人参」或「朝鲜人参」来称呼。",
+      "en": "When you buy 「人参」 at a Japanese supermarket, you get orange carrots, what Taiwan calls 紅蘿蔔. In Japanese, the Chinese 人參 (ginseng) is distinguished as 高麗人参 or 朝鮮人参.",
+      "de": "When you buy 「人参」 at a Japanese supermarket, you get orange carrots, what Taiwan calls 紅蘿蔔. In Japanese, the Chinese 人參 (ginseng) is distinguished as 高麗人参 or 朝鮮人参."
+    },
+    {
+      "zh-Hant": "在日語中，「野菜」也就是非常普通的「蔬菜」。如果是中文「野菜」那樣指山野間自然生長的野草，日語則會說「山菜」。",
+      "zh-Hans": "在日语中，「野菜」也就是非常普通的「蔬菜」。如果是中文「野菜」那样指山野间自然生长的野草，日语则会说「山菜」。",
+      "en": "In Japanese, 「野菜」 is simply an ordinary vegetable. If you mean wild greens growing naturally in the fields and hills, as the Chinese 野菜 does, Japanese says 「山菜」, mountain vegetables.",
+      "de": "In Japanese, 「野菜」 is simply an ordinary vegetable. If you mean wild greens growing naturally in the fields and hills, as the Chinese 野菜 does, Japanese says 「山菜」, mountain vegetables."
+    },
+    {
+      "zh-Hant": "還有「饅頭」。日本的「まんじゅう」，是用麵粉做皮、包上紅豆餡蒸熟的甜點。如果期待像台灣「饅頭」那樣沒有內餡的蒸麵包，大概會有點失望。中文的「包子」（肉包）在日本，則被歸為饅頭的同類來命名。",
+      "zh-Hans": "还有「馒头」。日本的「まんじゅう」，是用面粉做皮、包上红豆馅蒸熟的甜点。如果期待像台湾「馒头」那样没有内馅的蒸面包，大概会有点失望。中文的「包子」（肉包）在日本，则被归为馒头的同类来命名。",
+      "en": "And then there is 「饅頭」. Japanese 「まんじゅう」 is a sweet wagashi made of a flour skin wrapped around sweet bean paste and steamed. If you expect the unfilled steamed bun of Taiwan's 饅頭, you may be a little disappointed. In Japan, the Chinese 包子 (filled steamed bun) is named as a relative of manjū.",
+      "de": "And then there is 「饅頭」. Japanese 「まんじゅう」 is a sweet wagashi made of a flour skin wrapped around sweet bean paste and steamed. If you expect the unfilled steamed bun of Taiwan's 饅頭, you may be a little disappointed. In Japan, the Chinese 包子 (filled steamed bun) is named as a relative of manjū."
+    }
+  ]
+}

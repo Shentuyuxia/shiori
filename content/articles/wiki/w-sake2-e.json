@@ -1,0 +1,112 @@
+{
+  "id": "w-sake2-e",
+  "d": -1,
+  "lv": "n4",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "川に帰る鮭",
+  "sub": "回到河裡的鮭魚（簡單版）",
+  "body": "[[鮭|さけ]]は{川|かわ}で{生|う}まれます。{小|ちい}さいとき、{川|かわ}から[[海|うみ]]へ{行|い}きます。\n\n{海|うみ}で{三|さん}{年|ねん}か{四|よん}{年|ねん}、{大|おお}きくなります。それから、{生|う}まれた{川|かわ}に[[戻って|もどって]]きます。\n\nどうして{自分|じぶん}の{川|かわ}が[[分かる|わかる]]のでしょうか。{川|かわ}の[[におい|におい]]を{覚|おぼ}えている、と{言|い}われています。",
+  "gloss": {
+    "鮭": {
+      "m": "鮭魚"
+    },
+    "海": {
+      "m": "海"
+    },
+    "戻って": {
+      "m": "回來（原形：戻る）"
+    },
+    "分かる": {
+      "m": "知道、明白"
+    },
+    "におい": {
+      "m": "氣味"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Salmon coming home (easy)",
+      "g": {
+        "鮭": [
+          "salmon"
+        ],
+        "海": [
+          "sea"
+        ],
+        "戻って": [
+          "coming back (dict. form: 戻る)"
+        ],
+        "分かる": [
+          "to know, understand"
+        ],
+        "におい": [
+          "smell"
+        ]
+      }
+    },
+    "de": {
+      "s": "Lachse kehren heim (leicht)",
+      "g": {
+        "鮭": [
+          "Lachs"
+        ],
+        "海": [
+          "Meer"
+        ],
+        "戻って": [
+          "zurückkehren (Grundform: 戻る)"
+        ],
+        "分かる": [
+          "wissen, verstehen"
+        ],
+        "におい": [
+          "Geruch"
+        ]
+      }
+    },
+    "hans": {
+      "s": "回到河里的鲑鱼（简单版）",
+      "g": {
+        "鮭": [
+          "鲑鱼"
+        ],
+        "海": [
+          "海"
+        ],
+        "戻って": [
+          "回来（原形：戻る）"
+        ],
+        "分かる": [
+          "知道、明白"
+        ],
+        "におい": [
+          "气味"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "鮭魚在河裡出生。小時候，牠們從河流游向大海。",
+      "zh-Hans": "鲑鱼在河里出生。小时候，牠们从河流游向大海。",
+      "en": "Salmon are born in rivers. When they are small, they go from the river to the sea.",
+      "de": "Lachse werden in Flüssen geboren. Wenn sie klein sind, schwimmen sie vom Fluss ins Meer."
+    },
+    {
+      "zh-Hant": "牠們在海裡長大三四年，然後回到自己出生的河流。",
+      "zh-Hans": "牠们在海里长大三四年，然后回到自己出生的河流。",
+      "en": "They grow big in the sea for three or four years. Then they come back to the river where they were born.",
+      "de": "Drei oder vier Jahre lang wachsen sie im Meer. Dann kehren sie in den Fluss zurück, in dem sie geboren wurden."
+    },
+    {
+      "zh-Hant": "牠們怎麼知道哪一條是自己的河呢？據說是因為牠們記得河水的氣味。",
+      "zh-Hans": "牠们怎么知道哪一条是自己的河呢？据说是因为牠们记得河水的气味。",
+      "en": "How do they know which river is theirs? It is said that they remember the smell of the river.",
+      "de": "Woher wissen sie, welcher Fluss ihrer ist? Man sagt, sie erinnern sich an den Geruch des Flusses."
+    }
+  ]
+}

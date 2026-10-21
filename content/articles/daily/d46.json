@@ -1,0 +1,147 @@
+{
+  "id": "d46",
+  "d": 46,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "同字異義",
+    "ja": "同形異義語"
+  },
+  "title": "「怪我」はけがのこと",
+  "sub": "同字異義④：怪我、出世、皮肉",
+  "body": "日本語の「怪我」は「けが」と読み、体に[[傷|きず]]を負うことを言う。「怪」も「我」も、字の意味とはほとんど関係がない。[[当て字|あてじ]]の一種と考えたほうがよい。中国語の「怪我（怪我嗎？）」とは、もちろん何の関係もない。\n\n「出世」は、中国語では「[[生まれる|うまれる]]」の意味もあるが、日本語ではもっぱら「社会的に高い地位につく」ことを言う。「出世[[魚|うお]]」とは、成長に[[伴って|ともなって]]名前が変わる魚のこと。ブリは、ワカシ、イナダ、ワラサと名前を変えて、ようやくブリになる。\n\nそして「皮肉」。日本語では、相手を遠回しに[[批判|ひはん]]する言い方、つまり「[[嫌味|いやみ]]」のことだ。「皮肉なことに」と言えば、思惑とは逆の結果になる様子を表す。中国語の「皮肉（皮と肉）」とは、だいぶ[[距離|きょり]]がある。",
+  "gloss": {
+    "傷": {
+      "m": "傷"
+    },
+    "当て字": {
+      "m": "借字（只借音的漢字寫法）"
+    },
+    "生まれる": {
+      "m": "出生"
+    },
+    "魚": {
+      "m": "魚"
+    },
+    "伴って": {
+      "m": "伴隨"
+    },
+    "批判": {
+      "m": "批評"
+    },
+    "嫌味": {
+      "m": "挖苦、酸言酸語"
+    },
+    "距離": {
+      "m": "距離"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "怪我 means injury",
+      "g": {
+        "傷": [
+          "wound"
+        ],
+        "当て字": [
+          "ateji (kanji used for sound only)"
+        ],
+        "生まれる": [
+          "to be born"
+        ],
+        "魚": [
+          "fish"
+        ],
+        "伴って": [
+          "accompanied by"
+        ],
+        "批判": [
+          "criticism"
+        ],
+        "嫌味": [
+          "sarcasm, snide remark"
+        ],
+        "距離": [
+          "distance"
+        ]
+      }
+    },
+    "de": {
+      "s": "怪我 heißt Verletzung",
+      "g": {
+        "傷": [
+          "Wunde"
+        ],
+        "当て字": [
+          "Ateji (Kanji nur wegen des Lauts)"
+        ],
+        "生まれる": [
+          "geboren werden"
+        ],
+        "魚": [
+          "Fisch"
+        ],
+        "伴って": [
+          "einhergehend mit"
+        ],
+        "批判": [
+          "Kritik"
+        ],
+        "嫌味": [
+          "Stichelei, spitze Bemerkung"
+        ],
+        "距離": [
+          "Distanz"
+        ]
+      }
+    },
+    "hans": {
+      "s": "同字异义④：怪我、出世、皮肉",
+      "g": {
+        "傷": [
+          "伤"
+        ],
+        "当て字": [
+          "借字（只借音的汉字写法）"
+        ],
+        "生まれる": [
+          "出生"
+        ],
+        "魚": [
+          "鱼"
+        ],
+        "伴って": [
+          "伴随"
+        ],
+        "批判": [
+          "批评"
+        ],
+        "嫌味": [
+          "挖苦、酸言酸语"
+        ],
+        "距離": [
+          "距离"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日語的「怪我」讀作「けが」，指身體受傷。「怪」和「我」，與字的本義幾乎沒有關係，最好把它當作一種借字來理解。它和中文的「怪我（怪我嗎？）」當然毫無關係。",
+      "zh-Hans": "日语的「怪我」读作「けが」，指身体受伤。「怪」和「我」，与字的本义几乎没有关系，最好把它当作一种借字来理解。它和中文的「怪我（怪我吗？）」当然毫无关系。",
+      "en": "In Japanese, 「怪我」 is read 「けが」 and means an injury to the body. Neither 「怪」 nor 「我」 has much to do with the meaning of the word, so it is best understood as a kind of ateji, a character used for its sound. It has, of course, no connection to the Chinese 「怪我」.",
+      "de": "In Japanese, 「怪我」 is read 「けが」 and means an injury to the body. Neither 「怪」 nor 「我」 has much to do with the meaning of the word, so it is best understood as a kind of ateji, a character used for its sound. It has, of course, no connection to the Chinese 「怪我」."
+    },
+    {
+      "zh-Hant": "「出世」在中文裡也有「出生」的意思，但在日語中，幾乎只指「在社會上爬到較高的地位」。「出世魚」則是指隨著成長而改變名字的魚。鰤魚會依序變成ワカシ、イナダ、ワラサ，最後才成為ブリ。",
+      "zh-Hans": "「出世」在中文里也有「出生」的意思，但在日语中，几乎只指「在社会上爬到较高的地位」。「出世鱼」则是指随着成长而改变名字的鱼。𫚕鱼会依序变成ワカシ、イナダ、ワラサ，最后才成为ブリ。",
+      "en": "「出世」 can mean \"to be born\" in Chinese, but in Japanese it refers almost exclusively to rising to a high position in society. 「出世魚」 are fish whose names change as they grow. Yellowtail, for example, goes through the names ワカシ, イナダ, and ワラサ before finally becoming ブリ.",
+      "de": "「出世」 can mean \"to be born\" in Chinese, but in Japanese it refers almost exclusively to rising to a high position in society. 「出世魚」 are fish whose names change as they grow. Yellowtail, for example, goes through the names ワカシ, イナダ, and ワラサ before finally becoming ブリ."
+    },
+    {
+      "zh-Hant": "還有「皮肉」。在日語中，指的是迂迴批評對方的說法，也就是「嫌味」。說「皮肉なことに」，則表示事情的結果與原本的盤算相反。與中文「皮肉（皮與肉）」的意思相去甚遠。",
+      "zh-Hans": "还有「皮肉」。在日语中，指的是迂回批评对方的说法，也就是「嫌味」。说「皮肉なことに」，则表示事情的结果与原本的盘算相反。与中文「皮肉（皮与肉）」的意思相去甚远。",
+      "en": "And then there is 「皮肉」. In Japanese it means a roundabout way of criticizing someone, that is, 「嫌味」, a barb. Saying 「皮肉なことに」 expresses that the result is the opposite of what one intended. It is quite far from the Chinese meaning of 皮肉, \"skin and flesh.\"",
+      "de": "And then there is 「皮肉」. In Japanese it means a roundabout way of criticizing someone, that is, 「嫌味」, a barb. Saying 「皮肉なことに」 expresses that the result is the opposite of what one intended. It is quite far from the Chinese meaning of 皮肉, \"skin and flesh.\""
+    }
+  ]
+}

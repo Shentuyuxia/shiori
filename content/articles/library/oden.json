@@ -1,0 +1,147 @@
+{
+  "id": "oden",
+  "d": -1,
+  "lv": "n3",
+  "genre": {
+    "zh-Hant": "飲食",
+    "ja": "たべもの"
+  },
+  "title": "コンビニのおでん",
+  "sub": "便利商店的關東煮",
+  "body": "日本のコンビニでは、秋になると[[おでん|おでん]]を売りはじめる。レジの{横|よこ}に大きな[[鍋|なべ]]があって、自分で好きな[[具|ぐ]]を選ぶ。\n\n私のお気に入りは、[[大根|だいこん]]と[[卵|たまご]]だ。台湾のコンビニにも「関東煮」があるけれど、[[味|あじ]]は少し違う。日本のほうが[[だし|だし]]の味が強い気がする。\n\n寒い日の帰り道に食べるおでんは、小さな[[ご褒美|ごほうび]]だ。",
+  "gloss": {
+    "おでん": {
+      "m": "關東煮"
+    },
+    "鍋": {
+      "m": "鍋子"
+    },
+    "具": {
+      "m": "料、配料"
+    },
+    "大根": {
+      "m": "白蘿蔔"
+    },
+    "卵": {
+      "m": "蛋"
+    },
+    "味": {
+      "m": "味道"
+    },
+    "だし": {
+      "m": "高湯（柴魚、昆布熬的湯底）"
+    },
+    "ご褒美": {
+      "m": "獎勵、犒賞自己"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Oden at the convenience store",
+      "g": {
+        "おでん": [
+          "oden (simmered hot-pot items)"
+        ],
+        "鍋": [
+          "pot"
+        ],
+        "具": [
+          "ingredients, toppings"
+        ],
+        "大根": [
+          "daikon radish"
+        ],
+        "卵": [
+          "egg"
+        ],
+        "味": [
+          "taste, flavour"
+        ],
+        "だし": [
+          "dashi stock (bonito & kelp broth)"
+        ],
+        "ご褒美": [
+          "reward, a little treat for oneself"
+        ]
+      }
+    },
+    "de": {
+      "s": "Oden im Konbini",
+      "g": {
+        "おでん": [
+          "Oden (in Brühe gegarte Zutaten)"
+        ],
+        "鍋": [
+          "Topf"
+        ],
+        "具": [
+          "Einlage, Zutaten"
+        ],
+        "大根": [
+          "Daikon-Rettich"
+        ],
+        "卵": [
+          "Ei"
+        ],
+        "味": [
+          "Geschmack"
+        ],
+        "だし": [
+          "Dashi (Brühe aus Bonito und Kombu)"
+        ],
+        "ご褒美": [
+          "Belohnung, kleine Gönnung"
+        ]
+      }
+    },
+    "hans": {
+      "s": "便利商店的关东煮",
+      "g": {
+        "おでん": [
+          "关东煮"
+        ],
+        "鍋": [
+          "锅子"
+        ],
+        "具": [
+          "料、配料"
+        ],
+        "大根": [
+          "白萝卜"
+        ],
+        "卵": [
+          "蛋"
+        ],
+        "味": [
+          "味道"
+        ],
+        "だし": [
+          "高汤（柴鱼、昆布熬的汤底）"
+        ],
+        "ご褒美": [
+          "奖励、犒赏自己"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本的便利商店一到秋天就開始賣關東煮。收銀台旁邊有一口大鍋，可以自己挑喜歡的料。",
+      "zh-Hans": "日本的便利商店一到秋天就开始卖关东煮。收银台旁边有一口大锅，可以自己挑喜欢的料。",
+      "en": "In Japanese convenience stores, oden goes on sale in autumn. There is a big pot beside the register, and you pick the ingredients you like yourself.",
+      "de": "In Japanese convenience stores, oden goes on sale in autumn. There is a big pot beside the register, and you pick the ingredients you like yourself."
+    },
+    {
+      "zh-Hant": "我最愛的是白蘿蔔和蛋。台灣的便利商店也有「關東煮」，不過味道有點不一樣。我覺得日本的高湯味道更濃。",
+      "zh-Hans": "我最爱的是白萝卜和蛋。台湾的便利商店也有「关东煮」，不过味道有点不一样。我觉得日本的高汤味道更浓。",
+      "en": "My favorites are daikon radish and egg. Taiwanese convenience stores also sell 關東煮, but the taste is a little different. I feel the dashi in Japan has a stronger flavor.",
+      "de": "My favorites are daikon radish and egg. Taiwanese convenience stores also sell 關東煮, but the taste is a little different. I feel the dashi in Japan has a stronger flavor."
+    },
+    {
+      "zh-Hant": "寒冷的日子裡，在回家路上吃的關東煮，是給自己的小小獎勵。",
+      "zh-Hans": "寒冷的日子里，在回家路上吃的关东煮，是给自己的小小奖励。",
+      "en": "On cold days, eating oden on the way home is a small reward for yourself.",
+      "de": "On cold days, eating oden on the way home is a small reward for yourself."
+    }
+  ]
+}

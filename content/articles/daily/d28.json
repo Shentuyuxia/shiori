@@ -1,0 +1,195 @@
+{
+  "id": "d28",
+  "d": 28,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "時事解說",
+    "ja": "時事解説"
+  },
+  "title": "空き家はなぜ増えるのか",
+  "sub": "時事解說：空屋問題",
+  "body": "日本では、誰も住んでいない「空き家」が増え続けている。地方だけでなく、都市部の住宅地でも、[[雨戸|あまど]]が閉まったままの家を見かけることが珍しくなくなった。\n\n背景には、人口減少と高齢化がある。親が亡くなったり施設に入ったりしても、子どもは別の都市に住んでいて戻らない。売ろうにも[[買い手|かいて]]がつかず、[[解体|かいたい]]するには費用がかかる。さらに、建物を壊して[[更地|さらち]]にすると、土地の[[固定資産税|こていしさんぜい]]が高くなる仕組みが、空き家を[[放置|ほうち]]させる一因になってきた。\n\n[[倒壊|とうかい]]の危険や[[景観|けいかん]]の悪化を防ぐため、国は管理の悪い空き家への対策を強めている。一方で、空き家を安く借りて店や[[シェアハウス|シェアハウス]]に[[改装|かいそう]]する動きもある。[[負の遺産|ふのいさん]]と見るか、地域の[[資源|しげん]]と見るか。発想の転換が求められている。",
+  "gloss": {
+    "雨戸": {
+      "m": "防雨窗板"
+    },
+    "買い手": {
+      "m": "買家"
+    },
+    "解体": {
+      "m": "拆除"
+    },
+    "更地": {
+      "m": "空地（無建物的土地）"
+    },
+    "固定資産税": {
+      "m": "固定資產稅（類似房屋稅、地價稅）"
+    },
+    "放置": {
+      "m": "放任不管"
+    },
+    "倒壊": {
+      "m": "倒塌"
+    },
+    "景観": {
+      "m": "景觀"
+    },
+    "シェアハウス": {
+      "m": "分租公寓"
+    },
+    "改装": {
+      "m": "改裝"
+    },
+    "負の遺産": {
+      "m": "負面遺產、包袱"
+    },
+    "資源": {
+      "m": "資源"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Why are empty houses increasing?",
+      "g": {
+        "雨戸": [
+          "storm shutters"
+        ],
+        "買い手": [
+          "buyer"
+        ],
+        "解体": [
+          "demolition"
+        ],
+        "更地": [
+          "vacant lot"
+        ],
+        "固定資産税": [
+          "property tax"
+        ],
+        "放置": [
+          "leaving untouched, neglect"
+        ],
+        "倒壊": [
+          "collapse"
+        ],
+        "景観": [
+          "townscape, landscape"
+        ],
+        "シェアハウス": [
+          "shared house"
+        ],
+        "改装": [
+          "renovation"
+        ],
+        "負の遺産": [
+          "negative legacy, burden"
+        ],
+        "資源": [
+          "resource"
+        ]
+      }
+    },
+    "de": {
+      "s": "Warum gibt es immer mehr leere Häuser?",
+      "g": {
+        "雨戸": [
+          "Sturmläden"
+        ],
+        "買い手": [
+          "Käufer"
+        ],
+        "解体": [
+          "Abriss"
+        ],
+        "更地": [
+          "unbebautes Grundstück"
+        ],
+        "固定資産税": [
+          "Grundsteuer"
+        ],
+        "放置": [
+          "Vernachlässigung"
+        ],
+        "倒壊": [
+          "Einsturz"
+        ],
+        "景観": [
+          "Ortsbild, Landschaftsbild"
+        ],
+        "シェアハウス": [
+          "Wohngemeinschaft"
+        ],
+        "改装": [
+          "Renovierung"
+        ],
+        "負の遺産": [
+          "Altlast, Bürde"
+        ],
+        "資源": [
+          "Ressource"
+        ]
+      }
+    },
+    "hans": {
+      "s": "时事解说：空屋问题",
+      "g": {
+        "雨戸": [
+          "防雨窗板"
+        ],
+        "買い手": [
+          "买家"
+        ],
+        "解体": [
+          "拆除"
+        ],
+        "更地": [
+          "空地（无建物的土地）"
+        ],
+        "固定資産税": [
+          "固定资产税（类似房屋税、地价税）"
+        ],
+        "放置": [
+          "放任不管"
+        ],
+        "倒壊": [
+          "倒塌"
+        ],
+        "景観": [
+          "景观"
+        ],
+        "シェアハウス": [
+          "分租公寓"
+        ],
+        "改装": [
+          "改装"
+        ],
+        "負の遺産": [
+          "负面遗产、包袱"
+        ],
+        "資源": [
+          "资源"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本的「空屋」持續增加，沒有人居住。不只是鄉下，連都市的住宅區，也常能看到雨窗始終關著的房子。",
+      "zh-Hans": "日本的「空屋」持续增加，没有人居住。不只是乡下，连都市的住宅区，也常能看到雨窗始终关着的房子。",
+      "en": "In Japan, the number of \"empty houses,\" with no one living in them, continues to rise. Not only in rural areas but also in urban residential neighborhoods, it has become common to see houses with their rain shutters always closed.",
+      "de": "In Japan, the number of \"empty houses,\" with no one living in them, continues to rise. Not only in rural areas but also in urban residential neighborhoods, it has become common to see houses with their rain shutters always closed."
+    },
+    {
+      "zh-Hant": "背後有人口減少與高齡化的問題。父母過世或入住機構後，子女住在其他城市，不會再回來。想賣卻找不到買家，拆除又要花錢。而且，如果把建築拆成空地，土地的固定資產稅就會變高，這種制度也是造成空屋被放置的原因之一。",
+      "zh-Hans": "背后有人口减少与高龄化的问题。父母过世或入住机构后，子女住在其他城市，不会再回来。想卖却找不到买家，拆除又要花钱。而且，如果把建筑拆成空地，土地的固定资产税就会变高，这种制度也是造成空屋被放置的原因之一。",
+      "en": "Behind this are population decline and aging. When parents pass away or move into care facilities, their children live in other cities and do not return. Even when they want to sell, there are no buyers, and demolition costs money. Moreover, when a building is torn down to make vacant land, the fixed asset tax on the land rises, and this system is one reason empty houses are left to sit.",
+      "de": "Behind this are population decline and aging. When parents pass away or move into care facilities, their children live in other cities and do not return. Even when they want to sell, there are no buyers, and demolition costs money. Moreover, when a building is torn down to make vacant land, the fixed asset tax on the land rises, and this system is one reason empty houses are left to sit."
+    },
+    {
+      "zh-Hant": "為了防止倒塌的危險與景觀惡化，國家正在加強對管理不善空屋的對策。另一方面，也有人把空屋租得便宜，改裝成店鋪或分租公寓。究竟要把它看作負面遺產，還是地區的資源？需要的是觀念的轉變。",
+      "zh-Hans": "为了防止倒塌的危险与景观恶化，国家正在加强对管理不善空屋的对策。另一方面，也有人把空屋租得便宜，改装成店铺或分租公寓。究竟要把它看作负面遗产，还是地区的资源？需要的是观念的转变。",
+      "en": "To prevent the danger of collapse and the deterioration of the scenery, the government is strengthening measures against poorly maintained empty houses. On the other hand, there are also moves to rent empty houses cheaply and renovate them into shops or shared houses. Should we see them as a negative legacy or as a resource for the community? What is needed is a shift in thinking.",
+      "de": "To prevent the danger of collapse and the deterioration of the scenery, the government is strengthening measures against poorly maintained empty houses. On the other hand, there are also moves to rent empty houses cheaply and renovate them into shops or shared houses. Should we see them as a negative legacy or as a resource for the community? What is needed is a shift in thinking."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "d58",
+  "d": 58,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "隨筆",
+    "ja": "随筆"
+  },
+  "title": "台北の冬、東京の冬",
+  "sub": "台北的冬天，東京的冬天",
+  "body": "台北から東京に来た人は、[[口を揃えて|くちをそろえて]]こう言う。「東京の冬は、思ったより寒くない」。\n\n数字の上では、東京のほうがずっと寒い。それなのにそう感じるのは、東京の冬が乾いて晴れた日が多く、日差しが暖かいからだろう。対して台北の冬は、雨が多く、[[湿気|しっけ]]を含んだ冷たさが服の中まで[[入り込んで|はいりこんで]]くる。しかも多くの家には暖房がない。室内のほうが外より寒い、ということさえある。\n\n一方、東京の家では[[エアコン|エアコン]]の暖房が当たり前で、冬は[[乾燥|かんそう]]との戦いになる。[[加湿器|かしつき]]を回し、唇には[[リップクリーム|リップクリーム]]を塗り、[[静電気|せいでんき]]に[[びくっ|びくっ]]とする。\n\n寒さには、温度計では測れない[[質|しつ]]がある。どちらの冬が[[厳しい|きびしい]]かは、結局、どちらの冬に慣れているかで決まるのかもしれない。",
+  "gloss": {
+    "口を揃えて": {
+      "m": "異口同聲"
+    },
+    "湿気": {
+      "m": "濕氣"
+    },
+    "入り込んで": {
+      "m": "鑽進"
+    },
+    "エアコン": {
+      "m": "冷氣（空調）"
+    },
+    "乾燥": {
+      "m": "乾燥"
+    },
+    "加湿器": {
+      "m": "加濕器"
+    },
+    "リップクリーム": {
+      "m": "護唇膏"
+    },
+    "静電気": {
+      "m": "靜電"
+    },
+    "びくっ": {
+      "m": "嚇一跳"
+    },
+    "質": {
+      "m": "質感、性質"
+    },
+    "厳しい": {
+      "m": "嚴酷"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Winter in Taipei, winter in Tokyo",
+      "g": {
+        "口を揃えて": [
+          "all saying the same"
+        ],
+        "湿気": [
+          "humidity"
+        ],
+        "入り込んで": [
+          "creeping in"
+        ],
+        "エアコン": [
+          "air conditioner"
+        ],
+        "乾燥": [
+          "dryness"
+        ],
+        "加湿器": [
+          "humidifier"
+        ],
+        "リップクリーム": [
+          "lip balm"
+        ],
+        "静電気": [
+          "static electricity"
+        ],
+        "びくっ": [
+          "with a start"
+        ],
+        "質": [
+          "quality, nature"
+        ],
+        "厳しい": [
+          "harsh"
+        ]
+      }
+    },
+    "de": {
+      "s": "Winter in Taipeh, Winter in Tokio",
+      "g": {
+        "口を揃えて": [
+          "einstimmig"
+        ],
+        "湿気": [
+          "Feuchtigkeit"
+        ],
+        "入り込んで": [
+          "eindringend"
+        ],
+        "エアコン": [
+          "Klimaanlage"
+        ],
+        "乾燥": [
+          "Trockenheit"
+        ],
+        "加湿器": [
+          "Luftbefeuchter"
+        ],
+        "リップクリーム": [
+          "Lippenpflege"
+        ],
+        "静電気": [
+          "statische Aufladung"
+        ],
+        "びくっ": [
+          "zusammenzucken"
+        ],
+        "質": [
+          "Beschaffenheit"
+        ],
+        "厳しい": [
+          "streng, hart"
+        ]
+      }
+    },
+    "hans": {
+      "s": "台北的冬天，东京的冬天",
+      "g": {
+        "口を揃えて": [
+          "异口同声"
+        ],
+        "湿気": [
+          "湿气"
+        ],
+        "入り込んで": [
+          "钻进"
+        ],
+        "エアコン": [
+          "冷气（空调）"
+        ],
+        "乾燥": [
+          "干燥"
+        ],
+        "加湿器": [
+          "加湿器"
+        ],
+        "リップクリーム": [
+          "护唇膏"
+        ],
+        "静電気": [
+          "静电"
+        ],
+        "びくっ": [
+          "吓一跳"
+        ],
+        "質": [
+          "质感、性质"
+        ],
+        "厳しい": [
+          "严酷"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "從台北來到東京的人，都會異口同聲地說：「東京的冬天，沒有想像中那麼冷。」",
+      "zh-Hans": "从台北来到东京的人，都会异口同声地说：「东京的冬天，没有想像中那么冷。」",
+      "en": "People who come to Tokyo from Taipei all say the same thing: \"Winter in Tokyo isn't as cold as I expected.\"",
+      "de": "People who come to Tokyo from Taipei all say the same thing: \"Winter in Tokyo isn't as cold as I expected.\""
+    },
+    {
+      "zh-Hant": "就數字來說，東京要冷得多。儘管如此，人們之所以有這種感覺，大概是因為東京的冬天乾燥、晴天多，陽光暖和。相對地，台北的冬天雨多，帶著濕氣的寒意會鑽進衣服裡。而且很多家庭沒有暖氣，甚至會出現室內比室外還冷的情況。",
+      "zh-Hans": "就数字来说，东京要冷得多。尽管如此，人们之所以有这种感觉，大概是因为东京的冬天干燥、晴天多，阳光暖和。相对地，台北的冬天雨多，带着湿气的寒意会钻进衣服里。而且很多家庭没有暖气，甚至会出现室内比室外还冷的情况。",
+      "en": "By the numbers, Tokyo is much colder. Yet people feel this way probably because Tokyo's winters are dry, with many sunny days and warm sunshine. In contrast, Taipei's winters bring a lot of rain, and the damp chill slips right through your clothes. Moreover, many homes have no heating, and it can even be colder indoors than outside.",
+      "de": "By the numbers, Tokyo is much colder. Yet people feel this way probably because Tokyo's winters are dry, with many sunny days and warm sunshine. In contrast, Taipei's winters bring a lot of rain, and the damp chill slips right through your clothes. Moreover, many homes have no heating, and it can even be colder indoors than outside."
+    },
+    {
+      "zh-Hant": "另一方面，在東京的家裡，冷氣暖房是理所當然的，冬天就成了與乾燥的戰爭。開著加濕器，嘴唇上抹著護唇膏，被靜電嚇得一跳。",
+      "zh-Hans": "另一方面，在东京的家里，冷气暖房是理所当然的，冬天就成了与干燥的战争。开着加湿器，嘴唇上抹着护唇膏，被静电吓得一跳。",
+      "en": "In Tokyo homes, on the other hand, air-conditioning heating is taken for granted, and winter becomes a battle against dryness. You run the humidifier, apply lip balm, and jump when you get a shock of static electricity.",
+      "de": "In Tokyo homes, on the other hand, air-conditioning heating is taken for granted, and winter becomes a battle against dryness. You run the humidifier, apply lip balm, and jump when you get a shock of static electricity."
+    },
+    {
+      "zh-Hant": "寒冷有一種溫度計量不出來的性質。哪一種冬天比較難熬，最後或許取決於你已經習慣了哪一種冬天。",
+      "zh-Hans": "寒冷有一种温度计量不出来的性质。哪一种冬天比较难熬，最后或许取决于你已经习惯了哪一种冬天。",
+      "en": "Cold has a quality that no thermometer can measure. Perhaps which winter feels harsher ultimately depends on which winter you have grown used to.",
+      "de": "Cold has a quality that no thermometer can measure. Perhaps which winter feels harsher ultimately depends on which winter you have grown used to."
+    }
+  ]
+}

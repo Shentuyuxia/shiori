@@ -1,0 +1,159 @@
+{
+  "id": "d80",
+  "d": 80,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "七草粥",
+  "sub": "七草粥（1月7日）",
+  "body": "一月七日の朝には、「七草粥」を食べる習わしがある。「せり、なずな、ごぎょう、はこべら、ほとけのざ、すずな、すずしろ、これぞ七草」。春の七草を[[刻んで|きざんで]]入れた、[[塩味|しおあじ]]のやさしいお粥だ。\n\nすずなは[[蕪|かぶ]]、すずしろは大根のこと。残りの五つは、野や川辺に生える草である。[[無病息災|むびょうそくさい]]を願うとともに、正月のごちそうで疲れた胃を休める、という[[実用的|じつようてき]]な意味もある。\n\nこの行事は、中国の「人日」の[[節句|せっく]]に、七種類の[[若菜|わかな]]の[[羹|あつもの]]を食べた風習に由来するとされる。今ではスーパーで「七草セット」が売られ、手軽に作れる。台湾で暮らしたことのある人なら、「人日」という言葉に、どこか[[懐かしい|なつかしい]]響きを感じるかもしれない。",
+  "gloss": {
+    "刻んで": {
+      "m": "切碎"
+    },
+    "塩味": {
+      "m": "鹹味"
+    },
+    "蕪": {
+      "m": "蕪菁"
+    },
+    "無病息災": {
+      "m": "無病無災"
+    },
+    "実用的": {
+      "m": "實用的"
+    },
+    "節句": {
+      "m": "節日（傳統節令）"
+    },
+    "若菜": {
+      "m": "嫩菜"
+    },
+    "羹": {
+      "m": "羹湯"
+    },
+    "懐かしい": {
+      "m": "令人懷念"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Seven-herb porridge (7 January)",
+      "g": {
+        "刻んで": [
+          "chopping"
+        ],
+        "塩味": [
+          "salty taste"
+        ],
+        "蕪": [
+          "turnip"
+        ],
+        "無病息災": [
+          "good health and safety"
+        ],
+        "実用的": [
+          "practical"
+        ],
+        "節句": [
+          "seasonal festival"
+        ],
+        "若菜": [
+          "young greens"
+        ],
+        "羹": [
+          "hot soup"
+        ],
+        "懐かしい": [
+          "nostalgic"
+        ]
+      }
+    },
+    "de": {
+      "s": "Sieben-Kräuter-Reisbrei (7. Januar)",
+      "g": {
+        "刻んで": [
+          "klein schneidend"
+        ],
+        "塩味": [
+          "salziger Geschmack"
+        ],
+        "蕪": [
+          "Rübe"
+        ],
+        "無病息災": [
+          "Gesundheit und Wohlergehen"
+        ],
+        "実用的": [
+          "praktisch"
+        ],
+        "節句": [
+          "jahreszeitliches Fest"
+        ],
+        "若菜": [
+          "junge Kräuter"
+        ],
+        "羹": [
+          "heiße Suppe"
+        ],
+        "懐かしい": [
+          "vertraut, nostalgisch"
+        ]
+      }
+    },
+    "hans": {
+      "s": "七草粥（1月7日）",
+      "g": {
+        "刻んで": [
+          "切碎"
+        ],
+        "塩味": [
+          "咸味"
+        ],
+        "蕪": [
+          "芜菁"
+        ],
+        "無病息災": [
+          "无病无灾"
+        ],
+        "実用的": [
+          "实用的"
+        ],
+        "節句": [
+          "节日（传统节令）"
+        ],
+        "若菜": [
+          "嫩菜"
+        ],
+        "羹": [
+          "羹汤"
+        ],
+        "懐かしい": [
+          "令人怀念"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "一月七日的早晨，有吃「七草粥」的習俗。「芹菜、鼠麴草、蘿蔔、繁縷、田蔥、蕪菁、白蘿蔔，這就是七草」。把春天的七種野菜切碎放進去，是鹹味溫和的粥。",
+      "zh-Hans": "一月七日的早晨，有吃「七草粥」的习俗。「芹菜、鼠曲草、萝卜、繁缕、田葱、芜菁、白萝卜，这就是七草」。把春天的七种野菜切碎放进去，是咸味温和的粥。",
+      "en": "On the morning of January 7th, there is a custom of eating 「七草粥」, seven-herb rice porridge. \"Seri, nazuna, gyōgi, hakobera, hotoke-no-za, suzuna, suzushiro: these are the seven herbs.\" It is a gently salted porridge made with the seven spring herbs, finely chopped.",
+      "de": "On the morning of January 7th, there is a custom of eating 「七草粥」, seven-herb rice porridge. \"Seri, nazuna, gyōgi, hakobera, hotoke-no-za, suzuna, suzushiro: these are the seven herbs.\" It is a gently salted porridge made with the seven spring herbs, finely chopped."
+    },
+    {
+      "zh-Hant": "すずな（すずな）指的是蕪菁，すずしろ指的是白蘿蔔。其餘五種，是生長在原野與溪畔的野草。它既是祈求無病無災，也有實際的意義，就是讓因新年大餐而疲憊的腸胃得到休息。",
+      "zh-Hans": "すずな（すずな）指的是芜菁，すずしろ指的是白萝卜。其余五种，是生长在原野与溪畔的野草。它既是祈求无病无灾，也有实际的意义，就是让因新年大餐而疲惫的肠胃得到休息。",
+      "en": "「すずな」 means turnip, and 「すずしろ」 means daikon radish. The other five are wild plants that grow in fields and along riverbanks. The custom wishes for health and freedom from illness, and it also has a practical purpose: giving rest to a stomach worn out by the feasts of New Year's.",
+      "de": "「すずな」 means turnip, and 「すずしろ」 means daikon radish. The other five are wild plants that grow in fields and along riverbanks. The custom wishes for health and freedom from illness, and it also has a practical purpose: giving rest to a stomach worn out by the feasts of New Year's."
+    },
+    {
+      "zh-Hant": "這項活動據說源自中國的「人日」節，當天吃七種嫩菜煮的羹湯。如今超市有賣「七草套組」，可以輕鬆做。曾經在台灣生活過的人，或許會對「人日」這個詞感到一絲親切。",
+      "zh-Hans": "这项活动据说源自中国的「人日」节，当天吃七种嫩菜煮的羹汤。如今超市有卖「七草套组」，可以轻松做。曾经在台湾生活过的人，或许会对「人日」这个词感到一丝亲切。",
+      "en": "This event is said to derive from the Chinese 人日 festival, when a soup made of seven kinds of young greens was eaten. Today, supermarkets sell \"seven herb sets\" that make it easy to prepare. Those who once lived in Taiwan may feel a familiar resonance in the word 人日.",
+      "de": "This event is said to derive from the Chinese 人日 festival, when a soup made of seven kinds of young greens was eaten. Today, supermarkets sell \"seven herb sets\" that make it easy to prepare. Those who once lived in Taiwan may feel a familiar resonance in the word 人日."
+    }
+  ]
+}

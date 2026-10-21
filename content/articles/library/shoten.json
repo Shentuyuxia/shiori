@@ -1,0 +1,161 @@
+{
+  "id": "shoten",
+  "d": -1,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "新聞",
+    "ja": "ニュース"
+  },
+  "title": "町の本屋が消えていく",
+  "sub": "街角書店正在消失",
+  "body": "全国の書店の数は、この二十年あまりで[[半減|はんげん]]したと言われる。[[ネット通販|ネットつうはん]]や電子書籍の[[普及|ふきゅう]]に加え、人口減少も[[追い打ち|おいうち]]をかけた。書店が一軒もない自治体も、もはや[[珍しく|めずらしく]]ない。\n\n一方で、新しい形の本屋も生まれている。店主が選んだ本だけを並べる小さな「[[独立系書店|どくりつけいしょてん]]」や、本棚の{一区画|ひとくかく}を個人に貸し出す「[[シェア型書店|シェアがたしょてん]]」だ。売り上げだけを見れば[[採算|さいさん]]は厳しい。それでも、人と本が[[偶然|ぐうぜん]]出会える場所を残したいという思いが、各地で静かに広がっている。",
+  "gloss": {
+    "半減": {
+      "m": "減半"
+    },
+    "ネット通販": {
+      "m": "網購"
+    },
+    "普及": {
+      "m": "普及"
+    },
+    "追い打ち": {
+      "m": "雪上加霜",
+      "n": "「追い打ちをかける」＝落井下石、雪上加霜。"
+    },
+    "珍しく": {
+      "m": "罕見、稀奇（原形：珍しい）"
+    },
+    "独立系書店": {
+      "m": "獨立書店"
+    },
+    "シェア型書店": {
+      "m": "共享書架型書店",
+      "n": "個人承租一格書櫃，擺自己選的書來賣。"
+    },
+    "採算": {
+      "m": "收支平衡、划不划算"
+    },
+    "偶然": {
+      "m": "偶然"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The town bookshops are disappearing",
+      "g": {
+        "半減": [
+          "halving, cut by half"
+        ],
+        "ネット通販": [
+          "online shopping"
+        ],
+        "普及": [
+          "spread, becoming widespread"
+        ],
+        "追い打ち": [
+          "an additional blow",
+          "「追い打ちをかける」 = to add insult to injury."
+        ],
+        "珍しく": [
+          "unusually (dict. form: 珍しい)"
+        ],
+        "独立系書店": [
+          "independent bookshop"
+        ],
+        "シェア型書店": [
+          "shared-shelf bookshop",
+          "Individuals rent one shelf and sell books they picked."
+        ],
+        "採算": [
+          "profitability, breaking even"
+        ],
+        "偶然": [
+          "chance, coincidence"
+        ]
+      }
+    },
+    "de": {
+      "s": "Die Buchläden verschwinden",
+      "g": {
+        "半減": [
+          "Halbierung"
+        ],
+        "ネット通販": [
+          "Onlinehandel"
+        ],
+        "普及": [
+          "Verbreitung"
+        ],
+        "追い打ち": [
+          "zusätzlicher Schlag",
+          "„追い打ちをかける“ = noch eins draufsetzen."
+        ],
+        "珍しく": [
+          "ungewöhnlich (Grundform: 珍しい)"
+        ],
+        "独立系書店": [
+          "unabhängige Buchhandlung"
+        ],
+        "シェア型書店": [
+          "Buchladen mit Mietregalen",
+          "Privatleute mieten ein Regalfach und verkaufen selbst ausgewählte Bücher."
+        ],
+        "採算": [
+          "Rentabilität"
+        ],
+        "偶然": [
+          "Zufall"
+        ]
+      }
+    },
+    "hans": {
+      "s": "街角书店正在消失",
+      "g": {
+        "半減": [
+          "减半"
+        ],
+        "ネット通販": [
+          "网购"
+        ],
+        "普及": [
+          "普及"
+        ],
+        "追い打ち": [
+          "雪上加霜",
+          "「追い打ちをかける」＝落井下石、雪上加霜。"
+        ],
+        "珍しく": [
+          "罕见、稀奇（原形：珍しい）"
+        ],
+        "独立系書店": [
+          "独立书店"
+        ],
+        "シェア型書店": [
+          "共享书架型书店",
+          "个人承租一格书柜，摆自己选的书来卖。"
+        ],
+        "採算": [
+          "收支平衡、划不划算"
+        ],
+        "偶然": [
+          "偶然"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "據說全國書店的數量，在這二十多年裡減少了一半。網路購書和電子書的普及，再加上人口減少，雪上加霜。如今沒有一家書店的地方自治體，也已經不算稀奇了。",
+      "zh-Hans": "据说全国书店的数量，在这二十多年里减少了一半。网络购书和电子书的普及，再加上人口减少，雪上加霜。如今没有一家书店的地方自治体，也已经不算稀奇了。",
+      "en": "It is said that the number of bookstores nationwide has halved in roughly the last twenty years. Online retail and the spread of e-books, along with a shrinking population, have piled on. Municipalities without a single bookstore are no longer unusual.",
+      "de": "It is said that the number of bookstores nationwide has halved in roughly the last twenty years. Online retail and the spread of e-books, along with a shrinking population, have piled on. Municipalities without a single bookstore are no longer unusual."
+    },
+    {
+      "zh-Hant": "另一方面，新型態的書店也在誕生。有只擺店主親自挑選的書的小型「獨立書店」，也有把書架的一個區塊出租給個人的「共享書店」。單看銷售額，收支很難平衡。儘管如此，各地仍然悄悄地擴散著一種心意：想留住一個讓人與書偶然相遇的地方。",
+      "zh-Hans": "另一方面，新型态的书店也在诞生。有只摆店主亲自挑选的书的小型「独立书店」，也有把书架的一个区块出租给个人的「共享书店」。单看销售额，收支很难平衡。尽管如此，各地仍然悄悄地扩散着一种心意：想留住一个让人与书偶然相遇的地方。",
+      "en": "On the other hand, new kinds of bookstores are also appearing. There are small \"independent bookstores\" that stock only books chosen by the owner, and \"shared bookstores\" that rent out a section of shelving to individuals. Looking only at sales, profitability is difficult. Yet across the country, a quiet desire is spreading to keep places where people and books can meet by chance.",
+      "de": "On the other hand, new kinds of bookstores are also appearing. There are small \"independent bookstores\" that stock only books chosen by the owner, and \"shared bookstores\" that rent out a section of shelving to individuals. Looking only at sales, profitability is difficult. Yet across the country, a quiet desire is spreading to keep places where people and books can meet by chance."
+    }
+  ]
+}

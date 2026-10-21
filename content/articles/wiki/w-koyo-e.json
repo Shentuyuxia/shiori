@@ -1,0 +1,124 @@
+{
+  "id": "w-koyo-e",
+  "d": -1,
+  "lv": "n4",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "葉はどうして赤くなる？",
+  "sub": "葉子為什麼會變紅？（簡單版）",
+  "body": "{秋|あき}になると、[[葉|は]]が{赤|あか}や[[黄色|きいろ]]になります。これを「[[紅葉|こうよう]]」と{言|い}います。\n\n{夏|なつ}の{葉|は}は[[緑|みどり]]です。{緑|みどり}の{色|いろ}のもとが、{秋|あき}に[[なくなります|なくなります]]。すると、{中|なか}にあった{黄色|きいろ}が{見|み}えてきます。\n\n{昼|ひる}は{晴|は}れて、{夜|よる}は{寒|さむ}い{日|ひ}が{続|つづ}くと、{葉|は}は[[きれい|きれい]]な{赤|あか}になります。",
+  "gloss": {
+    "葉": {
+      "m": "葉子"
+    },
+    "黄色": {
+      "m": "黃色"
+    },
+    "紅葉": {
+      "m": "紅葉、葉子變色"
+    },
+    "緑": {
+      "m": "綠色"
+    },
+    "なくなります": {
+      "m": "消失、沒有了"
+    },
+    "きれい": {
+      "m": "漂亮"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Why do leaves turn red? (easy)",
+      "g": {
+        "葉": [
+          "leaf"
+        ],
+        "黄色": [
+          "yellow"
+        ],
+        "紅葉": [
+          "autumn colours"
+        ],
+        "緑": [
+          "green"
+        ],
+        "なくなります": [
+          "to disappear"
+        ],
+        "きれい": [
+          "beautiful"
+        ]
+      }
+    },
+    "de": {
+      "s": "Warum werden Blätter rot? (leicht)",
+      "g": {
+        "葉": [
+          "Blatt"
+        ],
+        "黄色": [
+          "gelb"
+        ],
+        "紅葉": [
+          "Herbstfärbung"
+        ],
+        "緑": [
+          "grün"
+        ],
+        "なくなります": [
+          "verschwinden"
+        ],
+        "きれい": [
+          "schön"
+        ]
+      }
+    },
+    "hans": {
+      "s": "叶子为什么会变红？（简单版）",
+      "g": {
+        "葉": [
+          "叶子"
+        ],
+        "黄色": [
+          "黄色"
+        ],
+        "紅葉": [
+          "红叶、叶子变色"
+        ],
+        "緑": [
+          "绿色"
+        ],
+        "なくなります": [
+          "消失、没有了"
+        ],
+        "きれい": [
+          "漂亮"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "到了秋天，葉子會變成紅色或黃色，這叫「紅葉」。",
+      "zh-Hans": "到了秋天，叶子会变成红色或黄色，这叫「红叶」。",
+      "en": "In autumn, leaves turn red or yellow. This is called kōyō.",
+      "de": "Im Herbst werden die Blätter rot oder gelb. Das nennt man Kōyō."
+    },
+    {
+      "zh-Hant": "夏天的葉子是綠色的。綠色的來源在秋天會消失，原本藏在葉子裡的黃色就顯現出來了。",
+      "zh-Hans": "夏天的叶子是绿色的。绿色的来源在秋天会消失，原本藏在叶子里的黄色就显现出来了。",
+      "en": "In summer the leaves are green. In autumn, what makes them green disappears, and the yellow that was inside becomes visible.",
+      "de": "Im Sommer sind die Blätter grün. Im Herbst verschwindet das, was sie grün macht, und das Gelb, das schon darin war, wird sichtbar."
+    },
+    {
+      "zh-Hant": "如果白天晴朗、晚上寒冷的日子持續下去，葉子就會變成漂亮的紅色。",
+      "zh-Hans": "如果白天晴朗、晚上寒冷的日子持续下去，叶子就会变成漂亮的红色。",
+      "en": "If sunny days and cold nights continue, the leaves turn a beautiful red.",
+      "de": "Folgen sonnige Tage und kalte Nächte aufeinander, werden die Blätter schön rot."
+    }
+  ]
+}

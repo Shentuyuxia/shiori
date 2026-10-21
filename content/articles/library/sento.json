@@ -1,0 +1,127 @@
+{
+  "id": "sento",
+  "d": -1,
+  "lv": "n3",
+  "genre": {
+    "zh-Hant": "日常",
+    "ja": "くらし"
+  },
+  "title": "はじめての銭湯",
+  "sub": "第一次去澡堂",
+  "body": "近所に古い[[銭湯|せんとう]]がある。先週、はじめて行ってみた。入り口で[[料金|りょうきん]]を払うと、おばあさんが「タオルは持ってる？」と聞いてくれた。\n\nお湯はとても熱かったけれど、[[壁|かべ]]に{描|か}かれた富士山の絵を見ながら入ると、[[気持ち|きもち]]がよかった。となりのおじいさんが「どこから来たの？」と[[話しかけて|はなしかけて]]くれて、台湾の話を少しした。\n\n帰り道、体が[[ぽかぽか|ぽかぽか]]していた。また来週も行こうと思う。",
+  "gloss": {
+    "銭湯": {
+      "m": "公共澡堂"
+    },
+    "料金": {
+      "m": "費用、價錢"
+    },
+    "壁": {
+      "m": "牆壁"
+    },
+    "気持ち": {
+      "m": "心情、感覺",
+      "n": "「気持ちがいい」＝很舒服。"
+    },
+    "話しかけて": {
+      "m": "搭話（原形：話しかける）"
+    },
+    "ぽかぽか": {
+      "m": "暖呼呼的"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "My first sentō",
+      "g": {
+        "銭湯": [
+          "public bathhouse"
+        ],
+        "料金": [
+          "fee, price"
+        ],
+        "壁": [
+          "wall"
+        ],
+        "気持ち": [
+          "feeling, mood",
+          "「気持ちがいい」 = it feels great."
+        ],
+        "話しかけて": [
+          "to start talking to someone (dict. form: 話しかける)"
+        ],
+        "ぽかぽか": [
+          "nice and warm"
+        ]
+      }
+    },
+    "de": {
+      "s": "Mein erstes Sentō",
+      "g": {
+        "銭湯": [
+          "öffentliches Badehaus"
+        ],
+        "料金": [
+          "Gebühr, Preis"
+        ],
+        "壁": [
+          "Wand"
+        ],
+        "気持ち": [
+          "Gefühl, Stimmung",
+          "„気持ちがいい“ = es fühlt sich herrlich an."
+        ],
+        "話しかけて": [
+          "jemanden ansprechen (Grundform: 話しかける)"
+        ],
+        "ぽかぽか": [
+          "mollig warm"
+        ]
+      }
+    },
+    "hans": {
+      "s": "第一次去澡堂",
+      "g": {
+        "銭湯": [
+          "公共澡堂"
+        ],
+        "料金": [
+          "费用、价钱"
+        ],
+        "壁": [
+          "墙壁"
+        ],
+        "気持ち": [
+          "心情、感觉",
+          "「気持ちがいい」＝很舒服。"
+        ],
+        "話しかけて": [
+          "搭话（原形：话しかける）"
+        ],
+        "ぽかぽか": [
+          "暖呼呼的"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "附近有一家老澡堂。上週我第一次去。在入口付了費，一位奶奶問我：「有帶毛巾嗎？」",
+      "zh-Hans": "附近有一家老澡堂。上周我第一次去。在入口付了费，一位奶奶问我：「有带毛巾吗？」",
+      "en": "There is an old public bath near my home. I went for the first time last week. When I paid at the entrance, an elderly woman asked me, \"Do you have a towel?\"",
+      "de": "There is an old public bath near my home. I went for the first time last week. When I paid at the entrance, an elderly woman asked me, \"Do you have a towel?\""
+    },
+    {
+      "zh-Hant": "水非常燙，不過一邊看著牆上畫的富士山，一邊泡進去，感覺很舒服。旁邊的爺爺問我：「你從哪裡來的？」我就聊了一點台灣的事。",
+      "zh-Hans": "水非常烫，不过一边看着墙上画的富士山，一边泡进去，感觉很舒服。旁边的爷爷问我：「你从哪里来的？」我就聊了一点台湾的事。",
+      "en": "The water was very hot, but it felt good to soak while looking at the painting of Mt. Fuji on the wall. The old man next to me asked, \"Where are you from?\" and I told him a little about Taiwan.",
+      "de": "The water was very hot, but it felt good to soak while looking at the painting of Mt. Fuji on the wall. The old man next to me asked, \"Where are you from?\" and I told him a little about Taiwan."
+    },
+    {
+      "zh-Hant": "回家的路上，身體暖呼呼的。我想下週也會再去。",
+      "zh-Hans": "回家的路上，身体暖呼呼的。我想下周也会再去。",
+      "en": "On the way home, my body was warm and cozy. I think I'll go again next week.",
+      "de": "On the way home, my body was warm and cozy. I think I'll go again next week."
+    }
+  ]
+}

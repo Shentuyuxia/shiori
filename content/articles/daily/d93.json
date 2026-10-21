@@ -1,0 +1,171 @@
+{
+  "id": "d93",
+  "d": 93,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "大寒",
+  "sub": "節氣：大寒",
+  "body": "二十四節気の最後、「大寒」。一年で最も寒さが厳しい頃とされ、実際に各地で最低気温を記録するのもこの時期だ。\n\nそれでも、大寒の次は立春。暦の上では、春はもうすぐそこまで来ている。冬の寒さの中に、春の兆しを探す言葉も多い。「[[春隣|はるどなり]]」は、春がすぐ隣まで来ていることを表す冬の[[季語|きご]]。「[[三寒四温|さんかんしおん]]」は、寒い日が三日ほど続くと、暖かい日が四日ほど続くという、冬から春への移り変わりを表す言葉だ。\n\n大寒の日の早朝に[[汲んだ|くんだ]]水は「[[寒の水|かんのみず]]」と呼ばれ、一年[[腐らない|くさらない]]と言われた。この日に生まれた「[[大寒卵|だいかんたまご]]」は、[[金運|きんうん]]を呼ぶ縁起物として人気がある。寒さの[[底|そこ]]は、春への[[折り返し|おりかえし]]地点でもあるのだ。",
+  "gloss": {
+    "春隣": {
+      "m": "春天將近（冬季季語）"
+    },
+    "季語": {
+      "m": "季語"
+    },
+    "三寒四温": {
+      "m": "三寒四溫"
+    },
+    "汲んだ": {
+      "m": "汲取"
+    },
+    "寒の水": {
+      "m": "寒水"
+    },
+    "腐らない": {
+      "m": "不腐壞"
+    },
+    "大寒卵": {
+      "m": "大寒蛋"
+    },
+    "金運": {
+      "m": "財運"
+    },
+    "底": {
+      "m": "谷底"
+    },
+    "折り返し": {
+      "m": "折返"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Daikan: the great cold",
+      "g": {
+        "春隣": [
+          "spring is near (winter kigo)"
+        ],
+        "季語": [
+          "seasonal word"
+        ],
+        "三寒四温": [
+          "three cold days, four warm days"
+        ],
+        "汲んだ": [
+          "drew (water)"
+        ],
+        "寒の水": [
+          "midwinter water"
+        ],
+        "腐らない": [
+          "doesn't spoil"
+        ],
+        "大寒卵": [
+          "eggs laid on Daikan"
+        ],
+        "金運": [
+          "luck with money"
+        ],
+        "底": [
+          "bottom"
+        ],
+        "折り返し": [
+          "turning point"
+        ]
+      }
+    },
+    "de": {
+      "s": "Daikan: die große Kälte",
+      "g": {
+        "春隣": [
+          "der Frühling ist nah (Winter-Kigo)"
+        ],
+        "季語": [
+          "Jahreszeitenwort"
+        ],
+        "三寒四温": [
+          "drei kalte, vier warme Tage"
+        ],
+        "汲んだ": [
+          "geschöpft"
+        ],
+        "寒の水": [
+          "Mittwinterwasser"
+        ],
+        "腐らない": [
+          "verdirbt nicht"
+        ],
+        "大寒卵": [
+          "am Daikan gelegte Eier"
+        ],
+        "金運": [
+          "Geldglück"
+        ],
+        "底": [
+          "Tiefpunkt"
+        ],
+        "折り返し": [
+          "Wendepunkt"
+        ]
+      }
+    },
+    "hans": {
+      "s": "节气：大寒",
+      "g": {
+        "春隣": [
+          "春天将近（冬季季语）"
+        ],
+        "季語": [
+          "季语"
+        ],
+        "三寒四温": [
+          "三寒四温"
+        ],
+        "汲んだ": [
+          "汲取"
+        ],
+        "寒の水": [
+          "寒水"
+        ],
+        "腐らない": [
+          "不腐坏"
+        ],
+        "大寒卵": [
+          "大寒蛋"
+        ],
+        "金運": [
+          "财运"
+        ],
+        "底": [
+          "谷底"
+        ],
+        "折り返し": [
+          "折返"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "二十四節氣的最後一個，是「大寒」。據說是一年中最嚴寒的時節，實際上各地記錄到最低氣溫，也多半在這段時期。",
+      "zh-Hans": "二十四节气的最后一个，是「大寒」。据说是一年中最严寒的时节，实际上各地记录到最低气温，也多半在这段时期。",
+      "en": "The last of the 24 solar terms is 「大寒」, Major Cold. It is said to be the harshest time of the year, and indeed the lowest temperatures are often recorded across the country during this period.",
+      "de": "The last of the 24 solar terms is 「大寒」, Major Cold. It is said to be the harshest time of the year, and indeed the lowest temperatures are often recorded across the country during this period."
+    },
+    {
+      "zh-Hant": "不過，大寒之後就是立春。按曆法算，春天其實已經近在眼前。在冬天的寒冷之中尋找春天跡象的詞語也很多。「春隣」是冬季的季語，表示春天已經近在隔壁。「三寒四溫」則描述寒冷的日子持續約三天，溫暖的日子又持續約四天，這樣反覆交替、由冬入春的變化。",
+      "zh-Hans": "不过，大寒之后就是立春。按历法算，春天其实已经近在眼前。在冬天的寒冷之中寻找春天迹象的词语也很多。「春隣」是冬季的季语，表示春天已经近在隔壁。「三寒四温」则描述寒冷的日子持续约三天，温暖的日子又持续约四天，这样反复交替、由冬入春的变化。",
+      "en": "However, after 大寒 comes 立春, the start of spring. By the calendar, spring is already very close. There are many words for finding signs of spring amid the winter cold. 「春隣」 is a winter seasonal word meaning spring is right next door. 「三寒四温」 describes the pattern of about three cold days followed by about four warm days, the shift from winter to spring.",
+      "de": "However, after 大寒 comes 立春, the start of spring. By the calendar, spring is already very close. There are many words for finding signs of spring amid the winter cold. 「春隣」 is a winter seasonal word meaning spring is right next door. 「三寒四温」 describes the pattern of about three cold days followed by about four warm days, the shift from winter to spring."
+    },
+    {
+      "zh-Hant": "據說在大寒當天清晨汲取的水，稱為「寒之水」，可以一整年都不腐敗。當天產下的「大寒蛋」，也是受歡迎的招財吉祥物。寒冷的谷底，同時也是通往春天的轉折點。",
+      "zh-Hans": "据说在大寒当天清晨汲取的水，称为「寒之水」，可以一整年都不腐败。当天产下的「大寒蛋」，也是受欢迎的招财吉祥物。寒冷的谷底，同时也是通往春天的转折点。",
+      "en": "Water drawn in the early morning of 大寒 is called 「寒の水」, and it was said never to spoil for a whole year. 「大寒卵」, eggs laid on that day, are popular as lucky charms that attract money. The bottom of the cold is also the turning point toward spring.",
+      "de": "Water drawn in the early morning of 大寒 is called 「寒の水」, and it was said never to spoil for a whole year. 「大寒卵」, eggs laid on that day, are popular as lucky charms that attract money. The bottom of the cold is also the turning point toward spring."
+    }
+  ]
+}

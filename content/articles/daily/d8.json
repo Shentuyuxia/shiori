@@ -1,0 +1,199 @@
+{
+  "id": "d8",
+  "d": 8,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "台灣與日本",
+    "ja": "台湾と日本"
+  },
+  "title": "「便當」と「弁当」",
+  "sub": "便當與弁当",
+  "body": "台湾で「便當」と言えば、温かいご飯に[[排骨|パイコー]]や[[鶏腿|ジートゥイ]]がのった、[[ボリューム|ボリューム]]のある食事を思い浮かべる人が多いだろう。一方、日本の弁当は、[[冷めて|さめて]]も[[美味しく|おいしく]]食べられるように作られている。\n\nこの違いは、[[蒸し器|むしき]]や電子レンジで温め直す文化と、作り置きを冷たいまま食べる文化の差でもある。日本の弁当に[[酢|す]]や梅干し、[[濃いめ|こいめ]]の味付けが多いのは、[[傷み|いたみ]]にくくするための[[工夫|くふう]]だ。\n\nちなみに、台湾の「便當」という言葉自体が、日本統治時代に日本語から入ったものだとされている。同じ言葉が、海を[[隔てて|へだてて]]別の[[味|あじ]]に育ったわけだ。",
+  "gloss": {
+    "排骨": {
+      "m": "排骨"
+    },
+    "鶏腿": {
+      "m": "雞腿"
+    },
+    "ボリューム": {
+      "m": "份量"
+    },
+    "冷めて": {
+      "m": "變涼、冷掉（原形：冷める）"
+    },
+    "美味しく": {
+      "m": "美味"
+    },
+    "蒸し器": {
+      "m": "蒸籠、蒸鍋"
+    },
+    "酢": {
+      "m": "醋"
+    },
+    "濃いめ": {
+      "m": "偏濃"
+    },
+    "傷み": {
+      "m": "（食物）腐壞"
+    },
+    "工夫": {
+      "m": "巧思、下功夫",
+      "n": "中文「工夫」偏指時間或功夫。"
+    },
+    "隔てて": {
+      "m": "隔著"
+    },
+    "味": {
+      "m": "味道"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "便當 and 弁当",
+      "g": {
+        "排骨": [
+          "pork chop"
+        ],
+        "鶏腿": [
+          "chicken leg"
+        ],
+        "ボリューム": [
+          "portion size"
+        ],
+        "冷めて": [
+          "getting cold (dict. form: 冷める)"
+        ],
+        "美味しく": [
+          "tasty"
+        ],
+        "蒸し器": [
+          "steamer"
+        ],
+        "酢": [
+          "vinegar"
+        ],
+        "濃いめ": [
+          "on the strong side"
+        ],
+        "傷み": [
+          "spoiling (of food)"
+        ],
+        "工夫": [
+          "ingenuity, a clever idea",
+          "In Chinese 工夫 leans toward \"time\" or \"skill\"."
+        ],
+        "隔てて": [
+          "separated by"
+        ],
+        "味": [
+          "taste, flavour"
+        ]
+      }
+    },
+    "de": {
+      "s": "便當 und 弁当",
+      "g": {
+        "排骨": [
+          "Schweinekotelett"
+        ],
+        "鶏腿": [
+          "Hähnchenschenkel"
+        ],
+        "ボリューム": [
+          "Portionsgröße"
+        ],
+        "冷めて": [
+          "abkühlen (Grundform: 冷める)"
+        ],
+        "美味しく": [
+          "lecker"
+        ],
+        "蒸し器": [
+          "Dampfgarer"
+        ],
+        "酢": [
+          "Essig"
+        ],
+        "濃いめ": [
+          "etwas kräftiger"
+        ],
+        "傷み": [
+          "Verderben (von Essen)"
+        ],
+        "工夫": [
+          "Einfallsreichtum, kluger Kniff",
+          "Im Chinesischen meint 工夫 eher „Zeit“ oder „Können“."
+        ],
+        "隔てて": [
+          "getrennt durch"
+        ],
+        "味": [
+          "Geschmack"
+        ]
+      }
+    },
+    "hans": {
+      "s": "便当与弁当",
+      "g": {
+        "排骨": [
+          "排骨"
+        ],
+        "鶏腿": [
+          "鸡腿"
+        ],
+        "ボリューム": [
+          "份量"
+        ],
+        "冷めて": [
+          "变凉、冷掉（原形：冷める）"
+        ],
+        "美味しく": [
+          "美味"
+        ],
+        "蒸し器": [
+          "蒸笼、蒸锅"
+        ],
+        "酢": [
+          "醋"
+        ],
+        "濃いめ": [
+          "偏浓"
+        ],
+        "傷み": [
+          "（食物）腐坏"
+        ],
+        "工夫": [
+          "巧思、下功夫",
+          "中文「工夫」偏指时间或功夫。"
+        ],
+        "隔てて": [
+          "隔着"
+        ],
+        "味": [
+          "味道"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "在台灣說到「便當」，很多人會想到熱騰騰的白飯上放著排骨或雞腿、分量十足的餐點。而日本的便當，則是為了即使涼了也能好吃而做的。",
+      "zh-Hans": "在台湾说到「便当」，很多人会想到热腾腾的白饭上放着排骨或鸡腿、分量十足的餐点。而日本的便当，则是为了即使凉了也能好吃而做的。",
+      "en": "In Taiwan, when people say 便當, many picture a hearty meal of warm rice topped with pork chop or chicken leg. Japanese bento, on the other hand, are made so that they taste good even when cold.",
+      "de": "In Taiwan, when people say 便當, many picture a hearty meal of warm rice topped with pork chop or chicken leg. Japanese bento, on the other hand, are made so that they taste good even when cold."
+    },
+    {
+      "zh-Hant": "這個差異，也反映了重新用蒸籠或微波爐加熱的飲食文化，與作好後趁冷吃的文化之間的不同。日本便當常用醋、梅干，或偏重的調味，是為了不易變質而下的功夫。",
+      "zh-Hans": "这个差异，也反映了重新用蒸笼或微波炉加热的饮食文化，与作好后趁冷吃的文化之间的不同。日本便当常用醋、梅干，或偏重的调味，是为了不易变质而下的功夫。",
+      "en": "This difference also reflects a gap between a culture that reheats food in a steamer or microwave and a culture that eats prepared food cold. Japanese bento often use vinegar, pickled plums, or stronger seasoning, a craft meant to keep the food from spoiling.",
+      "de": "This difference also reflects a gap between a culture that reheats food in a steamer or microwave and a culture that eats prepared food cold. Japanese bento often use vinegar, pickled plums, or stronger seasoning, a craft meant to keep the food from spoiling."
+    },
+    {
+      "zh-Hant": "順帶一提，台灣的「便當」這個詞本身，據說是日治時期從日語傳入的。同一個詞，隔著海，在不同的土地上長成了不同的味道。",
+      "zh-Hans": "顺带一提，台湾的「便当」这个词本身，据说是日治时期从日语传入的。同一个词，隔着海，在不同的土地上长成了不同的味道。",
+      "en": "By the way, the word 便當 in Taiwan is said to have come from Japanese during the Japanese colonial period. The same word, separated by the sea, grew into different flavors in different lands.",
+      "de": "By the way, the word 便當 in Taiwan is said to have come from Japanese during the Japanese colonial period. The same word, separated by the sea, grew into different flavors in different lands."
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "d41",
+  "d": 41,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "社論",
+    "ja": "社説"
+  },
+  "title": "書くことを手放さないために",
+  "sub": "社論風：不放棄「書寫」",
+  "body": "文章を自動で[[生成|せいせい]]する AI が身近になった。メールの[[下書き|したがき]]も、報告書の[[要約|ようやく]]も、数秒で[[整った|ととのった]]文章が出てくる。[[恩恵|おんけい]]は大きく、もう後戻りはできないだろう。\n\nだが、書くという行為は、出来上がった文章だけに価値があるのではない。何を言いたいのか分からないまま書き始め、言葉を選び、[[削り|けずり]]、[[並べ替える|ならべかえる]]うちに、自分の考えの[[輪郭|りんかく]]が見えてくる。書くことは、考えることそのものでもある。\n\n[[道具|どうぐ]]を使うことと、道具に考えを[[丸ごと|まるごと]]預けることは違う。学校でも職場でも、AI をどう使うかと同時に、人が自分の手で書く機会をどう守るかを議論すべき時期に来ている。[[効率|こうりつ]]だけで測れないものを、[[見失わない|みうしなわない]]ために。",
+  "gloss": {
+    "生成": {
+      "m": "生成"
+    },
+    "下書き": {
+      "m": "草稿"
+    },
+    "要約": {
+      "m": "摘要"
+    },
+    "整った": {
+      "m": "工整的"
+    },
+    "恩恵": {
+      "m": "恩惠、好處"
+    },
+    "削り": {
+      "m": "刪減"
+    },
+    "並べ替える": {
+      "m": "重新排列"
+    },
+    "輪郭": {
+      "m": "輪廓"
+    },
+    "道具": {
+      "m": "工具"
+    },
+    "丸ごと": {
+      "m": "整個、全部"
+    },
+    "効率": {
+      "m": "效率"
+    },
+    "見失わない": {
+      "m": "不迷失、不看丟"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "So that we don't give up writing",
+      "g": {
+        "生成": [
+          "generation (e.g. by AI)"
+        ],
+        "下書き": [
+          "draft"
+        ],
+        "要約": [
+          "summary"
+        ],
+        "整った": [
+          "neat, polished"
+        ],
+        "恩恵": [
+          "benefit"
+        ],
+        "削り": [
+          "cutting, trimming"
+        ],
+        "並べ替える": [
+          "to rearrange"
+        ],
+        "輪郭": [
+          "outline, contour"
+        ],
+        "道具": [
+          "tool"
+        ],
+        "丸ごと": [
+          "entirely, wholesale"
+        ],
+        "効率": [
+          "efficiency"
+        ],
+        "見失わない": [
+          "not to lose sight of"
+        ]
+      }
+    },
+    "de": {
+      "s": "Damit wir das Schreiben nicht aufgeben",
+      "g": {
+        "生成": [
+          "Generierung (z. B. durch KI)"
+        ],
+        "下書き": [
+          "Entwurf"
+        ],
+        "要約": [
+          "Zusammenfassung"
+        ],
+        "整った": [
+          "sauber, gefeilt"
+        ],
+        "恩恵": [
+          "Vorteil, Nutzen"
+        ],
+        "削り": [
+          "Kürzen, Streichen"
+        ],
+        "並べ替える": [
+          "umstellen, neu ordnen"
+        ],
+        "輪郭": [
+          "Umriss, Kontur"
+        ],
+        "道具": [
+          "Werkzeug"
+        ],
+        "丸ごと": [
+          "komplett, mit Haut und Haar"
+        ],
+        "効率": [
+          "Effizienz"
+        ],
+        "見失わない": [
+          "nicht aus den Augen verlieren"
+        ]
+      }
+    },
+    "hans": {
+      "s": "社论风：不放弃「书写」",
+      "g": {
+        "生成": [
+          "生成"
+        ],
+        "下書き": [
+          "草稿"
+        ],
+        "要約": [
+          "摘要"
+        ],
+        "整った": [
+          "工整的"
+        ],
+        "恩恵": [
+          "恩惠、好处"
+        ],
+        "削り": [
+          "删减"
+        ],
+        "並べ替える": [
+          "重新排列"
+        ],
+        "輪郭": [
+          "轮廓"
+        ],
+        "道具": [
+          "工具"
+        ],
+        "丸ごと": [
+          "整个、全部"
+        ],
+        "効率": [
+          "效率"
+        ],
+        "見失わない": [
+          "不迷失、不看丢"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "能自動生成文章的 AI 已經變得很常見。電子郵件的草稿、報告的摘要，幾秒鐘內就能產出工整的文字。它帶來的好處很大，我們大概已經回不去了。",
+      "zh-Hans": "能自动生成文章的 AI 已经变得很常见。电子邮件的草稿、报告的摘要，几秒钟内就能产出工整的文本。它带来的好处很大，我们大概已经回不去了。",
+      "en": "AI that generates text automatically has become part of everyday life. Drafts of emails and summaries of reports can come out as polished prose within seconds. The benefits are considerable, and we probably cannot go back now.",
+      "de": "AI that generates text automatically has become part of everyday life. Drafts of emails and summaries of reports can come out as polished prose within seconds. The benefits are considerable, and we probably cannot go back now."
+    },
+    {
+      "zh-Hant": "但是，寫作這件事的價值，不只在於寫完的文章。在還不知道自己想說什麼的情況下開始寫，選字、刪減、調整順序，在這個過程中，自己想法的輪廓才會慢慢浮現。寫作本身，也就是思考。",
+      "zh-Hans": "但是，写作这件事的价值，不只在于写完的文章。在还不知道自己想说什么的情况下开始写，选字、删减、调整顺序，在这个过程中，自己想法的轮廓才会慢慢浮现。写作本身，也就是思考。",
+      "en": "But the value of writing does not lie only in the finished text. You begin writing without knowing what you want to say, choose words, cut, and rearrange, and in the process, the outline of your own thinking gradually comes into view. Writing is itself thinking.",
+      "de": "But the value of writing does not lie only in the finished text. You begin writing without knowing what you want to say, choose words, cut, and rearrange, and in the process, the outline of your own thinking gradually comes into view. Writing is itself thinking."
+    },
+    {
+      "zh-Hant": "使用工具和把思考全部交給工具，是兩回事。無論在學校還是職場，現在都到了必須一起討論的時候：如何使用 AI，以及如何守住人親手寫作的機會。為了不遺失那些無法只用效率衡量的東西。",
+      "zh-Hans": "使用工具和把思考全部交给工具，是两回事。无论在学校还是职场，现在都到了必须一起讨论的时候：如何使用 AI，以及如何守住人亲手写作的机会。为了不遗失那些无法只用效率衡量的东西。",
+      "en": "Using a tool and entrusting your thinking entirely to a tool are different things. Both at school and at work, it is time to discuss not only how to use AI but also how to protect people's chances to write with their own hands. So that we do not lose sight of what cannot be measured by efficiency alone.",
+      "de": "Using a tool and entrusting your thinking entirely to a tool are different things. Both at school and at work, it is time to discuss not only how to use AI but also how to protect people's chances to write with their own hands. So that we do not lose sight of what cannot be measured by efficiency alone."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "d65",
+  "d": 65,
+  "lv": "pro",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "商務日語",
+    "ja": "ビジネス日本語"
+  },
+  "title": "お詫びのメール",
+  "sub": "商務日語：道歉郵件",
+  "body": "件名：商品発送遅延のお詫び\n\n田中様\n\nこのたびは、ご注文の商品の発送が遅れ、多大なるご迷惑をおかけしましたことを、心より[[お詫び申し上げます|おわびもうしあげます]]。\n\n[[調査|ちょうさ]]の結果、弊社倉庫での[[在庫管理|ざいこかんり]]の[[不備|ふび]]により、出荷手続きに[[遅れ|おくれ]]が生じていたことが判明いたしました。\n商品は本日発送いたしましたので、明日中にお届けできる見込みです。\n\n今後このようなことがないよう、[[確認体制|かくにんたいせい]]を見直し、再発防止に努めてまいります。\n[[重ねて|かさねて]]お詫び申し上げますとともに、今後とも変わらぬご愛顧を賜りますよう、お願い申し上げます。",
+  "gloss": {
+    "お詫び申し上げます": {
+      "m": "謹此致歉"
+    },
+    "調査": {
+      "m": "調查"
+    },
+    "在庫管理": {
+      "m": "庫存管理"
+    },
+    "不備": {
+      "m": "疏失、不完善"
+    },
+    "遅れ": {
+      "m": "延遲"
+    },
+    "確認体制": {
+      "m": "確認機制"
+    },
+    "重ねて": {
+      "m": "再次"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "An apology email",
+      "g": {
+        "お詫び申し上げます": [
+          "we sincerely apologise"
+        ],
+        "調査": [
+          "investigation"
+        ],
+        "在庫管理": [
+          "inventory management"
+        ],
+        "不備": [
+          "shortcoming, error"
+        ],
+        "遅れ": [
+          "delay"
+        ],
+        "確認体制": [
+          "checking system"
+        ],
+        "重ねて": [
+          "once again"
+        ]
+      }
+    },
+    "de": {
+      "s": "Eine Entschuldigungsmail",
+      "g": {
+        "お詫び申し上げます": [
+          "wir bitten aufrichtig um Entschuldigung"
+        ],
+        "調査": [
+          "Untersuchung"
+        ],
+        "在庫管理": [
+          "Lagerverwaltung"
+        ],
+        "不備": [
+          "Mangel, Versäumnis"
+        ],
+        "遅れ": [
+          "Verzögerung"
+        ],
+        "確認体制": [
+          "Prüfverfahren"
+        ],
+        "重ねて": [
+          "nochmals"
+        ]
+      }
+    },
+    "hans": {
+      "s": "商务日语：道歉邮件",
+      "g": {
+        "お詫び申し上げます": [
+          "谨此致歉"
+        ],
+        "調査": [
+          "调查"
+        ],
+        "在庫管理": [
+          "库存管理"
+        ],
+        "不備": [
+          "疏失、不完善"
+        ],
+        "遅れ": [
+          "延迟"
+        ],
+        "確認体制": [
+          "确认机制"
+        ],
+        "重ねて": [
+          "再次"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "主旨：商品出貨延誤致歉",
+      "zh-Hans": "主旨：商品出货延误致歉",
+      "en": "Subject: Apology for the delayed shipment",
+      "de": "Subject: Apology for the delayed shipment"
+    },
+    {
+      "zh-Hant": "田中先生",
+      "zh-Hans": "田中先生",
+      "en": "Dear Mr. Tanaka,",
+      "de": "Dear Mr. Tanaka,"
+    },
+    {
+      "zh-Hant": "此次您所訂購的商品出貨延誤，給您帶來極大的不便，謹在此由衷致歉。",
+      "zh-Hans": "此次您所订购的商品出货延误，给您带来极大的不便，谨在此由衷致歉。",
+      "en": "We sincerely apologize for the delay in shipping the product you ordered, and for the considerable inconvenience this has caused you.",
+      "de": "We sincerely apologize for the delay in shipping the product you ordered, and for the considerable inconvenience this has caused you."
+    },
+    {
+      "zh-Hant": "經過調查，已查明是因本公司倉庫庫存管理不周，導致出貨手續出現延誤。\n商品已於本日出貨，預計明天內即可送達。",
+      "zh-Hans": "经过调查，已查明是因本公司仓库库存管理不周，导致出货手续出现延误。\n商品已于本日出货，预计明天内即可送达。",
+      "en": "Our investigation found that inadequate inventory management at our warehouse caused delays in the shipping process.\nThe product was shipped today, and we expect it to reach you by tomorrow.",
+      "de": "Our investigation found that inadequate inventory management at our warehouse caused delays in the shipping process.\nThe product was shipped today, and we expect it to reach you by tomorrow."
+    },
+    {
+      "zh-Hant": "為避免今後再發生類似情況，我們將重新檢視確認機制，努力防止再度發生。\n再次致歉，並懇請您今後一如既往地支持我們。",
+      "zh-Hans": "为避免今后再发生类似情况，我们将重新查看确认机制，努力防止再度发生。\n再次致歉，并恳请您今后一如既往地支持我们。",
+      "en": "To prevent a recurrence, we will review our verification procedures and work to prevent this from happening again.\nOnce again, we apologize, and we respectfully ask for your continued patronage.",
+      "de": "To prevent a recurrence, we will review our verification procedures and work to prevent this from happening again.\nOnce again, we apologize, and we respectfully ask for your continued patronage."
+    }
+  ]
+}

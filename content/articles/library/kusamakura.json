@@ -1,0 +1,151 @@
+{
+  "id": "kusamakura",
+  "d": -1,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "文學原文",
+    "ja": "文学（原文）"
+  },
+  "title": "草枕（冒頭）",
+  "sub": "夏目漱石《草枕》開頭（1906）",
+  "body": "[[山路|やまみち]]を登りながら、こう考えた。\n\n[[智に働けば角が立つ|ちにはたらけばかどがたつ]]。[[情に棹させば|じょうにさおさせば]]流される。[[意地を通せば|いじをとおせば]][[窮屈|きゅうくつ]]だ。[[とかくに|とかくに]]人の世は住みにくい。\n\n住みにくさが[[高じる|こうじる]]と、安い所へ引き越したくなる。どこへ越しても住みにくいと[[悟った|さとった]]時、詩が{生|うま}れて、{画|え}が{出来|でき}る。",
+  "gloss": {
+    "山路": {
+      "m": "山路"
+    },
+    "智に働けば角が立つ": {
+      "m": "太講理，就會與人起衝突"
+    },
+    "情に棹させば": {
+      "m": "太順著感情走（就會被沖走）",
+      "n": "「棹さす」原意是撐篙順流而行；現代常被誤用成「逆流」。"
+    },
+    "意地を通せば": {
+      "m": "堅持己見的話"
+    },
+    "窮屈": {
+      "m": "拘束、侷促、不自在"
+    },
+    "とかくに": {
+      "m": "總之、反正（古風）"
+    },
+    "高じる": {
+      "m": "加劇、越來越嚴重"
+    },
+    "悟った": {
+      "m": "領悟（原形：悟る）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Kusamakura (opening)",
+      "g": {
+        "山路": [
+          "mountain path"
+        ],
+        "智に働けば角が立つ": [
+          "be all reason, and you clash with people"
+        ],
+        "情に棹させば": [
+          "follow your feelings (and you get swept away)",
+          "棹さす originally means poling a boat with the current; today often misused as \"against\"."
+        ],
+        "意地を通せば": [
+          "if you insist on your own way"
+        ],
+        "窮屈": [
+          "cramped, constrained"
+        ],
+        "とかくに": [
+          "in any case, anyhow (old-fashioned)"
+        ],
+        "高じる": [
+          "to intensify, grow worse"
+        ],
+        "悟った": [
+          "realised (dict. form: 悟る)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Kusamakura (Anfang)",
+      "g": {
+        "山路": [
+          "Bergpfad"
+        ],
+        "智に働けば角が立つ": [
+          "wer nur dem Verstand folgt, eckt an"
+        ],
+        "情に棹させば": [
+          "wer den Gefühlen nachgibt (wird fortgerissen)",
+          "棹さす heißt eigentlich „mit dem Strom staken“; heute oft falsch als „dagegen“ verstanden."
+        ],
+        "意地を通せば": [
+          "wer auf seinem Kopf besteht"
+        ],
+        "窮屈": [
+          "beengt, eingeschränkt"
+        ],
+        "とかくに": [
+          "jedenfalls, ohnehin (altmodisch)"
+        ],
+        "高じる": [
+          "sich steigern, schlimmer werden"
+        ],
+        "悟った": [
+          "erkannt (Grundform: 悟る)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "夏目漱石《草枕》开头（1906）",
+      "g": {
+        "山路": [
+          "山路"
+        ],
+        "智に働けば角が立つ": [
+          "太讲理，就会与人起冲突"
+        ],
+        "情に棹させば": [
+          "太顺着感情走（就会被冲走）",
+          "「棹さす」原意是撑篙顺流而行；现代常被误用成「逆流」。"
+        ],
+        "意地を通せば": [
+          "坚持己见的话"
+        ],
+        "窮屈": [
+          "拘束、局促、不自在"
+        ],
+        "とかくに": [
+          "总之、反正（古风）"
+        ],
+        "高じる": [
+          "加剧、越来越严重"
+        ],
+        "悟った": [
+          "领悟（原形：悟る）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "一邊攀登山路，一邊這樣想著。",
+      "zh-Hans": "一边攀登山路，一边这样想着。",
+      "en": "As I climbed the mountain path, I thought this:",
+      "de": "As I climbed the mountain path, I thought this:"
+    },
+    {
+      "zh-Hant": "講道理就會與人衝突，順著感情走就會被沖走，一味堅持己見又會活得拘束。總之，人世間真是難住。",
+      "zh-Hans": "讲道理就会与人冲突，顺着感情走就会被冲走，一味坚持己见又会活得拘束。总之，人世间真是难住。",
+      "en": "Insist on reason and you clash with others; follow your feelings and you get swept away; stubbornly hold to your own will and you feel cramped. In short, this world is hard to live in.",
+      "de": "Insist on reason and you clash with others; follow your feelings and you get swept away; stubbornly hold to your own will and you feel cramped. In short, this world is hard to live in."
+    },
+    {
+      "zh-Hant": "當難住的感覺加深，就會想搬到更便宜的地方。但當人領悟到，無論搬到哪裡都一樣難住時，詩便誕生了，畫也完成了。",
+      "zh-Hans": "当难住的感觉加深，就会想搬到更便宜的地方。但当人领悟到，无论搬到哪里都一样难住时，诗便诞生了，画也完成了。",
+      "en": "When the sense of difficulty grows, you want to move somewhere cheaper. But when you realize that wherever you go it will be just as hard, poetry is born, and paintings come into being.",
+      "de": "When the sense of difficulty grows, you want to move somewhere cheaper. But when you realize that wherever you go it will be just as hard, poetry is born, and paintings come into being."
+    }
+  ]
+}

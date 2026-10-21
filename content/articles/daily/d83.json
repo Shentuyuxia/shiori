@@ -1,0 +1,183 @@
+{
+  "id": "d83",
+  "d": 83,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "台灣與日本",
+    "ja": "台湾と日本"
+  },
+  "title": "台湾華語の中の日本語",
+  "sub": "台灣華語裡的日語",
+  "body": "台湾の中国語には、日本語に由来する言葉が少なくない。「便當」「[[歐吉桑|おじさん]]」「[[歐巴桑|おばさん]]」「[[阿莎力|あっさり]]」などがその例だ。\n\n面白いのは、意味が少し変わって定着したものがあることだ。「阿莎力」は日本語の「あっさり」から来たとされるが、台湾では「[[気前|きまえ]]がいい」「[[さっぱり|さっぱり]]した性格だ」という意味で使われる。日本語では、主に味が「淡白だ」という意味や、物事が「簡単に」済む様子を言う。\n\nまた、「[[看板|かんばん]]」「[[口紅|くちべに]]」のように、[[台湾語|たいわんご]]では日本語に近い音のまま使われている言葉もある。一つの言葉が海を渡り、別の土地の[[暮らし|くらし]]の中で新しい意味をまとう。その[[軌跡|きせき]]をたどると、二つの社会の歴史が[[浮かび上がって|うかびあがって]]くる。",
+  "gloss": {
+    "歐吉桑": {
+      "m": "歐吉桑（來自おじさん）"
+    },
+    "歐巴桑": {
+      "m": "歐巴桑（來自おばさん）"
+    },
+    "阿莎力": {
+      "m": "阿莎力（來自あっさり）"
+    },
+    "気前": {
+      "m": "慷慨大方"
+    },
+    "さっぱり": {
+      "m": "爽快、不拘小節"
+    },
+    "看板": {
+      "m": "招牌"
+    },
+    "口紅": {
+      "m": "口紅"
+    },
+    "台湾語": {
+      "m": "台語"
+    },
+    "暮らし": {
+      "m": "生活"
+    },
+    "軌跡": {
+      "m": "軌跡"
+    },
+    "浮かび上がって": {
+      "m": "浮現"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Japanese inside Taiwanese Mandarin",
+      "g": {
+        "歐吉桑": [
+          "ojisan (from おじさん)"
+        ],
+        "歐巴桑": [
+          "obasan (from おばさん)"
+        ],
+        "阿莎力": [
+          "\"assari\" (from あっさり): frank, generous"
+        ],
+        "気前": [
+          "generosity"
+        ],
+        "さっぱり": [
+          "frank, easygoing"
+        ],
+        "看板": [
+          "signboard"
+        ],
+        "口紅": [
+          "lipstick"
+        ],
+        "台湾語": [
+          "Taiwanese (Hokkien)"
+        ],
+        "暮らし": [
+          "daily life"
+        ],
+        "軌跡": [
+          "trajectory, traces"
+        ],
+        "浮かび上がって": [
+          "emerging"
+        ]
+      }
+    },
+    "de": {
+      "s": "Japanisch im taiwanischen Mandarin",
+      "g": {
+        "歐吉桑": [
+          "Ojisan (aus おじさん)"
+        ],
+        "歐巴桑": [
+          "Obasan (aus おばさん)"
+        ],
+        "阿莎力": [
+          "„Assari“ (aus あっさり): unkompliziert, großzügig"
+        ],
+        "気前": [
+          "Großzügigkeit"
+        ],
+        "さっぱり": [
+          "unkompliziert, locker"
+        ],
+        "看板": [
+          "Aushängeschild"
+        ],
+        "口紅": [
+          "Lippenstift"
+        ],
+        "台湾語": [
+          "Taiwanisch (Hokkien)"
+        ],
+        "暮らし": [
+          "Alltag"
+        ],
+        "軌跡": [
+          "Spur"
+        ],
+        "浮かび上がって": [
+          "zum Vorschein kommend"
+        ]
+      }
+    },
+    "hans": {
+      "s": "台湾华语里的日语",
+      "g": {
+        "歐吉桑": [
+          "欧吉桑（来自おじさん）"
+        ],
+        "歐巴桑": [
+          "欧巴桑（来自おばさん）"
+        ],
+        "阿莎力": [
+          "阿莎力（来自あっさり）"
+        ],
+        "気前": [
+          "慷慨大方"
+        ],
+        "さっぱり": [
+          "爽快、不拘小节"
+        ],
+        "看板": [
+          "招牌"
+        ],
+        "口紅": [
+          "口红"
+        ],
+        "台湾語": [
+          "台语"
+        ],
+        "暮らし": [
+          "生活"
+        ],
+        "軌跡": [
+          "轨迹"
+        ],
+        "浮かび上がって": [
+          "浮现"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "台灣的中文裡，有不少來自日語的詞彙。「便當」「歐吉桑」「歐巴桑」「阿莎力」就是例子。",
+      "zh-Hans": "台湾的中文里，有不少来自日语的词汇。「便当」「欧吉桑」「欧巴桑」「阿莎力」就是例子。",
+      "en": "Taiwanese Chinese includes many words that come from Japanese. Examples include 便當, 歐吉桑 (ojisan), 歐巴桑 (obasan), and 阿莎力 (asari).",
+      "de": "Taiwanese Chinese includes many words that come from Japanese. Examples include 便當, 歐吉桑 (ojisan), 歐巴桑 (obasan), and 阿莎力 (asari)."
+    },
+    {
+      "zh-Hant": "有趣的是，有些詞的意思稍有改變後才定著下來。「阿莎力」據說來自日語的「あっさり」，但在台灣，它的意思是「慷慨大方」「性格爽快」。日語則主要用來形容味道「清淡」，或事情「輕鬆解決」的樣子。",
+      "zh-Hans": "有趣的是，有些词的意思稍有改变后才定着下来。「阿莎力」据说来自日语的「あっさり」，但在台湾，它的意思是「慷慨大方」「性格爽快」。日语则主要用来形容味道「清淡」，或事情「轻松解决」的样子。",
+      "en": "Interestingly, some words took root after their meanings shifted slightly. 「阿莎力」 is said to come from Japanese 「あっさり」, but in Taiwan it means \"generous\" or \"straightforward in character.\" In Japanese, it mainly describes a flavor as \"light\" or something being settled \"easily.\"",
+      "de": "Interestingly, some words took root after their meanings shifted slightly. 「阿莎力」 is said to come from Japanese 「あっさり」, but in Taiwan it means \"generous\" or \"straightforward in character.\" In Japanese, it mainly describes a flavor as \"light\" or something being settled \"easily.\""
+    },
+    {
+      "zh-Hant": "另外，像「看板」「口紅」這樣，在台灣語中仍保留與日語相近發音的詞也有。一個詞渡過海洋，在另一片土地的生活中，披上新的意義。循著這一路的軌跡，兩個社會的歷史便浮現出來。",
+      "zh-Hans": "另外，像「看板」「口红」这样，在台湾语中仍保留与日语相近发音的词也有。一个词渡过海洋，在另一片土地的生活中，披上新的意义。循着这一路的轨迹，两个社会的历史便浮现出来。",
+      "en": "There are also words like 「看板」 and 「口紅」 that Taiwanese still uses with pronunciation close to the Japanese. A word crosses the ocean and takes on new meanings in the lives of another land. Tracing its path, the histories of the two societies come into view.",
+      "de": "There are also words like 「看板」 and 「口紅」 that Taiwanese still uses with pronunciation close to the Japanese. A word crosses the ocean and takes on new meanings in the lives of another land. Tracing its path, the histories of the two societies come into view."
+    }
+  ]
+}

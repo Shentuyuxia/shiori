@@ -1,0 +1,207 @@
+{
+  "id": "d31",
+  "d": 31,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "飲食",
+    "ja": "たべもの"
+  },
+  "title": "鍋を囲む",
+  "sub": "圍著火鍋",
+  "body": "寒くなると、日本の食卓には鍋が登場する。[[寄せ鍋|よせなべ]]、[[水炊き|みずたき]]、[[すき焼き|すきやき]]、キムチ鍋。土鍋を[[卓上|たくじょう]]コンロにのせて、家族や友人と[[囲む|かこむ]]。\n\n鍋のいいところは、準備が簡単で、みんなで同じものを[[つつき|つつき]]ながら話せることだ。「鍋奉行」という言葉もある。具を入れる順番や火加減に[[うるさく|うるさく]]、[[仕切りたがる|しきりたがる]]人のことだ。奉行とは、江戸時代の役職名である。\n\nそして、鍋の[[締め|しめ]]。残った[[だし|だし]]にご飯を入れて[[雑炊|ぞうすい]]にするか、うどんを入れるか。これもまた、家庭ごとに[[譲れない|ゆずれない]][[こだわり|こだわり]]がある。台湾の火鍋とは違い、取り皿にタレを作らず、だしの味そのものを楽しむ鍋が多いのも特徴だ。",
+  "gloss": {
+    "寄せ鍋": {
+      "m": "什錦火鍋"
+    },
+    "水炊き": {
+      "m": "雞肉清湯鍋（博多名物）"
+    },
+    "すき焼き": {
+      "m": "壽喜燒"
+    },
+    "卓上": {
+      "m": "桌上"
+    },
+    "囲む": {
+      "m": "圍著"
+    },
+    "つつき": {
+      "m": "（用筷子）夾、戳"
+    },
+    "うるさく": {
+      "m": "嘮叨、挑剔"
+    },
+    "仕切りたがる": {
+      "m": "愛主導、愛指揮"
+    },
+    "締め": {
+      "m": "收尾（最後一道）"
+    },
+    "だし": {
+      "m": "高湯"
+    },
+    "雑炊": {
+      "m": "雜炊（鹹粥）"
+    },
+    "譲れない": {
+      "m": "不肯讓步的"
+    },
+    "こだわり": {
+      "m": "堅持、講究"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Gathering around the hot pot",
+      "g": {
+        "寄せ鍋": [
+          "mixed hot pot"
+        ],
+        "水炊き": [
+          "chicken hot pot in clear broth (Hakata speciality)"
+        ],
+        "すき焼き": [
+          "sukiyaki"
+        ],
+        "卓上": [
+          "on the table"
+        ],
+        "囲む": [
+          "to gather around"
+        ],
+        "つつき": [
+          "poking, picking (with chopsticks)"
+        ],
+        "うるさく": [
+          "fussy, nagging"
+        ],
+        "仕切りたがる": [
+          "likes to take charge"
+        ],
+        "締め": [
+          "the finishing course"
+        ],
+        "だし": [
+          "dashi stock"
+        ],
+        "雑炊": [
+          "rice porridge cooked in the leftover broth"
+        ],
+        "譲れない": [
+          "non-negotiable"
+        ],
+        "こだわり": [
+          "particular insistence"
+        ]
+      }
+    },
+    "de": {
+      "s": "Rund um den Eintopf",
+      "g": {
+        "寄せ鍋": [
+          "gemischter Eintopf"
+        ],
+        "水炊き": [
+          "Hühnereintopf in klarer Brühe (Spezialität aus Hakata)"
+        ],
+        "すき焼き": [
+          "Sukiyaki"
+        ],
+        "卓上": [
+          "auf dem Tisch"
+        ],
+        "囲む": [
+          "sich versammeln um"
+        ],
+        "つつき": [
+          "stochern, picken (mit Stäbchen)"
+        ],
+        "うるさく": [
+          "pingelig, nörgelnd"
+        ],
+        "仕切りたがる": [
+          "will das Kommando übernehmen"
+        ],
+        "締め": [
+          "Abschluss (letzter Gang)"
+        ],
+        "だし": [
+          "Dashi-Brühe"
+        ],
+        "雑炊": [
+          "Reissuppe aus der Restbrühe"
+        ],
+        "譲れない": [
+          "unverhandelbar"
+        ],
+        "こだわり": [
+          "besonderer Anspruch"
+        ]
+      }
+    },
+    "hans": {
+      "s": "围着火锅",
+      "g": {
+        "寄せ鍋": [
+          "什锦火锅"
+        ],
+        "水炊き": [
+          "鸡肉清汤锅（博多名物）"
+        ],
+        "すき焼き": [
+          "寿喜烧"
+        ],
+        "卓上": [
+          "桌上"
+        ],
+        "囲む": [
+          "围着"
+        ],
+        "つつき": [
+          "（用筷子）夹、戳"
+        ],
+        "うるさく": [
+          "唠叨、挑剔"
+        ],
+        "仕切りたがる": [
+          "爱主导、爱指挥"
+        ],
+        "締め": [
+          "收尾（最后一道）"
+        ],
+        "だし": [
+          "高汤"
+        ],
+        "雑炊": [
+          "杂炊（咸粥）"
+        ],
+        "譲れない": [
+          "不肯让步的"
+        ],
+        "こだわり": [
+          "坚持、讲究"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "天一冷，日本的餐桌上就會出現火鍋。寄せ鍋、水炊き、壽喜燒、泡菜鍋。把土鍋放在桌上的瓦斯爐上，和家人或朋友圍坐在一起。",
+      "zh-Hans": "天一冷，日本的餐桌上就会出现火锅。寄せ锅、水炊き、寿喜烧、泡菜锅。把土锅放在桌上的瓦斯炉上，和家人或朋友围坐在一起。",
+      "en": "When the weather turns cold, nabe (hot pot) appears on Japanese dining tables: yosenabe, mizutaki, sukiyaki, kimchi nabe. A clay pot is placed on a portable stove on the table, and family or friends gather around it.",
+      "de": "When the weather turns cold, nabe (hot pot) appears on Japanese dining tables: yosenabe, mizutaki, sukiyaki, kimchi nabe. A clay pot is placed on a portable stove on the table, and family or friends gather around it."
+    },
+    {
+      "zh-Hant": "鍋料理的好處在於準備簡單，而且大家可以一邊夾著同一鍋裡的東西，一邊聊天。還有一個詞叫「鍋奉行」，指那些對放料的順序和火候特別講究、喜歡主導一切的人。「奉行」是江戶時代的官職名稱。",
+      "zh-Hans": "锅料理的好处在于准备简单，而且大家可以一边夹着同一锅里的东西，一边聊天。还有一个词叫「锅奉行」，指那些对放料的顺序和火候特别讲究、喜欢主导一切的人。「奉行」是江户时代的官职名称。",
+      "en": "The great thing about nabe is that it is easy to prepare, and everyone can chat while picking from the same pot. There is also a term, 「鍋奉行」, for someone who is fussy about the order of adding ingredients and the heat, and likes to take charge. 「奉行」 was an official title in the Edo period.",
+      "de": "The great thing about nabe is that it is easy to prepare, and everyone can chat while picking from the same pot. There is also a term, 「鍋奉行」, for someone who is fussy about the order of adding ingredients and the heat, and likes to take charge. 「奉行」 was an official title in the Edo period."
+    },
+    {
+      "zh-Hant": "最後是收尾。把剩下的湯汁加入白飯做成雜炊，還是放入烏龍麵？這也是每個家庭都堅持的講究。與台灣的火鍋不同，許多日式鍋料理不會在小碟子裡調醬汁，而是重在品嚐湯頭本身的味道，這也是它的特色。",
+      "zh-Hans": "最后是收尾。把剩下的汤汁加入白饭做成杂炊，还是放入乌龙面？这也是每个家庭都坚持的讲究。与台湾的火锅不同，许多日式锅料理不会在小碟子里调酱汁，而是重在品尝汤头本身的味道，这也是它的特色。",
+      "en": "And then comes the finishing course: add rice to the leftover broth to make zōsui, or add udon noodles? Every household has its own firm preference here too. Unlike Taiwanese hot pot, many Japanese nabe do not involve making sauces in small dishes; instead, they focus on savoring the flavor of the broth itself, which is another feature of the cuisine.",
+      "de": "And then comes the finishing course: add rice to the leftover broth to make zōsui, or add udon noodles? Every household has its own firm preference here too. Unlike Taiwanese hot pot, many Japanese nabe do not involve making sauces in small dishes; instead, they focus on savoring the flavor of the broth itself, which is another feature of the cuisine."
+    }
+  ]
+}

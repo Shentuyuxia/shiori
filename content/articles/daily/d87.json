@@ -1,0 +1,231 @@
+{
+  "id": "d87",
+  "d": 87,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "隨筆",
+    "ja": "随筆"
+  },
+  "title": "冬の朝のパン屋",
+  "sub": "冬天早晨的麵包店",
+  "body": "まだ暗い冬の朝、[[駅前|えきまえ]]の小さなパン屋にだけ、明かりがついている。[[ガラス|ガラス]]は内側から白く[[曇り|くもり]]、その向こうで店主が[[天板|てんばん]]を運んでいるのが見える。\n\n日本のパン屋の[[品揃え|しなぞろえ]]は、ほかの国の人には不思議に映るらしい。あんパン、カレーパン、[[メロンパン|メロンパン]]、焼きそばパン。[[惣菜|そうざい]]や甘いものを[[挟んだり|はさんだり]]包んだりした「[[菓子パン|かしパン]]」「惣菜パン」は、日本で独自に発展した[[文化|ぶんか]]だ。あんパンは明治時代、[[饅頭|まんじゅう]]の発想をパンに応用して生まれたと言われる。\n\n[[焼きたて|やきたて]]の匂いのする袋を抱えて、駅の階段を上る。指先は冷たいのに、[[胸元|むなもと]]だけが[[ほんのり|ほんのり]]温かい。冬の朝の、ささやかな[[贅沢|ぜいたく]]である。",
+  "gloss": {
+    "駅前": {
+      "m": "車站前"
+    },
+    "ガラス": {
+      "m": "玻璃"
+    },
+    "曇り": {
+      "m": "起霧"
+    },
+    "天板": {
+      "m": "烤盤"
+    },
+    "品揃え": {
+      "m": "品項"
+    },
+    "メロンパン": {
+      "m": "菠蘿麵包"
+    },
+    "惣菜": {
+      "m": "熟食配菜"
+    },
+    "挟んだり": {
+      "m": "夾著"
+    },
+    "菓子パン": {
+      "m": "甜麵包"
+    },
+    "文化": {
+      "m": "文化"
+    },
+    "饅頭": {
+      "m": "豆沙包（日式饅頭）"
+    },
+    "焼きたて": {
+      "m": "剛出爐"
+    },
+    "胸元": {
+      "m": "胸口"
+    },
+    "ほんのり": {
+      "m": "微微地"
+    },
+    "贅沢": {
+      "m": "奢侈、享受"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The bakery on a winter morning",
+      "g": {
+        "駅前": [
+          "in front of the station"
+        ],
+        "ガラス": [
+          "glass"
+        ],
+        "曇り": [
+          "fogging up"
+        ],
+        "天板": [
+          "baking tray"
+        ],
+        "品揃え": [
+          "selection"
+        ],
+        "メロンパン": [
+          "melon bread"
+        ],
+        "惣菜": [
+          "ready-made dishes"
+        ],
+        "挟んだり": [
+          "putting in between"
+        ],
+        "菓子パン": [
+          "sweet bread"
+        ],
+        "文化": [
+          "culture"
+        ],
+        "饅頭": [
+          "manjū (sweet bean bun)"
+        ],
+        "焼きたて": [
+          "freshly baked"
+        ],
+        "胸元": [
+          "chest"
+        ],
+        "ほんのり": [
+          "faintly"
+        ],
+        "贅沢": [
+          "luxury, treat"
+        ]
+      }
+    },
+    "de": {
+      "s": "Die Bäckerei an einem Wintermorgen",
+      "g": {
+        "駅前": [
+          "vor dem Bahnhof"
+        ],
+        "ガラス": [
+          "Glas"
+        ],
+        "曇り": [
+          "Beschlagen"
+        ],
+        "天板": [
+          "Backblech"
+        ],
+        "品揃え": [
+          "Sortiment"
+        ],
+        "メロンパン": [
+          "Melonenbrötchen"
+        ],
+        "惣菜": [
+          "Fertiggerichte"
+        ],
+        "挟んだり": [
+          "dazwischenlegen"
+        ],
+        "菓子パン": [
+          "süßes Gebäck"
+        ],
+        "文化": [
+          "Kultur"
+        ],
+        "饅頭": [
+          "Manjū (Brötchen mit Bohnenfüllung)"
+        ],
+        "焼きたて": [
+          "frisch gebacken"
+        ],
+        "胸元": [
+          "Brust"
+        ],
+        "ほんのり": [
+          "ganz leicht"
+        ],
+        "贅沢": [
+          "Luxus, Genuss"
+        ]
+      }
+    },
+    "hans": {
+      "s": "冬天早晨的面包店",
+      "g": {
+        "駅前": [
+          "车站前"
+        ],
+        "ガラス": [
+          "玻璃"
+        ],
+        "曇り": [
+          "起雾"
+        ],
+        "天板": [
+          "烤盘"
+        ],
+        "品揃え": [
+          "品项"
+        ],
+        "メロンパン": [
+          "菠萝面包"
+        ],
+        "惣菜": [
+          "熟食配菜"
+        ],
+        "挟んだり": [
+          "夹着"
+        ],
+        "菓子パン": [
+          "甜面包"
+        ],
+        "文化": [
+          "文化"
+        ],
+        "饅頭": [
+          "豆沙包（日式馒头）"
+        ],
+        "焼きたて": [
+          "刚出炉"
+        ],
+        "胸元": [
+          "胸口"
+        ],
+        "ほんのり": [
+          "微微地"
+        ],
+        "贅沢": [
+          "奢侈、享受"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "在仍然昏暗的冬日清晨，只有車站前一家小小的麵包店亮著燈。玻璃從內側起了一層白霧，透過霧氣可以看見店主正在搬運烤盤。",
+      "zh-Hans": "在仍然昏暗的冬日清晨，只有车站前一家小小的面包店亮着灯。玻璃从内侧起了一层白雾，通过雾气可以看见店主正在搬运烤盘。",
+      "en": "On a dark winter morning, only a small bakery in front of the station has its lights on. The glass is clouded white from the inside, and through it you can see the owner carrying baking trays.",
+      "de": "On a dark winter morning, only a small bakery in front of the station has its lights on. The glass is clouded white from the inside, and through it you can see the owner carrying baking trays."
+    },
+    {
+      "zh-Hant": "日本麵包店的種類，似乎讓其他國家的人感到不可思議。紅豆麵包、咖哩麵包、哈密瓜麵包、炒麵麵包。在麵包裡夾入或包覆菜餚與甜點的「菓子麵包」與「惣菜麵包」，是日本獨自發展出來的文化。據說紅豆麵包是明治時代，把饅頭的構想應用到麵包上而誕生的。",
+      "zh-Hans": "日本面包店的种类，似乎让其他国家的人感到不可思议。红豆面包、咖喱面包、哈密瓜面包、炒面面包。在面包里夹入或包覆菜肴与甜点的「菓子面包」与「惣菜面包」，是日本独自发展出来的文化。据说红豆面包是明治时代，把馒头的构想应用到面包上而诞生的。",
+      "en": "The variety of Japanese bakeries seems to strike people from other countries as remarkable. Anpan (sweet bean bun), curry bread, melon bread, yakisoba bread. 「菓子パン」 and 「惣菜パン」, breads with sweets or savory dishes tucked inside or wrapped around them, are a culture that developed uniquely in Japan. Anpan is said to have been born in the Meiji period when the idea of manjū was applied to bread.",
+      "de": "The variety of Japanese bakeries seems to strike people from other countries as remarkable. Anpan (sweet bean bun), curry bread, melon bread, yakisoba bread. 「菓子パン」 and 「惣菜パン」, breads with sweets or savory dishes tucked inside or wrapped around them, are a culture that developed uniquely in Japan. Anpan is said to have been born in the Meiji period when the idea of manjū was applied to bread."
+    },
+    {
+      "zh-Hant": "抱著散發剛出爐香氣的紙袋，走上車站的階梯。指尖冰冷，只有胸口微微地溫暖。這是冬天早晨小小的奢侈。",
+      "zh-Hans": "抱着散发刚出炉香气的纸袋，走上车站的阶梯。指尖冰冷，只有胸口微微地温暖。这是冬天早晨小小的奢侈。",
+      "en": "Carrying a bag that smells of fresh-baked bread, I climb the station stairs. My fingertips are cold, but only my chest feels faintly warm. It is a small luxury of winter mornings.",
+      "de": "Carrying a bag that smells of fresh-baked bread, I climb the station stairs. My fingertips are cold, but only my chest feels faintly warm. It is a small luxury of winter mornings."
+    }
+  ]
+}

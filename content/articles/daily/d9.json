@@ -1,0 +1,171 @@
+{
+  "id": "d9",
+  "d": 9,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "時事解說",
+    "ja": "時事解説"
+  },
+  "title": "キャッシュレスは進んだのか",
+  "sub": "時事解說：無現金支付",
+  "body": "日本は長く「現金大国」と呼ばれてきた。治安が良く、[[偽札|にせさつ]]が少なく、ATM がどこにでもある。現金を持ち歩くことに[[不便|ふべん]]も不安も感じにくい社会だった。\n\nその状況は、ここ数年で大きく変わった。スマートフォンの[[QRコード決済|キューアールコードけっさい]]が[[急速|きゅうそく]]に普及し、小さな商店でもカードや電子マネーが使えることが[[珍しくなくなった|めずらしくなくなった]]。政府による[[ポイント還元|ポイントかんげん]]などの[[後押し|あとおし]]や、感染症の流行で「非接触」が求められたことも、変化を[[加速|かそく]]させた。\n\nただし、[[手数料|てすうりょう]]の負担に悩む小規模店や、操作に慣れない高齢者など、取り残される側の声もある。便利さの[[陰|かげ]]で誰が負担しているのか、という問いは残る。",
+  "gloss": {
+    "偽札": {
+      "m": "偽鈔"
+    },
+    "不便": {
+      "m": "不方便"
+    },
+    "QRコード決済": {
+      "m": "QR code 支付"
+    },
+    "急速": {
+      "m": "快速、迅速"
+    },
+    "珍しくなくなった": {
+      "m": "不再稀奇"
+    },
+    "ポイント還元": {
+      "m": "點數回饋"
+    },
+    "後押し": {
+      "m": "推動、支持"
+    },
+    "加速": {
+      "m": "加速"
+    },
+    "手数料": {
+      "m": "手續費"
+    },
+    "陰": {
+      "m": "背後、陰影"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Has cashless payment caught on?",
+      "g": {
+        "偽札": [
+          "counterfeit banknote"
+        ],
+        "不便": [
+          "inconvenient"
+        ],
+        "QRコード決済": [
+          "QR-code payment"
+        ],
+        "急速": [
+          "rapid"
+        ],
+        "珍しくなくなった": [
+          "no longer unusual"
+        ],
+        "ポイント還元": [
+          "points cashback"
+        ],
+        "後押し": [
+          "push, support"
+        ],
+        "加速": [
+          "acceleration"
+        ],
+        "手数料": [
+          "fee, commission"
+        ],
+        "陰": [
+          "the shadow side"
+        ]
+      }
+    },
+    "de": {
+      "s": "Hat sich bargeldloses Zahlen durchgesetzt?",
+      "g": {
+        "偽札": [
+          "Falschgeld"
+        ],
+        "不便": [
+          "unpraktisch"
+        ],
+        "QRコード決済": [
+          "QR-Code-Zahlung"
+        ],
+        "急速": [
+          "rasant"
+        ],
+        "珍しくなくなった": [
+          "nichts Besonderes mehr"
+        ],
+        "ポイント還元": [
+          "Punkte-Rückvergütung"
+        ],
+        "後押し": [
+          "Rückenwind, Unterstützung"
+        ],
+        "加速": [
+          "Beschleunigung"
+        ],
+        "手数料": [
+          "Gebühr"
+        ],
+        "陰": [
+          "Schattenseite"
+        ]
+      }
+    },
+    "hans": {
+      "s": "时事解说：无现金支付",
+      "g": {
+        "偽札": [
+          "伪钞"
+        ],
+        "不便": [
+          "不方便"
+        ],
+        "QRコード決済": [
+          "QR code 支付"
+        ],
+        "急速": [
+          "快速、迅速"
+        ],
+        "珍しくなくなった": [
+          "不再稀奇"
+        ],
+        "ポイント還元": [
+          "点数回馈"
+        ],
+        "後押し": [
+          "推动、支持"
+        ],
+        "加速": [
+          "加速"
+        ],
+        "手数料": [
+          "手续费"
+        ],
+        "陰": [
+          "背后、阴影"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本長期被稱為「現金大國」。治安良好、假鈔少，而且到處都有ATM。在那樣的社會裡，隨身帶著現金既不麻煩也不擔心。",
+      "zh-Hans": "日本长期被称为「现金大国」。治安良好、假钞少，而且到处都有ATM。在那样的社会里，随身带着现金既不麻烦也不担心。",
+      "en": "Japan has long been called a \"cash-heavy nation.\" Public safety is good, counterfeit bills are rare, and ATMs are everywhere. In such a society, carrying cash around caused little inconvenience or worry.",
+      "de": "Japan has long been called a \"cash-heavy nation.\" Public safety is good, counterfeit bills are rare, and ATMs are everywhere. In such a society, carrying cash around caused little inconvenience or worry."
+    },
+    {
+      "zh-Hant": "這種狀況在近幾年有了很大的改變。手機的QR code支付迅速普及，就算是小店，能刷卡或使用電子錢包也已經不稀奇了。政府的點數回饋等推動，以及傳染病流行時對「非接觸」的需求，也加速了這種變化。",
+      "zh-Hans": "这种状况在近几年有了很大的改变。手机的QR code支付迅速普及，就算是小店，能刷卡或使用电子钱包也已经不稀奇了。政府的点数回馈等推动，以及传染病流行时对「非接触」的需求，也加速了这种变化。",
+      "en": "This situation has changed dramatically in recent years. QR code payments on smartphones have spread rapidly, and it is no longer unusual for even small shops to accept cards or e-money. Government point-back campaigns and the demand for \"contactless\" during infectious disease outbreaks also accelerated the change.",
+      "de": "This situation has changed dramatically in recent years. QR code payments on smartphones have spread rapidly, and it is no longer unusual for even small shops to accept cards or e-money. Government point-back campaigns and the demand for \"contactless\" during infectious disease outbreaks also accelerated the change."
+    },
+    {
+      "zh-Hant": "不過，也有人在被遺忘的一方發出聲音，例如為手續費負擔而煩惱的小型店家，以及不習慣操作的老年人。在便利的背後，究竟是誰在承擔？這個問題依然存在。",
+      "zh-Hans": "不过，也有人在被遗忘的一方发出声音，例如为手续费负担而烦恼的小型店家，以及不习惯操作的老年人。在便利的背后，究竟是谁在承担？这个问题依然存在。",
+      "en": "However, some voices come from those left behind: small shops struggling with the burden of transaction fees, and elderly people who are not used to the operations. Behind the convenience, the question remains of who is bearing the cost.",
+      "de": "However, some voices come from those left behind: small shops struggling with the burden of transaction fees, and elderly people who are not used to the operations. Behind the convenience, the question remains of who is bearing the cost."
+    }
+  ]
+}

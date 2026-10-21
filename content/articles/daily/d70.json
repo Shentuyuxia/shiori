@@ -1,0 +1,211 @@
+{
+  "id": "d70",
+  "d": 70,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "飲食",
+    "ja": "たべもの"
+  },
+  "title": "おせちに込められた願い",
+  "sub": "年菜裡的祈願",
+  "body": "正月に食べる「おせち料理」は、[[重箱|じゅうばこ]]に美しく詰められた[[保存食|ほぞんしょく]]だ。年神様を迎えている間は台所に立たない、正月くらいは[[主婦|しゅふ]]を休ませる、といった理由から、年末のうちに作っておく。\n\n一品一品に、[[縁起|えんぎ]]のよい意味がある。[[黒豆|くろまめ]]は「[[まめ|まめ]]に働く」、[[数の子|かずのこ]]は子孫繁栄、海老は腰が曲がるまで長生きするように。[[昆布巻き|こぶまき]]は「よろこぶ」、[[栗きんとん|くりきんとん]]は黄金色にちなんで[[金運|きんうん]]を願う。多くが[[語呂合わせ|ごろあわせ]]で、日本語の言葉遊びの宝庫でもある。\n\n近年は、百貨店やコンビニで買う人も多い。洋風や中華風のおせちも登場した。中身が変わっても、新しい年に[[願い|ねがい]]を込めて食べる、という[[営み|いとなみ]]は変わらない。",
+  "gloss": {
+    "重箱": {
+      "m": "多層漆盒"
+    },
+    "保存食": {
+      "m": "可保存的食物"
+    },
+    "主婦": {
+      "m": "主婦"
+    },
+    "縁起": {
+      "m": "吉利"
+    },
+    "黒豆": {
+      "m": "黑豆"
+    },
+    "まめ": {
+      "m": "勤快、認真",
+      "n": "與「豆」同音。"
+    },
+    "数の子": {
+      "m": "鯡魚卵"
+    },
+    "昆布巻き": {
+      "m": "昆布卷"
+    },
+    "栗きんとん": {
+      "m": "栗子金團（栗子泥）"
+    },
+    "金運": {
+      "m": "財運"
+    },
+    "語呂合わせ": {
+      "m": "諧音"
+    },
+    "願い": {
+      "m": "心願"
+    },
+    "営み": {
+      "m": "作為、行為"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The wishes inside osechi",
+      "g": {
+        "重箱": [
+          "stacked lacquer boxes"
+        ],
+        "保存食": [
+          "food that keeps"
+        ],
+        "主婦": [
+          "housewife"
+        ],
+        "縁起": [
+          "good luck"
+        ],
+        "黒豆": [
+          "black soybeans"
+        ],
+        "まめ": [
+          "diligent",
+          "Same sound as 豆 (bean)."
+        ],
+        "数の子": [
+          "herring roe"
+        ],
+        "昆布巻き": [
+          "kelp rolls"
+        ],
+        "栗きんとん": [
+          "sweet chestnut paste"
+        ],
+        "金運": [
+          "luck with money"
+        ],
+        "語呂合わせ": [
+          "wordplay on sounds"
+        ],
+        "願い": [
+          "wish"
+        ],
+        "営み": [
+          "practice"
+        ]
+      }
+    },
+    "de": {
+      "s": "Die Wünsche im Osechi",
+      "g": {
+        "重箱": [
+          "gestapelte Lackkästen"
+        ],
+        "保存食": [
+          "haltbare Speisen"
+        ],
+        "主婦": [
+          "Hausfrau"
+        ],
+        "縁起": [
+          "Glück"
+        ],
+        "黒豆": [
+          "schwarze Sojabohnen"
+        ],
+        "まめ": [
+          "fleißig",
+          "Gleicher Klang wie 豆 (Bohne)."
+        ],
+        "数の子": [
+          "Heringsrogen"
+        ],
+        "昆布巻き": [
+          "Kombu-Röllchen"
+        ],
+        "栗きんとん": [
+          "süße Kastanienpaste"
+        ],
+        "金運": [
+          "Geldglück"
+        ],
+        "語呂合わせ": [
+          "Wortspiel mit Klängen"
+        ],
+        "願い": [
+          "Wunsch"
+        ],
+        "営み": [
+          "Tun, Handeln"
+        ]
+      }
+    },
+    "hans": {
+      "s": "年菜里的祈愿",
+      "g": {
+        "重箱": [
+          "多层漆盒"
+        ],
+        "保存食": [
+          "可保存的食物"
+        ],
+        "主婦": [
+          "主妇"
+        ],
+        "縁起": [
+          "吉利"
+        ],
+        "黒豆": [
+          "黑豆"
+        ],
+        "まめ": [
+          "勤快、认真",
+          "与「豆」同音。"
+        ],
+        "数の子": [
+          "鲱鱼卵"
+        ],
+        "昆布巻き": [
+          "昆布卷"
+        ],
+        "栗きんとん": [
+          "栗子金团（栗子泥）"
+        ],
+        "金運": [
+          "财运"
+        ],
+        "語呂合わせ": [
+          "谐音"
+        ],
+        "願い": [
+          "心愿"
+        ],
+        "営み": [
+          "作为、行为"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "新年吃的「御節料理」，是精美地裝在重箱裡的保存食品。因為新年期間不下廚，也為了讓主婦在新年至少能休息，所以通常會在年底就先做好。",
+      "zh-Hans": "新年吃的「御节料理」，是精美地装在重箱里的保存食品。因为新年期间不下厨，也为了让主妇在新年至少能休息，所以通常会在年底就先做好。",
+      "en": "「おせち料理」, the New Year's food, is preserved food beautifully packed in tiered lacquer boxes. Because the new year's deity is welcomed during the holidays, one does not cook in the kitchen then, and at least at New Year's the housewife can rest, so it is usually made before the year ends.",
+      "de": "「おせち料理」, the New Year's food, is preserved food beautifully packed in tiered lacquer boxes. Because the new year's deity is welcomed during the holidays, one does not cook in the kitchen then, and at least at New Year's the housewife can rest, so it is usually made before the year ends."
+    },
+    {
+      "zh-Hant": "每一道菜都有吉祥的寓意。黑豆寓意「勤勞」，鯡魚卵（數之子）寓意子孫繁盛，蝦則寓意長壽到腰彎為止。昆布卷寓意「喜悅」，栗子金團因其金黃色而祈求財運。很多都是諧音的雙關語，也是日語文字遊戲的寶庫。",
+      "zh-Hans": "每一道菜都有吉祥的寓意。黑豆寓意「勤劳」，鲱鱼卵（数之子）寓意子孙繁盛，虾则寓意长寿到腰弯为止。昆布卷寓意「喜悦」，栗子金团因其金黄色而祈求财运。很多都是谐音的双关语，也是日语文本游戏的宝库。",
+      "en": "Each dish carries an auspicious meaning. Black beans mean \"working diligently,\" herring roe (kazunoko) means prosperity for descendants, and shrimp means living long until your back is bent. Kombu rolls mean \"joy,\" and kuri kinton, chestnut paste, is named for its golden color, wishing for good fortune. Many are puns, making osechi a treasure trove of Japanese wordplay.",
+      "de": "Each dish carries an auspicious meaning. Black beans mean \"working diligently,\" herring roe (kazunoko) means prosperity for descendants, and shrimp means living long until your back is bent. Kombu rolls mean \"joy,\" and kuri kinton, chestnut paste, is named for its golden color, wishing for good fortune. Many are puns, making osechi a treasure trove of Japanese wordplay."
+    },
+    {
+      "zh-Hant": "近年來，在百貨公司或便利商店購買的人也很多。洋式、中式風格的御節料理也出現了。即使內容改變，在新的一年裡帶著願望品嚐，這種習慣並沒有改變。",
+      "zh-Hans": "近年来，在百货公司或便利商店购买的人也很多。洋式、中式风格的御节料理也出现了。即使内容改变，在新的一年里带着愿望品尝，这种习惯并没有改变。",
+      "en": "In recent years, many people buy osechi at department stores or convenience stores, and Western-style and Chinese-style osechi have also appeared. Even as the contents change, the custom of eating them in the new year with wishes for the future remains the same.",
+      "de": "In recent years, many people buy osechi at department stores or convenience stores, and Western-style and Chinese-style osechi have also appeared. Even as the contents change, the custom of eating them in the new year with wishes for the future remains the same."
+    }
+  ]
+}

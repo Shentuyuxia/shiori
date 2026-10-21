@@ -1,0 +1,160 @@
+{
+  "id": "w-sake-e",
+  "d": -1,
+  "lv": "n4",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "お酒はどうやって作る？",
+  "sub": "日本酒是怎麼釀的？（簡單版）",
+  "body": "[[日本酒|にほんしゅ]]は、[[米|こめ]]と[[水|みず]]で{作|つく}ります。\n\nまず、{米|こめ}を[[蒸します|むします]]。{次|つぎ}に、[[麹|こうじ]]という[[かび|かび]]を{使|つか}います。{麹|こうじ}は、{米|こめ}を{甘|あま}い[[砂糖|さとう]]に{変|か}えます。\n\nそれから、[[酵母|こうぼ]]が{砂糖|さとう}を[[アルコール|アルコール]]に{変|か}えます。{日本酒|にほんしゅ}は、{冬|ふゆ}に{作|つく}ることが{多|おお}いです。{寒|さむ}いと、{悪|わる}い{菌|きん}が{少|すく}ないからです。",
+  "gloss": {
+    "日本酒": {
+      "m": "日本酒（清酒）"
+    },
+    "米": {
+      "m": "米"
+    },
+    "水": {
+      "m": "水"
+    },
+    "蒸します": {
+      "m": "蒸（原形：蒸す）"
+    },
+    "麹": {
+      "m": "麴（米麴）"
+    },
+    "かび": {
+      "m": "黴菌"
+    },
+    "砂糖": {
+      "m": "糖"
+    },
+    "酵母": {
+      "m": "酵母"
+    },
+    "アルコール": {
+      "m": "酒精"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "How is sake made? (easy)",
+      "g": {
+        "日本酒": [
+          "sake (Japanese rice wine)"
+        ],
+        "米": [
+          "rice"
+        ],
+        "水": [
+          "water"
+        ],
+        "蒸します": [
+          "to steam (dict. form: 蒸す)"
+        ],
+        "麹": [
+          "koji (a mould used in brewing)"
+        ],
+        "かび": [
+          "mould"
+        ],
+        "砂糖": [
+          "sugar"
+        ],
+        "酵母": [
+          "yeast"
+        ],
+        "アルコール": [
+          "alcohol"
+        ]
+      }
+    },
+    "de": {
+      "s": "Wie wird Sake gemacht? (leicht)",
+      "g": {
+        "日本酒": [
+          "Sake (japanischer Reiswein)"
+        ],
+        "米": [
+          "Reis"
+        ],
+        "水": [
+          "Wasser"
+        ],
+        "蒸します": [
+          "dämpfen (Grundform: 蒸す)"
+        ],
+        "麹": [
+          "Koji (Schimmelpilz zum Brauen)"
+        ],
+        "かび": [
+          "Schimmel(pilz)"
+        ],
+        "砂糖": [
+          "Zucker"
+        ],
+        "酵母": [
+          "Hefe"
+        ],
+        "アルコール": [
+          "Alkohol"
+        ]
+      }
+    },
+    "hans": {
+      "s": "日本酒是怎么酿的？（简单版）",
+      "g": {
+        "日本酒": [
+          "日本酒（清酒）"
+        ],
+        "米": [
+          "米"
+        ],
+        "水": [
+          "水"
+        ],
+        "蒸します": [
+          "蒸（原形：蒸す）"
+        ],
+        "麹": [
+          "曲（米曲）"
+        ],
+        "かび": [
+          "霉菌"
+        ],
+        "砂糖": [
+          "糖"
+        ],
+        "酵母": [
+          "酵母"
+        ],
+        "アルコール": [
+          "酒精"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本酒是用米和水釀成的。",
+      "zh-Hans": "日本酒是用米和水酿成的。",
+      "en": "Sake is made from rice and water.",
+      "de": "Sake wird aus Reis und Wasser gemacht."
+    },
+    {
+      "zh-Hant": "首先把米蒸熟。接著使用一種叫「麴」的黴菌。麴會把米變成甜甜的糖。",
+      "zh-Hans": "首先把米蒸熟。接着使用一种叫「曲」的霉菌。曲会把米变成甜甜的糖。",
+      "en": "First, the rice is steamed. Next, a mould called koji is used. Koji turns the rice into sweet sugar.",
+      "de": "Zuerst wird der Reis gedämpft. Dann kommt ein Schimmelpilz namens Koji dazu. Koji verwandelt den Reis in süßen Zucker."
+    },
+    {
+      "zh-Hant": "然後，酵母再把糖變成酒精。日本酒多半在冬天釀造，因為天冷的時候壞菌比較少。",
+      "zh-Hans": "然后，酵母再把糖变成酒精。日本酒多半在冬天酿造，因为天冷的时候坏菌比较少。",
+      "en": "Then yeast turns the sugar into alcohol. Sake is usually made in winter, because when it's cold there are fewer bad germs.",
+      "de": "Danach verwandelt Hefe den Zucker in Alkohol. Sake wird meist im Winter gemacht, weil es bei Kälte weniger schädliche Keime gibt."
+    }
+  ]
+}

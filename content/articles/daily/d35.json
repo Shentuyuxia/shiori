@@ -1,0 +1,123 @@
+{
+  "id": "d35",
+  "d": 35,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "勤労感謝の日",
+  "sub": "勤勞感謝日（11月23日）",
+  "body": "十一月二十三日は「勤労感謝の日」。「勤労を[[尊び|たっとび]]、生産を祝い、国民たがいに感謝しあう」日とされている。\n\nこの日のもとになったのは、[[新嘗祭|にいなめさい]]という古い[[宮中行事|きゅうちゅうぎょうじ]]だ。その年に収穫された新しいお米を神に[[供え|そなえ]]、天皇自らも口にして、実りに感謝する。戦後、祝日の名前は変わったが、宮中ではいまもこの儀式が続いている。\n\n「勤労」と聞くと、つい会社勤めを思い浮かべる。だが、家事や子育て、[[介護|かいご]]も立派な勤労だ。今日くらいは、身近な人に「いつもありがとう」と言ってみてはどうだろう。言われた側は、案外[[照れる|てれる]]ものだ。",
+  "gloss": {
+    "尊び": {
+      "m": "尊重（原形：尊ぶ）"
+    },
+    "新嘗祭": {
+      "m": "新嘗祭（感謝新穀的祭典）"
+    },
+    "宮中行事": {
+      "m": "宮廷儀式"
+    },
+    "供え": {
+      "m": "供奉"
+    },
+    "介護": {
+      "m": "照護"
+    },
+    "照れる": {
+      "m": "害羞、不好意思"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Labour Thanksgiving Day (23 November)",
+      "g": {
+        "尊び": [
+          "honouring (dict. form: 尊ぶ)"
+        ],
+        "新嘗祭": [
+          "Niiname-sai (harvest thanksgiving rite)"
+        ],
+        "宮中行事": [
+          "imperial court ceremony"
+        ],
+        "供え": [
+          "offering"
+        ],
+        "介護": [
+          "caregiving"
+        ],
+        "照れる": [
+          "to feel shy, embarrassed"
+        ]
+      }
+    },
+    "de": {
+      "s": "Tag des Dankes für die Arbeit (23. November)",
+      "g": {
+        "尊び": [
+          "ehren (Grundform: 尊ぶ)"
+        ],
+        "新嘗祭": [
+          "Niiname-sai (Erntedankritus)"
+        ],
+        "宮中行事": [
+          "Zeremonie am Kaiserhof"
+        ],
+        "供え": [
+          "Opfergabe"
+        ],
+        "介護": [
+          "Pflege"
+        ],
+        "照れる": [
+          "verlegen sein"
+        ]
+      }
+    },
+    "hans": {
+      "s": "勤劳感谢日（11月23日）",
+      "g": {
+        "尊び": [
+          "尊重（原形：尊ぶ）"
+        ],
+        "新嘗祭": [
+          "新尝祭（感谢新谷的祭典）"
+        ],
+        "宮中行事": [
+          "宫廷仪式"
+        ],
+        "供え": [
+          "供奉"
+        ],
+        "介護": [
+          "照护"
+        ],
+        "照れる": [
+          "害羞、不好意思"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "十一月二十三日是「勤勞感謝日」。這一天被定為「尊重勤勞、慶祝生產，國民彼此感謝」的日子。",
+      "zh-Hans": "十一月二十三日是「勤劳感谢日」。这一天被定为「尊重勤劳、庆祝生产，国民彼此感谢」的日子。",
+      "en": "November 23rd is 「勤労感謝の日」, Labor Thanksgiving Day. It is set aside as a day to \"honor labor, celebrate production, and for the people to express gratitude to one another.\"",
+      "de": "November 23rd is 「勤労感謝の日」, Labor Thanksgiving Day. It is set aside as a day to \"honor labor, celebrate production, and for the people to express gratitude to one another.\""
+    },
+    {
+      "zh-Hant": "這一天的由來，是古老的宮中儀式「新嘗祭」。把當年收成的新米獻給神明，天皇本人也會品嚐，以感謝豐收。戰後，節日的名稱改變了，但宮中至今仍延續著這項儀式。",
+      "zh-Hans": "这一天的由来，是古老的宫中仪式「新尝祭」。把当年收成的新米献给神明，天皇本人也会品尝，以感谢丰收。战后，节日的名称改变了，但宫中至今仍延续着这项仪式。",
+      "en": "This holiday originates from 「新嘗祭」, an ancient court ritual. The new rice harvested that year is offered to the gods, and the Emperor himself partakes of it, giving thanks for the harvest. After the war, the name of the holiday changed, but the ritual has continued at the Imperial Court to this day.",
+      "de": "This holiday originates from 「新嘗祭」, an ancient court ritual. The new rice harvested that year is offered to the gods, and the Emperor himself partakes of it, giving thanks for the harvest. After the war, the name of the holiday changed, but the ritual has continued at the Imperial Court to this day."
+    },
+    {
+      "zh-Hant": "一聽到「勤勞」，我們很容易想到上班族。但家務、育兒、照護，同樣是了不起的勤勞。至少今天，不妨對身邊的人說一句「平常謝謝你」。被說的人，往往意外地會害羞呢。",
+      "zh-Hans": "一听到「勤劳」，我们很容易想到上班族。但家务、育儿、照护，同样是了不起的勤劳。至少今天，不妨对身边的人说一句「平常谢谢你」。被说的人，往往意外地会害羞呢。",
+      "en": "When we hear \"labor,\" we tend to think of office work. But housework, child-rearing, and caregiving are also admirable labor. At least today, why not tell someone close to you, \"Thank you, as always\"? More often than not, the person hearing it ends up blushing.",
+      "de": "When we hear \"labor,\" we tend to think of office work. But housework, child-rearing, and caregiving are also admirable labor. At least today, why not tell someone close to you, \"Thank you, as always\"? More often than not, the person hearing it ends up blushing."
+    }
+  ]
+}

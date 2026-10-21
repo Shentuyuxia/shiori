@@ -1,0 +1,151 @@
+{
+  "id": "kanji",
+  "d": -1,
+  "lv": "n2",
+  "genre": {
+    "zh-Hant": "專欄",
+    "ja": "コラム"
+  },
+  "title": "同じ漢字、違う意味",
+  "sub": "同一個漢字，不同的意思",
+  "body": "台湾から日本に来たばかりの頃、大学の[[掲示板|けいじばん]]に「{本日|ほんじつ}の授業は[[休講|きゅうこう]]」と書いてあって、一瞬だけ戸惑った。漢字を見れば意味はだいたい分かる。けれど、分かったつもりになるのがいちばん危ない。\n\n友人に「この前は[[迷惑|めいわく]]をかけてごめんね」と言われたとき、私は「迷惑」を中国語の「困惑」に近い言葉だと思い込んでいた。日本語の「迷惑」は、相手に面倒をかけることだ。[[勘違い|かんちがい]]に気づいたのは、ずいぶん後になってからだった。\n\n漢字という[[共通点|きょうつうてん]]は、[[近道|ちかみち]]であると同時に[[落とし穴|おとしあな]]でもある。{似|に}ている言葉ほど、一度立ち止まって辞書を引く。それが、二つの言語のあいだで暮らす人の、ささやかな[[知恵|ちえ]]なのかもしれない。",
+  "gloss": {
+    "掲示板": {
+      "m": "公告欄、布告欄"
+    },
+    "休講": {
+      "m": "停課（課程臨時取消）"
+    },
+    "迷惑": {
+      "m": "給人添麻煩；困擾",
+      "n": "中文「迷惑」是困惑不解，日文是「麻煩到別人」。"
+    },
+    "勘違い": {
+      "m": "誤會、搞錯"
+    },
+    "共通点": {
+      "m": "共同點"
+    },
+    "近道": {
+      "m": "捷徑"
+    },
+    "落とし穴": {
+      "m": "陷阱"
+    },
+    "知恵": {
+      "m": "智慧、生活中的巧思"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Same kanji, different meaning",
+      "g": {
+        "掲示板": [
+          "notice board"
+        ],
+        "休講": [
+          "class cancelled"
+        ],
+        "迷惑": [
+          "trouble, bother caused to others",
+          "In Chinese 迷惑 means \"puzzled\"; in Japanese it means \"troubling someone\"."
+        ],
+        "勘違い": [
+          "misunderstanding, mistaken idea"
+        ],
+        "共通点": [
+          "thing in common"
+        ],
+        "近道": [
+          "shortcut"
+        ],
+        "落とし穴": [
+          "pitfall, trap"
+        ],
+        "知恵": [
+          "wisdom, practical know-how"
+        ]
+      }
+    },
+    "de": {
+      "s": "Gleiche Kanji, andere Bedeutung",
+      "g": {
+        "掲示板": [
+          "Schwarzes Brett"
+        ],
+        "休講": [
+          "Ausfall der Lehrveranstaltung"
+        ],
+        "迷惑": [
+          "Belästigung, Unannehmlichkeit für andere",
+          "Im Chinesischen heißt 迷惑 „verwirrt“, im Japanischen „anderen zur Last fallen“."
+        ],
+        "勘違い": [
+          "Missverständnis, Irrtum"
+        ],
+        "共通点": [
+          "Gemeinsamkeit"
+        ],
+        "近道": [
+          "Abkürzung"
+        ],
+        "落とし穴": [
+          "Falle, Fallstrick"
+        ],
+        "知恵": [
+          "Weisheit, Lebensklugheit"
+        ]
+      }
+    },
+    "hans": {
+      "s": "同一个汉字，不同的意思",
+      "g": {
+        "掲示板": [
+          "公告栏、布告栏"
+        ],
+        "休講": [
+          "停课（课程临时取消）"
+        ],
+        "迷惑": [
+          "给人添麻烦；困扰",
+          "中文「迷惑」是困惑不解，日文是「麻烦到别人」。"
+        ],
+        "勘違い": [
+          "误会、搞错"
+        ],
+        "共通点": [
+          "共同点"
+        ],
+        "近道": [
+          "捷径"
+        ],
+        "落とし穴": [
+          "陷阱"
+        ],
+        "知恵": [
+          "智慧、生活中的巧思"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "剛從台灣來到日本的時候，大學的公告欄上寫著「本日授業休講」，我愣了一下。看漢字大致能猜到意思，但以為自己懂了，反而最危險。",
+      "zh-Hans": "刚从台湾来到日本的时候，大学的公告栏上写着「本日授业休讲」，我愣了一下。看汉字大致能猜到意思，但以为自己懂了，反而最危险。",
+      "en": "When I first came to Japan from Taiwan, I saw a notice on the university bulletin board that read 「本日の授業は休講」, and I hesitated for a moment. You can roughly guess the meaning from the kanji, but thinking you understand is the most dangerous thing.",
+      "de": "When I first came to Japan from Taiwan, I saw a notice on the university bulletin board that read 「本日の授業は休講」, and I hesitated for a moment. You can roughly guess the meaning from the kanji, but thinking you understand is the most dangerous thing."
+    },
+    {
+      "zh-Hant": "朋友對我說「前次給你添麻煩了，對不起」，那時我以為日文的「迷惑」接近中文的「困惑」。其實日文的「迷惑」是指給對方添麻煩。我發現自己誤會，已經是很久以後的事了。",
+      "zh-Hans": "朋友对我说「前次给你添麻烦了，对不起」，那时我以为日文的「迷惑」接近中文的「困惑」。其实日文的「迷惑」是指给对方添麻烦。我发现自己误会，已经是很久以后的事了。",
+      "en": "When a friend said to me, 「この前は迷惑をかけてごめんね」, I had assumed that 「迷惑」 in Japanese was close to the Chinese 「困惑」. But in Japanese, 「迷惑」 means causing trouble for someone else. I only realized my mistake long afterward.",
+      "de": "When a friend said to me, 「この前は迷惑をかけてごめんね」, I had assumed that 「迷惑」 in Japanese was close to the Chinese 「困惑」. But in Japanese, 「迷惑」 means causing trouble for someone else. I only realized my mistake long afterward."
+    },
+    {
+      "zh-Hant": "漢字這個共同點，既是捷徑，也是陷阱。越是相似的詞，越要停下來查一次字典。也許這就是在兩種語言之間生活的人，那一點小小的智慧吧。",
+      "zh-Hans": "汉字这个共同点，既是捷径，也是陷阱。越是相似的词，越要停下来查一次字典。也许这就是在两种语言之间生活的人，那一点小小的智能吧。",
+      "en": "Shared kanji are both a shortcut and a trap. The more similar two words look, the more you should stop and check a dictionary. Perhaps this small wisdom is what people who live between two languages learn.",
+      "de": "Shared kanji are both a shortcut and a trap. The more similar two words look, the more you should stop and check a dictionary. Perhaps this small wisdom is what people who live between two languages learn."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "w-tanuki-e",
+  "d": -1,
+  "lv": "n4",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "タヌキとキツネ",
+  "sub": "狸與狐（簡單版）",
+  "body": "{日本|にほん}の{昔話|むかしばなし}には、[[タヌキ|タヌキ]]と[[キツネ|キツネ]]がよく{出|で}てきます。\n\n{昔|むかし}の{人|ひと}は、タヌキもキツネも{人|ひと}に[[化ける|ばける]]と{思|おも}っていました。{人|ひと}を[[だます|だます]]のも{上手|じょうず}です。\n\nうどんの{店|みせ}に「きつねうどん」があります。[[油揚げ|あぶらあげ]]が{入|はい}っています。キツネは{油揚|あぶらあ}げが{好|す}きだと[[言われて|いわれて]]います。",
+  "gloss": {
+    "タヌキ": {
+      "m": "狸（貉）"
+    },
+    "キツネ": {
+      "m": "狐狸"
+    },
+    "化ける": {
+      "m": "變身、化成"
+    },
+    "だます": {
+      "m": "騙"
+    },
+    "油揚げ": {
+      "m": "油豆皮"
+    },
+    "言われて": {
+      "m": "被說（原形：言う）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Tanuki and fox (easy)",
+      "g": {
+        "タヌキ": [
+          "tanuki (raccoon dog)"
+        ],
+        "キツネ": [
+          "fox"
+        ],
+        "化ける": [
+          "to transform, shape-shift"
+        ],
+        "だます": [
+          "to trick"
+        ],
+        "油揚げ": [
+          "fried tofu pouch"
+        ],
+        "言われて": [
+          "it is said (dict. form: 言う)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Tanuki und Fuchs (leicht)",
+      "g": {
+        "タヌキ": [
+          "Tanuki (Marderhund)"
+        ],
+        "キツネ": [
+          "Fuchs"
+        ],
+        "化ける": [
+          "sich verwandeln"
+        ],
+        "だます": [
+          "täuschen, hereinlegen"
+        ],
+        "油揚げ": [
+          "frittierter Tofu"
+        ],
+        "言われて": [
+          "man sagt (Grundform: 言う)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "狸与狐（简单版）",
+      "g": {
+        "タヌキ": [
+          "狸（貉）"
+        ],
+        "キツネ": [
+          "狐狸"
+        ],
+        "化ける": [
+          "变身、化成"
+        ],
+        "だます": [
+          "骗"
+        ],
+        "油揚げ": [
+          "油豆皮"
+        ],
+        "言われて": [
+          "被说（原形：言う）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本的民間故事裡常常出現狸和狐狸。",
+      "zh-Hans": "日本的民间故事里常常出现狸和狐狸。",
+      "en": "Tanuki and foxes often appear in Japanese folk tales.",
+      "de": "In japanischen Märchen kommen oft Tanuki und Füchse vor."
+    },
+    {
+      "zh-Hant": "以前的人認為狸和狐狸都會變成人，也很會騙人。",
+      "zh-Hans": "以前的人认为狸和狐狸都会变成人，也很会骗人。",
+      "en": "People long ago believed that both tanuki and foxes could turn into humans. They're also good at tricking people.",
+      "de": "Früher glaubte man, dass sich Tanuki und Füchse in Menschen verwandeln können. Sie sind auch gut darin, Leute hereinzulegen."
+    },
+    {
+      "zh-Hant": "烏龍麵店裡有「豆皮烏龍麵（きつねうどん）」，裡面放了油豆皮。據說狐狸喜歡吃油豆皮。",
+      "zh-Hans": "乌龙面店里有「豆皮乌龙面（きつねうどん）」，里面放了油豆皮。据说狐狸喜欢吃油豆皮。",
+      "en": "Udon shops have kitsune udon, which comes with fried tofu. Foxes are said to love fried tofu.",
+      "de": "In Udon-Läden gibt es Kitsune-Udon mit frittiertem Tofu. Man sagt, Füchse lieben frittierten Tofu."
+    }
+  ]
+}

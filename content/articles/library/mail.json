@@ -1,0 +1,168 @@
+{
+  "id": "mail",
+  "d": -1,
+  "lv": "n2",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "商務書信",
+    "ja": "ビジネスメール"
+  },
+  "title": "お見積書送付の件",
+  "sub": "寄送報價單",
+  "body": "株式会社みどり書房\n営業部　佐藤様\n\nいつも大変お世話になっております。台北デザイン事務所の林でございます。\n先日は[[お忙しいところ|おいそがしいところ]]、打ち合わせのお時間をいただき、{誠|まこと}にありがとうございました。\n\nご依頼いただいておりました[[お見積書|おみつもりしょ]]を[[添付|てんぷ]]にてお送りいたします。[[ご査収|ごさしゅう]]のほど、よろしくお願い申し上げます。\n\nなお、[[納期|のうき]]につきましては、正式なご[[発注|はっちゅう]]をいただいてから約三週間を予定しております。ご不明な点がございましたら、[[お気軽に|おきがるに]]お[[申し付け|もうしつけ]]ください。\n\n引き続きどうぞよろしくお願いいたします。",
+  "gloss": {
+    "お忙しいところ": {
+      "m": "在您百忙之中"
+    },
+    "お見積書": {
+      "m": "報價單"
+    },
+    "添付": {
+      "m": "附件、附上"
+    },
+    "ご査収": {
+      "m": "請查收",
+      "n": "寄送文件時的固定商務用語。"
+    },
+    "納期": {
+      "m": "交期、交貨期限"
+    },
+    "発注": {
+      "m": "下訂單"
+    },
+    "お気軽に": {
+      "m": "請別客氣、隨時"
+    },
+    "申し付け": {
+      "m": "吩咐、交代",
+      "n": "「お申し付けください」＝請儘管吩咐。"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Sending the quotation",
+      "g": {
+        "お忙しいところ": [
+          "though you are busy"
+        ],
+        "お見積書": [
+          "quotation, estimate"
+        ],
+        "添付": [
+          "attachment, attached"
+        ],
+        "ご査収": [
+          "please find (enclosed) and check",
+          "Fixed business phrase when sending documents."
+        ],
+        "納期": [
+          "delivery date"
+        ],
+        "発注": [
+          "placing an order"
+        ],
+        "お気軽に": [
+          "feel free to"
+        ],
+        "申し付け": [
+          "request, instruction",
+          "「お申し付けください」 = please just let us know."
+        ]
+      }
+    },
+    "de": {
+      "s": "Übersendung des Angebots",
+      "g": {
+        "お忙しいところ": [
+          "trotz Ihrer vielen Arbeit"
+        ],
+        "お見積書": [
+          "Kostenvoranschlag, Angebot"
+        ],
+        "添付": [
+          "Anhang, beigefügt"
+        ],
+        "ご査収": [
+          "bitte prüfen Sie das Beigefügte",
+          "Feste Geschäftsformel beim Versenden von Unterlagen."
+        ],
+        "納期": [
+          "Liefertermin"
+        ],
+        "発注": [
+          "Bestellung aufgeben"
+        ],
+        "お気軽に": [
+          "zögern Sie nicht"
+        ],
+        "申し付け": [
+          "Anweisung, Auftrag",
+          "„お申し付けください“ = sagen Sie uns einfach Bescheid."
+        ]
+      }
+    },
+    "hans": {
+      "s": "寄送报价单",
+      "g": {
+        "お忙しいところ": [
+          "在您百忙之中"
+        ],
+        "お見積書": [
+          "报价单"
+        ],
+        "添付": [
+          "附件、附上"
+        ],
+        "ご査収": [
+          "请查收",
+          "寄送文件时的固定商务用语。"
+        ],
+        "納期": [
+          "交期、交货期限"
+        ],
+        "発注": [
+          "下订单"
+        ],
+        "お気軽に": [
+          "请别客气、随时"
+        ],
+        "申し付け": [
+          "吩咐、交代",
+          "「お申し付けください」＝请尽管吩咐。"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "綠書房股份有限公司\n業務部　佐藤先生",
+      "zh-Hans": "绿书房股份有限公司\n业务部　佐藤先生",
+      "en": "Midori Shobo Co., Ltd.\nAttn: Mr. Sato, Sales Department",
+      "de": "Midori Shobo Co., Ltd.\nAttn: Mr. Sato, Sales Department"
+    },
+    {
+      "zh-Hant": "一直承蒙您的關照。我是台北設計事務所的林。\n前些日子您百忙之中撥冗與我們洽談，真的非常感謝。",
+      "zh-Hans": "一直承蒙您的关照。我是台北设计事务所的林。\n前些日子您百忙之中拨冗与我们洽谈，真的非常感谢。",
+      "en": "Thank you very much for your continued support. I am Lin of Taipei Design Office.\nThank you for taking the time out of your busy schedule for our meeting the other day.",
+      "de": "Thank you very much for your continued support. I am Lin of Taipei Design Office.\nThank you for taking the time out of your busy schedule for our meeting the other day."
+    },
+    {
+      "zh-Hant": "您先前委託的報價單，現以附件方式寄送。敬請查收，謝謝。",
+      "zh-Hans": "您先前委托的报价单，现以附件方式寄送。敬请查收，谢谢。",
+      "en": "Please find attached the quotation you requested. Kindly review it at your convenience. Thank you.",
+      "de": "Please find attached the quotation you requested. Kindly review it at your convenience. Thank you."
+    },
+    {
+      "zh-Hant": "另外，交貨期方面，在收到正式訂單後，預計約需三週。如有任何不明之處，請不吝隨時告知。",
+      "zh-Hans": "另外，交货期方面，在收到正式订单后，预计约需三周。如有任何不明之处，请不吝随时告知。",
+      "en": "Regarding delivery, we expect approximately three weeks after we receive your formal order. If anything is unclear, please feel free to let me know.",
+      "de": "Regarding delivery, we expect approximately three weeks after we receive your formal order. If anything is unclear, please feel free to let me know."
+    },
+    {
+      "zh-Hant": "今後也請多多指教。",
+      "zh-Hans": "今后也请多多指教。",
+      "en": "I look forward to working with you.",
+      "de": "I look forward to working with you."
+    }
+  ]
+}

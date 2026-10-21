@@ -1,0 +1,112 @@
+{
+  "id": "w-sakura-e",
+  "d": -1,
+  "lv": "n4",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "桜",
+  "sub": "櫻花（簡單版）",
+  "body": "{日本|にほん}の{春|はる}といえば、[[桜|さくら]]です。\n\n{一番|いちばん}{多|おお}い{桜|さくら}は「[[ソメイヨシノ|ソメイヨシノ]]」です。この{桜|さくら}は、{同|おな}じ{場所|ばしょ}では、だいたい{同|おな}じ{日|ひ}に[[咲きます|さきます]]。\n\n{桜|さくら}が{咲|さ}くと、{人|ひと}びとは{木|き}の{下|した}でごはんを{食|た}べたり、{話|はな}したりします。これを「[[花見|はなみ]]」と{言|い}います。{桜|さくら}は{一週間|いっしゅうかん}ぐらいで[[散って|ちって]]しまいます。",
+  "gloss": {
+    "桜": {
+      "m": "櫻花"
+    },
+    "ソメイヨシノ": {
+      "m": "染井吉野櫻"
+    },
+    "咲きます": {
+      "m": "開花（原形：咲く）"
+    },
+    "花見": {
+      "m": "賞花"
+    },
+    "散って": {
+      "m": "凋落（原形：散る）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Cherry blossoms (easy)",
+      "g": {
+        "桜": [
+          "cherry blossom"
+        ],
+        "ソメイヨシノ": [
+          "Somei-yoshino (cherry variety)"
+        ],
+        "咲きます": [
+          "to bloom (dict. form: 咲く)"
+        ],
+        "花見": [
+          "flower viewing"
+        ],
+        "散って": [
+          "falling, scattering (dict. form: 散る)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Kirschblüten (leicht)",
+      "g": {
+        "桜": [
+          "Kirschblüte"
+        ],
+        "ソメイヨシノ": [
+          "Somei-yoshino (Kirschsorte)"
+        ],
+        "咲きます": [
+          "blühen (Grundform: 咲く)"
+        ],
+        "花見": [
+          "Blütenschau"
+        ],
+        "散って": [
+          "abfallen (Grundform: 散る)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "樱花（简单版）",
+      "g": {
+        "桜": [
+          "樱花"
+        ],
+        "ソメイヨシノ": [
+          "染井吉野樱"
+        ],
+        "咲きます": [
+          "开花（原形：咲く）"
+        ],
+        "花見": [
+          "赏花"
+        ],
+        "散って": [
+          "凋落（原形：散る）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "說到日本的春天，就是櫻花。",
+      "zh-Hans": "说到日本的春天，就是樱花。",
+      "en": "When you think of spring in Japan, you think of cherry blossoms.",
+      "de": "Frühling in Japan – das heißt Kirschblüte."
+    },
+    {
+      "zh-Hant": "最多的櫻花品種是「染井吉野」。這種櫻花在同一個地方，差不多會在同一天開花。",
+      "zh-Hans": "最多的樱花品种是「染井吉野」。这种樱花在同一个地方，差不多会在同一天开花。",
+      "en": "The most common cherry tree is the Somei-yoshino. In the same place, these trees bloom on roughly the same day.",
+      "de": "Die häufigste Kirschsorte ist Somei-yoshino. Am selben Ort blühen diese Bäume ungefähr am selben Tag."
+    },
+    {
+      "zh-Hant": "櫻花開了，人們會在樹下吃飯、聊天，這叫「賞花」。櫻花大約一週就會凋謝。",
+      "zh-Hans": "樱花开了，人们会在树下吃饭、聊天，这叫「赏花」。樱花大约一周就会凋谢。",
+      "en": "When the cherry trees bloom, people eat and chat under the trees. This is called hanami. The blossoms fall after about a week.",
+      "de": "Wenn die Kirschbäume blühen, essen und plaudern die Leute unter den Bäumen. Das nennt man Hanami. Nach etwa einer Woche fallen die Blüten ab."
+    }
+  ]
+}

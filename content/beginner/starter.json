@@ -1,0 +1,908 @@
+[
+  {
+    "id": "greet",
+    "l": {
+      "zh-Hant": "問候",
+      "zh-Hans": "问候",
+      "en": "Greetings",
+      "de": "Begrüßungen",
+      "ja": "あいさつ"
+    },
+    "w": [
+      [
+        "おはようございます",
+        "おはようございます",
+        {
+          "zh-Hant": "早安",
+          "zh-Hans": "早安",
+          "en": "good morning",
+          "de": "guten Morgen"
+        }
+      ],
+      [
+        "こんにちは",
+        "こんにちは",
+        {
+          "zh-Hant": "你好（白天）",
+          "zh-Hans": "你好（白天）",
+          "en": "hello (daytime)",
+          "de": "hallo, guten Tag"
+        }
+      ],
+      [
+        "こんばんは",
+        "こんばんは",
+        {
+          "zh-Hant": "晚安（晚上見面時）",
+          "zh-Hans": "晚安（晚上见面时）",
+          "en": "good evening",
+          "de": "guten Abend"
+        }
+      ],
+      [
+        "おやすみなさい",
+        "おやすみなさい",
+        {
+          "zh-Hant": "晚安（睡前）",
+          "zh-Hans": "晚安（睡前）",
+          "en": "good night",
+          "de": "gute Nacht"
+        }
+      ],
+      [
+        "さようなら",
+        "さようなら",
+        {
+          "zh-Hant": "再見",
+          "zh-Hans": "再见",
+          "en": "goodbye",
+          "de": "auf Wiedersehen"
+        }
+      ],
+      [
+        "ありがとう",
+        "ありがとう",
+        {
+          "zh-Hant": "謝謝",
+          "zh-Hans": "谢谢",
+          "en": "thanks",
+          "de": "danke"
+        }
+      ],
+      [
+        "すみません",
+        "すみません",
+        {
+          "zh-Hant": "不好意思、對不起",
+          "zh-Hans": "不好意思、对不起",
+          "en": "excuse me, sorry",
+          "de": "Entschuldigung"
+        }
+      ],
+      [
+        "ごめんなさい",
+        "ごめんなさい",
+        {
+          "zh-Hant": "對不起",
+          "zh-Hans": "对不起",
+          "en": "I'm sorry",
+          "de": "Es tut mir leid"
+        }
+      ],
+      [
+        "はい",
+        "はい",
+        {
+          "zh-Hant": "是、對",
+          "zh-Hans": "是、对",
+          "en": "yes",
+          "de": "ja"
+        }
+      ],
+      [
+        "いいえ",
+        "いいえ",
+        {
+          "zh-Hant": "不、不是",
+          "zh-Hans": "不、不是",
+          "en": "no",
+          "de": "nein"
+        }
+      ],
+      [
+        "いただきます",
+        "いただきます",
+        {
+          "zh-Hant": "開動了（飯前）",
+          "zh-Hans": "开动了（饭前）",
+          "en": "said before eating",
+          "de": "vor dem Essen gesagt"
+        }
+      ],
+      [
+        "ごちそうさまでした",
+        "ごちそうさまでした",
+        {
+          "zh-Hant": "我吃飽了、謝謝招待",
+          "zh-Hans": "我吃饱了、谢谢招待",
+          "en": "said after eating",
+          "de": "nach dem Essen gesagt"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "num",
+    "l": {
+      "zh-Hant": "數字",
+      "zh-Hans": "数字",
+      "en": "Numbers",
+      "de": "Zahlen",
+      "ja": "かず"
+    },
+    "w": [
+      [
+        "一",
+        "いち",
+        {
+          "zh-Hant": "一",
+          "zh-Hans": "一",
+          "en": "one",
+          "de": "eins"
+        }
+      ],
+      [
+        "二",
+        "に",
+        {
+          "zh-Hant": "二",
+          "zh-Hans": "二",
+          "en": "two",
+          "de": "zwei"
+        }
+      ],
+      [
+        "三",
+        "さん",
+        {
+          "zh-Hant": "三",
+          "zh-Hans": "三",
+          "en": "three",
+          "de": "drei"
+        }
+      ],
+      [
+        "四",
+        "よん",
+        {
+          "zh-Hant": "四（也唸 し）",
+          "zh-Hans": "四（也念 し）",
+          "en": "four (also し)",
+          "de": "vier (auch し)"
+        }
+      ],
+      [
+        "五",
+        "ご",
+        {
+          "zh-Hant": "五",
+          "zh-Hans": "五",
+          "en": "five",
+          "de": "fünf"
+        }
+      ],
+      [
+        "六",
+        "ろく",
+        {
+          "zh-Hant": "六",
+          "zh-Hans": "六",
+          "en": "six",
+          "de": "sechs"
+        }
+      ],
+      [
+        "七",
+        "なな",
+        {
+          "zh-Hant": "七（也唸 しち）",
+          "zh-Hans": "七（也念 しち）",
+          "en": "seven (also しち)",
+          "de": "sieben (auch しち)"
+        }
+      ],
+      [
+        "八",
+        "はち",
+        {
+          "zh-Hant": "八",
+          "zh-Hans": "八",
+          "en": "eight",
+          "de": "acht"
+        }
+      ],
+      [
+        "九",
+        "きゅう",
+        {
+          "zh-Hant": "九（也唸 く）",
+          "zh-Hans": "九（也念 く）",
+          "en": "nine (also く)",
+          "de": "neun (auch く)"
+        }
+      ],
+      [
+        "十",
+        "じゅう",
+        {
+          "zh-Hant": "十",
+          "zh-Hans": "十",
+          "en": "ten",
+          "de": "zehn"
+        }
+      ],
+      [
+        "百",
+        "ひゃく",
+        {
+          "zh-Hant": "百",
+          "zh-Hans": "百",
+          "en": "hundred",
+          "de": "hundert"
+        }
+      ],
+      [
+        "千",
+        "せん",
+        {
+          "zh-Hant": "千",
+          "zh-Hans": "千",
+          "en": "thousand",
+          "de": "tausend"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "time",
+    "l": {
+      "zh-Hant": "時間",
+      "zh-Hans": "时间",
+      "en": "Time",
+      "de": "Zeit",
+      "ja": "とき"
+    },
+    "w": [
+      [
+        "今日",
+        "きょう",
+        {
+          "zh-Hant": "今天",
+          "zh-Hans": "今天",
+          "en": "today",
+          "de": "heute"
+        }
+      ],
+      [
+        "明日",
+        "あした",
+        {
+          "zh-Hant": "明天",
+          "zh-Hans": "明天",
+          "en": "tomorrow",
+          "de": "morgen"
+        }
+      ],
+      [
+        "きのう",
+        "きのう",
+        {
+          "zh-Hant": "昨天",
+          "zh-Hans": "昨天",
+          "en": "yesterday",
+          "de": "gestern"
+        }
+      ],
+      [
+        "今",
+        "いま",
+        {
+          "zh-Hant": "現在",
+          "zh-Hans": "现在",
+          "en": "now",
+          "de": "jetzt"
+        }
+      ],
+      [
+        "朝",
+        "あさ",
+        {
+          "zh-Hant": "早上",
+          "zh-Hans": "早上",
+          "en": "morning",
+          "de": "Morgen"
+        }
+      ],
+      [
+        "夜",
+        "よる",
+        {
+          "zh-Hant": "晚上",
+          "zh-Hans": "晚上",
+          "en": "night",
+          "de": "Nacht"
+        }
+      ],
+      [
+        "月曜日",
+        "げつようび",
+        {
+          "zh-Hant": "星期一",
+          "zh-Hans": "星期一",
+          "en": "Monday",
+          "de": "Montag"
+        }
+      ],
+      [
+        "金曜日",
+        "きんようび",
+        {
+          "zh-Hant": "星期五",
+          "zh-Hans": "星期五",
+          "en": "Friday",
+          "de": "Freitag"
+        }
+      ],
+      [
+        "週末",
+        "しゅうまつ",
+        {
+          "zh-Hant": "週末",
+          "zh-Hans": "周末",
+          "en": "weekend",
+          "de": "Wochenende"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "people",
+    "l": {
+      "zh-Hant": "人",
+      "zh-Hans": "人",
+      "en": "People",
+      "de": "Menschen",
+      "ja": "ひと"
+    },
+    "w": [
+      [
+        "私",
+        "わたし",
+        {
+          "zh-Hant": "我",
+          "zh-Hans": "我",
+          "en": "I, me",
+          "de": "ich"
+        }
+      ],
+      [
+        "あなた",
+        "あなた",
+        {
+          "zh-Hant": "你",
+          "zh-Hans": "你",
+          "en": "you",
+          "de": "du, Sie"
+        }
+      ],
+      [
+        "友達",
+        "ともだち",
+        {
+          "zh-Hant": "朋友",
+          "zh-Hans": "朋友",
+          "en": "friend",
+          "de": "Freund(in)"
+        }
+      ],
+      [
+        "家族",
+        "かぞく",
+        {
+          "zh-Hant": "家人",
+          "zh-Hans": "家人",
+          "en": "family",
+          "de": "Familie"
+        }
+      ],
+      [
+        "母",
+        "はは",
+        {
+          "zh-Hant": "（我的）媽媽",
+          "zh-Hans": "（我的）妈妈",
+          "en": "(my) mother",
+          "de": "(meine) Mutter"
+        }
+      ],
+      [
+        "父",
+        "ちち",
+        {
+          "zh-Hant": "（我的）爸爸",
+          "zh-Hans": "（我的）爸爸",
+          "en": "(my) father",
+          "de": "(mein) Vater"
+        }
+      ],
+      [
+        "先生",
+        "せんせい",
+        {
+          "zh-Hant": "老師",
+          "zh-Hans": "老师",
+          "en": "teacher",
+          "de": "Lehrer(in)"
+        }
+      ],
+      [
+        "人",
+        "ひと",
+        {
+          "zh-Hant": "人",
+          "zh-Hans": "人",
+          "en": "person",
+          "de": "Mensch"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "food",
+    "l": {
+      "zh-Hant": "飲食",
+      "zh-Hans": "饮食",
+      "en": "Food & drink",
+      "de": "Essen & Trinken",
+      "ja": "たべもの"
+    },
+    "w": [
+      [
+        "水",
+        "みず",
+        {
+          "zh-Hant": "水",
+          "zh-Hans": "水",
+          "en": "water",
+          "de": "Wasser"
+        }
+      ],
+      [
+        "お茶",
+        "おちゃ",
+        {
+          "zh-Hant": "茶",
+          "zh-Hans": "茶",
+          "en": "tea",
+          "de": "Tee"
+        }
+      ],
+      [
+        "コーヒー",
+        "コーヒー",
+        {
+          "zh-Hant": "咖啡",
+          "zh-Hans": "咖啡",
+          "en": "coffee",
+          "de": "Kaffee"
+        }
+      ],
+      [
+        "ごはん",
+        "ごはん",
+        {
+          "zh-Hant": "飯、餐",
+          "zh-Hans": "饭、餐",
+          "en": "rice, meal",
+          "de": "Reis, Essen"
+        }
+      ],
+      [
+        "パン",
+        "パン",
+        {
+          "zh-Hant": "麵包",
+          "zh-Hans": "面包",
+          "en": "bread",
+          "de": "Brot"
+        }
+      ],
+      [
+        "肉",
+        "にく",
+        {
+          "zh-Hant": "肉",
+          "zh-Hans": "肉",
+          "en": "meat",
+          "de": "Fleisch"
+        }
+      ],
+      [
+        "魚",
+        "さかな",
+        {
+          "zh-Hant": "魚",
+          "zh-Hans": "鱼",
+          "en": "fish",
+          "de": "Fisch"
+        }
+      ],
+      [
+        "野菜",
+        "やさい",
+        {
+          "zh-Hant": "蔬菜",
+          "zh-Hans": "蔬菜",
+          "en": "vegetables",
+          "de": "Gemüse"
+        }
+      ],
+      [
+        "卵",
+        "たまご",
+        {
+          "zh-Hant": "蛋",
+          "zh-Hans": "蛋",
+          "en": "egg",
+          "de": "Ei"
+        }
+      ],
+      [
+        "おいしい",
+        "おいしい",
+        {
+          "zh-Hant": "好吃",
+          "zh-Hans": "好吃",
+          "en": "delicious",
+          "de": "lecker"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "place",
+    "l": {
+      "zh-Hant": "地方",
+      "zh-Hans": "地方",
+      "en": "Places",
+      "de": "Orte",
+      "ja": "ばしょ"
+    },
+    "w": [
+      [
+        "家",
+        "いえ",
+        {
+          "zh-Hant": "家",
+          "zh-Hans": "家",
+          "en": "house, home",
+          "de": "Haus, Zuhause"
+        }
+      ],
+      [
+        "駅",
+        "えき",
+        {
+          "zh-Hant": "車站",
+          "zh-Hans": "车站",
+          "en": "station",
+          "de": "Bahnhof"
+        }
+      ],
+      [
+        "学校",
+        "がっこう",
+        {
+          "zh-Hant": "學校",
+          "zh-Hans": "学校",
+          "en": "school",
+          "de": "Schule"
+        }
+      ],
+      [
+        "会社",
+        "かいしゃ",
+        {
+          "zh-Hant": "公司",
+          "zh-Hans": "公司",
+          "en": "company, office",
+          "de": "Firma"
+        }
+      ],
+      [
+        "店",
+        "みせ",
+        {
+          "zh-Hant": "店",
+          "zh-Hans": "店",
+          "en": "shop",
+          "de": "Laden"
+        }
+      ],
+      [
+        "トイレ",
+        "トイレ",
+        {
+          "zh-Hant": "廁所",
+          "zh-Hans": "厕所",
+          "en": "toilet",
+          "de": "Toilette"
+        }
+      ],
+      [
+        "病院",
+        "びょういん",
+        {
+          "zh-Hant": "醫院",
+          "zh-Hans": "医院",
+          "en": "hospital",
+          "de": "Krankenhaus"
+        }
+      ],
+      [
+        "日本",
+        "にほん",
+        {
+          "zh-Hant": "日本",
+          "zh-Hans": "日本",
+          "en": "Japan",
+          "de": "Japan"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "verb",
+    "l": {
+      "zh-Hant": "動詞",
+      "zh-Hans": "动词",
+      "en": "Verbs",
+      "de": "Verben",
+      "ja": "うごき"
+    },
+    "w": [
+      [
+        "行く",
+        "いく",
+        {
+          "zh-Hant": "去",
+          "zh-Hans": "去",
+          "en": "to go",
+          "de": "gehen, fahren"
+        }
+      ],
+      [
+        "来る",
+        "くる",
+        {
+          "zh-Hant": "來",
+          "zh-Hans": "来",
+          "en": "to come",
+          "de": "kommen"
+        }
+      ],
+      [
+        "帰る",
+        "かえる",
+        {
+          "zh-Hant": "回去、回家",
+          "zh-Hans": "回去、回家",
+          "en": "to go home",
+          "de": "nach Hause gehen"
+        }
+      ],
+      [
+        "食べる",
+        "たべる",
+        {
+          "zh-Hant": "吃",
+          "zh-Hans": "吃",
+          "en": "to eat",
+          "de": "essen"
+        }
+      ],
+      [
+        "飲む",
+        "のむ",
+        {
+          "zh-Hant": "喝",
+          "zh-Hans": "喝",
+          "en": "to drink",
+          "de": "trinken"
+        }
+      ],
+      [
+        "見る",
+        "みる",
+        {
+          "zh-Hant": "看",
+          "zh-Hans": "看",
+          "en": "to see, watch",
+          "de": "sehen"
+        }
+      ],
+      [
+        "聞く",
+        "きく",
+        {
+          "zh-Hant": "聽；問",
+          "zh-Hans": "听；问",
+          "en": "to listen; to ask",
+          "de": "hören; fragen"
+        }
+      ],
+      [
+        "話す",
+        "はなす",
+        {
+          "zh-Hant": "說、講",
+          "zh-Hans": "说、讲",
+          "en": "to speak",
+          "de": "sprechen"
+        }
+      ],
+      [
+        "読む",
+        "よむ",
+        {
+          "zh-Hant": "讀",
+          "zh-Hans": "读",
+          "en": "to read",
+          "de": "lesen"
+        }
+      ],
+      [
+        "書く",
+        "かく",
+        {
+          "zh-Hant": "寫",
+          "zh-Hans": "写",
+          "en": "to write",
+          "de": "schreiben"
+        }
+      ],
+      [
+        "買う",
+        "かう",
+        {
+          "zh-Hant": "買",
+          "zh-Hans": "买",
+          "en": "to buy",
+          "de": "kaufen"
+        }
+      ],
+      [
+        "わかる",
+        "わかる",
+        {
+          "zh-Hant": "懂、明白",
+          "zh-Hans": "懂、明白",
+          "en": "to understand",
+          "de": "verstehen"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "adj",
+    "l": {
+      "zh-Hant": "形容詞",
+      "zh-Hans": "形容词",
+      "en": "Adjectives",
+      "de": "Adjektive",
+      "ja": "ようす"
+    },
+    "w": [
+      [
+        "大きい",
+        "おおきい",
+        {
+          "zh-Hant": "大",
+          "zh-Hans": "大",
+          "en": "big",
+          "de": "groß"
+        }
+      ],
+      [
+        "小さい",
+        "ちいさい",
+        {
+          "zh-Hant": "小",
+          "zh-Hans": "小",
+          "en": "small",
+          "de": "klein"
+        }
+      ],
+      [
+        "高い",
+        "たかい",
+        {
+          "zh-Hant": "貴；高",
+          "zh-Hans": "贵；高",
+          "en": "expensive; tall",
+          "de": "teuer; hoch"
+        }
+      ],
+      [
+        "安い",
+        "やすい",
+        {
+          "zh-Hant": "便宜",
+          "zh-Hans": "便宜",
+          "en": "cheap",
+          "de": "billig"
+        }
+      ],
+      [
+        "新しい",
+        "あたらしい",
+        {
+          "zh-Hant": "新",
+          "zh-Hans": "新",
+          "en": "new",
+          "de": "neu"
+        }
+      ],
+      [
+        "古い",
+        "ふるい",
+        {
+          "zh-Hant": "舊",
+          "zh-Hans": "旧",
+          "en": "old (things)",
+          "de": "alt (Dinge)"
+        }
+      ],
+      [
+        "暑い",
+        "あつい",
+        {
+          "zh-Hant": "熱（天氣）",
+          "zh-Hans": "热（天气）",
+          "en": "hot (weather)",
+          "de": "heiß (Wetter)"
+        }
+      ],
+      [
+        "寒い",
+        "さむい",
+        {
+          "zh-Hant": "冷（天氣）",
+          "zh-Hans": "冷（天气）",
+          "en": "cold (weather)",
+          "de": "kalt (Wetter)"
+        }
+      ],
+      [
+        "いい",
+        "いい",
+        {
+          "zh-Hant": "好",
+          "zh-Hans": "好",
+          "en": "good",
+          "de": "gut"
+        }
+      ],
+      [
+        "好き",
+        "すき",
+        {
+          "zh-Hant": "喜歡",
+          "zh-Hans": "喜欢",
+          "en": "to like",
+          "de": "mögen"
+        }
+      ]
+    ]
+  }
+]

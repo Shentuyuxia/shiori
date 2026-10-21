@@ -1,0 +1,171 @@
+{
+  "id": "d97",
+  "d": 97,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "語言雜談",
+    "ja": "ことば雑記"
+  },
+  "title": "「つまらないものですが」",
+  "sub": "謙遜的說法",
+  "body": "日本で贈り物を渡すとき、「つまらないものですが」と言う習慣がある。外国の人には[[理解|りかい]]しにくい表現の代表格だろう。「つまらないものなら、なぜ[[渡す|わたす]]のか」と。\n\nこの言葉は、品物そのものの価値を言っているのではない。「あなたのような立派な方にとっては、取るに足らないものですが」と、相手を[[立てる|たてる]]ための[[謙遜|けんそん]]である。とはいえ、最近は「心ばかりのものですが」「お口に合うといいのですが」など、より[[前向き|まえむき]]な言い方を好む人も増えた。\n\n結婚の挨拶で使われる「[[ふつつか者|ふつつかもの]]ですが」、自分の妻を「[[愚妻|ぐさい]]」と呼ぶ古い言い方も、同じ[[発想|はっそう]]から来ている。もっとも、「愚妻」は今では[[抵抗|ていこう]]を感じる人が多く、ほとんど使われなくなった。謙遜の[[作法|さほう]]も、時代とともに少しずつ形を変えている。",
+  "gloss": {
+    "理解": {
+      "m": "理解"
+    },
+    "渡す": {
+      "m": "交給"
+    },
+    "立てる": {
+      "m": "抬舉、給面子"
+    },
+    "謙遜": {
+      "m": "謙虛"
+    },
+    "前向き": {
+      "m": "正面積極"
+    },
+    "ふつつか者": {
+      "m": "不才、不周之人（謙稱）"
+    },
+    "愚妻": {
+      "m": "拙荊"
+    },
+    "発想": {
+      "m": "思維"
+    },
+    "抵抗": {
+      "m": "抗拒感"
+    },
+    "作法": {
+      "m": "規矩"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "\"It's just a little something\"",
+      "g": {
+        "理解": [
+          "understanding"
+        ],
+        "渡す": [
+          "to hand over"
+        ],
+        "立てる": [
+          "to honour, give face"
+        ],
+        "謙遜": [
+          "modesty"
+        ],
+        "前向き": [
+          "positive"
+        ],
+        "ふつつか者": [
+          "inexperienced person (humble)"
+        ],
+        "愚妻": [
+          "my wife (old humble term)"
+        ],
+        "発想": [
+          "way of thinking"
+        ],
+        "抵抗": [
+          "resistance"
+        ],
+        "作法": [
+          "etiquette"
+        ]
+      }
+    },
+    "de": {
+      "s": "„Es ist nur eine Kleinigkeit“",
+      "g": {
+        "理解": [
+          "Verständnis"
+        ],
+        "渡す": [
+          "überreichen"
+        ],
+        "立てる": [
+          "jemandem die Ehre geben"
+        ],
+        "謙遜": [
+          "Bescheidenheit"
+        ],
+        "前向き": [
+          "positiv"
+        ],
+        "ふつつか者": [
+          "unerfahrener Mensch (bescheiden)"
+        ],
+        "愚妻": [
+          "meine Frau (alte Bescheidenheitsform)"
+        ],
+        "発想": [
+          "Denkweise"
+        ],
+        "抵抗": [
+          "Widerstand"
+        ],
+        "作法": [
+          "Etikette"
+        ]
+      }
+    },
+    "hans": {
+      "s": "谦逊的说法",
+      "g": {
+        "理解": [
+          "理解"
+        ],
+        "渡す": [
+          "交给"
+        ],
+        "立てる": [
+          "抬举、给面子"
+        ],
+        "謙遜": [
+          "谦虚"
+        ],
+        "前向き": [
+          "正面积极"
+        ],
+        "ふつつか者": [
+          "不才、不周之人（谦称）"
+        ],
+        "愚妻": [
+          "拙荆"
+        ],
+        "発想": [
+          "思维"
+        ],
+        "抵抗": [
+          "抗拒感"
+        ],
+        "作法": [
+          "规矩"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "在日本送禮時，有句話叫「不成敬意」（つまらないものですが）。對外國人來說，大概是最難理解的說法之一。「如果不值錢，為什麼還要送？」",
+      "zh-Hans": "在日本送礼时，有句话叫「不成敬意」（つまらないものですが）。对外国人来说，大概是最难理解的说法之一。「如果不值钱，为什么还要送？」",
+      "en": "When giving a gift in Japan, there is a custom of saying 「つまらないものですが」, \"It is nothing special.\" This is probably one of the expressions hardest for foreigners to understand. \"If it's nothing special, why give it at all?\"",
+      "de": "When giving a gift in Japan, there is a custom of saying 「つまらないものですが」, \"It is nothing special.\" This is probably one of the expressions hardest for foreigners to understand. \"If it's nothing special, why give it at all?\""
+    },
+    {
+      "zh-Hant": "這句話說的並不是物品本身的價值。它是一種謙遜，意思是「對您這樣的了不起的人來說，這不過是微不足道的東西」，以此來抬高對方。不過，近來也有越來越多人偏好更正面的說法，例如「一點心意而已」「希望合您的口味」。",
+      "zh-Hans": "这句话说的并不是物品本身的价值。它是一种谦逊，意思是「对您这样的了不起的人来说，这不过是微不足道的东西」，以此来擡高对方。不过，近来也有越来越多人偏好更正面的说法，例如「一点心意而已」「希望合您的口味」。",
+      "en": "This phrase does not speak to the value of the item itself. It is humility meant to honor the other person, meaning \"This is a trifle for someone as distinguished as you.\" That said, more people these days prefer more positive phrasing, such as 「心ばかりのものですが」 (just a token of my heart) or 「お口に合うといいのですが」 (I hope it suits your taste).",
+      "de": "This phrase does not speak to the value of the item itself. It is humility meant to honor the other person, meaning \"This is a trifle for someone as distinguished as you.\" That said, more people these days prefer more positive phrasing, such as 「心ばかりのものですが」 (just a token of my heart) or 「お口に合うといいのですが」 (I hope it suits your taste)."
+    },
+    {
+      "zh-Hant": "在結婚問候時使用的「不成器的我（ふつつか者）」，以及過去把自己的妻子稱為「愚妻」的舊說法，也來自同樣的想法。不過，「愚妻」如今讓很多人感到不舒服，幾乎已經不再使用。謙遜的禮儀，也隨著時代慢慢改變了形式。",
+      "zh-Hans": "在结婚问候时使用的「不成器的我（ふつつか者）」，以及过去把自己的妻子称为「愚妻」的旧说法，也来自同样的想法。不过，「愚妻」如今让很多人感到不舒服，几乎已经不再使用。谦逊的礼仪，也随着时代慢慢改变了形式。",
+      "en": "The phrase 「ふつつか者ですが」, used in wedding greetings, and the old practice of calling one's wife 「愚妻」 come from the same idea. However, many people now find 「愚妻」 objectionable, and it is almost never used. Even the etiquette of humility gradually changes its form with the times.",
+      "de": "The phrase 「ふつつか者ですが」, used in wedding greetings, and the old practice of calling one's wife 「愚妻」 come from the same idea. However, many people now find 「愚妻」 objectionable, and it is almost never used. Even the etiquette of humility gradually changes its form with the times."
+    }
+  ]
+}

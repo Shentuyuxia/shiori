@@ -1,0 +1,146 @@
+{
+  "id": "w-sake",
+  "d": -1,
+  "lv": "n2",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "日本酒ができるまで",
+  "sub": "日本酒的誕生",
+  "body": "日本酒の原料は、驚くほどシンプルだ。米と水、そして[[麹|こうじ]]と[[酵母|こうぼ]]。それだけで、果物のような香りの酒が生まれる。\n\nまず、米の表面を削る。これを「[[精米|せいまい]]」と言う。表面には雑味のもとになる成分が多いため、削れば削るほど、すっきりした味になる。米を半分以下まで削った酒は「大吟醸」と呼ばれる。\n\nワインの原料であるぶどうには、もともと糖分がある。ところが米の主成分は[[でんぷん|でんぷん]]で、そのままでは酵母がアルコールに変えられない。そこで活躍するのが麹だ。麹菌というかびが、でんぷんを糖に変える。そして同じタンクの中で、酵母がその糖をアルコールに変えていく。糖化と発酵が同時に進むこの仕組みを「[[並行複発酵|へいこうふくはっこう]]」と言い、日本酒のアルコール度数が醸造酒としては高くなる理由でもある。\n\n昔から、酒造りは冬に行われてきた。気温が低いと雑菌が増えにくいからだ。蔵で職人たちを率いる責任者を「[[杜氏|とうじ]]」と言う。冬の朝、湯気の立つ蒸し米の向こうに、その年の酒の味が[[託されて|たくされて]]いる。",
+  "gloss": {
+    "麹": {
+      "m": "米麴"
+    },
+    "酵母": {
+      "m": "酵母"
+    },
+    "精米": {
+      "m": "碾米、精米（磨去米粒外層）"
+    },
+    "でんぷん": {
+      "m": "澱粉"
+    },
+    "並行複発酵": {
+      "m": "平行複式發酵",
+      "n": "糖化和酒精發酵在同一個桶裡同時進行。"
+    },
+    "杜氏": {
+      "m": "杜氏（釀酒總負責人）"
+    },
+    "託されて": {
+      "m": "被寄託（原形：託す）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "How sake is brewed",
+      "g": {
+        "麹": [
+          "koji (rice inoculated with mould)"
+        ],
+        "酵母": [
+          "yeast"
+        ],
+        "精米": [
+          "rice polishing"
+        ],
+        "でんぷん": [
+          "starch"
+        ],
+        "並行複発酵": [
+          "multiple parallel fermentation",
+          "Saccharification and alcoholic fermentation happen in the same tank at once."
+        ],
+        "杜氏": [
+          "tōji (master brewer)"
+        ],
+        "託されて": [
+          "entrusted (dict. form: 託す)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Wie Sake entsteht",
+      "g": {
+        "麹": [
+          "Koji (mit Schimmelpilz geimpfter Reis)"
+        ],
+        "酵母": [
+          "Hefe"
+        ],
+        "精米": [
+          "Reispolieren"
+        ],
+        "でんぷん": [
+          "Stärke"
+        ],
+        "並行複発酵": [
+          "parallele Mehrfachgärung",
+          "Verzuckerung und alkoholische Gärung laufen gleichzeitig im selben Tank."
+        ],
+        "杜氏": [
+          "Tōji (Braumeister)"
+        ],
+        "託されて": [
+          "anvertraut (Grundform: 託す)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "日本酒的诞生",
+      "g": {
+        "麹": [
+          "米曲"
+        ],
+        "酵母": [
+          "酵母"
+        ],
+        "精米": [
+          "碾米、精米（磨去米粒外层）"
+        ],
+        "でんぷん": [
+          "淀粉"
+        ],
+        "並行複発酵": [
+          "平行复式发酵",
+          "糖化和酒精发酵在同一个桶里同时进行。"
+        ],
+        "杜氏": [
+          "杜氏（酿酒总负责人）"
+        ],
+        "託されて": [
+          "被寄托（原形：托す）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本酒的原料簡單得令人驚訝：米和水，再加上麴和酵母。光靠這些，就能釀出帶著水果香氣的酒。",
+      "zh-Hans": "日本酒的原料简单得令人惊讶：米和水，再加上曲和酵母。光靠这些，就能酿出带着水果香气的酒。",
+      "en": "The ingredients of sake are surprisingly simple: rice and water, plus koji and yeast. That alone produces a drink with a fruity aroma.",
+      "de": "Die Zutaten von Sake sind erstaunlich schlicht: Reis und Wasser, dazu Koji und Hefe. Mehr braucht es nicht für ein Getränk mit fruchtigem Duft."
+    },
+    {
+      "zh-Hant": "首先要磨掉米粒的外層，這叫「精米」。外層含有很多會帶來雜味的成分，所以磨得越多，味道就越清爽。把米磨到剩一半以下所釀的酒，稱為「大吟釀」。",
+      "zh-Hans": "首先要磨掉米粒的外层，这叫「精米」。外层含有很多会带来杂味的成分，所以磨得越多，味道就越清爽。把米磨到剩一半以下所酿的酒，称为「大吟酿」。",
+      "en": "First, the outer layer of the rice is ground away. This is called polishing. The outer layer contains a lot of what causes off-flavours, so the more you polish, the cleaner the taste. Sake made from rice polished to half its size or less is called daiginjō.",
+      "de": "Zuerst wird die äußere Schicht des Reiskorns abgeschliffen – das „Polieren“. Außen sitzen viele Stoffe, die Fehlaromen verursachen; je mehr man abschleift, desto klarer der Geschmack. Sake aus Reis, der auf die Hälfte oder weniger poliert wurde, heißt Daiginjō."
+    },
+    {
+      "zh-Hant": "葡萄酒的原料葡萄本身就含有糖分，但米的主要成分是澱粉，酵母沒辦法直接把它變成酒精。這時就輪到麴登場了：麴菌這種黴菌會把澱粉轉化成糖，同時，在同一個酒槽裡，酵母再把糖變成酒精。糖化和發酵同時進行的這種機制叫「平行複式發酵」，這也是日本酒在釀造酒中酒精度數偏高的原因。",
+      "zh-Hans": "葡萄酒的原料葡萄本身就含有糖分，但米的主要成分是淀粉，酵母没办法直接把它变成酒精。这时就轮到曲登场了：曲菌这种霉菌会把淀粉转化成糖，同时，在同一个酒槽里，酵母再把糖变成酒精。糖化和发酵同时进行的这种机制叫「平行复式发酵」，这也是日本酒在酿造酒中酒精度数偏高的原因。",
+      "en": "Grapes, the raw material of wine, already contain sugar. Rice, however, is mainly starch, which yeast cannot turn into alcohol directly. That is where koji comes in: the koji mould converts starch into sugar, and in the same tank the yeast turns that sugar into alcohol. This simultaneous saccharification and fermentation is called multiple parallel fermentation, and it is why sake has a relatively high alcohol content for a brewed drink.",
+      "de": "Trauben, der Rohstoff für Wein, enthalten von Natur aus Zucker. Reis besteht dagegen vor allem aus Stärke, die Hefe nicht direkt in Alkohol umwandeln kann. Hier kommt Koji ins Spiel: Der Koji-Pilz wandelt Stärke in Zucker um, und im selben Tank macht die Hefe daraus Alkohol. Dieses gleichzeitige Verzuckern und Vergären nennt man parallele Mehrfachgärung – deshalb hat Sake für ein gebrautes Getränk relativ viel Alkohol."
+    },
+    {
+      "zh-Hant": "自古以來，釀酒都在冬天進行，因為氣溫低時雜菌不容易繁殖。在酒藏裡帶領工匠們的總負責人叫「杜氏」。冬天的早晨，在冒著熱氣的蒸米後方，寄託著這一年酒的味道。",
+      "zh-Hans": "自古以来，酿酒都在冬天进行，因为气温低时杂菌不容易繁殖。在酒藏里带领工匠们的总负责人叫「杜氏」。冬天的早晨，在冒着热气的蒸米后方，寄托着这一年酒的味道。",
+      "en": "Brewing has traditionally been done in winter, because unwanted bacteria multiply less when it's cold. The person who leads the craftsmen in the brewery is called the tōji. On a winter morning, behind the steaming rice, that year's flavour is placed in their hands.",
+      "de": "Traditionell wird im Winter gebraut, weil sich unerwünschte Keime bei Kälte kaum vermehren. Wer in der Brauerei die Handwerker anleitet, heißt Tōji. An einem Wintermorgen, hinter dem dampfenden Reis, liegt der Geschmack des ganzen Jahrgangs in seinen Händen."
+    }
+  ]
+}

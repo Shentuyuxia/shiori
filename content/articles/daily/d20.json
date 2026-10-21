@@ -1,0 +1,140 @@
+{
+  "id": "d20",
+  "d": 20,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "文學原文",
+    "ja": "文学（原文）"
+  },
+  "title": "走れメロス（冒頭）",
+  "sub": "太宰治《奔跑吧！美樂斯》開頭（1940）",
+  "src": "青空文庫（太宰治『走れメロス』）",
+  "body": "メロスは[[激怒|げきど]]した。必ず、かの[[邪智暴虐|じゃちぼうぎゃく]]の王を[[除かなければならぬ|のぞかなければならぬ]]と決意した。メロスには政治がわからぬ。メロスは、村の[[牧人|ぼくじん]]である。笛を吹き、羊と遊んで[[暮して来た|くらしてきた]]。けれども[[邪悪|じゃあく]]に対しては、[[人一倍|ひといちばい]]に[[敏感|びんかん]]であった。",
+  "gloss": {
+    "激怒": {
+      "m": "震怒"
+    },
+    "邪智暴虐": {
+      "m": "奸詐殘暴"
+    },
+    "除かなければならぬ": {
+      "m": "非除掉不可",
+      "n": "「ぬ」＝ない（文語否定）。"
+    },
+    "牧人": {
+      "m": "牧羊人"
+    },
+    "暮して来た": {
+      "m": "一路過著（日子）"
+    },
+    "邪悪": {
+      "m": "邪惡"
+    },
+    "人一倍": {
+      "m": "比別人加倍"
+    },
+    "敏感": {
+      "m": "敏感"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Run, Melos! (opening)",
+      "g": {
+        "激怒": [
+          "fury"
+        ],
+        "邪智暴虐": [
+          "cunning and tyrannical"
+        ],
+        "除かなければならぬ": [
+          "must be removed",
+          "「ぬ」 = ない (literary negative)."
+        ],
+        "牧人": [
+          "shepherd"
+        ],
+        "暮して来た": [
+          "has lived (his life)"
+        ],
+        "邪悪": [
+          "evil"
+        ],
+        "人一倍": [
+          "more than others"
+        ],
+        "敏感": [
+          "sensitive"
+        ]
+      }
+    },
+    "de": {
+      "s": "Lauf, Melos! (Anfang)",
+      "g": {
+        "激怒": [
+          "Zorn, Wut"
+        ],
+        "邪智暴虐": [
+          "verschlagen und tyrannisch"
+        ],
+        "除かなければならぬ": [
+          "muss beseitigt werden",
+          "„ぬ“ = ない (literarische Verneinung)."
+        ],
+        "牧人": [
+          "Hirte"
+        ],
+        "暮して来た": [
+          "hat (sein Leben) gelebt"
+        ],
+        "邪悪": [
+          "böse"
+        ],
+        "人一倍": [
+          "mehr als andere"
+        ],
+        "敏感": [
+          "empfindlich"
+        ]
+      }
+    },
+    "hans": {
+      "s": "太宰治《奔跑吧！美乐斯》开头（1940）",
+      "g": {
+        "激怒": [
+          "震怒"
+        ],
+        "邪智暴虐": [
+          "奸诈残暴"
+        ],
+        "除かなければならぬ": [
+          "非除掉不可",
+          "「ぬ」＝ない（文语否定）。"
+        ],
+        "牧人": [
+          "牧羊人"
+        ],
+        "暮して来た": [
+          "一路过着（日子）"
+        ],
+        "邪悪": [
+          "邪恶"
+        ],
+        "人一倍": [
+          "比别人加倍"
+        ],
+        "敏感": [
+          "敏感"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "梅洛斯勃然大怒。他下定決心，一定要除掉那殘暴奸詐的國王。梅洛斯不懂政治。梅洛斯是村裡的牧人，吹著笛子，與羊群玩耍，過著日子。然而，對於邪惡，他比任何人都敏銳。",
+      "zh-Hans": "梅洛斯勃然大怒。他下定决心，一定要除掉那残暴奸诈的国王。梅洛斯不懂政治。梅洛斯是村里的牧人，吹着笛子，与羊群玩耍，过着日子。然而，对于邪恶，他比任何人都敏锐。",
+      "en": "Melos was furious. He resolved that he must surely rid the land of that wicked, cruel king. Melos did not understand politics. Melos was a village shepherd who lived by playing his flute and tending his sheep. Yet when it came to evil, he was more sensitive than anyone.",
+      "de": "Melos was furious. He resolved that he must surely rid the land of that wicked, cruel king. Melos did not understand politics. Melos was a village shepherd who lived by playing his flute and tending his sheep. Yet when it came to evil, he was more sensitive than anyone."
+    }
+  ]
+}

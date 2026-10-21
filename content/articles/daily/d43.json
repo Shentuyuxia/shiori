@@ -1,0 +1,195 @@
+{
+  "id": "d43",
+  "d": 43,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "隨筆",
+    "ja": "随筆"
+  },
+  "title": "師走",
+  "sub": "十二月叫「師走」",
+  "body": "十二月の[[異名|いみょう]]は「師走」。普段は落ち着いている先生（師）でさえ、[[走り回る|はしりまわる]]ほど忙しい月だから、と説明されることが多い。ここでの「師」は、もともと[[お経|おきょう]]を読むために家々を回る[[僧侶|そうりょ]]のことだったという説もある。\n\n[[もっとも|もっとも]]、これは後から作られた「[[語呂合わせ|ごろあわせ]]」で、本当の[[語源|ごげん]]ははっきりしない。年が[[果てる|はてる]]「年果つ（としはつ）」が変化したという説など、いくつもの説が[[並立|へいりつ]]している。\n\n[[由来|ゆらい]]がどうであれ、十二月が慌ただしいのは確かだ。[[忘年会|ぼうねんかい]]、大掃除、年賀状、仕事の締め切り。手帳はすぐに予定で埋まっていく。せめて一日のうち数分くらいは、[[走らず|はしらず]]に、ゆっくり本を開く時間を持ちたいものだ。",
+  "gloss": {
+    "異名": {
+      "m": "別稱"
+    },
+    "走り回る": {
+      "m": "到處奔走"
+    },
+    "お経": {
+      "m": "佛經"
+    },
+    "僧侶": {
+      "m": "僧侶"
+    },
+    "もっとも": {
+      "m": "不過、話雖如此"
+    },
+    "語呂合わせ": {
+      "m": "諧音附會"
+    },
+    "語源": {
+      "m": "語源"
+    },
+    "果てる": {
+      "m": "終了、到盡頭"
+    },
+    "並立": {
+      "m": "並存"
+    },
+    "由来": {
+      "m": "由來"
+    },
+    "忘年会": {
+      "m": "尾牙、年終聚會"
+    },
+    "走らず": {
+      "m": "不奔走"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Shiwasu: the December rush",
+      "g": {
+        "異名": [
+          "alternative name"
+        ],
+        "走り回る": [
+          "to run around"
+        ],
+        "お経": [
+          "sutra"
+        ],
+        "僧侶": [
+          "Buddhist priest"
+        ],
+        "もっとも": [
+          "that said, however"
+        ],
+        "語呂合わせ": [
+          "folk etymology based on sound"
+        ],
+        "語源": [
+          "etymology"
+        ],
+        "果てる": [
+          "to come to an end"
+        ],
+        "並立": [
+          "coexisting"
+        ],
+        "由来": [
+          "origin"
+        ],
+        "忘年会": [
+          "year-end party"
+        ],
+        "走らず": [
+          "without running"
+        ]
+      }
+    },
+    "de": {
+      "s": "Shiwasu: der Dezember-Trubel",
+      "g": {
+        "異名": [
+          "Beiname"
+        ],
+        "走り回る": [
+          "herumrennen"
+        ],
+        "お経": [
+          "Sutra"
+        ],
+        "僧侶": [
+          "buddhistischer Mönch"
+        ],
+        "もっとも": [
+          "allerdings"
+        ],
+        "語呂合わせ": [
+          "Volksetymologie nach Klang"
+        ],
+        "語源": [
+          "Wortherkunft"
+        ],
+        "果てる": [
+          "zu Ende gehen"
+        ],
+        "並立": [
+          "nebeneinander bestehen"
+        ],
+        "由来": [
+          "Herkunft"
+        ],
+        "忘年会": [
+          "Jahresabschlussfeier"
+        ],
+        "走らず": [
+          "ohne zu rennen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "十二月叫「师走」",
+      "g": {
+        "異名": [
+          "别称"
+        ],
+        "走り回る": [
+          "到处奔走"
+        ],
+        "お経": [
+          "佛经"
+        ],
+        "僧侶": [
+          "僧侣"
+        ],
+        "もっとも": [
+          "不过、话虽如此"
+        ],
+        "語呂合わせ": [
+          "谐音附会"
+        ],
+        "語源": [
+          "语源"
+        ],
+        "果てる": [
+          "终了、到尽头"
+        ],
+        "並立": [
+          "并存"
+        ],
+        "由来": [
+          "由来"
+        ],
+        "忘年会": [
+          "尾牙、年终聚会"
+        ],
+        "走らず": [
+          "不奔走"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "十二月的別稱是「師走」。通常的解釋是，連平時沉穩的老師（師）也要忙得東奔西跑的月份。也有一種說法，認為這裡的「師」原本是指為了誦經而巡迴各家的僧侶。",
+      "zh-Hans": "十二月的别称是「师走」。通常的解释是，连平时沉稳的老师（师）也要忙得东奔西跑的月份。也有一种说法，认为这里的「师」原本是指为了诵经而巡回各家的僧侣。",
+      "en": "The alternative name for December is 「師走」, shiwasu. It is often explained as the month when even teachers (師), who are usually calm, must run about busily. There is also a theory that 「師」 here originally referred to monks who visited households to chant sutras.",
+      "de": "The alternative name for December is 「師走」, shiwasu. It is often explained as the month when even teachers (師), who are usually calm, must run about busily. There is also a theory that 「師」 here originally referred to monks who visited households to chant sutras."
+    },
+    {
+      "zh-Hant": "不過，這其實是後來做出來的「諧音附會」，真正的語源並不清楚。也有好幾種說法並存，例如「年果つ（としはつ）」（一年將盡）演變而來的說法。",
+      "zh-Hans": "不过，这其实是后来做出来的「谐音附会」，真正的语源并不清楚。也有好几种说法并存，例如「年果つ（としはつ）」（一年将尽）演变而来的说法。",
+      "en": "However, this is a folk etymology created later, and the true origin is unclear. Several theories coexist, including one that it evolved from 「年果つ（としはつ）」, meaning \"the year comes to an end.\"",
+      "de": "However, this is a folk etymology created later, and the true origin is unclear. Several theories coexist, including one that it evolved from 「年果つ（としはつ）」, meaning \"the year comes to an end.\""
+    },
+    {
+      "zh-Hant": "不管由來如何，十二月確實很忙碌。尾牙、大掃除、賀年卡、工作的截止日期。記事本很快就會被行程填滿。至少在一天之中，希望能有幾分鐘，不必奔跑，慢慢地翻開一本書。",
+      "zh-Hans": "不管由来如何，十二月确实很忙碌。尾牙、大扫除、贺年卡、工作的截止日期。记事本很快就会被行程填满。至少在一天之中，希望能有几分钟，不必奔跑，慢慢地翻开一本书。",
+      "en": "Whatever its origin, December is certainly a busy month: year-end parties, the big housecleaning, New Year's cards, work deadlines. Your planner fills up quickly. At the very least, I hope you can find a few minutes each day to slowly open a book without rushing.",
+      "de": "Whatever its origin, December is certainly a busy month: year-end parties, the big housecleaning, New Year's cards, work deadlines. Your planner fills up quickly. At the very least, I hope you can find a few minutes each day to slowly open a book without rushing."
+    }
+  ]
+}

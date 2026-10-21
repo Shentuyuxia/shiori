@@ -1,0 +1,199 @@
+{
+  "id": "d75",
+  "d": 75,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "書き初めと初夢",
+  "sub": "新春試筆與新年初夢",
+  "body": "一月二日は、年が明けて初めて何かをする「[[初|はつ]]」の日とされてきた。その代表が「書き初め」だ。[[毛筆|もうひつ]]で、新年の[[抱負|ほうふ]]やめでたい言葉を書く。小学校の冬休みの宿題としても[[おなじみ|おなじみ]]である。\n\nもう一つは「初夢」。一般には、一月一日の夜から二日の朝にかけて見る夢のことを言う。縁起のよい初夢として、「一[[富士|ふじ]]、二[[鷹|たか]]、三[[茄子|なすび]]」が知られている。なぜこの三つなのか、理由には諸説ある。[[徳川家康|とくがわいえやす]]のゆかりの地、[[駿河|するが]]の名物だった、という説が有名だ。\n\n[[よい夢|よいゆめ]]を見るために、[[宝船|たからぶね]]の絵を[[枕の下|まくらのした]]に入れて寝る、という風習もあった。今夜、何の夢を見るだろうか。",
+  "gloss": {
+    "初": {
+      "m": "初次"
+    },
+    "毛筆": {
+      "m": "毛筆"
+    },
+    "抱負": {
+      "m": "抱負、新年目標"
+    },
+    "おなじみ": {
+      "m": "熟悉的、常見的"
+    },
+    "富士": {
+      "m": "富士山"
+    },
+    "鷹": {
+      "m": "老鷹"
+    },
+    "茄子": {
+      "m": "茄子",
+      "n": "此處讀「なすび」，也可讀「なす」。"
+    },
+    "徳川家康": {
+      "m": "德川家康"
+    },
+    "駿河": {
+      "m": "駿河（今靜岡縣中部）"
+    },
+    "よい夢": {
+      "m": "好夢"
+    },
+    "宝船": {
+      "m": "寶船（載七福神的船）"
+    },
+    "枕の下": {
+      "m": "枕頭底下"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "First calligraphy and first dream",
+      "g": {
+        "初": [
+          "first (of the year)"
+        ],
+        "毛筆": [
+          "brush (for writing)"
+        ],
+        "抱負": [
+          "aspiration, resolution"
+        ],
+        "おなじみ": [
+          "familiar"
+        ],
+        "富士": [
+          "Mount Fuji"
+        ],
+        "鷹": [
+          "hawk"
+        ],
+        "茄子": [
+          "eggplant",
+          "Read なすび here; also なす."
+        ],
+        "徳川家康": [
+          "Tokugawa Ieyasu"
+        ],
+        "駿河": [
+          "Suruga (today central Shizuoka)"
+        ],
+        "よい夢": [
+          "good dream"
+        ],
+        "宝船": [
+          "treasure ship (carrying the Seven Lucky Gods)"
+        ],
+        "枕の下": [
+          "under the pillow"
+        ]
+      }
+    },
+    "de": {
+      "s": "Erste Kalligrafie und erster Traum",
+      "g": {
+        "初": [
+          "erstes (des Jahres)"
+        ],
+        "毛筆": [
+          "Schreibpinsel"
+        ],
+        "抱負": [
+          "Vorsatz"
+        ],
+        "おなじみ": [
+          "altbekannt"
+        ],
+        "富士": [
+          "Fuji"
+        ],
+        "鷹": [
+          "Falke"
+        ],
+        "茄子": [
+          "Aubergine",
+          "Hier なすび gelesen, auch なす."
+        ],
+        "徳川家康": [
+          "Tokugawa Ieyasu"
+        ],
+        "駿河": [
+          "Suruga (heute Mitte der Präfektur Shizuoka)"
+        ],
+        "よい夢": [
+          "schöner Traum"
+        ],
+        "宝船": [
+          "Schatzschiff (mit den Sieben Glücksgöttern)"
+        ],
+        "枕の下": [
+          "unter dem Kopfkissen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "新春试笔与新年初梦",
+      "g": {
+        "初": [
+          "初次"
+        ],
+        "毛筆": [
+          "毛笔"
+        ],
+        "抱負": [
+          "抱负、新年目标"
+        ],
+        "おなじみ": [
+          "熟悉的、常见的"
+        ],
+        "富士": [
+          "富士山"
+        ],
+        "鷹": [
+          "老鹰"
+        ],
+        "茄子": [
+          "茄子",
+          "此处读「なすび」，也可读「なす」。"
+        ],
+        "徳川家康": [
+          "德川家康"
+        ],
+        "駿河": [
+          "骏河（今静冈县中部）"
+        ],
+        "よい夢": [
+          "好梦"
+        ],
+        "宝船": [
+          "宝船（载七福神的船）"
+        ],
+        "枕の下": [
+          "枕头底下"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "一月二日，自古以來被視為「初」日，也就是新年後第一次做某件事的日子。其中最具代表性的是「書初め」。用毛筆寫下新年的抱負或吉祥話。也是小學寒假作業的常客。",
+      "zh-Hans": "一月二日，自古以来被视为「初」日，也就是新年后第一次做某件事的日子。其中最具代表性的是「书初め」。用毛笔写下新年的抱负或吉祥话。也是小学寒假作业的常客。",
+      "en": "January 2nd has long been considered a \"hatsu\" day, the first day of doing something in the new year. The most representative example is 「書き初め」, the first calligraphy of the year. People write their resolutions or auspicious words with a brush. It is also a familiar winter-break assignment for elementary school students.",
+      "de": "January 2nd has long been considered a \"hatsu\" day, the first day of doing something in the new year. The most representative example is 「書き初め」, the first calligraphy of the year. People write their resolutions or auspicious words with a brush. It is also a familiar winter-break assignment for elementary school students."
+    },
+    {
+      "zh-Hant": "另一個是「初夢」，一般指從一月一日夜裡到二日早晨所做的夢。作為吉祥的初夢，人們熟知的是「一富士、二鷹、三茄子」。至於為什麼是這三樣，眾說紛紜。最有名的說法是，這些都是駿河的名產，而駿河與德川家康有淵源。",
+      "zh-Hans": "另一个是「初梦」，一般指从一月一日夜里到二日早晨所做的梦。作为吉祥的初梦，人们熟知的是「一富士、二鹰、三茄子」。至于为什么是这三样，众说纷纭。最有名的说法是，这些都是骏河的名产，而骏河与德川家康有渊源。",
+      "en": "Another is 「初夢」, the first dream of the year, generally the dream dreamt from the night of January 1st into the morning of January 2nd. The well-known lucky first dreams are 「一富士、二鷹、三茄子」: Mt. Fuji, a hawk, and an eggplant. There are many theories about why these three. The most famous holds that they were specialties of Suruga, a place linked to Tokugawa Ieyasu.",
+      "de": "Another is 「初夢」, the first dream of the year, generally the dream dreamt from the night of January 1st into the morning of January 2nd. The well-known lucky first dreams are 「一富士、二鷹、三茄子」: Mt. Fuji, a hawk, and an eggplant. There are many theories about why these three. The most famous holds that they were specialties of Suruga, a place linked to Tokugawa Ieyasu."
+    },
+    {
+      "zh-Hant": "為了做好夢，還有把寶船圖畫放在枕頭下睡覺的習俗。今晚，會夢見什麼呢？",
+      "zh-Hans": "为了做好梦，还有把宝船图画放在枕头下睡觉的习俗。今晚，会梦见什么呢？",
+      "en": "To have a good dream, there was also a custom of placing a picture of the treasure ship under your pillow when you sleep. What dream will you have tonight?",
+      "de": "To have a good dream, there was also a custom of placing a picture of the treasure ship under your pillow when you sleep. What dream will you have tonight?"
+    }
+  ]
+}

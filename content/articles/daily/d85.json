@@ -1,0 +1,147 @@
+{
+  "id": "d85",
+  "d": 85,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "語言雜談",
+    "ja": "ことば雑記"
+  },
+  "title": "「てくれる」の恩",
+  "sub": "授受表現與「恩」",
+  "body": "日本語で「友達が手伝った」と言うと、どこか[[素っ気なく|そっけなく]]聞こえる。普通は「友達が手伝ってくれた」と言う。この「てくれる」は、相手の行為が自分にとってありがたいものだったことを表す。\n\n同じ出来事を、[[視点|してん]]を変えて「友達に手伝ってもらった」と言うこともできる。こちらは、自分が[[頼んだ|たのんだ]]ニュアンスが出やすい。そして、自分が他人のために何かをするときの「てあげる」は、目上の人に使うと[[恩着せがましく|おんきせがましく]]聞こえるので注意が必要だ。「先生に[[傘|かさ]]を貸してあげた」より、「先生に傘をお貸しした」のほうが[[自然|しぜん]]である。\n\n中国語の「幫我」に近いようで、日本語の[[授受表現|じゅじゅひょうげん]]は、誰が誰に恩を与えたのかを、文法の中で常に[[意識|いしき]]させる。日本語の会話が丁寧に聞こえる理由の一つは、ここにあるのかもしれない。",
+  "gloss": {
+    "素っ気なく": {
+      "m": "冷淡、乾巴巴"
+    },
+    "視点": {
+      "m": "視角"
+    },
+    "頼んだ": {
+      "m": "拜託了"
+    },
+    "恩着せがましく": {
+      "m": "施恩於人似的"
+    },
+    "傘": {
+      "m": "傘"
+    },
+    "自然": {
+      "m": "自然"
+    },
+    "授受表現": {
+      "m": "授受表現（あげる・くれる・もらう）"
+    },
+    "意識": {
+      "m": "意識到"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The favour hidden in てくれる",
+      "g": {
+        "素っ気なく": [
+          "curtly"
+        ],
+        "視点": [
+          "point of view"
+        ],
+        "頼んだ": [
+          "asked (a favour)"
+        ],
+        "恩着せがましく": [
+          "as if doing a big favour"
+        ],
+        "傘": [
+          "umbrella"
+        ],
+        "自然": [
+          "natural"
+        ],
+        "授受表現": [
+          "giving/receiving expressions (あげる・くれる・もらう)"
+        ],
+        "意識": [
+          "awareness"
+        ]
+      }
+    },
+    "de": {
+      "s": "Die Gefälligkeit in てくれる",
+      "g": {
+        "素っ気なく": [
+          "kurz angebunden"
+        ],
+        "視点": [
+          "Blickwinkel"
+        ],
+        "頼んだ": [
+          "gebeten"
+        ],
+        "恩着せがましく": [
+          "gönnerhaft"
+        ],
+        "傘": [
+          "Regenschirm"
+        ],
+        "自然": [
+          "natürlich"
+        ],
+        "授受表現": [
+          "Geben-und-Nehmen-Ausdrücke (あげる・くれる・もらう)"
+        ],
+        "意識": [
+          "Bewusstsein"
+        ]
+      }
+    },
+    "hans": {
+      "s": "授受表现与「恩」",
+      "g": {
+        "素っ気なく": [
+          "冷淡、干巴巴"
+        ],
+        "視点": [
+          "视角"
+        ],
+        "頼んだ": [
+          "拜托了"
+        ],
+        "恩着せがましく": [
+          "施恩于人似的"
+        ],
+        "傘": [
+          "伞"
+        ],
+        "自然": [
+          "自然"
+        ],
+        "授受表現": [
+          "授受表现（あげる・くれる・もらう）"
+        ],
+        "意識": [
+          "意识到"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "在日語中，如果說「朋友幫忙了」，聽起來有點冷淡。通常會說「朋友幫我了」（てくれた）。這個「てくれる」，表示對方的行為對自己而言是值得感謝的。",
+      "zh-Hans": "在日语中，如果说「朋友帮忙了」，听起来有点冷淡。通常会说「朋友帮我了」（てくれた）。这个「てくれる」，表示对方的行为对自己而言是值得感谢的。",
+      "en": "In Japanese, saying 「友達が手伝った」 sounds somewhat cold. Usually one says 「友達が手伝ってくれた」. This 「てくれる」 expresses that the other person's action was something to be grateful for.",
+      "de": "In Japanese, saying 「友達が手伝った」 sounds somewhat cold. Usually one says 「友達が手伝ってくれた」. This 「てくれる」 expresses that the other person's action was something to be grateful for."
+    },
+    {
+      "zh-Hant": "同一件事，換個角度也可以說「請朋友幫了我的忙」（てもらった）。這種說法比較容易帶出是自己請託的語感。而當自己為別人做某件事時使用的「てあげる」，對長輩使用會聽起來有施恩的意味，需要注意。「先生に傘を貸してあげた」，不如說「先生に傘をお貸しした」來得自然。",
+      "zh-Hans": "同一件事，换个角度也可以说「请朋友帮了我的忙」（てもらった）。这种说法比较容易带出是自己请托的语感。而当自己为别人做某件事时使用的「てあげる」，对长辈使用会听起来有施恩的意味，需要注意。「先生に伞を贷してあげた」，不如说「先生に伞をお贷しした」来得自然。",
+      "en": "The same event can also be described as 「友達に手伝ってもらった」, which tends to convey that you asked for help. Also, 「てあげる」, used when you do something for someone else, can sound condescending when used toward a superior, so be careful. 「先生に傘を貸してあげた」 sounds less natural than 「先生に傘をお貸しした」.",
+      "de": "The same event can also be described as 「友達に手伝ってもらった」, which tends to convey that you asked for help. Also, 「てあげる」, used when you do something for someone else, can sound condescending when used toward a superior, so be careful. 「先生に傘を貸してあげた」 sounds less natural than 「先生に傘をお貸しした」."
+    },
+    {
+      "zh-Hant": "雖然有點像中文的「幫我」，但日語的授受表達，會讓人在語法中時時意識到誰給了誰恩惠。日語會話聽起來特別禮貌，或許其中一個原因就在這裡。",
+      "zh-Hans": "虽然有点像中文的「帮我」，但日语的授受表达，会让人在语法中时时意识到谁给了谁恩惠。日语会话听起来特别礼貌，或许其中一个原因就在这里。",
+      "en": "It may be somewhat similar to the Chinese 幫我, but Japanese giving-and-receiving expressions constantly make you aware, within the grammar, of who has done a favor for whom. Perhaps this is one reason Japanese conversation sounds so polite.",
+      "de": "It may be somewhat similar to the Chinese 幫我, but Japanese giving-and-receiving expressions constantly make you aware, within the grammar, of who has done a favor for whom. Perhaps this is one reason Japanese conversation sounds so polite."
+    }
+  ]
+}

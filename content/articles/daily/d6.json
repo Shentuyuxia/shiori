@@ -1,0 +1,207 @@
+{
+  "id": "d6",
+  "d": 6,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "專欄",
+    "ja": "コラム"
+  },
+  "title": "「とりあえずビール」",
+  "sub": "「先來杯啤酒」",
+  "body": "居酒屋で全員がそろうと、誰かが「とりあえずビールで」と言う。メニューを[[開く|ひらく]]前に、最初の一杯が[[決まって|きまって]]しまう。この[[お決まり|おきまり]]の一言には、日本の[[集団|しゅうだん]]文化がよく表れている。\n\nまず、全員で同じものを頼めば、注文がすぐに[[済む|すむ]]。[[乾杯|かんぱい]]も早くできる。何より、最初の一杯で個人の好みを[[主張|しゅちょう]]しない、という[[暗黙|あんもく]]の[[配慮|はいりょ]]がある。\n\nただ、最近はこの[[慣習|かんしゅう]]も変わりつつある。お酒を飲まない人、最初から[[ハイボール|ハイボール]]を頼む人も増え、「とりあえず」に[[縛られない|しばられない]]空気が広がっている。良くも悪くも、乾杯の[[風景|ふうけい]]は少しずつ多様になっているようだ。",
+  "gloss": {
+    "開く": {
+      "m": "打開"
+    },
+    "決まって": {
+      "m": "就這樣決定了"
+    },
+    "お決まり": {
+      "m": "老套、慣例的"
+    },
+    "集団": {
+      "m": "集體、團體"
+    },
+    "済む": {
+      "m": "完成、了事"
+    },
+    "乾杯": {
+      "m": "乾杯"
+    },
+    "主張": {
+      "m": "主張、堅持"
+    },
+    "暗黙": {
+      "m": "默然、不言明"
+    },
+    "配慮": {
+      "m": "顧慮、體貼"
+    },
+    "慣習": {
+      "m": "慣例、習俗"
+    },
+    "ハイボール": {
+      "m": "威士忌蘇打（Highball）"
+    },
+    "縛られない": {
+      "m": "不受束縛"
+    },
+    "風景": {
+      "m": "風景、光景"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "\"Beer for now\"",
+      "g": {
+        "開く": [
+          "to open"
+        ],
+        "決まって": [
+          "always, invariably"
+        ],
+        "お決まり": [
+          "the usual, standard"
+        ],
+        "集団": [
+          "group"
+        ],
+        "済む": [
+          "to be settled, finished"
+        ],
+        "乾杯": [
+          "cheers, toast"
+        ],
+        "主張": [
+          "assertion, insisting"
+        ],
+        "暗黙": [
+          "unspoken, tacit"
+        ],
+        "配慮": [
+          "consideration"
+        ],
+        "慣習": [
+          "custom, convention"
+        ],
+        "ハイボール": [
+          "highball (whisky & soda)"
+        ],
+        "縛られない": [
+          "not tied down"
+        ],
+        "風景": [
+          "scenery, scene"
+        ]
+      }
+    },
+    "de": {
+      "s": "„Erstmal Bier“",
+      "g": {
+        "開く": [
+          "öffnen"
+        ],
+        "決まって": [
+          "stets, unweigerlich"
+        ],
+        "お決まり": [
+          "das Übliche"
+        ],
+        "集団": [
+          "Gruppe"
+        ],
+        "済む": [
+          "erledigt sein"
+        ],
+        "乾杯": [
+          "Prost, Anstoßen"
+        ],
+        "主張": [
+          "Behauptung, Beharren"
+        ],
+        "暗黙": [
+          "unausgesprochen"
+        ],
+        "配慮": [
+          "Rücksicht"
+        ],
+        "慣習": [
+          "Brauch, Gepflogenheit"
+        ],
+        "ハイボール": [
+          "Highball (Whisky-Soda)"
+        ],
+        "縛られない": [
+          "nicht gebunden"
+        ],
+        "風景": [
+          "Landschaft, Szene"
+        ]
+      }
+    },
+    "hans": {
+      "s": "「先来杯啤酒」",
+      "g": {
+        "開く": [
+          "打开"
+        ],
+        "決まって": [
+          "就这样决定了"
+        ],
+        "お決まり": [
+          "老套、惯例的"
+        ],
+        "集団": [
+          "集体、团体"
+        ],
+        "済む": [
+          "完成、了事"
+        ],
+        "乾杯": [
+          "干杯"
+        ],
+        "主張": [
+          "主张、坚持"
+        ],
+        "暗黙": [
+          "默然、不言明"
+        ],
+        "配慮": [
+          "顾虑、体贴"
+        ],
+        "慣習": [
+          "惯例、习俗"
+        ],
+        "ハイボール": [
+          "威士忌苏打（Highball）"
+        ],
+        "縛られない": [
+          "不受束缚"
+        ],
+        "風景": [
+          "风景、光景"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "居酒屋裡人一到齊，就有人說「先來杯啤酒吧」。還沒打開菜單，第一杯酒就定下來了。這句成了慣例的開場白，很能體現日本的集體文化。",
+      "zh-Hans": "居酒屋里人一到齐，就有人说「先来杯啤酒吧」。还没打开菜单，第一杯酒就定下来了。这句成了惯例的开场白，很能体现日本的集体文化。",
+      "en": "When everyone has gathered at an izakaya, someone says, \"Let's start with beer.\" Before anyone opens the menu, the first drink is already decided. This set phrase reflects Japan's group culture well.",
+      "de": "When everyone has gathered at an izakaya, someone says, \"Let's start with beer.\" Before anyone opens the menu, the first drink is already decided. This set phrase reflects Japan's group culture well."
+    },
+    {
+      "zh-Hant": "首先，大家點一樣的東西，點餐就能很快完成，乾杯也能早點開始。更重要的是，第一杯不去強調個人的喜好，這裡面有一種不言而喻的體貼。",
+      "zh-Hans": "首先，大家点一样的东西，点餐就能很快完成，干杯也能早点开始。更重要的是，第一杯不去强调个人的喜好，这里面有一种不言而喻的体贴。",
+      "en": "First, if everyone orders the same thing, ordering is quick and the toast can begin sooner. More importantly, not insisting on personal preference with the first drink reflects an unspoken consideration.",
+      "de": "First, if everyone orders the same thing, ordering is quick and the toast can begin sooner. More importantly, not insisting on personal preference with the first drink reflects an unspoken consideration."
+    },
+    {
+      "zh-Hant": "不過，近來這樣的習慣也在慢慢改變。不喝酒的人、一開始就點威士忌蘇打的人越來越多，不受「先來啤酒」束縛的氛圍正在擴散。無論好壞，乾杯的景象正逐漸變得多樣起來。",
+      "zh-Hans": "不过，近来这样的习惯也在慢慢改变。不喝酒的人、一开始就点威士忌苏打的人越来越多，不受「先来啤酒」束缚的氛围正在扩散。无论好坏，干杯的景象正逐渐变得多样起来。",
+      "en": "However, this custom is slowly changing. More people don't drink alcohol, or order a highball right from the start, and an atmosphere free from the \"beer first\" habit is spreading. For better or worse, the scene of toasting is gradually becoming more varied.",
+      "de": "However, this custom is slowly changing. More people don't drink alcohol, or order a highball right from the start, and an atmosphere free from the \"beer first\" habit is spreading. For better or worse, the scene of toasting is gradually becoming more varied."
+    }
+  ]
+}

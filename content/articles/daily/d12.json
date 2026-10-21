@@ -1,0 +1,199 @@
+{
+  "id": "d12",
+  "d": 12,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "專欄",
+    "ja": "コラム"
+  },
+  "title": "渋谷のハロウィン",
+  "sub": "澀谷的萬聖節",
+  "body": "十月三十一日の夜、東京の渋谷には、[[仮装|かそう]]した若者たちが集まる。かつては[[スクランブル交差点|スクランブルこうさてん]]が人で埋まり、テレビの[[中継|ちゅうけい]]も入るほどの「名物」だった。\n\nしかし、[[混雑|こんざつ]]に[[乗じた|じょうじた]][[騒動|そうどう]]やごみの問題が続き、近年は区が「ハロウィン目的で渋谷に来ないで」と呼びかけるようになった。路上での飲酒を[[規制|きせい]]する[[条例|じょうれい]]もできた。\n\nもともと日本のハロウィンは、宗教的な意味よりも「仮装して楽しむ日」として広まったものだ。商業的なイベントとして[[定着|ていちゃく]]した一方、[[大勢|おおぜい]]が集まること自体が目的になってしまった面もある。祭りと[[迷惑|めいわく]]の[[境目|さかいめ]]はどこにあるのか、毎年のように議論になる。",
+  "gloss": {
+    "仮装": {
+      "m": "變裝、扮裝"
+    },
+    "スクランブル交差点": {
+      "m": "全向十字路口（澀谷大十字路口）"
+    },
+    "中継": {
+      "m": "實況轉播"
+    },
+    "混雑": {
+      "m": "擁擠"
+    },
+    "乗じた": {
+      "m": "趁著（原形：乗じる）"
+    },
+    "騒動": {
+      "m": "騷動、騷亂"
+    },
+    "規制": {
+      "m": "管制、限制"
+    },
+    "条例": {
+      "m": "（地方）條例"
+    },
+    "定着": {
+      "m": "紮根、固定下來"
+    },
+    "大勢": {
+      "m": "大批人"
+    },
+    "迷惑": {
+      "m": "給人添麻煩",
+      "n": "和中文「迷惑」意思不同。"
+    },
+    "境目": {
+      "m": "分界、界線"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Halloween in Shibuya",
+      "g": {
+        "仮装": [
+          "costume, dressing up"
+        ],
+        "スクランブル交差点": [
+          "scramble crossing (Shibuya's famous intersection)"
+        ],
+        "中継": [
+          "live broadcast"
+        ],
+        "混雑": [
+          "crowding, congestion"
+        ],
+        "乗じた": [
+          "taking advantage of (dict. form: 乗じる)"
+        ],
+        "騒動": [
+          "disturbance, riot"
+        ],
+        "規制": [
+          "restriction, regulation"
+        ],
+        "条例": [
+          "local ordinance"
+        ],
+        "定着": [
+          "taking root, becoming established"
+        ],
+        "大勢": [
+          "a large crowd"
+        ],
+        "迷惑": [
+          "nuisance, bother to others",
+          "Different from the Chinese meaning of 迷惑 (\"puzzled\")."
+        ],
+        "境目": [
+          "borderline, dividing line"
+        ]
+      }
+    },
+    "de": {
+      "s": "Halloween in Shibuya",
+      "g": {
+        "仮装": [
+          "Verkleidung, Kostüm"
+        ],
+        "スクランブル交差点": [
+          "Diagonalkreuzung (die berühmte in Shibuya)"
+        ],
+        "中継": [
+          "Liveübertragung"
+        ],
+        "混雑": [
+          "Gedränge, Überfüllung"
+        ],
+        "乗じた": [
+          "ausnutzend (Grundform: 乗じる)"
+        ],
+        "騒動": [
+          "Tumult, Krawall"
+        ],
+        "規制": [
+          "Beschränkung, Regulierung"
+        ],
+        "条例": [
+          "kommunale Verordnung"
+        ],
+        "定着": [
+          "sich etablieren"
+        ],
+        "大勢": [
+          "eine große Menge"
+        ],
+        "迷惑": [
+          "Belästigung für andere",
+          "Anders als das chinesische 迷惑 („verwirrt“)."
+        ],
+        "境目": [
+          "Grenze, Trennlinie"
+        ]
+      }
+    },
+    "hans": {
+      "s": "涩谷的万圣节",
+      "g": {
+        "仮装": [
+          "变装、扮装"
+        ],
+        "スクランブル交差点": [
+          "全向十字路口（涩谷大十字路口）"
+        ],
+        "中継": [
+          "实况转播"
+        ],
+        "混雑": [
+          "拥挤"
+        ],
+        "乗じた": [
+          "趁着（原形：乗じる）"
+        ],
+        "騒動": [
+          "骚动、骚乱"
+        ],
+        "規制": [
+          "管制、限制"
+        ],
+        "条例": [
+          "（地方）条例"
+        ],
+        "定着": [
+          "扎根、固定下来"
+        ],
+        "大勢": [
+          "大批人"
+        ],
+        "迷惑": [
+          "给人添麻烦",
+          "和中文「迷惑」意思不同。"
+        ],
+        "境目": [
+          "分界、界线"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "十月三十一日的夜晚，東京澀谷會聚集許多裝扮的年輕人。過去，澀谷的十字路口常被擠得水洩不通，電視台也會來實況轉播，是一項「名物」。",
+      "zh-Hans": "十月三十一日的夜晚，东京涩谷会聚集许多装扮的年轻人。过去，涩谷的十字路口常被挤得水泄不通，电视台也会来实况转播，是一项「名物」。",
+      "en": "On the night of October 31st, young people in costumes gather in Shibuya, Tokyo. In the past, the Scramble Crossing was packed with people, and it was such a famous spectacle that TV stations came to broadcast it live.",
+      "de": "On the night of October 31st, young people in costumes gather in Shibuya, Tokyo. In the past, the Scramble Crossing was packed with people, and it was such a famous spectacle that TV stations came to broadcast it live."
+    },
+    {
+      "zh-Hant": "然而，趁著擁擠而發生的騷動和垃圾問題接連不斷，近年來區政府開始呼籲：「請不要為了萬聖節而來澀谷。」街頭飲酒也因此通過了條例加以規範。",
+      "zh-Hans": "然而，趁着拥挤而发生的骚动和垃圾问题接连不断，近年来区政府开始呼吁：「请不要为了万圣节而来涩谷。」街头饮酒也因此通过了条例加以规范。",
+      "en": "However, disturbances and litter problems that arose amid the crowds kept happening, and in recent years the ward has begun calling on people not to come to Shibuya just for Halloween. An ordinance was also enacted to restrict drinking on the streets.",
+      "de": "However, disturbances and litter problems that arose amid the crowds kept happening, and in recent years the ward has begun calling on people not to come to Shibuya just for Halloween. An ordinance was also enacted to restrict drinking on the streets."
+    },
+    {
+      "zh-Hant": "其實，日本的萬聖節原本傳播開來時，重點不在宗教意義，而是作為「裝扮並享受的日子」。它雖然已經作為商業活動紮根下來，但聚集大批人群本身成為目的，也是問題所在。祭典與打擾他人之間的界線在哪裡？每年都會引發討論。",
+      "zh-Hans": "其实，日本的万圣节原本传播开来时，重点不在宗教意义，而是作为「装扮并享受的日子」。它虽然已经作为商业活动扎根下来，但聚集大批人群本身成为目的，也是问题所在。祭典与打扰他人之间的界线在哪里？每年都会引发讨论。",
+      "en": "Japan's Halloween originally spread as a \"day to dress up and have fun\" rather than for its religious meaning. While it has taken root as a commercial event, the gathering of crowds itself has become the goal, which is also part of the problem. Where is the line between a festival and a nuisance? It sparks debate almost every year.",
+      "de": "Japan's Halloween originally spread as a \"day to dress up and have fun\" rather than for its religious meaning. While it has taken root as a commercial event, the gathering of crowds itself has become the goal, which is also part of the problem. Where is the line between a festival and a nuisance? It sparks debate almost every year."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "d61",
+  "d": 61,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "社論",
+    "ja": "社説"
+  },
+  "title": "静かになっていく教室で",
+  "sub": "社論風：在越來越安靜的教室裡",
+  "body": "日本で一年に生まれる子どもの数は、[[過去最少|かこさいしょう]]を更新し続けている。地方では小学校の[[統廃合|とうはいごう]]が進み、一学年に数人しかいない学校も珍しくない。\n\n少子化の原因は一つではない。若い世代の[[雇用|こよう]]と[[収入|しゅうにゅう]]の不安定さ、長時間労働、教育費の重さ、そして子育ての負担が女性に[[偏りがち|かたよりがち]]な現実。結婚や出産をためらう理由は、[[個人|こじん]]の選択というより、社会の[[構造|こうぞう]]に根ざしている。\n\n[[給付金|きゅうふきん]]の上乗せだけでは、流れは変わらないだろう。子どもを持つかどうかを、誰もが[[経済的|けいざいてき]]な不安なしに選べる社会をつくること。持たない選択も[[尊重|そんちょう]]されること。その両方がそろって初めて、教室の静けさに向き合う[[土台|どだい]]ができる。",
+  "gloss": {
+    "過去最少": {
+      "m": "史上最少"
+    },
+    "統廃合": {
+      "m": "整併與廢校"
+    },
+    "雇用": {
+      "m": "雇用、就業"
+    },
+    "収入": {
+      "m": "收入"
+    },
+    "偏りがち": {
+      "m": "容易偏向"
+    },
+    "個人": {
+      "m": "個人"
+    },
+    "構造": {
+      "m": "結構"
+    },
+    "給付金": {
+      "m": "補助金"
+    },
+    "経済的": {
+      "m": "經濟上"
+    },
+    "尊重": {
+      "m": "尊重"
+    },
+    "土台": {
+      "m": "基礎"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "In classrooms growing quieter",
+      "g": {
+        "過去最少": [
+          "lowest ever"
+        ],
+        "統廃合": [
+          "consolidation and closure"
+        ],
+        "雇用": [
+          "employment"
+        ],
+        "収入": [
+          "income"
+        ],
+        "偏りがち": [
+          "tends to be lopsided"
+        ],
+        "個人": [
+          "individual"
+        ],
+        "構造": [
+          "structure"
+        ],
+        "給付金": [
+          "benefit payment"
+        ],
+        "経済的": [
+          "economic"
+        ],
+        "尊重": [
+          "respect"
+        ],
+        "土台": [
+          "foundation"
+        ]
+      }
+    },
+    "de": {
+      "s": "In immer stilleren Klassenzimmern",
+      "g": {
+        "過去最少": [
+          "so niedrig wie nie"
+        ],
+        "統廃合": [
+          "Zusammenlegung und Schließung"
+        ],
+        "雇用": [
+          "Beschäftigung"
+        ],
+        "収入": [
+          "Einkommen"
+        ],
+        "偏りがち": [
+          "neigt zur Einseitigkeit"
+        ],
+        "個人": [
+          "Einzelperson"
+        ],
+        "構造": [
+          "Struktur"
+        ],
+        "給付金": [
+          "Zuschuss"
+        ],
+        "経済的": [
+          "wirtschaftlich"
+        ],
+        "尊重": [
+          "Respekt"
+        ],
+        "土台": [
+          "Fundament"
+        ]
+      }
+    },
+    "hans": {
+      "s": "社论风：在越来越安静的教室里",
+      "g": {
+        "過去最少": [
+          "史上最少"
+        ],
+        "統廃合": [
+          "整并与废校"
+        ],
+        "雇用": [
+          "雇用、就业"
+        ],
+        "収入": [
+          "收入"
+        ],
+        "偏りがち": [
+          "容易偏向"
+        ],
+        "個人": [
+          "个人"
+        ],
+        "構造": [
+          "结构"
+        ],
+        "給付金": [
+          "补助金"
+        ],
+        "経済的": [
+          "经济上"
+        ],
+        "尊重": [
+          "尊重"
+        ],
+        "土台": [
+          "基础"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本每年出生的孩子人數，持續刷新歷史新低。在地方上，小學合併的情況越來越多，一個年級只有幾個學生的學校也不算少見。",
+      "zh-Hans": "日本每年出生的孩子人数，持续刷新历史新低。在地方上，小学合并的情况越来越多，一个年级只有几个学生的学校也不算少见。",
+      "en": "The number of children born in Japan each year keeps setting new record lows. In rural areas, elementary schools are increasingly being merged, and schools with only a few students per grade are not unusual.",
+      "de": "The number of children born in Japan each year keeps setting new record lows. In rural areas, elementary schools are increasingly being merged, and schools with only a few students per grade are not unusual."
+    },
+    {
+      "zh-Hant": "少子化的原因不只一個。年輕世代就業與收入不穩定、工時過長、教育費負擔沉重，還有育兒的負擔往往落在女性身上的現實。人們之所以猶豫要不要結婚、生育，與其說是個人的選擇，不如說根植於社會的結構。",
+      "zh-Hans": "少子化的原因不只一个。年轻世代就业与收入不稳定、工时过长、教育费负担沉重，还有育儿的负担往往落在女性身上的现实。人们之所以犹豫要不要结婚、生育，与其说是个人的选择，不如说根植于社会的结构。",
+      "en": "There is no single cause of the declining birthrate. Young people face unstable jobs and incomes, long working hours, heavy education costs, and the reality that the burden of child-rearing tends to fall on women. The reasons people hesitate to marry or have children are rooted less in individual choice than in the structure of society.",
+      "de": "There is no single cause of the declining birthrate. Young people face unstable jobs and incomes, long working hours, heavy education costs, and the reality that the burden of child-rearing tends to fall on women. The reasons people hesitate to marry or have children are rooted less in individual choice than in the structure of society."
+    },
+    {
+      "zh-Hant": "只靠增加津貼，恐怕改變不了這股趨勢。要打造一個讓每個人都能在沒有經濟不安的情況下，選擇是否生育孩子的社會；也要尊重不生育的選擇。只有兩者兼備，才能為面對教室裡的寧靜打下基礎。",
+      "zh-Hans": "只靠增加津贴，恐怕改变不了这股趋势。要打造一个让每个人都能在没有经济不安的情况下，选择是否生育孩子的社会；也要尊重不生育的选择。只有两者兼备，才能为面对教室里的宁静打下基础。",
+      "en": "Simply adding to benefits will probably not change the trend. What is needed is a society where everyone can choose whether to have children without economic anxiety, and where the choice not to have children is also respected. Only when both are in place can a foundation be built for facing the quiet in the classroom.",
+      "de": "Simply adding to benefits will probably not change the trend. What is needed is a society where everyone can choose whether to have children without economic anxiety, and where the choice not to have children is also respected. Only when both are in place can a foundation be built for facing the quiet in the classroom."
+    }
+  ]
+}

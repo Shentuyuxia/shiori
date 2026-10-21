@@ -1,0 +1,112 @@
+{
+  "id": "w-saru-e",
+  "d": -1,
+  "lv": "n4",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "温泉に入るサル",
+  "sub": "泡溫泉的猴子（簡單版）",
+  "body": "{長野県|ながのけん}の{山|やま}に、[[温泉|おんせん]]に{入|はい}る[[サル|サル]]がいます。\n\n{冬|ふゆ}、{山|やま}は[[雪|ゆき]]でまっ{白|しろ}になります。とても{寒|さむ}いです。サルたちは{温|あたた}かいお{湯|ゆ}に{入|はい}って、[[気持ち|きもち]]がよさそうな{顔|かお}をします。\n\n{世界中|せかいじゅう}から、このサルを{見|み}に{観光客|かんこうきゃく}が{来|き}ます。{英語|えいご}では「スノーモンキー」と[[呼ばれて|よばれて]]います。",
+  "gloss": {
+    "温泉": {
+      "m": "溫泉"
+    },
+    "サル": {
+      "m": "猴子"
+    },
+    "雪": {
+      "m": "雪"
+    },
+    "気持ち": {
+      "m": "心情、感覺"
+    },
+    "呼ばれて": {
+      "m": "被叫作（原形：呼ぶ）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Monkeys in the hot spring (easy)",
+      "g": {
+        "温泉": [
+          "hot spring"
+        ],
+        "サル": [
+          "monkey"
+        ],
+        "雪": [
+          "snow"
+        ],
+        "気持ち": [
+          "feeling"
+        ],
+        "呼ばれて": [
+          "called (dict. form: 呼ぶ)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Affen im heißen Bad (leicht)",
+      "g": {
+        "温泉": [
+          "heiße Quelle"
+        ],
+        "サル": [
+          "Affe"
+        ],
+        "雪": [
+          "Schnee"
+        ],
+        "気持ち": [
+          "Gefühl"
+        ],
+        "呼ばれて": [
+          "genannt (Grundform: 呼ぶ)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "泡温泉的猴子（简单版）",
+      "g": {
+        "温泉": [
+          "温泉"
+        ],
+        "サル": [
+          "猴子"
+        ],
+        "雪": [
+          "雪"
+        ],
+        "気持ち": [
+          "心情、感觉"
+        ],
+        "呼ばれて": [
+          "被叫作（原形：呼ぶ）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "長野縣的山裡，有會泡溫泉的猴子。",
+      "zh-Hans": "长野县的山里，有会泡温泉的猴子。",
+      "en": "In the mountains of Nagano there are monkeys that bathe in a hot spring.",
+      "de": "In den Bergen von Nagano gibt es Affen, die in einer heißen Quelle baden."
+    },
+    {
+      "zh-Hant": "冬天，山被雪染得一片白，非常冷。猴子們泡進溫暖的熱水裡，露出很舒服的表情。",
+      "zh-Hans": "冬天，山被雪染得一片白，非常冷。猴子们泡进温暖的热水里，露出很舒服的表情。",
+      "en": "In winter the mountains turn white with snow. It's very cold. The monkeys soak in the warm water and look very comfortable.",
+      "de": "Im Winter sind die Berge weiß vom Schnee. Es ist sehr kalt. Die Affen baden im warmen Wasser und sehen sehr zufrieden aus."
+    },
+    {
+      "zh-Hant": "世界各地的遊客都來看這些猴子。牠們在英文裡被叫作「雪猴」。",
+      "zh-Hans": "世界各地的游客都来看这些猴子。牠们在英文里被叫作「雪猴」。",
+      "en": "Tourists come from all over the world to see these monkeys. In English they're called snow monkeys.",
+      "de": "Touristen aus aller Welt kommen, um diese Affen zu sehen. Auf Englisch heißen sie Snow Monkeys."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "w-koyo",
+  "d": -1,
+  "lv": "n2",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "紅葉の色のひみつ",
+  "sub": "紅葉顏色的秘密",
+  "body": "秋の山を[[彩る|いろどる]]紅葉には、実は二つの[[仕組み|しくみ]]がある。黄色くなる仕組みと、赤くなる仕組みだ。\n\n夏の葉が緑なのは、[[葉緑素|ようりょくそ]]（クロロフィル）がたくさん含まれているからだ。気温が下がり、日が短くなると、木は葉を落とす準備を始め、葉緑素は分解されていく。すると、もともと葉の中にあった黄色い[[色素|しきそ]]、カロテノイドが見えてくる。イチョウが黄色くなるのはこのためだ。\n\n一方、カエデなどが赤くなるのは、秋になってから新しく作られる「[[アントシアニン|アントシアニン]]」という赤い色素による。葉の付け根に[[離層|りそう]]ができて、葉で作られた糖分が枝へ運ばれにくくなる。その葉に残った糖分から、アントシアニンが作られるのだ。\n\nきれいな紅葉には、昼は日がよく当たり、夜はぐっと冷え込むこと、そして適度な[[湿度|しつど]]が必要だと言われる。一般に、最低気温が八度を下回るころから色づき始めるという。寒暖の差が大きい山の紅葉が[[鮮やか|あざやか]]なのは、そのためだ。",
+  "gloss": {
+    "彩る": {
+      "m": "點綴、增添色彩"
+    },
+    "仕組み": {
+      "m": "機制、原理"
+    },
+    "葉緑素": {
+      "m": "葉綠素"
+    },
+    "色素": {
+      "m": "色素"
+    },
+    "アントシアニン": {
+      "m": "花青素"
+    },
+    "離層": {
+      "m": "離層（葉柄基部的隔離層）"
+    },
+    "湿度": {
+      "m": "濕度"
+    },
+    "鮮やか": {
+      "m": "鮮豔"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The secret of autumn colours",
+      "g": {
+        "彩る": [
+          "to colour, adorn"
+        ],
+        "仕組み": [
+          "mechanism"
+        ],
+        "葉緑素": [
+          "chlorophyll"
+        ],
+        "色素": [
+          "pigment"
+        ],
+        "アントシアニン": [
+          "anthocyanin"
+        ],
+        "離層": [
+          "abscission layer"
+        ],
+        "湿度": [
+          "humidity"
+        ],
+        "鮮やか": [
+          "vivid"
+        ]
+      }
+    },
+    "de": {
+      "s": "Das Geheimnis der Herbstfarben",
+      "g": {
+        "彩る": [
+          "färben, schmücken"
+        ],
+        "仕組み": [
+          "Mechanismus"
+        ],
+        "葉緑素": [
+          "Chlorophyll"
+        ],
+        "色素": [
+          "Farbstoff"
+        ],
+        "アントシアニン": [
+          "Anthocyan"
+        ],
+        "離層": [
+          "Trennschicht"
+        ],
+        "湿度": [
+          "Luftfeuchtigkeit"
+        ],
+        "鮮やか": [
+          "leuchtend"
+        ]
+      }
+    },
+    "hans": {
+      "s": "红叶颜色的秘密",
+      "g": {
+        "彩る": [
+          "点缀、增添色彩"
+        ],
+        "仕組み": [
+          "机制、原理"
+        ],
+        "葉緑素": [
+          "叶绿素"
+        ],
+        "色素": [
+          "色素"
+        ],
+        "アントシアニン": [
+          "花青素"
+        ],
+        "離層": [
+          "离层（叶柄基部的隔离层）"
+        ],
+        "湿度": [
+          "湿度"
+        ],
+        "鮮やか": [
+          "鲜艳"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "點綴秋山的紅葉，其實有兩種機制：變黃的機制，和變紅的機制。",
+      "zh-Hans": "点缀秋山的红叶，其实有两种机制：变黄的机制，和变红的机制。",
+      "en": "The autumn colours on the mountains actually come from two mechanisms: one that turns leaves yellow and one that turns them red.",
+      "de": "Die Herbstfarben in den Bergen entstehen eigentlich durch zwei Mechanismen: einen, der Blätter gelb macht, und einen, der sie rot macht."
+    },
+    {
+      "zh-Hant": "夏天的葉子是綠色的，是因為含有大量葉綠素。氣溫下降、白天變短，樹木開始準備落葉，葉綠素就逐漸被分解。這時，原本就在葉子裡的黃色色素——類胡蘿蔔素——就顯現出來。銀杏變黃就是這個原因。",
+      "zh-Hans": "夏天的叶子是绿色的，是因为含有大量叶绿素。气温下降、白天变短，树木开始准备落叶，叶绿素就逐渐被分解。这时，原本就在叶子里的黄色色素——类胡萝卜素——就显现出来。银杏变黄就是这个原因。",
+      "en": "Summer leaves are green because they contain a lot of chlorophyll. As temperatures drop and days get shorter, trees prepare to shed their leaves and the chlorophyll breaks down. Then the yellow pigments that were in the leaf all along, carotenoids, become visible. That's why ginkgo turns yellow.",
+      "de": "Sommerblätter sind grün, weil sie viel Chlorophyll enthalten. Wenn es kühler wird und die Tage kürzer werden, bereiten sich die Bäume auf den Laubfall vor, und das Chlorophyll wird abgebaut. Dann werden die gelben Farbstoffe sichtbar, die schon immer im Blatt waren: Carotinoide. Deshalb wird der Ginkgo gelb."
+    },
+    {
+      "zh-Hant": "另一方面，楓樹等會變紅，是因為入秋後新合成的一種紅色色素「花青素」。葉柄基部形成離層後，葉子製造的糖分不容易運到樹枝，留在葉子裡的糖分就被用來合成花青素。",
+      "zh-Hans": "另一方面，枫树等会变红，是因为入秋后新合成的一种红色色素「花青素」。叶柄基部形成离层后，叶子制造的糖分不容易运到树枝，留在叶子里的糖分就被用来合成花青素。",
+      "en": "Maples and similar trees, on the other hand, turn red because of a red pigment called anthocyanin that is newly produced in autumn. An abscission layer forms at the base of the leaf stalk, so the sugar made in the leaf can't easily move to the branch. Anthocyanin is made from the sugar that stays behind in the leaf.",
+      "de": "Ahorn und ähnliche Bäume werden dagegen rot durch einen roten Farbstoff, Anthocyan, der erst im Herbst neu gebildet wird. Am Blattstiel entsteht eine Trennschicht, sodass der im Blatt gebildete Zucker kaum noch in den Zweig gelangt. Aus dem Zucker, der im Blatt bleibt, entsteht Anthocyan."
+    },
+    {
+      "zh-Hant": "據說要有漂亮的紅葉，需要白天日照充足、夜晚驟冷，再加上適度的濕度。一般認為最低氣溫降到八度以下時開始變色。溫差大的山上紅葉特別鮮豔，就是這個緣故。",
+      "zh-Hans": "据说要有漂亮的红叶，需要白天日照充足、夜晚骤冷，再加上适度的湿度。一般认为最低气温降到八度以下时开始变色。温差大的山上红叶特别鲜艳，就是这个缘故。",
+      "en": "Beautiful colours are said to need plenty of sun by day, sharp cold at night and moderate humidity. Leaves generally start changing when the minimum temperature falls below about 8 °C. That's why the colours in the mountains, with their big temperature swings, are so vivid.",
+      "de": "Für schöne Farben braucht es angeblich viel Sonne am Tag, kalte Nächte und mäßige Luftfeuchtigkeit. Allgemein beginnt die Färbung, wenn die Tiefsttemperatur unter etwa 8 °C fällt. Deshalb leuchten die Farben in den Bergen mit ihren großen Temperaturunterschieden so stark."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "d90",
+  "d": 90,
+  "lv": "pro",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "俳句・短歌",
+    "ja": "俳句・短歌"
+  },
+  "title": "啄木の歌",
+  "sub": "石川啄木的短歌",
+  "src": "石川啄木『一握の砂』（1910）",
+  "body": "はたらけど\nはたらけど[[猶|なお]]わが[[生活|くらし]]楽にならざり\n[[ぢつと|じっと]]手を見る\n\nふるさとの[[訛|なまり]]なつかし\n[[停車場|ていしゃば]]の人ごみの中に\n[[そを聴きにゆく|そをききにゆく]]\n\n石川啄木は、短歌を三行に分けて書いた。一首目は、働いても働いても暮らしが楽にならず、[[じっと|じっと]]自分の手を見つめる歌。百年以上前の歌だが、今の働く人の胸にもそのまま[[刺さる|ささる]]。\n\n二首目は、東京で暮らす啄木が、故郷の[[岩手|いわて]]の訛りを聞きたくて、上野駅の人ごみに出かけていく歌。故郷を離れて暮らす人なら、この気持ちが分かるはずだ。",
+  "gloss": {
+    "猶": {
+      "m": "仍然"
+    },
+    "生活": {
+      "m": "生活",
+      "n": "此處讀「くらし」。「ならざり」＝ならない。"
+    },
+    "ぢつと": {
+      "m": "定定地、一動不動",
+      "n": "歷史假名，今寫「じっと」。"
+    },
+    "訛": {
+      "m": "鄉音、口音"
+    },
+    "停車場": {
+      "m": "火車站（舊稱）"
+    },
+    "そを聴きにゆく": {
+      "m": "去聽那鄉音"
+    },
+    "じっと": {
+      "m": "定定地"
+    },
+    "刺さる": {
+      "m": "刺中（心）"
+    },
+    "岩手": {
+      "m": "岩手縣"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Poems by Takuboku",
+      "g": {
+        "猶": [
+          "still"
+        ],
+        "生活": [
+          "livelihood",
+          "Read くらし here. 「ならざり」 = ならない."
+        ],
+        "ぢつと": [
+          "intently, without moving",
+          "Historical kana; today じっと."
+        ],
+        "訛": [
+          "accent, dialect"
+        ],
+        "停車場": [
+          "railway station (old word)"
+        ],
+        "そを聴きにゆく": [
+          "I go to hear it"
+        ],
+        "じっと": [
+          "intently"
+        ],
+        "刺さる": [
+          "to pierce (the heart)"
+        ],
+        "岩手": [
+          "Iwate Prefecture"
+        ]
+      }
+    },
+    "de": {
+      "s": "Gedichte von Takuboku",
+      "g": {
+        "猶": [
+          "immer noch"
+        ],
+        "生活": [
+          "Lebensunterhalt",
+          "Hier くらし gelesen. „ならざり“ = ならない."
+        ],
+        "ぢつと": [
+          "starr, regungslos",
+          "Historische Kana; heute じっと."
+        ],
+        "訛": [
+          "Akzent, Mundart"
+        ],
+        "停車場": [
+          "Bahnhof (altes Wort)"
+        ],
+        "そを聴きにゆく": [
+          "ich gehe, sie zu hören"
+        ],
+        "じっと": [
+          "starr, unverwandt"
+        ],
+        "刺さる": [
+          "(ins Herz) treffen"
+        ],
+        "岩手": [
+          "Präfektur Iwate"
+        ]
+      }
+    },
+    "hans": {
+      "s": "石川啄木的短歌",
+      "g": {
+        "猶": [
+          "仍然"
+        ],
+        "生活": [
+          "生活",
+          "此处读「くらし」。「ならざり」＝ならない。"
+        ],
+        "ぢつと": [
+          "定定地、一动不动",
+          "历史假名，今写「じっと」。"
+        ],
+        "訛": [
+          "乡音、口音"
+        ],
+        "停車場": [
+          "火车站（旧称）"
+        ],
+        "そを聴きにゆく": [
+          "去听那乡音"
+        ],
+        "じっと": [
+          "定定地"
+        ],
+        "刺さる": [
+          "刺中（心）"
+        ],
+        "岩手": [
+          "岩手县"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "工作了又工作，生活卻始終沒有寬裕起來，我靜靜地望著自己的雙手。",
+      "zh-Hans": "工作了又工作，生活却始终没有宽裕起来，我静静地望着自己的双手。",
+      "en": "I work and work, yet my life never grows any easier. I quietly gaze at my own hands.",
+      "de": "I work and work, yet my life never grows any easier. I quietly gaze at my own hands."
+    },
+    {
+      "zh-Hant": "令人懷念的故鄉口音，在車站的人群之中，我為了聽它而前去。",
+      "zh-Hans": "令人怀念的故乡口音，在车站的人群之中，我为了听它而前去。",
+      "en": "I miss the accent of my hometown. In the crowd at the station, I go out just to hear it.",
+      "de": "I miss the accent of my hometown. In the crowd at the station, I go out just to hear it."
+    },
+    {
+      "zh-Hant": "石川啄木把短歌分成三行來寫。第一首，是說即使工作再工作，生活也沒有變得輕鬆，於是靜靜凝視自己的手。雖然是一百多年前的歌，今天的勞動者讀來依然扎心。",
+      "zh-Hans": "石川啄木把短歌分成三行来写。第一首，是说即使工作再工作，生活也没有变得轻松，于是静静凝视自己的手。虽然是一百多年前的歌，今天的劳动者读来依然扎心。",
+      "en": "Ishikawa Takuboku wrote his tanka in three lines. The first is about working and working without life becoming any easier, and quietly looking at one's own hands. Though it was written more than a century ago, it still pierces the heart of today's workers.",
+      "de": "Ishikawa Takuboku wrote his tanka in three lines. The first is about working and working without life becoming any easier, and quietly looking at one's own hands. Though it was written more than a century ago, it still pierces the heart of today's workers."
+    },
+    {
+      "zh-Hant": "第二首，是說在東京生活的啄木，想聽故鄉岩手的口音，於是特地前往上野車站的人群中。離鄉背井生活的人，應該能體會這份心情。",
+      "zh-Hans": "第二首，是说在东京生活的啄木，想听故乡岩手的口音，于是特地前往上野车站的人群中。离乡背井生活的人，应该能体会这份心情。",
+      "en": "The second is about Takuboku, living in Tokyo, who wanted to hear the accent of his home province of Iwate and went out into the crowds at Ueno Station. Anyone who lives far from home should understand that feeling.",
+      "de": "The second is about Takuboku, living in Tokyo, who wanted to hear the accent of his home province of Iwate and went out into the crowds at Ueno Station. Anyone who lives far from home should understand that feeling."
+    }
+  ]
+}

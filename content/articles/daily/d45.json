@@ -1,0 +1,187 @@
+{
+  "id": "d45",
+  "d": 45,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "方言",
+    "ja": "方言"
+  },
+  "title": "なんくるないさ",
+  "sub": "沖繩的話語",
+  "body": "沖縄の言葉で最もよく知られているのは、おそらく「[[なんくるないさ|なんくるないさ]]」だろう。「なんとかなるさ」と訳されることが多く、沖縄の人の[[おおらかさ|おおらかさ]]を表す言葉として観光の[[キャッチフレーズ|キャッチフレーズ]]にもなっている。\n\nしかし、本来の[[ニュアンス|ニュアンス]]は少し違うという指摘もある。もとは「[[まくとぅそーけー|まくとぅそーけー]]、なんくるないさ」、つまり「[[誠|まこと]]を尽くしていれば、なんとかなる」という言葉だった、というのだ。何もしなくても大丈夫、という意味ではない。\n\nほかにも「[[めんそーれ|めんそーれ]]」（いらっしゃい）、「[[ちゅらさん|ちゅらさん]]」（美しい人）、「[[ゆいまーる|ゆいまーる]]」（助け合い）など、沖縄の言葉には[[響き|ひびき]]の美しいものが多い。標準語とは大きく異なり、[[独立した|どくりつした]]言語として扱う研究者もいる。",
+  "gloss": {
+    "なんくるないさ": {
+      "m": "總會有辦法的"
+    },
+    "おおらかさ": {
+      "m": "大方、從容"
+    },
+    "キャッチフレーズ": {
+      "m": "標語"
+    },
+    "ニュアンス": {
+      "m": "語感、細微差異"
+    },
+    "まくとぅそーけー": {
+      "m": "只要真誠以對",
+      "n": "沖繩語。＝誠を尽くせば。"
+    },
+    "誠": {
+      "m": "真誠"
+    },
+    "めんそーれ": {
+      "m": "歡迎光臨（沖繩語）"
+    },
+    "ちゅらさん": {
+      "m": "美麗的人（沖繩語）"
+    },
+    "ゆいまーる": {
+      "m": "互相幫助（沖繩語）"
+    },
+    "響き": {
+      "m": "聲音、音韻"
+    },
+    "独立した": {
+      "m": "獨立的"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Nankuru naisa: Okinawan words",
+      "g": {
+        "なんくるないさ": [
+          "it'll work out somehow"
+        ],
+        "おおらかさ": [
+          "easy-going nature"
+        ],
+        "キャッチフレーズ": [
+          "catchphrase"
+        ],
+        "ニュアンス": [
+          "nuance"
+        ],
+        "まくとぅそーけー": [
+          "if you act sincerely",
+          "Okinawan = 誠を尽くせば."
+        ],
+        "誠": [
+          "sincerity"
+        ],
+        "めんそーれ": [
+          "welcome (Okinawan)"
+        ],
+        "ちゅらさん": [
+          "beautiful person (Okinawan)"
+        ],
+        "ゆいまーる": [
+          "mutual help (Okinawan)"
+        ],
+        "響き": [
+          "sound, ring"
+        ],
+        "独立した": [
+          "independent"
+        ]
+      }
+    },
+    "de": {
+      "s": "Nankuru naisa: Wörter aus Okinawa",
+      "g": {
+        "なんくるないさ": [
+          "das wird schon"
+        ],
+        "おおらかさ": [
+          "Gelassenheit"
+        ],
+        "キャッチフレーズ": [
+          "Slogan"
+        ],
+        "ニュアンス": [
+          "Nuance"
+        ],
+        "まくとぅそーけー": [
+          "wenn man aufrichtig handelt",
+          "Okinawanisch = 誠を尽くせば."
+        ],
+        "誠": [
+          "Aufrichtigkeit"
+        ],
+        "めんそーれ": [
+          "willkommen (Okinawanisch)"
+        ],
+        "ちゅらさん": [
+          "schöner Mensch (Okinawanisch)"
+        ],
+        "ゆいまーる": [
+          "gegenseitige Hilfe (Okinawanisch)"
+        ],
+        "響き": [
+          "Klang"
+        ],
+        "独立した": [
+          "eigenständig"
+        ]
+      }
+    },
+    "hans": {
+      "s": "冲绳的话语",
+      "g": {
+        "なんくるないさ": [
+          "总会有办法的"
+        ],
+        "おおらかさ": [
+          "大方、从容"
+        ],
+        "キャッチフレーズ": [
+          "标语"
+        ],
+        "ニュアンス": [
+          "语感、细微差异"
+        ],
+        "まくとぅそーけー": [
+          "只要真诚以对",
+          "冲绳语。＝诚を尽くせば。"
+        ],
+        "誠": [
+          "真诚"
+        ],
+        "めんそーれ": [
+          "欢迎光临（冲绳语）"
+        ],
+        "ちゅらさん": [
+          "美丽的人（冲绳语）"
+        ],
+        "ゆいまーる": [
+          "互相帮助（冲绳语）"
+        ],
+        "響き": [
+          "声音、音韵"
+        ],
+        "独立した": [
+          "独立的"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "沖繩的方言中，最廣為人知的大概是「なんくるないさ」。常被翻譯成「總會有辦法的」，作為表現沖繩人豁達性格的詞語，也成了觀光的宣傳標語。",
+      "zh-Hans": "冲绳的方言中，最广为人知的大概是「なんくるないさ」。常被翻译成「总会有办法的」，作为表现冲绳人豁达性格的词语，也成了观光的宣传标语。",
+      "en": "Perhaps the best-known word in Okinawan dialect is 「なんくるないさ」. It is often translated as \"It'll somehow work out,\" and as an expression of the Okinawan people's easygoing nature, it has even become a tourism catchphrase.",
+      "de": "Perhaps the best-known word in Okinawan dialect is 「なんくるないさ」. It is often translated as \"It'll somehow work out,\" and as an expression of the Okinawan people's easygoing nature, it has even become a tourism catchphrase."
+    },
+    {
+      "zh-Hant": "不過，也有人指出，它的本來語感略有不同。據說原本是「まくとぅそーけー、なんくるないさ」，也就是「只要盡到誠意，總會有辦法」。它的意思不是「什麼都不做也沒關係」。",
+      "zh-Hans": "不过，也有人指出，它的本来语感略有不同。据说原本是「まくとぅそーけー、なんくるないさ」，也就是「只要尽到诚意，总会有办法」。它的意思不是「什么都不做也没关系」。",
+      "en": "However, some point out that its original nuance is a little different. Apparently it was originally 「まくとぅそーけー、なんくるないさ」, meaning \"If you do your utmost in sincerity, it will somehow work out.\" It does not mean that it's fine to do nothing.",
+      "de": "However, some point out that its original nuance is a little different. Apparently it was originally 「まくとぅそーけー、なんくるないさ」, meaning \"If you do your utmost in sincerity, it will somehow work out.\" It does not mean that it's fine to do nothing."
+    },
+    {
+      "zh-Hant": "此外，沖繩語中還有許多聽起來很優美的詞，例如「めんそーれ」（歡迎光臨）、「ちゅらさん」（美麗的人）、「ゆいまーる」（互助）。它與標準日語差異很大，也有研究者把它視為獨立的語言。",
+      "zh-Hans": "此外，冲绳语中还有许多听起来很优美的词，例如「めんそーれ」（欢迎光临）、「ちゅらさん」（美丽的人）、「ゆいまーる」（互助）。它与标准日语差异很大，也有研究者把它视为独立的语言。",
+      "en": "There are many other beautiful-sounding words in Okinawan, such as 「めんそーれ」 (welcome), 「ちゅらさん」 (beautiful person), and 「ゆいまーる」 (mutual aid). It differs greatly from standard Japanese, and some researchers treat it as an independent language.",
+      "de": "There are many other beautiful-sounding words in Okinawan, such as 「めんそーれ」 (welcome), 「ちゅらさん」 (beautiful person), and 「ゆいまーる」 (mutual aid). It differs greatly from standard Japanese, and some researchers treat it as an independent language."
+    }
+  ]
+}

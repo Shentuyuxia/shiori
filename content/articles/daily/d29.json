@@ -1,0 +1,202 @@
+{
+  "id": "d29",
+  "d": 29,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "文學原文",
+    "ja": "文学（原文）"
+  },
+  "title": "山月記（冒頭）",
+  "sub": "中島敦《山月記》開頭（1942）",
+  "src": "青空文庫（中島敦『山月記』）",
+  "body": "[[隴西|ろうさい]]の[[李徴|りちょう]]は博学[[才穎|さいえい]]、天宝の末年、若くして名を[[虎榜|こぼう]]に連ね、ついで江南尉に[[補せられた|ほせられた]]が、性、[[狷介|けんかい]]、自ら[[恃む|たのむ]]ところ[[頗る|すこぶる]]厚く、[[賤吏|せんり]]に甘んずるを[[潔しとしなかった|いさぎよしとしなかった]]。\n\n唐代の伝奇『人虎伝』を下敷きにした短編。漢文訓読調の[[硬質|こうしつ]]な文体は、中国語の素養がある読者には、むしろ読みやすいかもしれない。[[自尊心|じそんしん]]と[[羞恥心|しゅうちしん]]のために虎になってしまった男の物語である。",
+  "gloss": {
+    "隴西": {
+      "m": "隴西"
+    },
+    "李徴": {
+      "m": "李徵"
+    },
+    "才穎": {
+      "m": "才華出眾"
+    },
+    "虎榜": {
+      "m": "虎榜（進士榜）"
+    },
+    "補せられた": {
+      "m": "被補任為"
+    },
+    "狷介": {
+      "m": "狷介、孤傲不合群"
+    },
+    "恃む": {
+      "m": "自恃"
+    },
+    "頗る": {
+      "m": "頗為、非常"
+    },
+    "賤吏": {
+      "m": "小官吏"
+    },
+    "潔しとしなかった": {
+      "m": "不屑於、不甘心"
+    },
+    "硬質": {
+      "m": "剛硬、硬派"
+    },
+    "自尊心": {
+      "m": "自尊心"
+    },
+    "羞恥心": {
+      "m": "羞恥心"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The Moon over the Mountain (opening)",
+      "g": {
+        "隴西": [
+          "Longxi (place name)"
+        ],
+        "李徴": [
+          "Li Zheng (name)"
+        ],
+        "才穎": [
+          "exceptionally talented"
+        ],
+        "虎榜": [
+          "list of successful examinees"
+        ],
+        "補せられた": [
+          "was appointed"
+        ],
+        "狷介": [
+          "aloof, unbending"
+        ],
+        "恃む": [
+          "to rely on (oneself)"
+        ],
+        "頗る": [
+          "extremely"
+        ],
+        "賤吏": [
+          "petty official"
+        ],
+        "潔しとしなかった": [
+          "was too proud to accept"
+        ],
+        "硬質": [
+          "hard, rigid"
+        ],
+        "自尊心": [
+          "pride, self-esteem"
+        ],
+        "羞恥心": [
+          "sense of shame"
+        ]
+      }
+    },
+    "de": {
+      "s": "Der Mond über dem Berg (Anfang)",
+      "g": {
+        "隴西": [
+          "Longxi (Ortsname)"
+        ],
+        "李徴": [
+          "Li Zheng (Name)"
+        ],
+        "才穎": [
+          "außergewöhnlich begabt"
+        ],
+        "虎榜": [
+          "Liste der erfolgreichen Prüflinge"
+        ],
+        "補せられた": [
+          "wurde ernannt"
+        ],
+        "狷介": [
+          "eigenbrötlerisch, unbeugsam"
+        ],
+        "恃む": [
+          "sich verlassen auf (sich selbst)"
+        ],
+        "頗る": [
+          "überaus"
+        ],
+        "賤吏": [
+          "kleiner Beamter"
+        ],
+        "潔しとしなかった": [
+          "hielt es für unter seiner Würde"
+        ],
+        "硬質": [
+          "hart, spröde"
+        ],
+        "自尊心": [
+          "Stolz, Selbstachtung"
+        ],
+        "羞恥心": [
+          "Schamgefühl"
+        ]
+      }
+    },
+    "hans": {
+      "s": "中岛敦《山月记》开头（1942）",
+      "g": {
+        "隴西": [
+          "陇西"
+        ],
+        "李徴": [
+          "李征"
+        ],
+        "才穎": [
+          "才华出众"
+        ],
+        "虎榜": [
+          "虎榜（进士榜）"
+        ],
+        "補せられた": [
+          "被补任为"
+        ],
+        "狷介": [
+          "狷介、孤傲不合群"
+        ],
+        "恃む": [
+          "自恃"
+        ],
+        "頗る": [
+          "颇为、非常"
+        ],
+        "賤吏": [
+          "小官吏"
+        ],
+        "潔しとしなかった": [
+          "不屑于、不甘心"
+        ],
+        "硬質": [
+          "刚硬、硬派"
+        ],
+        "自尊心": [
+          "自尊心"
+        ],
+        "羞恥心": [
+          "羞耻心"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "隴西的李徵，博學有才，天寶末年，年紀輕輕就名列虎榜，之後被任命為江南尉。然而他性格孤傲，極度自負，不甘心屈居卑微的小官之位。",
+      "zh-Hans": "陇西的李征，博学有才，天宝末年，年纪轻轻就名列虎榜，之后被任命为江南尉。然而他性格孤傲，极度自负，不甘心屈居卑微的小官之位。",
+      "en": "Li Zheng of Longxi was learned and talented. In the final years of the Tianbao era, while still young, he was listed on the Tiger Board of successful examination candidates, and was then appointed Commandant of Jiangnan. But his temperament was proud and aloof, and he held great self-regard, unwilling to be content with a lowly post.",
+      "de": "Li Zheng of Longxi was learned and talented. In the final years of the Tianbao era, while still young, he was listed on the Tiger Board of successful examination candidates, and was then appointed Commandant of Jiangnan. But his temperament was proud and aloof, and he held great self-regard, unwilling to be content with a lowly post."
+    },
+    {
+      "zh-Hant": "這是以唐代傳奇《人虎傳》為底本寫成的短篇。漢文訓讀體的剛硬文風，對於具備中文素養的讀者來說，或許反而容易閱讀。這是一個因為自尊心與羞恥心而變成老虎的男人的故事。",
+      "zh-Hans": "这是以唐代传奇《人虎传》为底本写成的短篇。汉文训读体的刚硬文风，对于具备中文素养的读者来说，或许反而容易阅读。这是一个因为自尊心与羞耻心而变成老虎的男人的故事。",
+      "en": "This short story is based on the Tang-dynasty tale 《人虎伝》 (The Man-Tiger Tale). Its hard, literary style in the manner of kanbun-kundoku may actually be easier to read for those with a background in Chinese. It is the story of a man who became a tiger because of his pride and his sense of shame.",
+      "de": "This short story is based on the Tang-dynasty tale 《人虎伝》 (The Man-Tiger Tale). Its hard, literary style in the manner of kanbun-kundoku may actually be easier to read for those with a background in Chinese. It is the story of a man who became a tiger because of his pride and his sense of shame."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": "d23",
+  "d": 23,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "語言雜談",
+    "ja": "ことば雑記"
+  },
+  "title": "「エモい」と「推し」",
+  "sub": "年輕人用語",
+  "body": "「この写真、[[エモい|エモい]]ね」。若い世代がよく使う「エモい」は、英語の emotional から来た言葉で、言葉にしにくい[[懐かしさ|なつかしさ]]や切なさ、心が[[揺さぶられる|ゆさぶられる]]感じを表す。古語の「[[あはれ|あわれ]]」に近い、と[[評する|ひょうする]]人もいる。\n\n「[[推し|おし]]」もすっかり定着した。もとはアイドルファンの言葉で、「[[推薦|すいせん]]したいほど好きなメンバー」のこと。今では俳優、[[キャラクター|キャラクター]]、[[ひいては|ひいては]]好きなパン屋まで「推し」と呼ぶ。「推し活」は、その対象を応援する活動全般を指す。\n\n新しい言葉を「日本語の乱れ」と[[眉をひそめる|まゆをひそめる]]向きもある。だが、言葉は使われる中でしか生き残れない。「エモい」が百年後の[[辞書|じしょ]]に残っているかどうか、確かめられないのが残念だ。",
+  "gloss": {
+    "エモい": {
+      "m": "感性、讓人觸動（emotional）"
+    },
+    "懐かしさ": {
+      "m": "懷念"
+    },
+    "揺さぶられる": {
+      "m": "被撼動"
+    },
+    "あはれ": {
+      "m": "物哀、感動",
+      "n": "古語，平安文學的核心美感。"
+    },
+    "評する": {
+      "m": "評論"
+    },
+    "推し": {
+      "m": "本命、最喜歡的偶像或角色"
+    },
+    "推薦": {
+      "m": "推薦"
+    },
+    "キャラクター": {
+      "m": "角色"
+    },
+    "ひいては": {
+      "m": "甚至、進而"
+    },
+    "眉をひそめる": {
+      "m": "皺眉（表示不以為然）"
+    },
+    "辞書": {
+      "m": "辭典"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "エモい and 推し: youth slang",
+      "g": {
+        "エモい": [
+          "emotional, touching"
+        ],
+        "懐かしさ": [
+          "nostalgia"
+        ],
+        "揺さぶられる": [
+          "to be shaken, moved"
+        ],
+        "あはれ": [
+          "pathos, being deeply moved",
+          "Classical word; core aesthetic of Heian literature."
+        ],
+        "評する": [
+          "to describe, comment on"
+        ],
+        "推し": [
+          "your fave, favourite idol or character"
+        ],
+        "推薦": [
+          "recommendation"
+        ],
+        "キャラクター": [
+          "character"
+        ],
+        "ひいては": [
+          "and by extension"
+        ],
+        "眉をひそめる": [
+          "to frown (in disapproval)"
+        ],
+        "辞書": [
+          "dictionary"
+        ]
+      }
+    },
+    "de": {
+      "s": "エモい und 推し: Jugendsprache",
+      "g": {
+        "エモい": [
+          "emotional, berührend"
+        ],
+        "懐かしさ": [
+          "Nostalgie"
+        ],
+        "揺さぶられる": [
+          "erschüttert, bewegt werden"
+        ],
+        "あはれ": [
+          "Ergriffenheit, Pathos",
+          "Klassisches Wort; Kernästhetik der Heian-Literatur."
+        ],
+        "評する": [
+          "beurteilen, beschreiben"
+        ],
+        "推し": [
+          "Lieblingsidol, Favorit"
+        ],
+        "推薦": [
+          "Empfehlung"
+        ],
+        "キャラクター": [
+          "Figur"
+        ],
+        "ひいては": [
+          "und damit letztlich"
+        ],
+        "眉をひそめる": [
+          "die Stirn runzeln"
+        ],
+        "辞書": [
+          "Wörterbuch"
+        ]
+      }
+    },
+    "hans": {
+      "s": "年轻人用语",
+      "g": {
+        "エモい": [
+          "感性、让人触动（emotional）"
+        ],
+        "懐かしさ": [
+          "怀念"
+        ],
+        "揺さぶられる": [
+          "被撼动"
+        ],
+        "あはれ": [
+          "物哀、感动",
+          "古语，平安文学的核心美感。"
+        ],
+        "評する": [
+          "评论"
+        ],
+        "推し": [
+          "本命、最喜欢的偶像或角色"
+        ],
+        "推薦": [
+          "推荐"
+        ],
+        "キャラクター": [
+          "角色"
+        ],
+        "ひいては": [
+          "甚至、进而"
+        ],
+        "眉をひそめる": [
+          "皱眉（表示不以为然）"
+        ],
+        "辞書": [
+          "辞典"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「這張照片好 emo 喔。」年輕世代常用的「エモい」，源自英文的 emotional，用來形容難以言喻的懷念、心酸，或是內心被觸動的感覺。也有人認為它接近古語中的「あはれ」。",
+      "zh-Hans": "「这张照片好 emo 喔。」年轻世代常用的「エモい」，源自英文的 emotional，用来形容难以言喻的怀念、心酸，或是内心被触动的感觉。也有人认为它接近古语中的「あはれ」。",
+      "en": "\"This photo is so emotional, you know?\" 「エモい」, which young people often use, comes from the English word \"emotional\" and expresses nostalgia, bittersweetness, or a feeling of being moved in a way that is hard to put into words. Some people compare it to the classical word 「あはれ」.",
+      "de": "\"This photo is so emotional, you know?\" 「エモい」, which young people often use, comes from the English word \"emotional\" and expresses nostalgia, bittersweetness, or a feeling of being moved in a way that is hard to put into words. Some people compare it to the classical word 「あはれ」."
+    },
+    {
+      "zh-Hant": "「推し」也已經完全普及。它原本是偶像粉絲的用語，指「值得向別人推薦的、最喜歡的成員」。如今連演員、角色，甚至喜歡的麵包店，都會被稱為「推し」。「推し活」則泛指支持自己所喜愛對象的各種活動。",
+      "zh-Hans": "「推し」也已经完全普及。它原本是偶像粉丝的用语，指「值得向别人推荐的、最喜欢的成员」。如今连演员、角色，甚至喜欢的面包店，都会被称为「推し」。「推し活」则泛指支持自己所喜爱对象的各种活动。",
+      "en": "「推し」 has also become thoroughly established. Originally a term used by idol fans, it meant \"a member you love enough to recommend to others.\" Today, actors, characters, and even a favorite bakery can be called 「推し」. 「推し活」 refers to all the activities of supporting whatever you adore.",
+      "de": "「推し」 has also become thoroughly established. Originally a term used by idol fans, it meant \"a member you love enough to recommend to others.\" Today, actors, characters, and even a favorite bakery can be called 「推し」. 「推し活」 refers to all the activities of supporting whatever you adore."
+    },
+    {
+      "zh-Hant": "也有人皺眉頭，覺得新詞是「日語的混亂」。但語言只有在被使用的過程中才能存活。「エモい」一百年後是否還會留在辭典裡，目前無從確認，這一點令人遺憾。",
+      "zh-Hans": "也有人皱眉头，觉得新词是「日语的混乱」。但语言只有在被使用的过程中才能存活。「エモい」一百年后是否还会留在辞典里，目前无从确认，这一点令人遗憾。",
+      "en": "Some people frown on new words as \"the corruption of Japanese.\" But a language survives only through being used. It is a pity that no one can know whether 「エモい」 will still be in dictionaries a hundred years from now.",
+      "de": "Some people frown on new words as \"the corruption of Japanese.\" But a language survives only through being used. It is a pity that no one can know whether 「エモい」 will still be in dictionaries a hundred years from now."
+    }
+  ]
+}

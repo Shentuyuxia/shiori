@@ -1,0 +1,207 @@
+{
+  "id": "d36",
+  "d": 36,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "專欄",
+    "ja": "コラム"
+  },
+  "title": "行間を読む",
+  "sub": "讀出字裡行間",
+  "body": "日本語には「[[行間|ぎょうかん]]を読む」という言い方がある。文字に書かれていないことを[[汲み取る|くみとる]]、という意味だ。手紙やメールだけでなく、会話にも使う。\n\nたとえば、取引先に提案をして「[[前向きに|まえむきに]]検討します」と言われたとする。[[字面|じづら]]通りなら「[[積極的|せっきょくてき]]に考える」だが、実際には[[断り|ことわり]]の[[決まり文句|きまりもんく]]として使われることも少なくない。逆に、[[即答|そくとう]]で「やりましょう」と言われると、日本ではかえって驚かれることもある。\n\n行間を読む文化は、[[衝突|しょうとつ]]を避け、相手の面子を守る[[潤滑油|じゅんかつゆ]]として働いてきた。だが、外国から来た人や、言葉を額面通りに受け取る人にとっては、見えない[[壁|かべ]]にもなる。[[察し|さっし]]の文化は、察せない人を[[置き去り|おきざり]]にしやすいのだ。",
+  "gloss": {
+    "行間": {
+      "m": "字裡行間"
+    },
+    "汲み取る": {
+      "m": "體察、領會"
+    },
+    "前向きに": {
+      "m": "積極地、正面地"
+    },
+    "字面": {
+      "m": "字面"
+    },
+    "積極的": {
+      "m": "積極"
+    },
+    "断り": {
+      "m": "拒絕"
+    },
+    "決まり文句": {
+      "m": "套話"
+    },
+    "即答": {
+      "m": "立即回答"
+    },
+    "衝突": {
+      "m": "衝突"
+    },
+    "潤滑油": {
+      "m": "潤滑劑"
+    },
+    "壁": {
+      "m": "牆、障礙"
+    },
+    "察し": {
+      "m": "體察、察覺"
+    },
+    "置き去り": {
+      "m": "丟下、拋在後頭"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Reading between the lines",
+      "g": {
+        "行間": [
+          "between the lines"
+        ],
+        "汲み取る": [
+          "to grasp, read (someone's intent)"
+        ],
+        "前向きに": [
+          "positively"
+        ],
+        "字面": [
+          "literal wording"
+        ],
+        "積極的": [
+          "proactive"
+        ],
+        "断り": [
+          "refusal"
+        ],
+        "決まり文句": [
+          "stock phrase"
+        ],
+        "即答": [
+          "immediate answer"
+        ],
+        "衝突": [
+          "clash"
+        ],
+        "潤滑油": [
+          "lubricant"
+        ],
+        "壁": [
+          "wall, barrier"
+        ],
+        "察し": [
+          "intuition, perceptiveness"
+        ],
+        "置き去り": [
+          "left behind"
+        ]
+      }
+    },
+    "de": {
+      "s": "Zwischen den Zeilen lesen",
+      "g": {
+        "行間": [
+          "zwischen den Zeilen"
+        ],
+        "汲み取る": [
+          "erfassen, herauslesen"
+        ],
+        "前向きに": [
+          "positiv, wohlwollend"
+        ],
+        "字面": [
+          "Wortlaut"
+        ],
+        "積極的": [
+          "aktiv, engagiert"
+        ],
+        "断り": [
+          "Absage"
+        ],
+        "決まり文句": [
+          "Floskel"
+        ],
+        "即答": [
+          "sofortige Antwort"
+        ],
+        "衝突": [
+          "Konflikt"
+        ],
+        "潤滑油": [
+          "Schmiermittel"
+        ],
+        "壁": [
+          "Wand, Hürde"
+        ],
+        "察し": [
+          "Gespür"
+        ],
+        "置き去り": [
+          "zurückgelassen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "读出字里行间",
+      "g": {
+        "行間": [
+          "字里行间"
+        ],
+        "汲み取る": [
+          "体察、领会"
+        ],
+        "前向きに": [
+          "积极地、正面地"
+        ],
+        "字面": [
+          "字面"
+        ],
+        "積極的": [
+          "积极"
+        ],
+        "断り": [
+          "拒绝"
+        ],
+        "決まり文句": [
+          "套话"
+        ],
+        "即答": [
+          "立即回答"
+        ],
+        "衝突": [
+          "冲突"
+        ],
+        "潤滑油": [
+          "润滑剂"
+        ],
+        "壁": [
+          "墙、障碍"
+        ],
+        "察し": [
+          "体察、察觉"
+        ],
+        "置き去り": [
+          "丢下、抛在后头"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日語裡有一種說法叫「讀行間」。意思是領會文字沒有寫出來的內容。不只用於書信或電郵，也用於對話。",
+      "zh-Hans": "日语里有一种说法叫「读行间」。意思是领会文本没有写出来的内容。不只用于书信或电邮，也用于对话。",
+      "en": "In Japanese there is an expression, 「行間を読む」, \"to read between the lines.\" It means to grasp what has not been written. It is used not only for letters and emails but also in conversation.",
+      "de": "In Japanese there is an expression, 「行間を読む」, \"to read between the lines.\" It means to grasp what has not been written. It is used not only for letters and emails but also in conversation."
+    },
+    {
+      "zh-Hant": "舉例來說，你向客戶提了一個方案，對方回答「我們會積極研究」。照字面看，是「會認真考慮」，但實際上，這往往是拒絕時的固定說法。反過來，如果對方立刻回答「好，就這麼做」，在日本反而會讓人感到驚訝。",
+      "zh-Hans": "举例来说，你向客户提了一个方案，对方回答「我们会积极研究」。照字面看，是「会认真考虑」，但实际上，这往往是拒绝时的固定说法。反过来，如果对方立刻回答「好，就这么做」，在日本反而会让人感到惊讶。",
+      "en": "For example, you propose a plan to a client, and they reply, \"We will consider it positively.\" Taken literally, that means \"we will seriously think about it,\" but in practice it is often a set phrase for declining. Conversely, if they immediately say \"Yes, let's do it,\" Japanese people may actually be surprised.",
+      "de": "For example, you propose a plan to a client, and they reply, \"We will consider it positively.\" Taken literally, that means \"we will seriously think about it,\" but in practice it is often a set phrase for declining. Conversely, if they immediately say \"Yes, let's do it,\" Japanese people may actually be surprised."
+    },
+    {
+      "zh-Hant": "讀行間的文化，一直以來都發揮著潤滑油的作用，用來避免衝突、維護對方的顏面。但對於來自國外的人，或是凡事照字面理解的人來說，它也可能成為看不見的高牆。體察他人的文化，很容易把無法體察的人留在後面。",
+      "zh-Hans": "读行间的文化，一直以来都发挥着润滑油的作用，用来避免冲突、维护对方的颜面。但对于来自国外的人，或是凡事照字面理解的人来说，它也可能成为看不见的高墙。体察他人的文化，很容易把无法体察的人留在后面。",
+      "en": "The culture of reading between the lines has long worked as a lubricant, avoiding conflict and protecting the other person's face. But for people from abroad, or for those who take words at face value, it can also become an invisible wall. A culture of sensing what others mean can easily leave behind those who cannot sense it.",
+      "de": "The culture of reading between the lines has long worked as a lubricant, avoiding conflict and protecting the other person's face. But for people from abroad, or for those who take words at face value, it can also become an invisible wall. A culture of sensing what others mean can easily leave behind those who cannot sense it."
+    }
+  ]
+}

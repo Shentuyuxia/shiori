@@ -1,0 +1,134 @@
+{
+  "id": "d42",
+  "d": 42,
+  "lv": "x",
+  "genre": {
+    "zh-Hant": "古典",
+    "ja": "古典"
+  },
+  "title": "徒然草（序段）",
+  "sub": "吉田兼好《徒然草》序段（約1330）",
+  "src": "兼好法師『徒然草』",
+  "body": "[[つれづれなるままに|つれづれなるままに]]、[[日暮らし|ひぐらし]]、[[硯|すずり]]にむかひて、心にうつりゆく[[よしなし事|よしなしごと]]を、[[そこはかとなく|そこはかとなく]]書きつくれば、[[あやしうこそものぐるほしけれ|あやしゅうこそものぐるおしけれ]]。\n\n【現代語訳】することもなく退屈なのにまかせて、一日中、硯に向かって、心に浮かんでは消えていくとりとめもないことを、なんとなく書きつけていると、[[妙に|みょうに]]おかしな気分になってくる。",
+  "gloss": {
+    "つれづれなるままに": {
+      "m": "百無聊賴之際"
+    },
+    "日暮らし": {
+      "m": "整日"
+    },
+    "硯": {
+      "m": "硯台"
+    },
+    "よしなし事": {
+      "m": "無關緊要的瑣事"
+    },
+    "そこはかとなく": {
+      "m": "漫無邊際地、隨意地"
+    },
+    "あやしうこそものぐるほしけれ": {
+      "m": "不可思議地心緒紛亂起來",
+      "n": "「こそ～けれ」是係結法。讀作「あやしゅうこそものぐるおしけれ」。"
+    },
+    "妙に": {
+      "m": "莫名地"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Essays in Idleness (prologue)",
+      "g": {
+        "つれづれなるままに": [
+          "in idle hours, with nothing to do"
+        ],
+        "日暮らし": [
+          "all day long"
+        ],
+        "硯": [
+          "inkstone"
+        ],
+        "よしなし事": [
+          "trivial things"
+        ],
+        "そこはかとなく": [
+          "aimlessly, as they come"
+        ],
+        "あやしうこそものぐるほしけれ": [
+          "strangely, my mind grows unsettled",
+          "「こそ～けれ」 is the kakari-musubi construction. Read あやしゅうこそものぐるおしけれ."
+        ],
+        "妙に": [
+          "strangely"
+        ]
+      }
+    },
+    "de": {
+      "s": "Betrachtungen aus der Stille (Vorwort)",
+      "g": {
+        "つれづれなるままに": [
+          "in müßigen Stunden, ohne Beschäftigung"
+        ],
+        "日暮らし": [
+          "den ganzen Tag"
+        ],
+        "硯": [
+          "Tuschestein"
+        ],
+        "よしなし事": [
+          "belanglose Dinge"
+        ],
+        "そこはかとなく": [
+          "ziellos, wie es gerade kommt"
+        ],
+        "あやしうこそものぐるほしけれ": [
+          "seltsam unruhig wird mir zumute",
+          "„こそ～けれ“ ist die Kakari-musubi-Konstruktion. Gelesen あやしゅうこそものぐるおしけれ."
+        ],
+        "妙に": [
+          "seltsamerweise"
+        ]
+      }
+    },
+    "hans": {
+      "s": "吉田兼好《徒然草》序段（约1330）",
+      "g": {
+        "つれづれなるままに": [
+          "百无聊赖之际"
+        ],
+        "日暮らし": [
+          "整日"
+        ],
+        "硯": [
+          "砚台"
+        ],
+        "よしなし事": [
+          "无关紧要的琐事"
+        ],
+        "そこはかとなく": [
+          "漫无边际地、随意地"
+        ],
+        "あやしうこそものぐるほしけれ": [
+          "不可思议地心绪纷乱起来",
+          "「こそ～けれ」是系结法。读作「あやしゅうこそものぐるおしけれ」。"
+        ],
+        "妙に": [
+          "莫名地"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "無所事事，每天對著硯台，把心中浮現又消失的瑣碎念頭，隨意寫下來，竟會令人覺得奇怪而又有些瘋狂。",
+      "zh-Hans": "无所事事，每天对着砚台，把心中浮现又消失的琐碎念头，随意写下来，竟会令人觉得奇怪而又有些疯狂。",
+      "en": "With nothing to do, day after day, sitting before my inkstone, I idly write down the trivial thoughts that drift through my mind, and it feels strangely, almost madly, delightful.",
+      "de": "With nothing to do, day after day, sitting before my inkstone, I idly write down the trivial thoughts that drift through my mind, and it feels strangely, almost madly, delightful."
+    },
+    {
+      "zh-Hant": "【白話譯】無事可做、百無聊賴，整日面對著硯台，把心中來來去去、沒有頭緒的事，隨意寫下來，竟覺得有些奇妙的好笑。",
+      "zh-Hans": "【白话译】无事可做、百无聊赖，整日面对着砚台，把心中来来去去、没有头绪的事，随意写下来，竟觉得有些奇妙的好笑。",
+      "en": "[Modern translation] With nothing to do and time hanging heavy, I sit all day before my inkstone and casually jot down the aimless thoughts that come and go in my mind, and somehow it feels oddly amusing.",
+      "de": "[Modern translation] With nothing to do and time hanging heavy, I sit all day before my inkstone and casually jot down the aimless thoughts that come and go in my mind, and somehow it feels oddly amusing."
+    }
+  ]
+}

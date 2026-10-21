@@ -1,0 +1,151 @@
+{
+  "id": "d22",
+  "d": 22,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "旅行",
+    "ja": "旅"
+  },
+  "title": "金沢の「弁当忘れても傘忘れるな」",
+  "sub": "金澤：便當可以忘，傘不能忘",
+  "body": "石川県の金沢には、「弁当忘れても傘忘れるな」という言葉がある。晴れていたかと思えば急に[[時雨れる|しぐれる]]。それほど天気が変わりやすい土地だということだ。\n\n特に晩秋から冬にかけては、日本海からの湿った風が山にぶつかり、雨や雪の日が続く。[[兼六園|けんろくえん]]では、雪の[[重み|おもみ]]で枝が折れないよう、松に縄を張る「[[雪吊り|ゆきづり]]」が始まる。[[円錐形|えんすいけい]]に張られた縄は、金沢の冬の[[風物詩|ふうぶつし]]だ。\n\n雨の多い町は、どこか[[しっとり|しっとり]]とした美しさを持つ。濡れた石畳の[[茶屋街|ちゃやがい]]を、傘を差して歩くのも悪くない。もちろん、傘は忘れずに。",
+  "gloss": {
+    "時雨れる": {
+      "m": "下陣雨",
+      "n": "名詞「時雨（しぐれ）」是晚秋初冬的季語。"
+    },
+    "兼六園": {
+      "m": "兼六園（日本三名園之一）"
+    },
+    "重み": {
+      "m": "重量"
+    },
+    "雪吊り": {
+      "m": "雪吊（防雪壓的繩架）"
+    },
+    "円錐形": {
+      "m": "圓錐形"
+    },
+    "風物詩": {
+      "m": "季節的代表景物"
+    },
+    "しっとり": {
+      "m": "溫潤沉靜"
+    },
+    "茶屋街": {
+      "m": "茶屋街（藝妓街）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Kanazawa: forget your lunch, never your umbrella",
+      "g": {
+        "時雨れる": [
+          "to shower intermittently",
+          "The noun 時雨 (しぐれ) is a late-autumn/early-winter kigo."
+        ],
+        "兼六園": [
+          "Kenroku-en (one of Japan's three great gardens)"
+        ],
+        "重み": [
+          "weight"
+        ],
+        "雪吊り": [
+          "yukitsuri (rope supports against snow)"
+        ],
+        "円錐形": [
+          "cone shape"
+        ],
+        "風物詩": [
+          "a seasonal sight"
+        ],
+        "しっとり": [
+          "calm and graceful"
+        ],
+        "茶屋街": [
+          "teahouse district (geisha quarter)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Kanazawa: Vergiss das Bentō, nie den Schirm",
+      "g": {
+        "時雨れる": [
+          "Schauer fallen",
+          "Das Nomen 時雨 (しぐれ) ist ein Kigo für Spätherbst/Frühwinter."
+        ],
+        "兼六園": [
+          "Kenroku-en (einer der drei berühmtesten Gärten Japans)"
+        ],
+        "重み": [
+          "Gewicht"
+        ],
+        "雪吊り": [
+          "Yukitsuri (Seilstützen gegen Schneelast)"
+        ],
+        "円錐形": [
+          "Kegelform"
+        ],
+        "風物詩": [
+          "typisches Bild der Jahreszeit"
+        ],
+        "しっとり": [
+          "ruhig und anmutig"
+        ],
+        "茶屋街": [
+          "Teehausviertel (Geisha-Viertel)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "金泽：便当可以忘，伞不能忘",
+      "g": {
+        "時雨れる": [
+          "下阵雨",
+          "名词「时雨（しぐれ）」是晚秋初冬的季语。"
+        ],
+        "兼六園": [
+          "兼六园（日本三名园之一）"
+        ],
+        "重み": [
+          "重量"
+        ],
+        "雪吊り": [
+          "雪吊（防雪压的绳架）"
+        ],
+        "円錐形": [
+          "圆锥形"
+        ],
+        "風物詩": [
+          "季节的代表景物"
+        ],
+        "しっとり": [
+          "温润沉静"
+        ],
+        "茶屋街": [
+          "茶屋街（艺妓街）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "石川縣的金澤有一句話：「便當忘了帶沒關係，傘可不能忘。」明明剛才還是晴天，轉眼間就下起時雨。這正說明了這塊土地的天氣變化有多快。",
+      "zh-Hans": "石川县的金泽有一句话：「便当忘了带没关系，伞可不能忘。」明明刚才还是晴天，转眼间就下起时雨。这正说明了这块土地的天气变化有多快。",
+      "en": "In Kanazawa in Ishikawa Prefecture, there is a saying: \"You can forget your lunch, but never forget your umbrella.\" It may be sunny one moment and suddenly start raining the next. This tells you how quickly the weather changes in this land.",
+      "de": "In Kanazawa in Ishikawa Prefecture, there is a saying: \"You can forget your lunch, but never forget your umbrella.\" It may be sunny one moment and suddenly start raining the next. This tells you how quickly the weather changes in this land."
+    },
+    {
+      "zh-Hant": "特別是從晚秋到冬季，來自日本海的濕潤風撞上山脈，雨雪天氣會持續好一段時間。在兼六園，為了不讓積雪壓斷樹枝，會在松樹上拉起繩索，這就是「雪吊」的開始。呈圓錐形拉開的繩索，是金澤冬天的風物詩。",
+      "zh-Hans": "特别是从晚秋到冬季，来自日本海的湿润风撞上山脉，雨雪天气会持续好一段时间。在兼六园，为了不让积雪压断树枝，会在松树上拉起绳索，这就是「雪吊」的开始。呈圆锥形拉开的绳索，是金泽冬天的风物诗。",
+      "en": "Especially from late autumn into winter, the moist winds from the Sea of Japan collide with the mountains, and rainy and snowy days continue for a long time. At Kenrokuen, ropes are strung across the pines to keep the branches from snapping under the weight of snow. This is the beginning of 「雪吊り」. The ropes stretched into cone shapes are a seasonal icon of Kanazawa's winter.",
+      "de": "Especially from late autumn into winter, the moist winds from the Sea of Japan collide with the mountains, and rainy and snowy days continue for a long time. At Kenrokuen, ropes are strung across the pines to keep the branches from snapping under the weight of snow. This is the beginning of 「雪吊り」. The ropes stretched into cone shapes are a seasonal icon of Kanazawa's winter."
+    },
+    {
+      "zh-Hant": "多雨的城鎮，有一種說不出的溫潤之美。撐著傘走在濕漉漉的石板路上，穿過茶屋街，也很不錯。當然，傘可別忘了帶。",
+      "zh-Hans": "多雨的城镇，有一种说不出的温润之美。撑着伞走在湿漉漉的石板路上，穿过茶屋街，也很不错。当然，伞可别忘了带。",
+      "en": "A town with much rain has a moist, gentle beauty of its own. Walking under an umbrella along the wet stone-paved streets of the Chaya district is also lovely. And of course, don't forget your umbrella.",
+      "de": "A town with much rain has a moist, gentle beauty of its own. Walking under an umbrella along the wet stone-paved streets of the Chaya district is also lovely. And of course, don't forget your umbrella."
+    }
+  ]
+}

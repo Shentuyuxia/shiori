@@ -1,0 +1,159 @@
+{
+  "id": "d56",
+  "d": 56,
+  "lv": "x",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "俳句・短歌",
+    "ja": "俳句・短歌"
+  },
+  "title": "雪の句",
+  "sub": "一茶與子規的雪之句",
+  "src": "小林一茶／正岡子規",
+  "body": "これがまあ　[[終の栖|ついのすみか]]か　雪五尺\n（小林一茶）\n\nいくたびも　雪の深さを　[[尋ねけり|たずねけり]]\n（正岡子規）\n\n一茶の句は、[[故郷|こきょう]]の信濃に戻り、晩年を過ごすことに決めたときのもの。五尺（約一・五メートル）もの雪に埋もれた家を見て、「これが自分の最後の住まいか」とつぶやく。あきらめとも[[安堵|あんど]]ともつかない、複雑な[[心境|しんきょう]]が[[にじむ|にじむ]]。\n\n子規の句は、[[病床|びょうしょう]]で作られた。病気で起き上がれない子規は、外に雪が降っていると知り、どれくらい積もったかと何度も家族に尋ねる。自分の目で見られない雪への[[憧れ|あこがれ]]が、十七音に込められている。",
+  "gloss": {
+    "終の栖": {
+      "m": "最後的棲身之所"
+    },
+    "尋ねけり": {
+      "m": "詢問了（多次）",
+      "n": "「けり」是表示詠嘆的文語助動詞。"
+    },
+    "故郷": {
+      "m": "故鄉"
+    },
+    "安堵": {
+      "m": "安心"
+    },
+    "心境": {
+      "m": "心境"
+    },
+    "にじむ": {
+      "m": "滲出、流露"
+    },
+    "病床": {
+      "m": "病床"
+    },
+    "憧れ": {
+      "m": "嚮往"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Snow haiku by Issa and Shiki",
+      "g": {
+        "終の栖": [
+          "final resting place"
+        ],
+        "尋ねけり": [
+          "asked (again and again)",
+          "「けり」 is a literary auxiliary expressing emotion."
+        ],
+        "故郷": [
+          "hometown"
+        ],
+        "安堵": [
+          "relief"
+        ],
+        "心境": [
+          "state of mind"
+        ],
+        "にじむ": [
+          "to show through"
+        ],
+        "病床": [
+          "sickbed"
+        ],
+        "憧れ": [
+          "longing"
+        ]
+      }
+    },
+    "de": {
+      "s": "Schnee-Haiku von Issa und Shiki",
+      "g": {
+        "終の栖": [
+          "letzte Bleibe"
+        ],
+        "尋ねけり": [
+          "fragte (immer wieder)",
+          "„けり“ ist ein literarisches Hilfsverb des Ausrufs."
+        ],
+        "故郷": [
+          "Heimat"
+        ],
+        "安堵": [
+          "Erleichterung"
+        ],
+        "心境": [
+          "Gemütsverfassung"
+        ],
+        "にじむ": [
+          "durchscheinen"
+        ],
+        "病床": [
+          "Krankenbett"
+        ],
+        "憧れ": [
+          "Sehnsucht"
+        ]
+      }
+    },
+    "hans": {
+      "s": "一茶与子规的雪之句",
+      "g": {
+        "終の栖": [
+          "最后的栖身之所"
+        ],
+        "尋ねけり": [
+          "询问了（多次）",
+          "「けり」是表示咏叹的文语助动词。"
+        ],
+        "故郷": [
+          "故乡"
+        ],
+        "安堵": [
+          "安心"
+        ],
+        "心境": [
+          "心境"
+        ],
+        "にじむ": [
+          "渗出、流露"
+        ],
+        "病床": [
+          "病床"
+        ],
+        "憧れ": [
+          "向往"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「這裡就是我的終老之所嗎，積雪五尺深」（小林一茶）",
+      "zh-Hans": "「这里就是我的终老之所吗，积雪五尺深」（小林一茶）",
+      "en": "So this is to be my final dwelling place, under snow five shaku deep.\n(Kobayashi Issa)",
+      "de": "So this is to be my final dwelling place, under snow five shaku deep.\n(Kobayashi Issa)"
+    },
+    {
+      "zh-Hant": "「一次又一次，問著雪積得有多深」（正岡子規）",
+      "zh-Hans": "「一次又一次，问着雪积得有多深」（正冈子规）",
+      "en": "Again and again, I ask how deep the snow has piled up.\n(Masaoka Shiki)",
+      "de": "Again and again, I ask how deep the snow has piled up.\n(Masaoka Shiki)"
+    },
+    {
+      "zh-Hant": "一茶的這首句，是他決定回到故鄉信濃，度過晚年時所作。看著被五尺（約一.五公尺）積雪掩埋的房子，他喃喃自語：「這就是我最後的住所嗎？」字裡行間透出一種說不清是認命還是安心的複雜心境。",
+      "zh-Hans": "一茶的这首句，是他决定回到故乡信浓，度过晚年时所作。看着被五尺（约一.五公尺）积雪掩埋的房子，他喃喃自语：「这就是我最后的住所吗？」字里行间透出一种说不清是认命还是安心的复杂心境。",
+      "en": "Issa's verse was written when he decided to return to his hometown of Shinano and spend his final years there. Looking at a house buried under snow five shaku deep, he murmurs, \"Is this to be my last dwelling?\" The verse carries a complex mood, neither quite resignation nor quite relief.",
+      "de": "Issa's verse was written when he decided to return to his hometown of Shinano and spend his final years there. Looking at a house buried under snow five shaku deep, he murmurs, \"Is this to be my last dwelling?\" The verse carries a complex mood, neither quite resignation nor quite relief."
+    },
+    {
+      "zh-Hant": "子規的這首句，是在病床上寫的。因為生病而無法起身的子規，聽說外面下雪了，就一次又一次地問家人積了多深。無法親眼看見雪的那份憧憬，就凝聚在這十七個音節裡。",
+      "zh-Hans": "子规的这首句，是在病床上写的。因为生病而无法起身的子规，听说外面下雪了，就一次又一次地问家人积了多深。无法亲眼看见雪的那份憧憬，就凝聚在这十七个音节里。",
+      "en": "Shiki's verse was written from his sickbed. Too ill to get up, he heard that it was snowing outside and asked his family again and again how deep it had piled. The longing for snow he could not see with his own eyes is packed into these seventeen syllables.",
+      "de": "Shiki's verse was written from his sickbed. Too ill to get up, he heard that it was snowing outside and asked his family again and again how deep it had piled. The longing for snow he could not see with his own eyes is packed into these seventeen syllables."
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "id": "d68",
+  "d": 68,
+  "lv": "x",
+  "genre": {
+    "zh-Hant": "古典",
+    "ja": "古典"
+  },
+  "title": "平家物語（冒頭）",
+  "sub": "《平家物語》開頭（13世紀）",
+  "src": "『平家物語』巻第一",
+  "body": "[[祇園精舎|ぎおんしょうじゃ]]の鐘の声、[[諸行無常|しょぎょうむじょう]]の響きあり。[[沙羅双樹|さらそうじゅ]]の花の色、[[盛者必衰|じょうしゃひっすい]]の[[理|ことわり]]を[[あらはす|あらわす]]。[[おごれる人|おごれるひと]]も久しからず、ただ春の夜の夢のごとし。[[たけき者|たけきもの]]も[[遂にはほろびぬ|ついにはほろびぬ]]、[[ひとへに|ひとえに]]風の前の[[塵|ちり]]に同じ。\n\n【現代語訳】祇園精舎の鐘の音には、すべてのものは移り変わるという響きがある。沙羅双樹の花の色は、勢いの盛んな者も必ず衰えるという道理を表している。[[驕り高ぶる|おごりたかぶる]]人も長くは続かない。ただ春の夜の夢のようにはかない。勇ましい者もついには滅びる。まったく風の前の塵と同じである。",
+  "gloss": {
+    "祇園精舎": {
+      "m": "祇園精舍"
+    },
+    "諸行無常": {
+      "m": "諸行無常"
+    },
+    "沙羅双樹": {
+      "m": "娑羅雙樹"
+    },
+    "盛者必衰": {
+      "m": "盛者必衰",
+      "n": "「盛者」讀「じょうしゃ」。"
+    },
+    "理": {
+      "m": "道理"
+    },
+    "あらはす": {
+      "m": "顯示",
+      "n": "歷史假名，讀作「あらわす」。"
+    },
+    "おごれる人": {
+      "m": "驕奢之人"
+    },
+    "たけき者": {
+      "m": "勇猛之人"
+    },
+    "遂にはほろびぬ": {
+      "m": "終究滅亡了"
+    },
+    "ひとへに": {
+      "m": "完全、簡直"
+    },
+    "塵": {
+      "m": "塵土"
+    },
+    "驕り高ぶる": {
+      "m": "驕傲自大"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The Tale of the Heike (opening)",
+      "g": {
+        "祇園精舎": [
+          "Jetavana monastery"
+        ],
+        "諸行無常": [
+          "all things are impermanent"
+        ],
+        "沙羅双樹": [
+          "sal trees"
+        ],
+        "盛者必衰": [
+          "the mighty must fall",
+          "盛者 is read じょうしゃ."
+        ],
+        "理": [
+          "truth, principle"
+        ],
+        "あらはす": [
+          "to show",
+          "Historical kana, read あらわす."
+        ],
+        "おごれる人": [
+          "the arrogant"
+        ],
+        "たけき者": [
+          "the brave and fierce"
+        ],
+        "遂にはほろびぬ": [
+          "in the end they perish"
+        ],
+        "ひとへに": [
+          "just, entirely"
+        ],
+        "塵": [
+          "dust"
+        ],
+        "驕り高ぶる": [
+          "to be haughty"
+        ]
+      }
+    },
+    "de": {
+      "s": "Die Geschichte der Heike (Anfang)",
+      "g": {
+        "祇園精舎": [
+          "Jetavana-Kloster"
+        ],
+        "諸行無常": [
+          "alles ist vergänglich"
+        ],
+        "沙羅双樹": [
+          "Salbäume"
+        ],
+        "盛者必衰": [
+          "die Mächtigen müssen fallen",
+          "盛者 wird じょうしゃ gelesen."
+        ],
+        "理": [
+          "Wahrheit, Prinzip"
+        ],
+        "あらはす": [
+          "zeigen",
+          "Historische Kana, gelesen あらわす."
+        ],
+        "おごれる人": [
+          "die Hochmütigen"
+        ],
+        "たけき者": [
+          "die Tapferen"
+        ],
+        "遂にはほろびぬ": [
+          "am Ende gehen sie zugrunde"
+        ],
+        "ひとへに": [
+          "ganz und gar"
+        ],
+        "塵": [
+          "Staub"
+        ],
+        "驕り高ぶる": [
+          "überheblich sein"
+        ]
+      }
+    },
+    "hans": {
+      "s": "《平家物语》开头（13世纪）",
+      "g": {
+        "祇園精舎": [
+          "祇园精舍"
+        ],
+        "諸行無常": [
+          "诸行无常"
+        ],
+        "沙羅双樹": [
+          "娑罗双树"
+        ],
+        "盛者必衰": [
+          "盛者必衰",
+          "「盛者」读「じょうしゃ」。"
+        ],
+        "理": [
+          "道理"
+        ],
+        "あらはす": [
+          "显示",
+          "历史假名，读作「あらわす」。"
+        ],
+        "おごれる人": [
+          "骄奢之人"
+        ],
+        "たけき者": [
+          "勇猛之人"
+        ],
+        "遂にはほろびぬ": [
+          "终究灭亡了"
+        ],
+        "ひとへに": [
+          "完全、简直"
+        ],
+        "塵": [
+          "尘土"
+        ],
+        "驕り高ぶる": [
+          "骄傲自大"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "祇園精舍的鐘聲，有著諸行無常的迴響。沙羅雙樹的花色，顯示出盛者必衰的道理。驕傲的人也不會長久，只如春夜的一場夢。勇猛的人終究也會滅亡，完全與風前的塵土一樣。",
+      "zh-Hans": "祇园精舍的钟声，有着诸行无常的回响。沙罗双树的花色，显示出盛者必衰的道理。骄傲的人也不会长久，只如春夜的一场梦。勇猛的人终究也会灭亡，完全与风前的尘土一样。",
+      "en": "The bell of the Gion Shōja temple rings with the sound of impermanence: all things change. The color of the sala tree blossoms reveals the truth that the mighty must decline. The proud do not endure for long; they are but a dream of a spring night. The brave, too, will in the end perish, no different from dust before the wind.",
+      "de": "The bell of the Gion Shōja temple rings with the sound of impermanence: all things change. The color of the sala tree blossoms reveals the truth that the mighty must decline. The proud do not endure for long; they are but a dream of a spring night. The brave, too, will in the end perish, no different from dust before the wind."
+    },
+    {
+      "zh-Hant": "【白話譯】祇園精舍的鐘聲，蘊含著萬物都會變遷的迴響。沙羅雙樹花的顏色，說明了盛極的人必定衰敗的道理。驕傲的人也不會長久，只是像春夜的夢一樣短暫。勇猛的人最終也會滅亡，完全就像風前的塵土。",
+      "zh-Hans": "【白话译】祇园精舍的钟声，蕴含着万物都会变迁的回响。沙罗双树花的颜色，说明了盛极的人必定衰败的道理。骄傲的人也不会长久，只是像春夜的梦一样短暂。勇猛的人最终也会灭亡，完全就像风前的尘土。",
+      "en": "[Modern translation] The bell of the Gion Shōja temple carries the echo that everything changes. The color of the sala blossoms shows the principle that those at their height must decline. The arrogant do not last long; they are fleeting, like a dream of a spring night. The brave too will ultimately perish, just like dust before the wind.",
+      "de": "[Modern translation] The bell of the Gion Shōja temple carries the echo that everything changes. The color of the sala blossoms shows the principle that those at their height must decline. The arrogant do not last long; they are fleeting, like a dream of a spring night. The brave too will ultimately perish, just like dust before the wind."
+    }
+  ]
+}

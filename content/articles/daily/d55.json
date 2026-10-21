@@ -1,0 +1,183 @@
+{
+  "id": "d55",
+  "d": 55,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "正月事始め",
+  "sub": "迎新年準備的開始（12月13日）",
+  "body": "十二月十三日は「正月事始め」。この日から、新しい年を迎える準備を始めるのが[[習わし|ならわし]]とされてきた。\n\nまず行うのが「[[煤払い|すすはらい]]」だ。一年の[[煤|すす]]や[[埃|ほこり]]を払い、家を清めて[[年神様|としがみさま]]を迎える。今の大掃除の原型である。寺や神社では、長い竹の先に[[笹|ささ]]をつけた道具で、[[本堂|ほんどう]]の高い[[梁|はり]]の埃を払う光景がニュースになる。\n\nまた、[[門松|かどまつ]]に使う松を山から取ってくる「松迎え」も、この日に行うとされた。現代の生活では十三日に[[こだわる|こだわる]]人は少ないが、年末に一気に片付けようとして[[疲れ果てる|つかれはてる]]より、少しずつ始めるほうが賢明なのは今も昔も変わらない。",
+  "gloss": {
+    "習わし": {
+      "m": "習俗、慣例"
+    },
+    "煤払い": {
+      "m": "掃煤（年終大掃除）"
+    },
+    "煤": {
+      "m": "煤灰"
+    },
+    "埃": {
+      "m": "灰塵"
+    },
+    "年神様": {
+      "m": "年神（新年降臨的神）"
+    },
+    "笹": {
+      "m": "小竹葉"
+    },
+    "本堂": {
+      "m": "正殿"
+    },
+    "梁": {
+      "m": "橫樑"
+    },
+    "門松": {
+      "m": "門松（新年擺在門口的松竹裝飾）"
+    },
+    "こだわる": {
+      "m": "拘泥"
+    },
+    "疲れ果てる": {
+      "m": "精疲力竭"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Shōgatsu kotohajime: New Year preparations begin (13 December)",
+      "g": {
+        "習わし": [
+          "custom"
+        ],
+        "煤払い": [
+          "year-end soot sweeping (big cleaning)"
+        ],
+        "煤": [
+          "soot"
+        ],
+        "埃": [
+          "dust"
+        ],
+        "年神様": [
+          "Toshigami (New Year deity)"
+        ],
+        "笹": [
+          "bamboo grass"
+        ],
+        "本堂": [
+          "main hall (of a temple)"
+        ],
+        "梁": [
+          "beam"
+        ],
+        "門松": [
+          "kadomatsu (pine & bamboo New Year decoration)"
+        ],
+        "こだわる": [
+          "to fuss over"
+        ],
+        "疲れ果てる": [
+          "to be utterly exhausted"
+        ]
+      }
+    },
+    "de": {
+      "s": "Shōgatsu kotohajime: Beginn der Neujahrsvorbereitungen (13. Dezember)",
+      "g": {
+        "習わし": [
+          "Brauch"
+        ],
+        "煤払い": [
+          "Rußkehren (großer Jahresputz)"
+        ],
+        "煤": [
+          "Ruß"
+        ],
+        "埃": [
+          "Staub"
+        ],
+        "年神様": [
+          "Toshigami (Neujahrsgottheit)"
+        ],
+        "笹": [
+          "Bambusgras"
+        ],
+        "本堂": [
+          "Haupthalle (eines Tempels)"
+        ],
+        "梁": [
+          "Balken"
+        ],
+        "門松": [
+          "Kadomatsu (Neujahrsschmuck aus Kiefer und Bambus)"
+        ],
+        "こだわる": [
+          "sich festbeißen an"
+        ],
+        "疲れ果てる": [
+          "völlig erschöpft sein"
+        ]
+      }
+    },
+    "hans": {
+      "s": "迎新年准备的开始（12月13日）",
+      "g": {
+        "習わし": [
+          "习俗、惯例"
+        ],
+        "煤払い": [
+          "扫煤（年终大扫除）"
+        ],
+        "煤": [
+          "煤灰"
+        ],
+        "埃": [
+          "灰尘"
+        ],
+        "年神様": [
+          "年神（新年降临的神）"
+        ],
+        "笹": [
+          "小竹叶"
+        ],
+        "本堂": [
+          "正殿"
+        ],
+        "梁": [
+          "横梁"
+        ],
+        "門松": [
+          "门松（新年摆在门口的松竹装饰）"
+        ],
+        "こだわる": [
+          "拘泥"
+        ],
+        "疲れ果てる": [
+          "精疲力竭"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "十二月十三日是「正月事始」。自這一天起開始準備迎接新年，是自古以來的習俗。",
+      "zh-Hans": "十二月十三日是「正月事始」。自这一天起开始准备迎接新年，是自古以来的习俗。",
+      "en": "December 13th is 「正月事始」, the Beginning of New Year Preparations. From this day, it has been customary to start preparing to welcome the new year.",
+      "de": "December 13th is 「正月事始」, the Beginning of New Year Preparations. From this day, it has been customary to start preparing to welcome the new year."
+    },
+    {
+      "zh-Hant": "首先要做的是「煤払い」。把一年積累的煙灰和灰塵清除，打掃房屋，迎接年神。這就是現代大掃除的原型。在寺廟和神社裡，人們用綁著竹葉的長竹竿清除正殿高處樑上的灰塵，這樣的景象也常成為新聞。",
+      "zh-Hans": "首先要做的是「煤払い」。把一年积累的烟灰和灰尘清除，打扫房屋，迎接年神。这就是现代大扫除的原型。在寺庙和神社里，人们用绑着竹叶的长竹竿清除正殿高处梁上的灰尘，这样的景象也常成为新闻。",
+      "en": "The first task is 「煤払い」, soot-sweeping, clearing away the soot and dust of the year to purify the house and welcome the New Year deity. This is the origin of today's big year-end cleaning. At temples and shrines, a long bamboo pole with bamboo leaves attached is used to sweep dust from the high beams of the main hall, a scene that often makes the news.",
+      "de": "The first task is 「煤払い」, soot-sweeping, clearing away the soot and dust of the year to purify the house and welcome the New Year deity. This is the origin of today's big year-end cleaning. At temples and shrines, a long bamboo pole with bamboo leaves attached is used to sweep dust from the high beams of the main hall, a scene that often makes the news."
+    },
+    {
+      "zh-Hant": "另外，據說十三日也是從山上採來用於門松的松枝的「松迎え」的日子。現代人已經很少有人會特別在意十三日，但比起在年底一口氣收拾到精疲力盡，慢慢開始準備才是明智的做法，這一點古今皆然。",
+      "zh-Hans": "另外，据说十三日也是从山上采来用于门松的松枝的「松迎え」的日子。现代人已经很少有人会特别在意十三日，但比起在年底一口气收拾到精疲力尽，慢慢开始准备才是明智的做法，这一点古今皆然。",
+      "en": "Also, the 13th was said to be the day for 「松迎え」, fetching pine branches from the mountains for the kadomatsu decorations. Few people today pay special attention to the 13th, but it is still wise to start gradually rather than try to finish everything at once at year's end and exhaust yourself, as it has always been.",
+      "de": "Also, the 13th was said to be the day for 「松迎え」, fetching pine branches from the mountains for the kadomatsu decorations. Few people today pay special attention to the 13th, but it is still wise to start gradually rather than try to finish everything at once at year's end and exhaust yourself, as it has always been."
+    }
+  ]
+}

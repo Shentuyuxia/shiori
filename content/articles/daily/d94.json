@@ -1,0 +1,168 @@
+{
+  "id": "d94",
+  "d": 94,
+  "lv": "x",
+  "genre": {
+    "zh-Hant": "古典",
+    "ja": "古典"
+  },
+  "title": "おくのほそ道（冒頭）",
+  "sub": "松尾芭蕉《奧之細道》開頭（1702刊）",
+  "src": "松尾芭蕉『おくのほそ道』",
+  "body": "月日は[[百代の過客|はくたいのかかく]]にして、[[行かふ年|ゆきかうとし]]も又旅人也。舟の上に生涯をうかべ、馬の口とらへて老をむかふる物は、日々旅にして旅を[[栖|すみか]]とす。\n\n【現代語訳】月日は永遠に旅を続ける旅人のようなもので、来ては去っていく年もまた旅人である。舟の上で一生を送る[[船頭|せんどう]]や、馬の[[轡|くつわ]]を取って老いを迎える[[馬子|まご]]は、毎日が旅であり、旅を住まいとしている。\n\n冒頭の一文は、李白の「夫天地者萬物之逆旅，光陰者百代之過客」を踏まえている。芭蕉は中国の古典を[[自在|じざい]]に取り込みながら、日本語の[[散文|さんぶん]]の美しい[[リズム|リズム]]をつくり出した。",
+  "gloss": {
+    "百代の過客": {
+      "m": "百代之過客、永恆的旅人",
+      "n": "典出李白〈春夜宴從弟桃花園序〉。"
+    },
+    "行かふ年": {
+      "m": "來來去去的歲月",
+      "n": "歷史假名「行かふ」讀作「ゆきかう」。"
+    },
+    "栖": {
+      "m": "住處"
+    },
+    "船頭": {
+      "m": "船夫"
+    },
+    "轡": {
+      "m": "馬嚼子"
+    },
+    "馬子": {
+      "m": "馬夫"
+    },
+    "自在": {
+      "m": "自如"
+    },
+    "散文": {
+      "m": "散文"
+    },
+    "リズム": {
+      "m": "節奏"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The Narrow Road to the Deep North (opening)",
+      "g": {
+        "百代の過客": [
+          "eternal travellers",
+          "From a preface by the Tang poet Li Bai."
+        ],
+        "行かふ年": [
+          "the passing years",
+          "Historical kana 行かふ is read ゆきかう."
+        ],
+        "栖": [
+          "dwelling"
+        ],
+        "船頭": [
+          "boatman"
+        ],
+        "轡": [
+          "horse's bit"
+        ],
+        "馬子": [
+          "packhorse driver"
+        ],
+        "自在": [
+          "freely, at will"
+        ],
+        "散文": [
+          "prose"
+        ],
+        "リズム": [
+          "rhythm"
+        ]
+      }
+    },
+    "de": {
+      "s": "Auf schmalen Pfaden durchs Hinterland (Anfang)",
+      "g": {
+        "百代の過客": [
+          "ewige Reisende",
+          "Nach einem Vorwort des Tang-Dichters Li Bai."
+        ],
+        "行かふ年": [
+          "die vorüberziehenden Jahre",
+          "Historische Kana 行かふ wird ゆきかう gelesen."
+        ],
+        "栖": [
+          "Behausung"
+        ],
+        "船頭": [
+          "Fährmann"
+        ],
+        "轡": [
+          "Trense"
+        ],
+        "馬子": [
+          "Pferdeknecht"
+        ],
+        "自在": [
+          "frei, nach Belieben"
+        ],
+        "散文": [
+          "Prosa"
+        ],
+        "リズム": [
+          "Rhythmus"
+        ]
+      }
+    },
+    "hans": {
+      "s": "松尾芭蕉《奥之细道》开头（1702刊）",
+      "g": {
+        "百代の過客": [
+          "百代之过客、永恒的旅人",
+          "典出李白〈春夜宴从弟桃花园序〉。"
+        ],
+        "行かふ年": [
+          "来来去去的岁月",
+          "历史假名「行かふ」读作「ゆきかう」。"
+        ],
+        "栖": [
+          "住处"
+        ],
+        "船頭": [
+          "船夫"
+        ],
+        "轡": [
+          "马嚼子"
+        ],
+        "馬子": [
+          "马夫"
+        ],
+        "自在": [
+          "自如"
+        ],
+        "散文": [
+          "散文"
+        ],
+        "リズム": [
+          "节奏"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "歲月是百代的過客，來來往往的年歲也是旅人。把一生寄託在船上，牽著馬韁迎接老年的人，每一天都是旅程，以旅途為家。",
+      "zh-Hans": "岁月是百代的过客，来来往往的年岁也是旅人。把一生寄托在船上，牵着马缰迎接老年的人，每一天都是旅程，以旅途为家。",
+      "en": "Time is a passing traveler through a hundred generations, and the years that come and go are travelers too. Those who spend their lives on boats and those who grasp the bridles of horses to greet old age make every day a journey, making the road their home.",
+      "de": "Time is a passing traveler through a hundred generations, and the years that come and go are travelers too. Those who spend their lives on boats and those who grasp the bridles of horses to greet old age make every day a journey, making the road their home."
+    },
+    {
+      "zh-Hant": "【白話譯】歲月就像永遠在旅行的旅人，來來去去的年歲也是旅人。在船上度過一生的船夫，牽著馬韁迎接老年的馬夫，每一天都是旅程，以旅途為家。",
+      "zh-Hans": "【白话译】岁月就像永远在旅行的旅人，来来去去的年岁也是旅人。在船上度过一生的船夫，牵着马缰迎接老年的马夫，每一天都是旅程，以旅途为家。",
+      "en": "[Modern translation] Time is like a traveler who journeys forever, and the years that come and go are travelers too. Boatmen who spend their lives on the water, and horse-drivers who lead their animals into old age, live every day as a journey, making the road their home.",
+      "de": "[Modern translation] Time is like a traveler who journeys forever, and the years that come and go are travelers too. Boatmen who spend their lives on the water, and horse-drivers who lead their animals into old age, live every day as a journey, making the road their home."
+    },
+    {
+      "zh-Hant": "開頭一句，是化用李白的「夫天地者萬物之逆旅，光陰者百代之過客」。芭蕉自由地吸收中國古典，同時創造出日語散文美妙的節奏。",
+      "zh-Hans": "开头一句，是化用李白的「夫天地者万物之逆旅，光阴者百代之过客」。芭蕉自由地吸收中国古典，同时创造出日语散文美妙的节奏。",
+      "en": "The opening line echoes Li Bai's 「夫天地者萬物之逆旅，光陰者百代之過客」, \"Heaven and earth are the lodging-house of all things; time is the passing guest of a hundred generations.\" Bashō freely absorbed the Chinese classics while creating the beautiful rhythm of Japanese prose.",
+      "de": "The opening line echoes Li Bai's 「夫天地者萬物之逆旅，光陰者百代之過客」, \"Heaven and earth are the lodging-house of all things; time is the passing guest of a hundred generations.\" Bashō freely absorbed the Chinese classics while creating the beautiful rhythm of Japanese prose."
+    }
+  ]
+}

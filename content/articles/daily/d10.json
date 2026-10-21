@@ -1,0 +1,189 @@
+{
+  "id": "d10",
+  "d": 10,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "短篇",
+    "ja": "掌編"
+  },
+  "title": "もみじの手紙",
+  "sub": "掌篇：紅葉的信",
+  "body": "祖母から[[封筒|ふうとう]]が届いた。[[便箋|びんせん]]は一枚だけで、「庭の[[楓|かえで]]が今年もきれいです」と、少し[[震えた|ふるえた]]字で書いてあった。\n\n封筒の底に、赤い葉が一枚入っていた。[[押し葉|おしば]]にしたのだろう、薄く、平らで、光に[[かざす|かざす]]と[[葉脈|ようみゃく]]が細かく[[透けて|すけて]]見えた。\n\n電話ならすぐに話せる。写真なら、もっと[[鮮やか|あざやか]]な色を送れる。それでも祖母は、毎年この季節になると、一枚の葉を[[わざわざ|わざわざ]]紙に包んで送ってくる。\n\n私はその葉を、読みかけの本に挟んだ。今年の秋が、そこで[[止まって|とまって]]くれるような気がした。",
+  "gloss": {
+    "封筒": {
+      "m": "信封"
+    },
+    "便箋": {
+      "m": "信紙"
+    },
+    "楓": {
+      "m": "楓樹"
+    },
+    "震えた": {
+      "m": "顫抖的（原形：震える）"
+    },
+    "押し葉": {
+      "m": "壓葉標本"
+    },
+    "かざす": {
+      "m": "舉起（對著光）"
+    },
+    "葉脈": {
+      "m": "葉脈"
+    },
+    "透けて": {
+      "m": "透出來、看得透（原形：透ける）"
+    },
+    "鮮やか": {
+      "m": "鮮豔、鮮明"
+    },
+    "わざわざ": {
+      "m": "特地、專程"
+    },
+    "止まって": {
+      "m": "停住"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "A letter of maple leaves",
+      "g": {
+        "封筒": [
+          "envelope"
+        ],
+        "便箋": [
+          "letter paper"
+        ],
+        "楓": [
+          "maple"
+        ],
+        "震えた": [
+          "trembling (dict. form: 震える)"
+        ],
+        "押し葉": [
+          "pressed leaf"
+        ],
+        "かざす": [
+          "to hold up (to the light)"
+        ],
+        "葉脈": [
+          "leaf veins"
+        ],
+        "透けて": [
+          "showing through (dict. form: 透ける)"
+        ],
+        "鮮やか": [
+          "vivid"
+        ],
+        "わざわざ": [
+          "going out of one's way"
+        ],
+        "止まって": [
+          "stopped"
+        ]
+      }
+    },
+    "de": {
+      "s": "Ein Brief aus Ahornblättern",
+      "g": {
+        "封筒": [
+          "Briefumschlag"
+        ],
+        "便箋": [
+          "Briefpapier"
+        ],
+        "楓": [
+          "Ahorn"
+        ],
+        "震えた": [
+          "zitternd (Grundform: 震える)"
+        ],
+        "押し葉": [
+          "gepresstes Blatt"
+        ],
+        "かざす": [
+          "(gegen das Licht) halten"
+        ],
+        "葉脈": [
+          "Blattadern"
+        ],
+        "透けて": [
+          "durchscheinend (Grundform: 透ける)"
+        ],
+        "鮮やか": [
+          "leuchtend"
+        ],
+        "わざわざ": [
+          "extra, eigens"
+        ],
+        "止まって": [
+          "angehalten"
+        ]
+      }
+    },
+    "hans": {
+      "s": "掌篇：红叶的信",
+      "g": {
+        "封筒": [
+          "信封"
+        ],
+        "便箋": [
+          "信纸"
+        ],
+        "楓": [
+          "枫树"
+        ],
+        "震えた": [
+          "颤抖的（原形：震える）"
+        ],
+        "押し葉": [
+          "压叶标本"
+        ],
+        "かざす": [
+          "举起（对着光）"
+        ],
+        "葉脈": [
+          "叶脉"
+        ],
+        "透けて": [
+          "透出来、看得透（原形：透ける）"
+        ],
+        "鮮やか": [
+          "鲜艳、鲜明"
+        ],
+        "わざわざ": [
+          "特地、专程"
+        ],
+        "止まって": [
+          "停住"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "奶奶寄來了一個信封。信紙只有一張，上面用略微顫抖的字寫著：「庭院的楓樹今年也很漂亮。」",
+      "zh-Hans": "奶奶寄来了一个信封。信纸只有一张，上面用略微颤抖的字写着：「庭院的枫树今年也很漂亮。」",
+      "en": "An envelope arrived from my grandmother. There was only one sheet of letter paper, on which she had written in slightly trembling handwriting: \"The maple tree in the garden is beautiful again this year.\"",
+      "de": "An envelope arrived from my grandmother. There was only one sheet of letter paper, on which she had written in slightly trembling handwriting: \"The maple tree in the garden is beautiful again this year.\""
+    },
+    {
+      "zh-Hant": "信封底部裝著一片紅色的葉子。大概是做成了壓葉吧，薄薄的、平平的，對著光舉起來，可以看見細密的葉脈透出來。",
+      "zh-Hans": "信封底部装着一片红色的叶子。大概是做成了压叶吧，薄薄的、平平的，对着光举起来，可以看见细密的叶脉透出来。",
+      "en": "At the bottom of the envelope was a single red leaf. She had probably pressed it. It was thin and flat, and when I held it up to the light, its fine veins showed through.",
+      "de": "At the bottom of the envelope was a single red leaf. She had probably pressed it. It was thin and flat, and when I held it up to the light, its fine veins showed through."
+    },
+    {
+      "zh-Hant": "打電話可以馬上說話。寄照片的話，也能傳送更鮮豔的顏色。即便如此，奶奶每年到了這個季節，還是特地把一片葉子用紙包好寄來。",
+      "zh-Hans": "打电话可以马上说话。寄照片的话，也能发送更鲜艳的颜色。即便如此，奶奶每年到了这个季节，还是特地把一片叶子用纸包好寄来。",
+      "en": "A phone call lets us talk right away, and a photo can send brighter colors. Even so, every year at this season, my grandmother takes the trouble to wrap a single leaf in paper and send it.",
+      "de": "A phone call lets us talk right away, and a photo can send brighter colors. Even so, every year at this season, my grandmother takes the trouble to wrap a single leaf in paper and send it."
+    },
+    {
+      "zh-Hant": "我把那片葉子夾進了正在讀的書裡。感覺今年的秋天，似乎會就此停留在那裡。",
+      "zh-Hans": "我把那片叶子夹进了正在读的书里。感觉今年的秋天，似乎会就此停留在那里。",
+      "en": "I tucked that leaf into the book I was reading. It felt as if this autumn might stay there, frozen in place.",
+      "de": "I tucked that leaf into the book I was reading. It felt as if this autumn might stay there, frozen in place."
+    }
+  ]
+}

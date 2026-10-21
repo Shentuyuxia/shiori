@@ -1,0 +1,159 @@
+{
+  "id": "d66",
+  "d": 66,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "旅行",
+    "ja": "旅"
+  },
+  "title": "北海道の家は暖かい",
+  "sub": "北海道的房子很溫暖",
+  "body": "「北海道の冬より、東京の冬のほうが寒い」。北海道から東京に出てきた人が、よくこう言う。もちろん、外の気温は北海道のほうがはるかに低い。寒いのは、家の中の話だ。\n\n北海道の住宅は、[[断熱材|だんねつざい]]が厚く、窓は二重、三重になっていることが多い。暖房は[[灯油|とうゆ]]ストーブなどで家全体を暖め、冬でも室内では半袖で過ごす家庭もある。冬に[[アイス|アイス]]がよく売れるのも、北海道ならではだ。\n\n一方、本州の古い家は、夏の[[蒸し暑さ|むしあつさ]]をしのぐことを優先して建てられてきた。風通しがよい[[反面|はんめん]]、冬は[[底冷え|そこびえ]]がする。寒さへの[[備え|そなえ]]は、寒さの厳しい土地ほど[[徹底|てってい]]している。その地で生きてきた人々の知恵の差が、そのまま家の[[造り|つくり]]に表れているのだ。",
+  "gloss": {
+    "断熱材": {
+      "m": "隔熱材"
+    },
+    "灯油": {
+      "m": "燈油、煤油"
+    },
+    "アイス": {
+      "m": "冰淇淋"
+    },
+    "蒸し暑さ": {
+      "m": "悶熱"
+    },
+    "反面": {
+      "m": "另一方面"
+    },
+    "底冷え": {
+      "m": "透骨的寒冷"
+    },
+    "備え": {
+      "m": "準備、防備"
+    },
+    "徹底": {
+      "m": "徹底"
+    },
+    "造り": {
+      "m": "構造"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Houses in Hokkaido are warm",
+      "g": {
+        "断熱材": [
+          "insulation"
+        ],
+        "灯油": [
+          "kerosene"
+        ],
+        "アイス": [
+          "ice cream"
+        ],
+        "蒸し暑さ": [
+          "sultry heat"
+        ],
+        "反面": [
+          "on the other hand"
+        ],
+        "底冷え": [
+          "bone-chilling cold"
+        ],
+        "備え": [
+          "preparation"
+        ],
+        "徹底": [
+          "thoroughness"
+        ],
+        "造り": [
+          "construction"
+        ]
+      }
+    },
+    "de": {
+      "s": "Häuser in Hokkaido sind warm",
+      "g": {
+        "断熱材": [
+          "Dämmstoff"
+        ],
+        "灯油": [
+          "Heizöl (Kerosin)"
+        ],
+        "アイス": [
+          "Eis"
+        ],
+        "蒸し暑さ": [
+          "Schwüle"
+        ],
+        "反面": [
+          "andererseits"
+        ],
+        "底冷え": [
+          "Kälte bis ins Mark"
+        ],
+        "備え": [
+          "Vorkehrung"
+        ],
+        "徹底": [
+          "Gründlichkeit"
+        ],
+        "造り": [
+          "Bauweise"
+        ]
+      }
+    },
+    "hans": {
+      "s": "北海道的房子很温暖",
+      "g": {
+        "断熱材": [
+          "隔热材"
+        ],
+        "灯油": [
+          "灯油、煤油"
+        ],
+        "アイス": [
+          "冰淇淋"
+        ],
+        "蒸し暑さ": [
+          "闷热"
+        ],
+        "反面": [
+          "另一方面"
+        ],
+        "底冷え": [
+          "透骨的寒冷"
+        ],
+        "備え": [
+          "准备、防备"
+        ],
+        "徹底": [
+          "彻底"
+        ],
+        "造り": [
+          "构造"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「東京的冬天比北海道的冬天還冷。」從北海道搬到東京的人，常這麼說。當然，外面的氣溫是北海道低得多。真正冷的，是屋內的情況。",
+      "zh-Hans": "「东京的冬天比北海道的冬天还冷。」从北海道搬到东京的人，常这么说。当然，外面的气温是北海道低得多。真正冷的，是屋内的情况。",
+      "en": "\"Winter in Tokyo is colder than winter in Hokkaido.\" People who moved from Hokkaido to Tokyo often say this. Of course, outdoor temperatures in Hokkaido are much lower. What is really different is the situation indoors.",
+      "de": "\"Winter in Tokyo is colder than winter in Hokkaido.\" People who moved from Hokkaido to Tokyo often say this. Of course, outdoor temperatures in Hokkaido are much lower. What is really different is the situation indoors."
+    },
+    {
+      "zh-Hant": "北海道的住宅，隔熱材很厚，窗戶常常是雙層、三層的。暖氣多用煤油暖爐等來暖和整棟房子，有些家庭即使在冬天，室內也穿著短袖度過。北海道冬天冰淇淋賣得很好，也是北海道獨有的景象。",
+      "zh-Hans": "北海道的住宅，隔热材很厚，窗户常常是双层、三层的。暖气多用煤油暖炉等来暖和整栋房子，有些家庭即使在冬天，室内也穿着短袖度过。北海道冬天冰淇淋卖得很好，也是北海道独有的景象。",
+      "en": "Hokkaido homes have thick insulation, and windows are often double or triple glazed. Heating with kerosene stoves and the like warms the whole house, and some families even spend winter indoors in short sleeves. Ice cream selling well in winter is also a distinctly Hokkaido sight.",
+      "de": "Hokkaido homes have thick insulation, and windows are often double or triple glazed. Heating with kerosene stoves and the like warms the whole house, and some families even spend winter indoors in short sleeves. Ice cream selling well in winter is also a distinctly Hokkaido sight."
+    },
+    {
+      "zh-Hant": "另一方面，本州的老房子，過去建造時是優先考慮避開夏天的悶熱。通風良好，但冬天卻會有刺骨的寒意。越是嚴寒的地方，對寒冷的準備就越徹底。這種因地方不同而生活過的人們的智慧差異，正如實地反映在房屋的建造方式上。",
+      "zh-Hans": "另一方面，本州的老房子，过去建造时是优先考虑避开夏天的闷热。通风良好，但冬天却会有刺骨的寒意。越是严寒的地方，对寒冷的准备就越彻底。这种因地方不同而生活过的人们的智能差异，正如实地反映在房屋的建造方式上。",
+      "en": "Older houses in Honshu, on the other hand, were built with priority given to escaping the summer's sticky heat. They are airy, but winter brings a bone-chilling cold. The harsher the cold, the more thorough the preparation. The difference in wisdom among people who have lived in each place is reflected directly in how their houses are built.",
+      "de": "Older houses in Honshu, on the other hand, were built with priority given to escaping the summer's sticky heat. They are airy, but winter brings a bone-chilling cold. The harsher the cold, the more thorough the preparation. The difference in wisdom among people who have lived in each place is reflected directly in how their houses are built."
+    }
+  ]
+}

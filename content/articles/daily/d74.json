@@ -1,0 +1,165 @@
+{
+  "id": "d74",
+  "d": 74,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "元日",
+  "sub": "元旦",
+  "body": "あけましておめでとうございます。\n\n一月一日は「元日」。その朝を「元旦」と言う。「旦」という字は、地平線から太陽が昇る形を表している。だから、「元旦の朝」と言うと、厳密には重複表現になる。\n\n日本では、元日の朝に「[[初日の出|はつひので]]」を見に行く人が多い。海や山の上で、その年最初の太陽を[[拝む|おがむ]]のだ。家では[[お雑煮|おぞうに]]を食べ、[[お屠蘇|おとそ]]で祝う。雑煮は地域による違いが大きく、[[餅|もち]]の形が四角か丸か、[[汁|しる]]が[[すまし|すまし]]か白味噌かで、出身地が分かるとも言われる。\n\n[[初詣|はつもうで]]に行き、[[おみくじ|おみくじ]]を引いて、新しい一年を占う。今年最初の一編を、ここまで読んでくれてありがとう。どうぞ今年も、よろしくお願いいたします。",
+  "gloss": {
+    "初日の出": {
+      "m": "新年第一道日出"
+    },
+    "拝む": {
+      "m": "參拜、膜拜"
+    },
+    "お雑煮": {
+      "m": "年糕湯"
+    },
+    "お屠蘇": {
+      "m": "屠蘇酒（新年喝的藥酒）"
+    },
+    "餅": {
+      "m": "年糕、麻糬"
+    },
+    "汁": {
+      "m": "湯"
+    },
+    "すまし": {
+      "m": "清湯"
+    },
+    "初詣": {
+      "m": "新年初次參拜"
+    },
+    "おみくじ": {
+      "m": "神籤"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "New Year's Day",
+      "g": {
+        "初日の出": [
+          "first sunrise of the year"
+        ],
+        "拝む": [
+          "to worship, pray to"
+        ],
+        "お雑煮": [
+          "ozōni (New Year mochi soup)"
+        ],
+        "お屠蘇": [
+          "otoso (spiced New Year sake)"
+        ],
+        "餅": [
+          "mochi (rice cake)"
+        ],
+        "汁": [
+          "soup, broth"
+        ],
+        "すまし": [
+          "clear soup"
+        ],
+        "初詣": [
+          "first shrine visit of the year"
+        ],
+        "おみくじ": [
+          "fortune slip"
+        ]
+      }
+    },
+    "de": {
+      "s": "Neujahrstag",
+      "g": {
+        "初日の出": [
+          "erster Sonnenaufgang des Jahres"
+        ],
+        "拝む": [
+          "andächtig verehren"
+        ],
+        "お雑煮": [
+          "Ozōni (Neujahrssuppe mit Mochi)"
+        ],
+        "お屠蘇": [
+          "Otoso (gewürzter Neujahrs-Sake)"
+        ],
+        "餅": [
+          "Mochi (Reiskuchen)"
+        ],
+        "汁": [
+          "Suppe, Brühe"
+        ],
+        "すまし": [
+          "klare Suppe"
+        ],
+        "初詣": [
+          "erster Schreinbesuch des Jahres"
+        ],
+        "おみくじ": [
+          "Orakelzettel"
+        ]
+      }
+    },
+    "hans": {
+      "s": "元旦",
+      "g": {
+        "初日の出": [
+          "新年第一道日出"
+        ],
+        "拝む": [
+          "参拜、膜拜"
+        ],
+        "お雑煮": [
+          "年糕汤"
+        ],
+        "お屠蘇": [
+          "屠苏酒（新年喝的药酒）"
+        ],
+        "餅": [
+          "年糕、麻糬"
+        ],
+        "汁": [
+          "汤"
+        ],
+        "すまし": [
+          "清汤"
+        ],
+        "初詣": [
+          "新年初次参拜"
+        ],
+        "おみくじ": [
+          "神签"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "新年快樂。",
+      "zh-Hans": "新年快乐。",
+      "en": "Happy New Year.",
+      "de": "Happy New Year."
+    },
+    {
+      "zh-Hant": "一月一日是「元日」，那天早晨稱為「元旦」。「旦」字描繪的是太陽從地平線升起的樣子。所以說「元旦的早晨」，嚴格來說是重複的說法。",
+      "zh-Hans": "一月一日是「元日」，那天早晨称为「元旦」。「旦」字描绘的是太阳从地平线升起的样子。所以说「元旦的早晨」，严格来说是重复的说法。",
+      "en": "January 1st is 「元日」, and that morning is called 「元旦」. The character 「旦」 depicts the sun rising above the horizon. So saying 「元旦の朝」 is, strictly speaking, a redundant expression.",
+      "de": "January 1st is 「元日」, and that morning is called 「元旦」. The character 「旦」 depicts the sun rising above the horizon. So saying 「元旦の朝」 is, strictly speaking, a redundant expression."
+    },
+    {
+      "zh-Hant": "在日本，許多人會在元日早晨去看「初日出」，也就是在海邊或山頂拜見當年的第一道太陽。在家裡則吃年糕湯，喝屠蘇酒慶祝。年糕湯因地區差異很大，年糕是方形還是圓形、湯是清湯還是白味噌，據說還能看出一個人的出身地。",
+      "zh-Hans": "在日本，许多人会在元日早晨去看「初日出」，也就是在海边或山顶拜见当年的第一道太阳。在家里则吃年糕汤，喝屠苏酒庆祝。年糕汤因地区差异很大，年糕是方形还是圆形、汤是清汤还是白味噌，据说还能看出一个人的出身地。",
+      "en": "In Japan, many people go to see 「初日の出」, the first sunrise of the year, on the sea or on a mountaintop, worshipping the year's first sun. At home, they eat ozōni, a soup with mochi, and celebrate with toso, a medicinal sake. Ozōni varies greatly by region, and it is said you can tell where someone is from by whether the mochi is square or round and whether the broth is clear or white miso.",
+      "de": "In Japan, many people go to see 「初日の出」, the first sunrise of the year, on the sea or on a mountaintop, worshipping the year's first sun. At home, they eat ozōni, a soup with mochi, and celebrate with toso, a medicinal sake. Ozōni varies greatly by region, and it is said you can tell where someone is from by whether the mochi is square or round and whether the broth is clear or white miso."
+    },
+    {
+      "zh-Hant": "去參拜新年的神社，抽一支御神籤，占卜新的一年。今年的第一篇，謝謝你讀到這裡。也請今年多多指教。",
+      "zh-Hans": "去参拜新年的神社，抽一支御神签，占卜新的一年。今年的第一篇，谢谢你读到这里。也请今年多多指教。",
+      "en": "Go to the first shrine visit of the year and draw an omikuji fortune to divine the new year. Thank you for reading this first piece of the year. I wish you well this year too.",
+      "de": "Go to the first shrine visit of the year and draw an omikuji fortune to divine the new year. Thank you for reading this first piece of the year. I wish you well this year too."
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "id": "d40",
+  "d": 40,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "語言雜談",
+    "ja": "ことば雑記"
+  },
+  "title": "マンションは豪邸ではない",
+  "sub": "和製英語",
+  "body": "日本で「マンションに住んでいます」と聞いても、英語の mansion のような[[豪邸|ごうてい]]を想像してはいけない。日本の「マンション」は、[[鉄筋|てっきん]]コンクリート造りの[[集合住宅|しゅうごうじゅうたく]]、つまり台湾で言う「大樓」の一室のことだ。\n\nこのように、英語の単語を使っているのに英語圏では通じない言葉を「[[和製英語|わせいえいご]]」と呼ぶ。「サラリーマン」「ノートパソコン」「[[コンセント|コンセント]]」「ガソリンスタンド」「[[ペーパードライバー|ペーパードライバー]]」などが[[代表例|だいひょうれい]]だ。\n\n和製英語は「間違った英語」として笑われがちだが、見方を変えれば、外来の部品を[[組み合わせて|くみあわせて]]日本語に必要な言葉を作った、[[創造的|そうぞうてき]]な[[営み|いとなみ]]とも言える。漢字で新しい言葉を作ってきた歴史と、どこか通じるところがある。",
+  "gloss": {
+    "豪邸": {
+      "m": "豪宅"
+    },
+    "鉄筋": {
+      "m": "鋼筋"
+    },
+    "集合住宅": {
+      "m": "集合住宅、公寓"
+    },
+    "和製英語": {
+      "m": "和製英語"
+    },
+    "コンセント": {
+      "m": "插座"
+    },
+    "ペーパードライバー": {
+      "m": "有駕照卻幾乎不開車的人"
+    },
+    "代表例": {
+      "m": "代表例子"
+    },
+    "組み合わせて": {
+      "m": "組合"
+    },
+    "創造的": {
+      "m": "有創造性的"
+    },
+    "営み": {
+      "m": "行為、活動"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "A マンション is no mansion: Japanese-made English",
+      "g": {
+        "豪邸": [
+          "mansion"
+        ],
+        "鉄筋": [
+          "reinforced concrete"
+        ],
+        "集合住宅": [
+          "apartment building"
+        ],
+        "和製英語": [
+          "Japanese-made English"
+        ],
+        "コンセント": [
+          "power socket"
+        ],
+        "ペーパードライバー": [
+          "licensed but never drives"
+        ],
+        "代表例": [
+          "typical example"
+        ],
+        "組み合わせて": [
+          "combining"
+        ],
+        "創造的": [
+          "creative"
+        ],
+        "営み": [
+          "activity, practice"
+        ]
+      }
+    },
+    "de": {
+      "s": "Eine マンション ist keine Villa: Japano-Englisch",
+      "g": {
+        "豪邸": [
+          "Villa"
+        ],
+        "鉄筋": [
+          "Stahlbeton"
+        ],
+        "集合住宅": [
+          "Mehrfamilienhaus"
+        ],
+        "和製英語": [
+          "Pseudo-Anglizismus (Wasei-Eigo)"
+        ],
+        "コンセント": [
+          "Steckdose"
+        ],
+        "ペーパードライバー": [
+          "hat den Führerschein, fährt aber nie"
+        ],
+        "代表例": [
+          "Paradebeispiel"
+        ],
+        "組み合わせて": [
+          "kombinierend"
+        ],
+        "創造的": [
+          "kreativ"
+        ],
+        "営み": [
+          "Tätigkeit"
+        ]
+      }
+    },
+    "hans": {
+      "s": "和制英语",
+      "g": {
+        "豪邸": [
+          "豪宅"
+        ],
+        "鉄筋": [
+          "钢筋"
+        ],
+        "集合住宅": [
+          "集合住宅、公寓"
+        ],
+        "和製英語": [
+          "和制英语"
+        ],
+        "コンセント": [
+          "插座"
+        ],
+        "ペーパードライバー": [
+          "有驾照却几乎不开车的人"
+        ],
+        "代表例": [
+          "代表例子"
+        ],
+        "組み合わせて": [
+          "组合"
+        ],
+        "創造的": [
+          "有创造性的"
+        ],
+        "営み": [
+          "行为、活动"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "在日本聽到「我住在曼森（マンション）」，不要想像成英文 mansion 那樣的豪宅。日本的「マンション」，指的是鋼筋混凝土建造的集合住宅，也就是台灣所說的「大樓」裡的一戶。",
+      "zh-Hans": "在日本听到「我住在曼森（マンション）」，不要想像成英文 mansion 那样的豪宅。日本的「マンション」，指的是钢筋混凝土建造的集合住宅，也就是台湾所说的「大楼」里的一户。",
+      "en": "When you hear someone in Japan say 「マンションに住んでいます」, do not picture a grand mansion like the English word \"mansion.\" In Japanese, マンション refers to a reinforced-concrete apartment building, that is, a unit in what Taiwanese people would call a 大樓 (high-rise building).",
+      "de": "When you hear someone in Japan say 「マンションに住んでいます」, do not picture a grand mansion like the English word \"mansion.\" In Japanese, マンション refers to a reinforced-concrete apartment building, that is, a unit in what Taiwanese people would call a 大樓 (high-rise building)."
+    },
+    {
+      "zh-Hant": "像這樣，用了英文單字，但在英語圈卻說不通的詞，被稱為「和製英語」。「サラリーマン」（上班族）、「ノートパソコン」（筆記型電腦）、「コンセント」（插座）、「ガソリンスタンド」（加油站）、「ペーパードライバー」（很久沒開車的駕駛）等，都是典型的例子。",
+      "zh-Hans": "像这样，用了英文单字，但在英语圈却说不通的词，被称为「和制英语」。「サラリーマン」（上班族）、「ノートパソコン」（笔记型电脑）、「コンセント」（插座）、「ガソリンスタンド」（加油站）、「ペーパードライバー」（很久没开车的驾驶）等，都是典型的例子。",
+      "en": "Words like these, which use English vocabulary but are not understood in English-speaking countries, are called 「和製英語」, Japanese-made English. Typical examples include サラリーマン (salaryman), ノートパソコン (laptop), コンセント (electrical outlet), ガソリンスタンド (gas station), and ペーパードライバー (a licensed driver who rarely drives).",
+      "de": "Words like these, which use English vocabulary but are not understood in English-speaking countries, are called 「和製英語」, Japanese-made English. Typical examples include サラリーマン (salaryman), ノートパソコン (laptop), コンセント (electrical outlet), ガソリンスタンド (gas station), and ペーパードライバー (a licensed driver who rarely drives)."
+    },
+    {
+      "zh-Hant": "和製英語常被當成「錯誤的英文」而嘲笑，但換個角度看，它也可以說是把外來的零件組合起來，創造出日語所需詞彙的創造性行為。這與過去用漢字造新詞的歷史，有某種相通之處。",
+      "zh-Hans": "和制英语常被当成「错误的英文」而嘲笑，但换个角度看，它也可以说是把外来的零件组合起来，创造出日语所需词汇的创造性行为。这与过去用汉字造新词的历史，有某种相通之处。",
+      "en": "Japanese-made English is often laughed at as \"incorrect English,\" but from another angle it can be seen as a creative act of combining imported parts to make the words Japanese needed. It shares something with the history of creating new words using kanji.",
+      "de": "Japanese-made English is often laughed at as \"incorrect English,\" but from another angle it can be seen as a creative act of combining imported parts to make the words Japanese needed. It shares something with the history of creating new words using kanji."
+    }
+  ]
+}

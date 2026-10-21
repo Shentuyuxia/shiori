@@ -1,0 +1,124 @@
+{
+  "id": "w-shika-e",
+  "d": -1,
+  "lv": "n4",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "奈良の鹿",
+  "sub": "奈良的鹿（簡單版）",
+  "body": "[[奈良|なら]]の{公園|こうえん}には、[[鹿|しか]]がたくさんいます。{千|せん}{頭|とう}{以上|いじょう}います。\n\n{鹿|しか}は[[自由|じゆう]]に{歩|ある}いています。{道|みち}を{渡|わた}ったり、{店|みせ}の{前|まえ}で{休|やす}んだりします。\n\n「[[鹿せんべい|しかせんべい]]」を{見|み}せると、{鹿|しか}が{頭|あたま}を{下|さ}げます。[[お辞儀|おじぎ]]をしているようです。でも、{気|き}をつけてください。[[かむ|かむ]]こともあります。",
+  "gloss": {
+    "奈良": {
+      "m": "奈良"
+    },
+    "鹿": {
+      "m": "鹿"
+    },
+    "自由": {
+      "m": "自由"
+    },
+    "鹿せんべい": {
+      "m": "鹿仙貝（餵鹿的餅乾）"
+    },
+    "お辞儀": {
+      "m": "鞠躬"
+    },
+    "かむ": {
+      "m": "咬"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The deer of Nara (easy)",
+      "g": {
+        "奈良": [
+          "Nara"
+        ],
+        "鹿": [
+          "deer"
+        ],
+        "自由": [
+          "freely"
+        ],
+        "鹿せんべい": [
+          "deer crackers"
+        ],
+        "お辞儀": [
+          "bow"
+        ],
+        "かむ": [
+          "to bite"
+        ]
+      }
+    },
+    "de": {
+      "s": "Die Hirsche von Nara (leicht)",
+      "g": {
+        "奈良": [
+          "Nara"
+        ],
+        "鹿": [
+          "Hirsch, Reh"
+        ],
+        "自由": [
+          "frei"
+        ],
+        "鹿せんべい": [
+          "Hirschkekse"
+        ],
+        "お辞儀": [
+          "Verbeugung"
+        ],
+        "かむ": [
+          "beißen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "奈良的鹿（简单版）",
+      "g": {
+        "奈良": [
+          "奈良"
+        ],
+        "鹿": [
+          "鹿"
+        ],
+        "自由": [
+          "自由"
+        ],
+        "鹿せんべい": [
+          "鹿仙贝（喂鹿的饼干）"
+        ],
+        "お辞儀": [
+          "鞠躬"
+        ],
+        "かむ": [
+          "咬"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "奈良的公園裡有很多鹿，超過一千頭。",
+      "zh-Hans": "奈良的公园里有很多鹿，超过一千头。",
+      "en": "There are many deer in the park in Nara — more than a thousand.",
+      "de": "Im Park von Nara gibt es viele Hirsche – über tausend."
+    },
+    {
+      "zh-Hant": "鹿自由地走來走去，會穿過馬路，也會在店門口休息。",
+      "zh-Hans": "鹿自由地走来走去，会穿过马路，也会在店门口休息。",
+      "en": "The deer walk around freely. They cross roads and rest in front of shops.",
+      "de": "Die Hirsche laufen frei herum. Sie überqueren Straßen und ruhen sich vor Läden aus."
+    },
+    {
+      "zh-Hant": "拿出「鹿仙貝」給牠們看，鹿就會低下頭，好像在鞠躬一樣。不過要小心，牠們有時也會咬人。",
+      "zh-Hans": "拿出「鹿仙贝」给牠们看，鹿就会低下头，好像在鞠躬一样。不过要小心，牠们有时也会咬人。",
+      "en": "If you show them deer crackers, the deer lower their heads, as if they were bowing. But be careful — they sometimes bite.",
+      "de": "Zeigt man ihnen Hirschkekse, senken sie den Kopf, als würden sie sich verbeugen. Aber Vorsicht – manchmal beißen sie."
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "d27",
+  "d": 27,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "七五三と千歳飴",
+  "sub": "七五三與千歲糖（11月15日）",
+  "body": "十一月十五日前後、神社には着物を着た小さな子どもたちの姿が見られる。「七五三」は、三歳・五歳・七歳の子どもの成長を祝い、これからの健康を[[祈る|いのる]]行事だ。\n\n昔は子どもが[[無事|ぶじ]]に育つことが今よりずっと難しく、「七つまでは神のうち」と言われた。節目の年齢まで育ったことを神様に感謝し、[[報告|ほうこく]]する。そこに七五三の[[原点|げんてん]]がある。\n\n七五三に[[欠かせない|かかせない]]のが「[[千歳飴|ちとせあめ]]」だ。紅白の細長い飴で、鶴や亀が描かれた袋に入っている。「千歳」は千年。細く長く、長生きしてほしいという願いが込められている。最近は写真スタジオで[[記念撮影|きねんさつえい]]をするのも[[定番|ていばん]]になった。",
+  "gloss": {
+    "祈る": {
+      "m": "祈求"
+    },
+    "無事": {
+      "m": "平安"
+    },
+    "報告": {
+      "m": "報告"
+    },
+    "原点": {
+      "m": "原點"
+    },
+    "欠かせない": {
+      "m": "不可或缺"
+    },
+    "千歳飴": {
+      "m": "千歲糖"
+    },
+    "記念撮影": {
+      "m": "拍紀念照"
+    },
+    "定番": {
+      "m": "慣例、經典款"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Shichi-go-san and chitose-ame (15 November)",
+      "g": {
+        "祈る": [
+          "to pray"
+        ],
+        "無事": [
+          "safe and sound"
+        ],
+        "報告": [
+          "report"
+        ],
+        "原点": [
+          "origin, starting point"
+        ],
+        "欠かせない": [
+          "indispensable"
+        ],
+        "千歳飴": [
+          "\"thousand-year candy\""
+        ],
+        "記念撮影": [
+          "commemorative photo"
+        ],
+        "定番": [
+          "classic, standard"
+        ]
+      }
+    },
+    "de": {
+      "s": "Shichi-go-san und Chitose-ame (15. November)",
+      "g": {
+        "祈る": [
+          "beten"
+        ],
+        "無事": [
+          "wohlbehalten"
+        ],
+        "報告": [
+          "Bericht"
+        ],
+        "原点": [
+          "Ursprung"
+        ],
+        "欠かせない": [
+          "unverzichtbar"
+        ],
+        "千歳飴": [
+          "„Tausendjahr-Bonbon“"
+        ],
+        "記念撮影": [
+          "Erinnerungsfoto"
+        ],
+        "定番": [
+          "Klassiker, Standard"
+        ]
+      }
+    },
+    "hans": {
+      "s": "七五三与千岁糖（11月15日）",
+      "g": {
+        "祈る": [
+          "祈求"
+        ],
+        "無事": [
+          "平安"
+        ],
+        "報告": [
+          "报告"
+        ],
+        "原点": [
+          "原点"
+        ],
+        "欠かせない": [
+          "不可或缺"
+        ],
+        "千歳飴": [
+          "千岁糖"
+        ],
+        "記念撮影": [
+          "拍纪念照"
+        ],
+        "定番": [
+          "惯例、经典款"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "十一月十五日前後，神社裡可以看到穿著和服的小小孩子。「七五三」是慶祝三歲、五歲、七歲孩子的成長，並祈求他們今後健康的儀式。",
+      "zh-Hans": "十一月十五日前后，神社里可以看到穿着和服的小小孩子。「七五三」是庆祝三岁、五岁、七岁孩子的成长，并祈求他们今后健康的仪式。",
+      "en": "Around November 15th, you can see small children in kimono at shrines. 「七五三」 celebrates the growth of children at ages three, five, and seven, and prays for their health in the years ahead.",
+      "de": "Around November 15th, you can see small children in kimono at shrines. 「七五三」 celebrates the growth of children at ages three, five, and seven, and prays for their health in the years ahead."
+    },
+    {
+      "zh-Hant": "過去，孩子能平安長大比現在困難得多，因此有句話說：「七歲以前都是神明的。」人們感謝神明讓孩子成長到人生的關卡年齡，並向神明稟告。這就是七五三的起源。",
+      "zh-Hans": "过去，孩子能平安长大比现在困难得多，因此有句话说：「七岁以前都是神明的。」人们感谢神明让孩子成长到人生的关卡年龄，并向神明禀告。这就是七五三的起源。",
+      "en": "In the past, it was far harder for children to grow up safely than it is today, so there was a saying: \"Until seven, a child belongs to the gods.\" People thanked the gods for bringing their children to these milestone ages and reported to them. This is the origin of Shichi-Go-San.",
+      "de": "In the past, it was far harder for children to grow up safely than it is today, so there was a saying: \"Until seven, a child belongs to the gods.\" People thanked the gods for bringing their children to these milestone ages and reported to them. This is the origin of Shichi-Go-San."
+    },
+    {
+      "zh-Hant": "七五三不可或缺的是「千歲飴」。它是紅白相間的細長糖果，裝在畫著鶴與龜的袋子裡。「千歲」即一千年。細細長長，寄託著希望孩子長壽的願望。近年來，到攝影工作室拍紀念照，也成了常見的做法。",
+      "zh-Hans": "七五三不可或缺的是「千岁饴」。它是红白相间的细长糖果，装在画着鹤与龟的袋子里。「千岁」即一千年。细细长长，寄托着希望孩子长寿的愿望。近年来，到摄影工作室拍纪念照，也成了常见的做法。",
+      "en": "An essential part of Shichi-Go-San is 「千歳飴」, chitose-ame. These are long, thin red-and-white candies, packed in bags decorated with cranes and turtles. 「千歳」 means a thousand years. Long and slender, they carry the wish for a long life. In recent years, taking commemorative photos at photo studios has also become standard.",
+      "de": "An essential part of Shichi-Go-San is 「千歳飴」, chitose-ame. These are long, thin red-and-white candies, packed in bags decorated with cranes and turtles. 「千歳」 means a thousand years. Long and slender, they carry the wish for a long life. In recent years, taking commemorative photos at photo studios has also become standard."
+    }
+  ]
+}

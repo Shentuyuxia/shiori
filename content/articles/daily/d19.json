@@ -1,0 +1,195 @@
+{
+  "id": "d19",
+  "d": 19,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "立冬",
+  "sub": "節氣：立冬",
+  "body": "今日から暦の上では冬。二十四節気の「立冬」である。まだ紅葉の[[盛り|さかり]]の地方も多く、冬と言われても[[ぴんと来ない|ぴんとこない]]かもしれない。\n\nそれでも、[[日脚|ひあし]]はずいぶん短くなった。夕方五時にはもう[[薄暗く|うすぐらく]]、街の明かりが早く[[灯る|ともる]]。北のほうからは「[[木枯らし一号|こがらしいちごう]]」の[[便り|たより]]も届く頃だ。木枯らしとは、晩秋から初冬にかけて吹く、強く冷たい北風のこと。木の葉を落として枯れ木にしてしまう風、という意味である。\n\nこたつを出す家、[[加湿器|かしつき]]を[[引っ張り出す|ひっぱりだす]]家。冬支度の[[段取り|だんどり]]は、[[家々|いえいえ]]でそれぞれ違うが、どこか[[浮き立つ|うきたつ]]ような気分は同じだ。",
+  "gloss": {
+    "盛り": {
+      "m": "最盛期"
+    },
+    "ぴんと来ない": {
+      "m": "沒有實感、無法立刻理解"
+    },
+    "日脚": {
+      "m": "白晝的長度"
+    },
+    "薄暗く": {
+      "m": "昏暗"
+    },
+    "灯る": {
+      "m": "點亮"
+    },
+    "木枯らし一号": {
+      "m": "當年第一道寒風"
+    },
+    "便り": {
+      "m": "消息"
+    },
+    "加湿器": {
+      "m": "加濕器"
+    },
+    "引っ張り出す": {
+      "m": "拉出來、拿出來"
+    },
+    "段取り": {
+      "m": "步驟、安排"
+    },
+    "家々": {
+      "m": "家家戶戶"
+    },
+    "浮き立つ": {
+      "m": "雀躍、興奮"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Rittō: start of winter",
+      "g": {
+        "盛り": [
+          "peak"
+        ],
+        "ぴんと来ない": [
+          "doesn't quite click"
+        ],
+        "日脚": [
+          "length of daylight"
+        ],
+        "薄暗く": [
+          "dim"
+        ],
+        "灯る": [
+          "to light up"
+        ],
+        "木枯らし一号": [
+          "first cold winter wind of the year"
+        ],
+        "便り": [
+          "news, tidings"
+        ],
+        "加湿器": [
+          "humidifier"
+        ],
+        "引っ張り出す": [
+          "to pull out, dig out"
+        ],
+        "段取り": [
+          "arrangements, steps"
+        ],
+        "家々": [
+          "every house"
+        ],
+        "浮き立つ": [
+          "to be cheerful, buoyant"
+        ]
+      }
+    },
+    "de": {
+      "s": "Rittō: Winteranfang",
+      "g": {
+        "盛り": [
+          "Höhepunkt"
+        ],
+        "ぴんと来ない": [
+          "will nicht recht einleuchten"
+        ],
+        "日脚": [
+          "Tageslänge"
+        ],
+        "薄暗く": [
+          "dämmrig"
+        ],
+        "灯る": [
+          "aufleuchten"
+        ],
+        "木枯らし一号": [
+          "erster kalter Winterwind des Jahres"
+        ],
+        "便り": [
+          "Nachricht, Kunde"
+        ],
+        "加湿器": [
+          "Luftbefeuchter"
+        ],
+        "引っ張り出す": [
+          "hervorholen"
+        ],
+        "段取り": [
+          "Ablauf, Vorbereitung"
+        ],
+        "家々": [
+          "alle Häuser"
+        ],
+        "浮き立つ": [
+          "in Hochstimmung sein"
+        ]
+      }
+    },
+    "hans": {
+      "s": "节气：立冬",
+      "g": {
+        "盛り": [
+          "最盛期"
+        ],
+        "ぴんと来ない": [
+          "没有实感、无法立刻理解"
+        ],
+        "日脚": [
+          "白昼的长度"
+        ],
+        "薄暗く": [
+          "昏暗"
+        ],
+        "灯る": [
+          "点亮"
+        ],
+        "木枯らし一号": [
+          "当年第一道寒风"
+        ],
+        "便り": [
+          "消息"
+        ],
+        "加湿器": [
+          "加湿器"
+        ],
+        "引っ張り出す": [
+          "拉出来、拿出来"
+        ],
+        "段取り": [
+          "步骤、安排"
+        ],
+        "家々": [
+          "家家户户"
+        ],
+        "浮き立つ": [
+          "雀跃、兴奋"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "從今天起，按曆法算就是冬天了。這是二十四節氣中的「立冬」。許多地方還是紅葉最盛的時候，就算說是冬天，可能也沒什麼實感。",
+      "zh-Hans": "从今天起，按历法算就是冬天了。这是二十四节气中的「立冬」。许多地方还是红叶最盛的时候，就算说是冬天，可能也没什么实感。",
+      "en": "From today, by the calendar, it is winter. This is 「立冬」, the start of winter in the 24 solar terms. In many regions the autumn leaves are still at their peak, so even if you are told it is winter, it may not feel that way yet.",
+      "de": "From today, by the calendar, it is winter. This is 「立冬」, the start of winter in the 24 solar terms. In many regions the autumn leaves are still at their peak, so even if you are told it is winter, it may not feel that way yet."
+    },
+    {
+      "zh-Hant": "不過，白晝已經變短了不少。傍晚五點天色就已經暗了下來，街燈很快就亮起。北方也傳來「木枯らし一號」的消息。木枯らし是晚秋到初冬吹來的強烈寒冷北風，意思是能把樹葉吹落、讓樹木變成枯枝的風。",
+      "zh-Hans": "不过，白昼已经变短了不少。傍晚五点天色就已经暗了下来，街灯很快就亮起。北方也传来「木枯らし一号」的消息。木枯らし是晚秋到初冬吹来的强烈寒冷北风，意思是能把树叶吹落、让树木变成枯枝的风。",
+      "en": "Still, daylight has grown considerably shorter. By five in the afternoon it is already dim, and the city lights come on early. News also arrives from the north of the first 「木枯らし」 of the year. A kogarashi is a strong, cold north wind that blows from late autumn into early winter, a wind that strips the leaves and leaves the trees bare.",
+      "de": "Still, daylight has grown considerably shorter. By five in the afternoon it is already dim, and the city lights come on early. News also arrives from the north of the first 「木枯らし」 of the year. A kogarashi is a strong, cold north wind that blows from late autumn into early winter, a wind that strips the leaves and leaves the trees bare."
+    },
+    {
+      "zh-Hant": "有的人家拿出暖桌，有的人家把加濕器拿出來。準備過冬的步驟，每家都不一樣，但那種有點雀躍的心情，大家都一樣。",
+      "zh-Hans": "有的人家拿出暖桌，有的人家把加湿器拿出来。准备过冬的步骤，每家都不一样，但那种有点雀跃的心情，大家都一样。",
+      "en": "Some households bring out the kotatsu, others pull out the humidifier. How each household prepares for winter differs, but that slightly excited feeling is the same for everyone.",
+      "de": "Some households bring out the kotatsu, others pull out the humidifier. How each household prepares for winter differs, but that slightly excited feeling is the same for everyone."
+    }
+  ]
+}

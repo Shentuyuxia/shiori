@@ -1,0 +1,187 @@
+{
+  "id": "d38",
+  "d": 38,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "商務日語",
+    "ja": "ビジネス日本語"
+  },
+  "title": "「持ち帰って検討します」",
+  "sub": "「帶回去研究一下」",
+  "body": "日本の会議でよく聞く一言に、「一度[[持ち帰って|もちかえって]]検討します」がある。その場で決めず、自分の会社や部署に戻ってから[[判断|はんだん]]する、という意味だ。\n\n外国の取引先からは、「なぜ決定権のある人が来ないのか」と[[不満|ふまん]]の声が出ることもある。しかし、日本の組織では、[[稟議|りんぎ]]と呼ばれる手続きで関係者の[[合意|ごうい]]を一つずつ取りつけるのが一般的だ。担当者の一存で決めると、あとで「聞いていない」と[[反発|はんぱつ]]を招きかねない。\n\n[[時間がかかる|じかんがかかる]]のは[[欠点|けってん]]だが、いったん決まれば[[実行|じっこう]]が早い、という利点もある。交渉する側としては、相手が持ち帰ったあとに誰を説得すべきかを見極め、[[判断材料|はんだんざいりょう]]をそろえて渡すのが[[近道|ちかみち]]だ。",
+  "gloss": {
+    "持ち帰って": {
+      "m": "帶回去"
+    },
+    "判断": {
+      "m": "判斷"
+    },
+    "不満": {
+      "m": "不滿"
+    },
+    "稟議": {
+      "m": "簽呈、層層批示",
+      "n": "以公文在組織內逐級傳閱取得同意的制度。"
+    },
+    "合意": {
+      "m": "共識、同意"
+    },
+    "反発": {
+      "m": "反彈"
+    },
+    "時間がかかる": {
+      "m": "費時"
+    },
+    "欠点": {
+      "m": "缺點"
+    },
+    "実行": {
+      "m": "執行"
+    },
+    "判断材料": {
+      "m": "判斷依據"
+    },
+    "近道": {
+      "m": "捷徑"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "\"We'll take it back and consider it\"",
+      "g": {
+        "持ち帰って": [
+          "taking it back (to the office)"
+        ],
+        "判断": [
+          "judgement, decision"
+        ],
+        "不満": [
+          "dissatisfaction"
+        ],
+        "稟議": [
+          "ringi (circulating approval system)",
+          "Getting consensus by passing a document up the hierarchy for approval."
+        ],
+        "合意": [
+          "agreement, consensus"
+        ],
+        "反発": [
+          "backlash"
+        ],
+        "時間がかかる": [
+          "takes time"
+        ],
+        "欠点": [
+          "drawback"
+        ],
+        "実行": [
+          "execution, carrying out"
+        ],
+        "判断材料": [
+          "basis for a decision"
+        ],
+        "近道": [
+          "shortcut"
+        ]
+      }
+    },
+    "de": {
+      "s": "„Wir nehmen das mit und prüfen es“",
+      "g": {
+        "持ち帰って": [
+          "(ins Büro) mitnehmen"
+        ],
+        "判断": [
+          "Urteil, Entscheidung"
+        ],
+        "不満": [
+          "Unzufriedenheit"
+        ],
+        "稟議": [
+          "Ringi (Umlaufbeschluss)",
+          "Konsens, indem ein Dokument zur Genehmigung durch die Hierarchie wandert."
+        ],
+        "合意": [
+          "Einigung, Konsens"
+        ],
+        "反発": [
+          "Widerstand"
+        ],
+        "時間がかかる": [
+          "dauert lange"
+        ],
+        "欠点": [
+          "Nachteil"
+        ],
+        "実行": [
+          "Umsetzung"
+        ],
+        "判断材料": [
+          "Entscheidungsgrundlage"
+        ],
+        "近道": [
+          "Abkürzung"
+        ]
+      }
+    },
+    "hans": {
+      "s": "「带回去研究一下」",
+      "g": {
+        "持ち帰って": [
+          "带回去"
+        ],
+        "判断": [
+          "判断"
+        ],
+        "不満": [
+          "不满"
+        ],
+        "稟議": [
+          "签呈、层层批示",
+          "以公文在组织内逐级传阅取得同意的制度。"
+        ],
+        "合意": [
+          "共识、同意"
+        ],
+        "反発": [
+          "反弹"
+        ],
+        "時間がかかる": [
+          "费时"
+        ],
+        "欠点": [
+          "缺点"
+        ],
+        "実行": [
+          "执行"
+        ],
+        "判断材料": [
+          "判断依据"
+        ],
+        "近道": [
+          "捷径"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "在日本的會議上常聽到一句話：「我帶回去研究一下。」意思是當場不做決定，回到自己的公司或部門之後再判斷。",
+      "zh-Hans": "在日本的会议上常听到一句话：「我带回去研究一下。」意思是当场不做决定，回到自己的公司或部门之后再判断。",
+      "en": "A phrase often heard in Japanese meetings is 「一度持ち帰って検討します」, \"I will take it back and consider it.\" It means not deciding on the spot, but judging after returning to one's own company or department.",
+      "de": "A phrase often heard in Japanese meetings is 「一度持ち帰って検討します」, \"I will take it back and consider it.\" It means not deciding on the spot, but judging after returning to one's own company or department."
+    },
+    {
+      "zh-Hant": "外國的客戶有時會抱怨：「為什麼有決定權的人不來？」但在日本的組織裡，一般會透過名為「稟議」的程序，逐一取得相關人員的同意。如果承辦人獨自決定，之後可能會引來「我沒聽說」的反彈。",
+      "zh-Hans": "外国的客户有时会抱怨：「为什么有决定权的人不来？」但在日本的组织里，一般会通过名为「禀议」的进程，逐一取得相关人员的同意。如果承办人独自决定，之后可能会引来「我没听说」的反弹。",
+      "en": "Foreign clients sometimes complain: \"Why doesn't the person with decision-making power come?\" But in Japanese organizations, it is common to go through a process called 「稟議」, securing the consent of each person involved one by one. If the person in charge decides on their own, it may later cause backlash from those who say \"We weren't told.\"",
+      "de": "Foreign clients sometimes complain: \"Why doesn't the person with decision-making power come?\" But in Japanese organizations, it is common to go through a process called 「稟議」, securing the consent of each person involved one by one. If the person in charge decides on their own, it may later cause backlash from those who say \"We weren't told.\""
+    },
+    {
+      "zh-Hant": "花時間是缺點，但一旦決定，執行就很快，這是它的優點。作為談判的一方，最近的路徑是：在對方帶回去之後，看清楚該去說服誰，然後備妥判斷所需的材料交給對方。",
+      "zh-Hans": "花时间是缺点，但一旦决定，运行就很快，这是它的优点。作为谈判的一方，最近的路径是：在对方带回去之后，看清楚该去说服谁，然后备妥判断所需的材料交给对方。",
+      "en": "It takes time, which is a drawback, but once a decision is made, execution is fast, which is an advantage. As the negotiating side, the shortest route is to figure out whom to persuade after the other party takes the matter back, and then provide them with the materials they need to decide.",
+      "de": "It takes time, which is a drawback, but once a decision is made, execution is fast, which is an advantage. As the negotiating side, the shortest route is to figure out whom to persuade after the other party takes the matter back, and then provide them with the materials they need to decide."
+    }
+  ]
+}

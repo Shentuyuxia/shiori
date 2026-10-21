@@ -1,0 +1,215 @@
+{
+  "id": "kuki",
+  "d": -1,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "評論",
+    "ja": "評論"
+  },
+  "title": "「空気を読む」ということ",
+  "sub": "所謂「察言觀色」",
+  "body": "日本で暮らしていると、「空気を読む」という言葉に何度も出会う。会議で誰も反対しないのは、全員が賛成しているからではない。反対を口にすることで場が[[気まずく|きまずく]]なるのを避けているだけ、ということも少なくない。\n\nもちろん、相手の気持ちを[[察する|さっする]]力は、[[円滑|えんかつ]]な人間関係に欠かせない。しかしそれが行き過ぎると、[[同調圧力|どうちょうあつりょく]]となって個人の判断を[[縛る|しばる]]。上の立場の人の{意向|いこう}を先回りして[[忖度|そんたく]]するうちに、本来の目的が見失われ、手続きだけが[[形骸化|けいがいか]]していく。\n\n[[逆説的|ぎゃくせつてき]]だが、本当に空気を読める人とは、あえて空気を読まない勇気を持つ人なのかもしれない。{沈黙|ちんもく}が[[暗黙の了解|あんもくのりょうかい]]と[[見なされる|みなされる]]場で、「本当にそれでいいのでしょうか」と問うこと。その一言の[[重み|おもみ]]を、[[一概に|いちがいに]][[軽んじる|かろんじる]]べきではないだろう。",
+  "gloss": {
+    "気まずく": {
+      "m": "尷尬（原形：気まずい）"
+    },
+    "察する": {
+      "m": "體察、揣測（對方心意）"
+    },
+    "円滑": {
+      "m": "順暢、圓融"
+    },
+    "同調圧力": {
+      "m": "從眾壓力、同儕壓力"
+    },
+    "縛る": {
+      "m": "束縛、綁住"
+    },
+    "忖度": {
+      "m": "揣摩上意",
+      "n": "原意是推測他人心思，近年多指「看上面臉色主動行事」。"
+    },
+    "形骸化": {
+      "m": "流於形式、徒具形式"
+    },
+    "逆説的": {
+      "m": "弔詭地、看似矛盾地"
+    },
+    "暗黙の了解": {
+      "m": "心照不宣的默契"
+    },
+    "見なされる": {
+      "m": "被視為"
+    },
+    "重み": {
+      "m": "分量、份量"
+    },
+    "一概に": {
+      "m": "一概",
+      "n": "多接否定：一概に～とは言えない。"
+    },
+    "軽んじる": {
+      "m": "輕視"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "On \"reading the air\"",
+      "g": {
+        "気まずく": [
+          "awkward (dict. form: 気まずい)"
+        ],
+        "察する": [
+          "to sense, guess (someone's feelings)"
+        ],
+        "円滑": [
+          "smooth, harmonious"
+        ],
+        "同調圧力": [
+          "peer pressure"
+        ],
+        "縛る": [
+          "to bind, restrict"
+        ],
+        "忖度": [
+          "anticipating superiors' wishes",
+          "Originally \"guessing others' thoughts\"; now mostly acting on what the boss might want."
+        ],
+        "形骸化": [
+          "becoming an empty formality"
+        ],
+        "逆説的": [
+          "paradoxically"
+        ],
+        "暗黙の了解": [
+          "tacit understanding"
+        ],
+        "見なされる": [
+          "to be regarded as"
+        ],
+        "重み": [
+          "weight, importance"
+        ],
+        "一概に": [
+          "sweepingly, across the board",
+          "Usually with a negative: 一概に～とは言えない."
+        ],
+        "軽んじる": [
+          "to make light of"
+        ]
+      }
+    },
+    "de": {
+      "s": "Über das „Luftlesen“",
+      "g": {
+        "気まずく": [
+          "peinlich, unangenehm (Grundform: 気まずい)"
+        ],
+        "察する": [
+          "erspüren, erahnen (Gefühle anderer)"
+        ],
+        "円滑": [
+          "reibungslos, harmonisch"
+        ],
+        "同調圧力": [
+          "Gruppenzwang"
+        ],
+        "縛る": [
+          "fesseln, einschränken"
+        ],
+        "忖度": [
+          "vorauseilender Gehorsam",
+          "Ursprünglich „Gedanken anderer erraten“; heute meist: tun, was der Chef wohl will."
+        ],
+        "形骸化": [
+          "zur leeren Formalität werden"
+        ],
+        "逆説的": [
+          "paradoxerweise"
+        ],
+        "暗黙の了解": [
+          "stillschweigendes Einverständnis"
+        ],
+        "見なされる": [
+          "gelten als"
+        ],
+        "重み": [
+          "Gewicht, Bedeutung"
+        ],
+        "一概に": [
+          "pauschal",
+          "Meist verneint: 一概に～とは言えない."
+        ],
+        "軽んじる": [
+          "geringschätzen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "所谓「察言观色」",
+      "g": {
+        "気まずく": [
+          "尴尬（原形：気まずい）"
+        ],
+        "察する": [
+          "体察、揣测（对方心意）"
+        ],
+        "円滑": [
+          "顺畅、圆融"
+        ],
+        "同調圧力": [
+          "从众压力、同侪压力"
+        ],
+        "縛る": [
+          "束缚、绑住"
+        ],
+        "忖度": [
+          "揣摩上意",
+          "原意是推测他人心思，近年多指「看上面脸色主动行事」。"
+        ],
+        "形骸化": [
+          "流于形式、徒具形式"
+        ],
+        "逆説的": [
+          "吊诡地、看似矛盾地"
+        ],
+        "暗黙の了解": [
+          "心照不宣的默契"
+        ],
+        "見なされる": [
+          "被视为"
+        ],
+        "重み": [
+          "分量、份量"
+        ],
+        "一概に": [
+          "一概",
+          "多接否定：一概に～とは言えない。"
+        ],
+        "軽んじる": [
+          "轻视"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "在日本生活，「讀空氣」這個說法會反覆出現。會議上沒有人反對，並不是因為大家都贊成。很多時候，只是因為提出反對會讓場面變尷尬，所以大家避開了。",
+      "zh-Hans": "在日本生活，「读空气」这个说法会反复出现。会议上没有人反对，并不是因为大家都赞成。很多时候，只是因为提出反对会让场面变尴尬，所以大家避开了。",
+      "en": "Living in Japan, you run into the expression 「空気を読む」 again and again. When no one objects in a meeting, it is not necessarily because everyone agrees. Quite often, it is simply that voicing an objection would make the atmosphere awkward, so people avoid it.",
+      "de": "Living in Japan, you run into the expression 「空気を読む」 again and again. When no one objects in a meeting, it is not necessarily because everyone agrees. Quite often, it is simply that voicing an objection would make the atmosphere awkward, so people avoid it."
+    },
+    {
+      "zh-Hant": "當然，體察對方心情的能力，對於順暢的人際關係不可或缺。但如果太過分，就會變成「同調壓力」，束縛個人的判斷。揣摩上位者的意向、搶先行動，久而久之，原本的目的被忘記，只剩下形式逐漸空洞化。",
+      "zh-Hans": "当然，体察对方心情的能力，对于顺畅的人际关系不可或缺。但如果太过分，就会变成「同调压力」，束缚个人的判断。揣摩上位者的意向、抢先行动，久而久之，原本的目的被忘记，只剩下形式逐渐空洞化。",
+      "en": "Of course, the ability to sense how others feel is essential for smooth relationships. But when it goes too far, it becomes 「同調圧力」, pressure to conform that constrains individual judgment. Anticipating the wishes of those above and acting on them in advance, the original purpose gets lost, and only the procedures become hollow.",
+      "de": "Of course, the ability to sense how others feel is essential for smooth relationships. But when it goes too far, it becomes 「同調圧力」, pressure to conform that constrains individual judgment. Anticipating the wishes of those above and acting on them in advance, the original purpose gets lost, and only the procedures become hollow."
+    },
+    {
+      "zh-Hant": "矛盾的是，真正能讀懂空氣的人，或許是有勇氣刻意不去讀空氣的人。在沉默被當作默契的場合，問一句「真的可以這樣嗎？」。這一句話的分量，不應該被一概而論地輕視。",
+      "zh-Hans": "矛盾的是，真正能读懂空气的人，或许是有勇气刻意不去读空气的人。在沉默被当作默契的场合，问一句「真的可以这样吗？」。这一句话的分量，不应该被一概而论地轻视。",
+      "en": "Paradoxically, perhaps those who truly can read the air are the ones with the courage to deliberately not follow it. In a setting where silence is taken as tacit agreement, to ask, \"Is it really all right to proceed like this?\" The weight of that one sentence should not be dismissed out of hand.",
+      "de": "Paradoxically, perhaps those who truly can read the air are the ones with the courage to deliberately not follow it. In a setting where silence is taken as tacit agreement, to ask, \"Is it really all right to proceed like this?\" The weight of that one sentence should not be dismissed out of hand."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "d52",
+  "d": 52,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "時事解說",
+    "ja": "時事解説"
+  },
+  "title": "観光客が増えすぎると",
+  "sub": "時事解說：過度觀光",
+  "body": "日本を訪れる外国人観光客は、[[円安|えんやす]]などを背景に大きく増えた。観光は地域経済を[[潤す|うるおす]]一方で、人気の観光地では「オーバーツーリズム（観光公害）」と呼ばれる問題も起きている。\n\n京都では、路線バスが観光客で満員になり、地元の住民が乗れないことがあった。[[祇園|ぎおん]]の[[花見小路|はなみこうじ]]周辺では、[[舞妓|まいこ]]を無断で撮影する観光客への[[苦情|くじょう]]が相次ぎ、私道への立ち入りを制限する[[看板|かんばん]]も立てられた。富士山の[[登山道|とざんどう]]では、入山料の[[徴収|ちょうしゅう]]や人数制限が導入された。\n\n観光客を「[[呼び込む|よびこむ]]」段階から、「[[受け入れ方|うけいれかた]]を[[設計|せっけい]]する」段階へ。住民の生活と観光をどう[[両立|りょうりつ]]させるかは、日本だけでなく、多くの観光地に共通する課題である。",
+  "gloss": {
+    "円安": {
+      "m": "日圓貶值"
+    },
+    "潤す": {
+      "m": "滋潤、帶動"
+    },
+    "祇園": {
+      "m": "祇園（京都花街）"
+    },
+    "花見小路": {
+      "m": "花見小路"
+    },
+    "舞妓": {
+      "m": "舞妓"
+    },
+    "苦情": {
+      "m": "抱怨、客訴"
+    },
+    "看板": {
+      "m": "告示牌"
+    },
+    "登山道": {
+      "m": "登山步道"
+    },
+    "徴収": {
+      "m": "徵收"
+    },
+    "呼び込む": {
+      "m": "招攬"
+    },
+    "受け入れ方": {
+      "m": "接待方式"
+    },
+    "設計": {
+      "m": "設計、規劃"
+    },
+    "両立": {
+      "m": "兼顧"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "When there are too many tourists",
+      "g": {
+        "円安": [
+          "weak yen"
+        ],
+        "潤す": [
+          "to enrich, boost"
+        ],
+        "祇園": [
+          "Gion (Kyoto geisha district)"
+        ],
+        "花見小路": [
+          "Hanami-kōji street"
+        ],
+        "舞妓": [
+          "maiko (apprentice geisha)"
+        ],
+        "苦情": [
+          "complaint"
+        ],
+        "看板": [
+          "sign"
+        ],
+        "登山道": [
+          "hiking trail"
+        ],
+        "徴収": [
+          "collection (of fees)"
+        ],
+        "呼び込む": [
+          "to attract (visitors)"
+        ],
+        "受け入れ方": [
+          "way of receiving (visitors)"
+        ],
+        "設計": [
+          "design, planning"
+        ],
+        "両立": [
+          "balancing both"
+        ]
+      }
+    },
+    "de": {
+      "s": "Wenn zu viele Touristen kommen",
+      "g": {
+        "円安": [
+          "schwacher Yen"
+        ],
+        "潤す": [
+          "beleben, bereichern"
+        ],
+        "祇園": [
+          "Gion (Geisha-Viertel in Kyoto)"
+        ],
+        "花見小路": [
+          "Hanami-kōji-Straße"
+        ],
+        "舞妓": [
+          "Maiko (Geisha-Lehrling)"
+        ],
+        "苦情": [
+          "Beschwerde"
+        ],
+        "看板": [
+          "Schild"
+        ],
+        "登山道": [
+          "Wanderweg"
+        ],
+        "徴収": [
+          "Erhebung (von Gebühren)"
+        ],
+        "呼び込む": [
+          "anlocken"
+        ],
+        "受け入れ方": [
+          "Art der Aufnahme"
+        ],
+        "設計": [
+          "Gestaltung, Planung"
+        ],
+        "両立": [
+          "Vereinbarkeit"
+        ]
+      }
+    },
+    "hans": {
+      "s": "时事解说：过度观光",
+      "g": {
+        "円安": [
+          "日圆贬值"
+        ],
+        "潤す": [
+          "滋润、带动"
+        ],
+        "祇園": [
+          "祇园（京都花街）"
+        ],
+        "花見小路": [
+          "花见小路"
+        ],
+        "舞妓": [
+          "舞妓"
+        ],
+        "苦情": [
+          "抱怨、客诉"
+        ],
+        "看板": [
+          "告示牌"
+        ],
+        "登山道": [
+          "登山步道"
+        ],
+        "徴収": [
+          "征收"
+        ],
+        "呼び込む": [
+          "招揽"
+        ],
+        "受け入れ方": [
+          "接待方式"
+        ],
+        "設計": [
+          "设计、规划"
+        ],
+        "両立": [
+          "兼顾"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "受日圓貶值等因素影響，來日本的外國觀光客大幅增加。觀光在帶動地區經濟的同時，熱門景點也出現了被稱為「オーバーツーリズム（觀光公害）」的問題。",
+      "zh-Hans": "受日圆贬值等因素影响，来日本的外国观光客大幅增加。观光在带动地区经济的同时，热门景点也出现了被称为「オーバーツーリズム（观光公害）」的问题。",
+      "en": "Driven by factors such as the weak yen, the number of foreign tourists visiting Japan has increased dramatically. While tourism boosts local economies, popular destinations are also experiencing what is called \"overtourism\" (kankō kōgai, tourism pollution).",
+      "de": "Driven by factors such as the weak yen, the number of foreign tourists visiting Japan has increased dramatically. While tourism boosts local economies, popular destinations are also experiencing what is called \"overtourism\" (kankō kōgai, tourism pollution)."
+    },
+    {
+      "zh-Hant": "在京都，路線公車曾擠滿觀光客，當地居民甚至無法搭乘。在祇園花見小路一帶，有關遊客未經許可拍攝舞妓的投訴接連不斷，也豎立了禁止進入私人道路的告示牌。富士山的登山道則開始徵收入山費，並實施人數限制。",
+      "zh-Hans": "在京都，路线公车曾挤满观光客，当地居民甚至无法搭乘。在祇园花见小路一带，有关游客未经许可拍摄舞妓的投诉接连不断，也竖立了禁止进入私人道路的告示牌。富士山的登山道则开始征收入山费，并实施人数限制。",
+      "en": "In Kyoto, route buses were sometimes so full of tourists that local residents could not board. Around Hanamikoji in Gion, complaints piled up about tourists photographing maiko without permission, and signs were posted restricting entry to private roads. On the Mount Fuji trails, an entrance fee and limits on the number of climbers were introduced.",
+      "de": "In Kyoto, route buses were sometimes so full of tourists that local residents could not board. Around Hanamikoji in Gion, complaints piled up about tourists photographing maiko without permission, and signs were posted restricting entry to private roads. On the Mount Fuji trails, an entrance fee and limits on the number of climbers were introduced."
+    },
+    {
+      "zh-Hant": "從「吸引觀光客」的階段，走向「設計如何接待」的階段。如何讓居民的生活與觀光得以並存，不只是日本的課題，也是許多觀光地共同面對的挑戰。",
+      "zh-Hans": "从「吸引观光客」的阶段，走向「设计如何接待」的阶段。如何让居民的生活与观光得以并存，不只是日本的课题，也是许多观光地共同面对的挑战。",
+      "en": "The challenge is to move from the stage of \"attracting tourists\" to the stage of \"designing how to welcome them.\" How to make residents' daily lives and tourism coexist is a shared challenge not just for Japan but for many tourist destinations.",
+      "de": "The challenge is to move from the stage of \"attracting tourists\" to the stage of \"designing how to welcome them.\" How to make residents' daily lives and tourism coexist is a shared challenge not just for Japan but for many tourist destinations."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "w-katsuo",
+  "d": -1,
+  "lv": "n2",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "世界一硬い食べ物",
+  "sub": "世界上最硬的食物：柴魚",
+  "body": "二本を打ち合わせると、カンカンと[[拍子木|ひょうしぎ]]のような音がする。それが[[鰹節|かつおぶし]]、「世界一硬い食べ物」と呼ばれることもある食品だ。\n\n作り方は手間がかかる。鰹を[[三枚におろし|さんまいにおろし]]、煮てから骨を抜き、煙で[[いぶし|いぶし]]ながら水分を抜いていく。ここまでのものを「[[荒節|あらぶし]]」と言う。さらに表面を削り、わざと[[かび|かび]]をつけて、天日に干す。これを何度も繰り返したものが「[[本枯節|ほんかれぶし]]」で、完成までに半年以上かかることもある。\n\nかびと聞くと驚くかもしれないが、このかびが残った水分を吸い取り、脂肪を分解して、香りとうま味を深くする。チーズや日本酒と同じく、[[微生物|びせいぶつ]]の力を借りた[[発酵食品|はっこうしょくひん]]なのだ。\n\nかつては家庭に専用の削り器があり、朝、鰹節を削る音で目を覚ましたという人もいる。今では削った状態の「[[削り節|けずりぶし]]」を袋で買うのが普通になったが、だしの基本であることは変わらない。",
+  "gloss": {
+    "拍子木": {
+      "m": "梆子（木製響板）"
+    },
+    "鰹節": {
+      "m": "柴魚、鰹節"
+    },
+    "三枚におろし": {
+      "m": "把魚切成三片（兩片魚肉加中骨）"
+    },
+    "いぶし": {
+      "m": "煙燻（原形：いぶす）"
+    },
+    "荒節": {
+      "m": "荒節（只燻乾、未上黴的柴魚）"
+    },
+    "かび": {
+      "m": "黴"
+    },
+    "本枯節": {
+      "m": "本枯節（反覆上黴、日曬的高級柴魚）"
+    },
+    "微生物": {
+      "m": "微生物"
+    },
+    "発酵食品": {
+      "m": "發酵食品"
+    },
+    "削り節": {
+      "m": "柴魚片"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The hardest food in the world",
+      "g": {
+        "拍子木": [
+          "wooden clappers"
+        ],
+        "鰹節": [
+          "katsuobushi (dried bonito)"
+        ],
+        "三枚におろし": [
+          "filleting into three pieces"
+        ],
+        "いぶし": [
+          "smoking (dict. form: いぶす)"
+        ],
+        "荒節": [
+          "arabushi (smoked, unmoulded)"
+        ],
+        "かび": [
+          "mould"
+        ],
+        "本枯節": [
+          "honkarebushi (repeatedly moulded, top grade)"
+        ],
+        "微生物": [
+          "microorganism"
+        ],
+        "発酵食品": [
+          "fermented food"
+        ],
+        "削り節": [
+          "katsuobushi flakes"
+        ]
+      }
+    },
+    "de": {
+      "s": "Das härteste Lebensmittel der Welt",
+      "g": {
+        "拍子木": [
+          "Holzklappern"
+        ],
+        "鰹節": [
+          "Katsuobushi (getrockneter Bonito)"
+        ],
+        "三枚におろし": [
+          "in drei Teile filetieren"
+        ],
+        "いぶし": [
+          "räuchern (Grundform: いぶす)"
+        ],
+        "荒節": [
+          "Arabushi (geräuchert, ohne Schimmel)"
+        ],
+        "かび": [
+          "Schimmel"
+        ],
+        "本枯節": [
+          "Honkarebushi (mehrfach geschimmelt, beste Qualität)"
+        ],
+        "微生物": [
+          "Mikroorganismus"
+        ],
+        "発酵食品": [
+          "fermentiertes Lebensmittel"
+        ],
+        "削り節": [
+          "Bonitoflocken"
+        ]
+      }
+    },
+    "hans": {
+      "s": "世界上最硬的食物：柴鱼",
+      "g": {
+        "拍子木": [
+          "梆子（木制响板）"
+        ],
+        "鰹節": [
+          "柴鱼、鲣节"
+        ],
+        "三枚におろし": [
+          "把鱼切成三片（两片鱼肉加中骨）"
+        ],
+        "いぶし": [
+          "烟熏（原形：いぶす）"
+        ],
+        "荒節": [
+          "荒节（只熏干、未上霉的柴鱼）"
+        ],
+        "かび": [
+          "霉"
+        ],
+        "本枯節": [
+          "本枯节（反复上霉、日晒的高级柴鱼）"
+        ],
+        "微生物": [
+          "微生物"
+        ],
+        "発酵食品": [
+          "发酵食品"
+        ],
+        "削り節": [
+          "柴鱼片"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "兩根互相敲擊，會發出像梆子一樣「鏗鏗」的聲音。這就是柴魚，有時被稱為「世界上最硬的食物」。",
+      "zh-Hans": "两根互相敲击，会发出像梆子一样「铿铿」的声音。这就是柴鱼，有时被称为「世界上最硬的食物」。",
+      "en": "Knock two of them together and they clack like wooden clappers. This is katsuobushi, sometimes called the hardest food in the world.",
+      "de": "Schlägt man zwei Stück aneinander, klappern sie wie Holzklappern. Das ist Katsuobushi, manchmal das härteste Lebensmittel der Welt genannt."
+    },
+    {
+      "zh-Hant": "做法很費工。先把鰹魚切成三片，煮過後去骨，再一邊用煙燻一邊逼出水分。做到這一步的叫「荒節」。接著削去表面，刻意讓它長黴，再拿去曬太陽。這樣反覆好幾次的就是「本枯節」，有時要花半年以上才完成。",
+      "zh-Hans": "做法很费工。先把鲣鱼切成三片，煮过后去骨，再一边用烟熏一边逼出水分。做到这一步的叫「荒节」。接着削去表面，刻意让它长霉，再拿去晒太阳。这样反复好几次的就是「本枯节」，有时要花半年以上才完成。",
+      "en": "Making it is laborious. The bonito is filleted into three pieces, boiled, deboned and then smoked to drive out the moisture. At this stage it's called arabushi. Then the surface is shaved, mould is deliberately applied, and it's dried in the sun. Repeat this several times and you get honkarebushi, which can take more than six months to finish.",
+      "de": "Die Herstellung ist aufwendig. Der Bonito wird in drei Teile filetiert, gekocht, entgrätet und dann geräuchert, um ihm das Wasser zu entziehen. In diesem Stadium heißt er Arabushi. Danach wird die Oberfläche abgehobelt, gezielt Schimmel aufgebracht und in der Sonne getrocknet. Mehrfach wiederholt entsteht Honkarebushi – das kann über ein halbes Jahr dauern."
+    },
+    {
+      "zh-Hant": "聽到「黴」也許會嚇一跳，但正是這些黴菌吸走殘餘的水分、分解脂肪，讓香氣和鮮味更深。它和起司、日本酒一樣，是借助微生物力量的發酵食品。",
+      "zh-Hans": "听到「霉」也许会吓一跳，但正是这些霉菌吸走残余的水分、分解脂肪，让香气和鲜味更深。它和起司、日本酒一样，是借助微生物力量的发酵食品。",
+      "en": "Mould may sound alarming, but it soaks up the remaining moisture and breaks down the fat, deepening the aroma and umami. Like cheese and sake, it's a fermented food made with the help of microorganisms.",
+      "de": "Schimmel mag erschrecken, doch er saugt die restliche Feuchtigkeit auf und baut Fett ab – so werden Duft und Umami tiefer. Wie Käse und Sake ist es ein fermentiertes Lebensmittel, das auf Mikroorganismen setzt."
+    },
+    {
+      "zh-Hant": "以前家裡都有專用的刨具，有人說早上是被削柴魚的聲音叫醒的。現在一般都買已經削好、裝在袋子裡的「柴魚片」，但它作為高湯基礎的地位沒有改變。",
+      "zh-Hans": "以前家里都有专用的刨具，有人说早上是被削柴鱼的声音叫醒的。现在一般都买已经削好、装在袋子里的「柴鱼片」，但它作为高汤基础的地位没有改变。",
+      "en": "Homes used to have a special shaving box, and some people say they woke up to the sound of katsuobushi being shaved. Today people usually buy ready-made flakes in a bag, but it is still the basis of dashi.",
+      "de": "Früher hatten Haushalte einen eigenen Hobel, und manche erzählen, sie seien morgens vom Geräusch des Hobelns aufgewacht. Heute kauft man meist fertige Flocken im Beutel, doch als Grundlage für Dashi ist er geblieben."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "d60",
+  "d": 60,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "文學原文",
+    "ja": "文学（原文）"
+  },
+  "title": "手袋を買いに（冒頭）",
+  "sub": "新美南吉《去買手套》開頭（1943）",
+  "src": "青空文庫（新美南吉『手袋を買いに』）",
+  "body": "寒い冬が北方から、[[狐|きつね]]の親子の[[棲んでいる|すんでいる]]森へもやって来ました。\n\n[[或朝|あるあさ]][[洞穴|ほらあな]]から子供の狐が出ようとしましたが、「あっ」と叫んで眼を[[抑えながら|おさえながら]]母さん狐のところへ[[ころげて|ころげて]]来ました。\n\n雪を初めて見た子狐は、[[まぶしい|まぶしい]]雪の光を、何かが目に刺さったと思ったのでした。日本の子どもたちが教科書で読み継いできた、冬の童話です。",
+  "gloss": {
+    "狐": {
+      "m": "狐狸"
+    },
+    "棲んでいる": {
+      "m": "棲息"
+    },
+    "或朝": {
+      "m": "某天早上"
+    },
+    "洞穴": {
+      "m": "洞穴"
+    },
+    "抑えながら": {
+      "m": "一邊捂著"
+    },
+    "ころげて": {
+      "m": "滾著、跌跌撞撞地（原形：ころげる）"
+    },
+    "まぶしい": {
+      "m": "刺眼"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Buying Mittens (opening)",
+      "g": {
+        "狐": [
+          "fox"
+        ],
+        "棲んでいる": [
+          "living (animals)"
+        ],
+        "或朝": [
+          "one morning"
+        ],
+        "洞穴": [
+          "den, cave"
+        ],
+        "抑えながら": [
+          "while covering"
+        ],
+        "ころげて": [
+          "tumbling (dict. form: ころげる)"
+        ],
+        "まぶしい": [
+          "dazzling"
+        ]
+      }
+    },
+    "de": {
+      "s": "Handschuhe kaufen (Anfang)",
+      "g": {
+        "狐": [
+          "Fuchs"
+        ],
+        "棲んでいる": [
+          "hausend (Tiere)"
+        ],
+        "或朝": [
+          "eines Morgens"
+        ],
+        "洞穴": [
+          "Höhle"
+        ],
+        "抑えながら": [
+          "sich bedeckend"
+        ],
+        "ころげて": [
+          "purzelnd (Grundform: ころげる)"
+        ],
+        "まぶしい": [
+          "blendend"
+        ]
+      }
+    },
+    "hans": {
+      "s": "新美南吉《去买手套》开头（1943）",
+      "g": {
+        "狐": [
+          "狐狸"
+        ],
+        "棲んでいる": [
+          "栖息"
+        ],
+        "或朝": [
+          "某天早上"
+        ],
+        "洞穴": [
+          "洞穴"
+        ],
+        "抑えながら": [
+          "一边捂着"
+        ],
+        "ころげて": [
+          "滚着、跌跌撞撞地（原形：ころげる）"
+        ],
+        "まぶしい": [
+          "刺眼"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "寒冷的冬天，從北方來到了住著狐狸母子的森林。",
+      "zh-Hans": "寒冷的冬天，从北方来到了住着狐狸母子的森林。",
+      "en": "A cold winter came from the north to the forest where a mother fox and her child lived.",
+      "de": "A cold winter came from the north to the forest where a mother fox and her child lived."
+    },
+    {
+      "zh-Hant": "某天早晨，小狐狸正要從洞穴裡出來，卻叫了一聲「啊！」，一邊捂著眼睛，一邊滾到母狐狸身邊。",
+      "zh-Hans": "某天早晨，小狐狸正要从洞穴里出来，却叫了一声「啊！」，一边捂着眼睛，一边滚到母狐狸身边。",
+      "en": "One morning, the young fox tried to come out of the burrow, but cried out \"Ah!\" and, covering its eyes, tumbled over to its mother.",
+      "de": "One morning, the young fox tried to come out of the burrow, but cried out \"Ah!\" and, covering its eyes, tumbled over to its mother."
+    },
+    {
+      "zh-Hant": "第一次看見雪的小狐狸，以為是什麼東西刺進了眼睛，原來是雪反射的耀眼光芒。這是日本的孩子們代代閱讀的冬天童話。",
+      "zh-Hans": "第一次看见雪的小狐狸，以为是什么东西刺进了眼睛，原来是雪反射的耀眼光芒。这是日本的孩子们代代阅读的冬天童话。",
+      "en": "The young fox, seeing snow for the first time, thought something had pierced its eyes, but it was only the dazzling glare of the snow. This is a winter fairy tale that Japanese children have read in their textbooks for generations.",
+      "de": "The young fox, seeing snow for the first time, thought something had pierced its eyes, but it was only the dazzling glare of the snow. This is a winter fairy tale that Japanese children have read in their textbooks for generations."
+    }
+  ]
+}

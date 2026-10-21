@@ -1,0 +1,148 @@
+{
+  "id": "w-katsuo-e",
+  "d": -1,
+  "lv": "n4",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "かつおぶし",
+  "sub": "柴魚（簡單版）",
+  "body": "[[かつおぶし|かつおぶし]]は、[[かつお|かつお]]という{魚|さかな}から{作|つく}ります。\n\n{魚|さかな}を{煮|に}て、[[煙|けむり]]で[[乾かします|かわかします]]。とても[[硬い|かたい]]です。{木|き}のようです。\n\n{料理|りょうり}に{使|つか}うときは、[[薄く|うすく]][[削ります|けずります]]。{日本|にほん}の[[だし|だし]]には、かつおぶしが{大切|たいせつ}です。",
+  "gloss": {
+    "かつおぶし": {
+      "m": "柴魚（鰹節）"
+    },
+    "かつお": {
+      "m": "鰹魚"
+    },
+    "煙": {
+      "m": "煙"
+    },
+    "乾かします": {
+      "m": "弄乾（原形：乾かす）"
+    },
+    "硬い": {
+      "m": "硬"
+    },
+    "薄く": {
+      "m": "薄薄地"
+    },
+    "削ります": {
+      "m": "削、刨（原形：削る）"
+    },
+    "だし": {
+      "m": "高湯"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Katsuobushi (easy)",
+      "g": {
+        "かつおぶし": [
+          "katsuobushi (dried bonito)"
+        ],
+        "かつお": [
+          "bonito, skipjack tuna"
+        ],
+        "煙": [
+          "smoke"
+        ],
+        "乾かします": [
+          "to dry (dict. form: 乾かす)"
+        ],
+        "硬い": [
+          "hard"
+        ],
+        "薄く": [
+          "thinly"
+        ],
+        "削ります": [
+          "to shave (dict. form: 削る)"
+        ],
+        "だし": [
+          "dashi (soup stock)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Katsuobushi (leicht)",
+      "g": {
+        "かつおぶし": [
+          "Katsuobushi (getrockneter Bonito)"
+        ],
+        "かつお": [
+          "Bonito"
+        ],
+        "煙": [
+          "Rauch"
+        ],
+        "乾かします": [
+          "trocknen (Grundform: 乾かす)"
+        ],
+        "硬い": [
+          "hart"
+        ],
+        "薄く": [
+          "dünn"
+        ],
+        "削ります": [
+          "hobeln (Grundform: 削る)"
+        ],
+        "だし": [
+          "Dashi (Brühe)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "柴鱼（简单版）",
+      "g": {
+        "かつおぶし": [
+          "柴鱼（鲣节）"
+        ],
+        "かつお": [
+          "鲣鱼"
+        ],
+        "煙": [
+          "烟"
+        ],
+        "乾かします": [
+          "弄干（原形：干かす）"
+        ],
+        "硬い": [
+          "硬"
+        ],
+        "薄く": [
+          "薄薄地"
+        ],
+        "削ります": [
+          "削、刨（原形：削る）"
+        ],
+        "だし": [
+          "高汤"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "柴魚是用一種叫鰹魚的魚做的。",
+      "zh-Hans": "柴鱼是用一种叫鲣鱼的鱼做的。",
+      "en": "Katsuobushi is made from a fish called bonito.",
+      "de": "Katsuobushi wird aus einem Fisch namens Bonito gemacht."
+    },
+    {
+      "zh-Hant": "把魚煮過，再用煙燻乾。它非常硬，就像木頭一樣。",
+      "zh-Hans": "把鱼煮过，再用烟熏干。它非常硬，就像木头一样。",
+      "en": "The fish is boiled and then dried with smoke. It's very hard, like wood.",
+      "de": "Der Fisch wird gekocht und dann im Rauch getrocknet. Er ist sehr hart, wie Holz."
+    },
+    {
+      "zh-Hant": "用來做菜的時候，要把它削成薄片。對日本的高湯來說，柴魚非常重要。",
+      "zh-Hans": "用来做菜的时候，要把它削成薄片。对日本的高汤来说，柴鱼非常重要。",
+      "en": "When you cook with it, you shave it thinly. Katsuobushi is essential for Japanese dashi.",
+      "de": "Zum Kochen hobelt man ihn in dünne Späne. Für japanische Dashi-Brühe ist Katsuobushi unverzichtbar."
+    }
+  ]
+}

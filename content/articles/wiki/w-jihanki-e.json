@@ -1,0 +1,112 @@
+{
+  "id": "w-jihanki-e",
+  "d": -1,
+  "lv": "n4",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "自動販売機",
+  "sub": "自動販賣機（簡單版）",
+  "body": "{日本|にほん}には、[[自動販売機|じどうはんばいき]]がとても{多|おお}いです。{駅|えき}にも、{道|みち}にも、{山|やま}の{上|うえ}にもあります。\n\n{飲み物|のみもの}が{一番|いちばん}{多|おお}いです。{冬|ふゆ}は、[[温かい|あたたかい]]{飲み物|のみもの}と[[冷たい|つめたい]]{飲み物|のみもの}が、{一|ひと}つの{機械|きかい}で{買|か}えます。\n\n{外|そと}に{置|お}いてあっても、あまり[[壊されません|こわされません]]。{日本|にほん}が[[安全|あんぜん]]だからだと{言|い}う{人|ひと}もいます。",
+  "gloss": {
+    "自動販売機": {
+      "m": "自動販賣機"
+    },
+    "温かい": {
+      "m": "溫的、熱的"
+    },
+    "冷たい": {
+      "m": "冰的、冷的"
+    },
+    "壊されません": {
+      "m": "不會被破壞（原形：壊す）"
+    },
+    "安全": {
+      "m": "安全"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Vending machines (easy)",
+      "g": {
+        "自動販売機": [
+          "vending machine"
+        ],
+        "温かい": [
+          "warm, hot"
+        ],
+        "冷たい": [
+          "cold"
+        ],
+        "壊されません": [
+          "isn't broken into (dict. form: 壊す)"
+        ],
+        "安全": [
+          "safe"
+        ]
+      }
+    },
+    "de": {
+      "s": "Getränkeautomaten (leicht)",
+      "g": {
+        "自動販売機": [
+          "Automat"
+        ],
+        "温かい": [
+          "warm"
+        ],
+        "冷たい": [
+          "kalt"
+        ],
+        "壊されません": [
+          "wird nicht aufgebrochen (Grundform: 壊す)"
+        ],
+        "安全": [
+          "sicher"
+        ]
+      }
+    },
+    "hans": {
+      "s": "自动贩卖机（简单版）",
+      "g": {
+        "自動販売機": [
+          "自动贩卖机"
+        ],
+        "温かい": [
+          "温的、热的"
+        ],
+        "冷たい": [
+          "冰的、冷的"
+        ],
+        "壊されません": [
+          "不会被破坏（原形：壊す）"
+        ],
+        "安全": [
+          "安全"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本的自動販賣機非常多。車站有，路邊有，連山上都有。",
+      "zh-Hans": "日本的自动贩卖机非常多。车站有，路边有，连山上都有。",
+      "en": "Japan has a lot of vending machines. They're at stations, on streets, even on mountains.",
+      "de": "In Japan gibt es sehr viele Automaten. An Bahnhöfen, auf Straßen, sogar auf Bergen."
+    },
+    {
+      "zh-Hant": "最多的是賣飲料的。冬天，同一台機器可以買到熱飲和冷飲。",
+      "zh-Hans": "最多的是卖饮料的。冬天，同一台机器可以买到热饮和冷饮。",
+      "en": "Most of them sell drinks. In winter you can buy hot and cold drinks from the same machine.",
+      "de": "Die meisten verkaufen Getränke. Im Winter bekommt man warme und kalte Getränke aus demselben Automaten."
+    },
+    {
+      "zh-Hant": "就算放在戶外，也很少被破壞。有人說，這是因為日本很安全。",
+      "zh-Hans": "就算放在户外，也很少被破坏。有人说，这是因为日本很安全。",
+      "en": "Even when they stand outdoors, they're rarely broken into. Some people say this is because Japan is safe.",
+      "de": "Selbst draußen werden sie kaum aufgebrochen. Manche sagen, das liegt daran, dass Japan sicher ist."
+    }
+  ]
+}

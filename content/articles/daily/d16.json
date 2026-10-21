@@ -1,0 +1,243 @@
+{
+  "id": "d16",
+  "d": 16,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "社論",
+    "ja": "社説"
+  },
+  "title": "地方の足をどう守るか",
+  "sub": "社論風：如何守住地方的交通",
+  "body": "地方の[[路線バス|ろせんバス]]や[[鉄道|てつどう]]の[[廃止|はいし]]・[[減便|げんびん]]が相次いでいる。人口減少で[[利用者|りようしゃ]]が減り、[[採算|さいさん]]が取れないうえ、[[運転手|うんてんしゅ]]不足も深刻だ。\n\n公共交通は、単なる移動手段ではない。車を運転できない高齢者や学生にとっては、病院や学校へ通うための[[生命線|せいめいせん]]である。路線がなくなれば、地域から人が[[離れ|はなれ]]、さらに利用者が減るという[[悪循環|あくじゅんかん]]に陥りかねない。\n\n[[乗合タクシー|のりあいタクシー]]や[[ライドシェア|ライドシェア]]など、新しい形の模索も始まっている。だが、民間の努力だけに[[委ねる|ゆだねる]]には限界がある。交通を道路や水道と同じ[[公共財|こうきょうざい]]と位置づけ、国と自治体が[[責任|せきにん]]を持って支える[[発想|はっそう]]への転換が求められる。",
+  "gloss": {
+    "路線バス": {
+      "m": "定線公車"
+    },
+    "鉄道": {
+      "m": "鐵路"
+    },
+    "廃止": {
+      "m": "廢止"
+    },
+    "減便": {
+      "m": "減班"
+    },
+    "利用者": {
+      "m": "使用者、乘客"
+    },
+    "採算": {
+      "m": "收支平衡"
+    },
+    "運転手": {
+      "m": "司機"
+    },
+    "生命線": {
+      "m": "生命線"
+    },
+    "離れ": {
+      "m": "離開"
+    },
+    "悪循環": {
+      "m": "惡性循環"
+    },
+    "乗合タクシー": {
+      "m": "共乘計程車"
+    },
+    "ライドシェア": {
+      "m": "共乘服務（rideshare）"
+    },
+    "委ねる": {
+      "m": "委託、交給"
+    },
+    "公共財": {
+      "m": "公共財"
+    },
+    "責任": {
+      "m": "責任"
+    },
+    "発想": {
+      "m": "思維、構想"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "How to protect rural transport",
+      "g": {
+        "路線バス": [
+          "scheduled bus"
+        ],
+        "鉄道": [
+          "railway"
+        ],
+        "廃止": [
+          "abolition, closure"
+        ],
+        "減便": [
+          "reduced service"
+        ],
+        "利用者": [
+          "users, passengers"
+        ],
+        "採算": [
+          "profitability"
+        ],
+        "運転手": [
+          "driver"
+        ],
+        "生命線": [
+          "lifeline"
+        ],
+        "離れ": [
+          "moving away from"
+        ],
+        "悪循環": [
+          "vicious circle"
+        ],
+        "乗合タクシー": [
+          "shared taxi"
+        ],
+        "ライドシェア": [
+          "ride-sharing"
+        ],
+        "委ねる": [
+          "to entrust, leave to"
+        ],
+        "公共財": [
+          "public good"
+        ],
+        "責任": [
+          "responsibility"
+        ],
+        "発想": [
+          "way of thinking, idea"
+        ]
+      }
+    },
+    "de": {
+      "s": "Wie rettet man den Verkehr auf dem Land?",
+      "g": {
+        "路線バス": [
+          "Linienbus"
+        ],
+        "鉄道": [
+          "Eisenbahn"
+        ],
+        "廃止": [
+          "Abschaffung, Stilllegung"
+        ],
+        "減便": [
+          "Taktausdünnung"
+        ],
+        "利用者": [
+          "Nutzer, Fahrgäste"
+        ],
+        "採算": [
+          "Rentabilität"
+        ],
+        "運転手": [
+          "Fahrer"
+        ],
+        "生命線": [
+          "Lebensader"
+        ],
+        "離れ": [
+          "Abwanderung"
+        ],
+        "悪循環": [
+          "Teufelskreis"
+        ],
+        "乗合タクシー": [
+          "Sammeltaxi"
+        ],
+        "ライドシェア": [
+          "Ridesharing"
+        ],
+        "委ねる": [
+          "überlassen, anvertrauen"
+        ],
+        "公共財": [
+          "öffentliches Gut"
+        ],
+        "責任": [
+          "Verantwortung"
+        ],
+        "発想": [
+          "Denkansatz, Idee"
+        ]
+      }
+    },
+    "hans": {
+      "s": "社论风：如何守住地方的交通",
+      "g": {
+        "路線バス": [
+          "定线公车"
+        ],
+        "鉄道": [
+          "铁路"
+        ],
+        "廃止": [
+          "废止"
+        ],
+        "減便": [
+          "减班"
+        ],
+        "利用者": [
+          "使用者、乘客"
+        ],
+        "採算": [
+          "收支平衡"
+        ],
+        "運転手": [
+          "司机"
+        ],
+        "生命線": [
+          "生命线"
+        ],
+        "離れ": [
+          "离开"
+        ],
+        "悪循環": [
+          "恶性循环"
+        ],
+        "乗合タクシー": [
+          "共乘计程车"
+        ],
+        "ライドシェア": [
+          "共乘服务（rideshare）"
+        ],
+        "委ねる": [
+          "委托、交给"
+        ],
+        "公共財": [
+          "公共财"
+        ],
+        "責任": [
+          "责任"
+        ],
+        "発想": [
+          "思维、构想"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "各地的定線公車和鐵路接連廢止或減班。人口減少導致乘客流失，難以維持收支，再加上司機不足，情況十分嚴重。",
+      "zh-Hans": "各地的定线公车和铁路接连废止或减班。人口减少导致乘客流失，难以维持收支，再加上司机不足，情况十分严重。",
+      "en": "Regional fixed-route buses and railways are being discontinued or have reduced service one after another. With population decline reducing passengers, operations are hard to keep profitable, and the shortage of drivers is also serious.",
+      "de": "Regional fixed-route buses and railways are being discontinued or have reduced service one after another. With population decline reducing passengers, operations are hard to keep profitable, and the shortage of drivers is also serious."
+    },
+    {
+      "zh-Hant": "公共交通不只是移動的工具。對於不會開車的老年人和學生來說，它是通往醫院和學校的生命線。一旦路線消失，人就會離開地區，乘客進一步減少，恐怕會陷入惡性循環。",
+      "zh-Hans": "公共交通不只是移动的工具。对于不会开车的老年人和学生来说，它是通往医院和学校的生命线。一旦路线消失，人就会离开地区，乘客进一步减少，恐怕会陷入恶性循环。",
+      "en": "Public transportation is more than just a means of getting around. For elderly people who cannot drive and for students, it is a lifeline to hospitals and schools. If routes disappear, people leave the area, ridership drops further, and the community risks falling into a vicious cycle.",
+      "de": "Public transportation is more than just a means of getting around. For elderly people who cannot drive and for students, it is a lifeline to hospitals and schools. If routes disappear, people leave the area, ridership drops further, and the community risks falling into a vicious cycle."
+    },
+    {
+      "zh-Hant": "共乘計程車和共乘服務等新的模式也開始探索。不過，把它們完全交給民間的努力，是有限度的。需要把交通與道路、水道一樣視為公共財，由國家和地方政府負起責任來支撐，這樣的思維轉變是必要的。",
+      "zh-Hans": "共乘出租车和共乘服务等新的模式也开始探索。不过，把它们完全交给民间的努力，是有限度的。需要把交通与道路、水道一样视为公共财，由国家和地方政府负起责任来支撑，这样的思维转变是必要的。",
+      "en": "New models such as shared taxis and ride-sharing have also begun to be explored. But leaving these solely to private efforts has its limits. A shift in thinking is needed: treating transportation as a public good, like roads and water, and having the national and local governments take responsibility for supporting it.",
+      "de": "New models such as shared taxis and ride-sharing have also begun to be explored. But leaving these solely to private efforts has its limits. A shift in thinking is needed: treating transportation as a public good, like roads and water, and having the national and local governments take responsibility for supporting it."
+    }
+  ]
+}

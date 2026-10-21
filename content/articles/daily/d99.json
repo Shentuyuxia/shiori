@@ -1,0 +1,141 @@
+{
+  "id": "d99",
+  "d": 99,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "隨筆",
+    "ja": "随筆"
+  },
+  "title": "百日目の栞",
+  "sub": "第一百天的書籤",
+  "body": "百日前、秋の終わりに、最初の一編を置いた。山道で枝を折って目印にした人の話から始めて、霜が降り、雪が積もり、年が明けて、今は大寒を過ぎたところだ。\n\nこの百日のあいだに、どれだけの言葉を[[拾った|ひろった]]だろう。知っている漢字なのに意味が違って驚いたもの。方言の[[響き|ひびき]]に笑ったもの。千年前の文章が、[[意外|いがい]]なほど今の気持ちに近くて[[はっと|はっと]]したもの。単語帳に残った言葉は、あなたがこの百日を歩いた[[足跡|あしあと]]そのものだ。\n\n栞は、読み終えた本からは[[抜き取られる|ぬきとられる]]。でも、本当に好きな本には、栞を挟んだまま[[しまって|しまって]]おく人もいる。いつかまた開いたとき、どこまで来たかが分かるように。\n\n明日からは、また最初の一編に戻る。二度目に読む「栞」は、きっと少し違って見えるはずだ。",
+  "gloss": {
+    "拾った": {
+      "m": "拾起"
+    },
+    "響き": {
+      "m": "音調"
+    },
+    "意外": {
+      "m": "意外"
+    },
+    "はっと": {
+      "m": "猛然驚覺"
+    },
+    "足跡": {
+      "m": "足跡"
+    },
+    "抜き取られる": {
+      "m": "被抽出"
+    },
+    "しまって": {
+      "m": "收起來"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The bookmark on day 100",
+      "g": {
+        "拾った": [
+          "picked up"
+        ],
+        "響き": [
+          "sound, ring"
+        ],
+        "意外": [
+          "unexpected"
+        ],
+        "はっと": [
+          "with a start"
+        ],
+        "足跡": [
+          "footprints"
+        ],
+        "抜き取られる": [
+          "to be pulled out"
+        ],
+        "しまって": [
+          "putting away"
+        ]
+      }
+    },
+    "de": {
+      "s": "Das Lesezeichen am 100. Tag",
+      "g": {
+        "拾った": [
+          "aufgehoben"
+        ],
+        "響き": [
+          "Klang"
+        ],
+        "意外": [
+          "überraschend"
+        ],
+        "はっと": [
+          "plötzlich gewahr werden"
+        ],
+        "足跡": [
+          "Fußspuren"
+        ],
+        "抜き取られる": [
+          "herausgezogen werden"
+        ],
+        "しまって": [
+          "weglegend"
+        ]
+      }
+    },
+    "hans": {
+      "s": "第一百天的书签",
+      "g": {
+        "拾った": [
+          "拾起"
+        ],
+        "響き": [
+          "音调"
+        ],
+        "意外": [
+          "意外"
+        ],
+        "はっと": [
+          "猛然惊觉"
+        ],
+        "足跡": [
+          "足迹"
+        ],
+        "抜き取られる": [
+          "被抽出"
+        ],
+        "しまって": [
+          "收起来"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "一百天前，在秋天的尾聲，我放下了第一篇。從那個在山路上折斷樹枝作為記號的人的故事開始，霜降了，雪積了，年也過了，現在剛剛走過大寒。",
+      "zh-Hans": "一百天前，在秋天的尾声，我放下了第一篇。从那个在山路上折断树枝作为记号的人的故事开始，霜降了，雪积了，年也过了，现在刚刚走过大寒。",
+      "en": "A hundred days ago, at the end of autumn, I placed the first piece. Beginning with the story of someone who broke branches on a mountain path to mark the way, frost fell, snow piled up, the year turned, and now we have just passed 大寒.",
+      "de": "A hundred days ago, at the end of autumn, I placed the first piece. Beginning with the story of someone who broke branches on a mountain path to mark the way, frost fell, snow piled up, the year turned, and now we have just passed 大寒."
+    },
+    {
+      "zh-Hant": "這一百天裡，你撿拾了多少詞語呢？有認得的漢字，意思卻不一樣，讓人嚇一跳的。有方言的音調，讓人笑出來的。一千年前的文章，竟意外地貼近現在的心情，令人一怔的。留在單字本裡的每一個詞，就是你走過這一百天的足跡。",
+      "zh-Hans": "这一百天里，你捡拾了多少词语呢？有认得的汉字，意思却不一样，让人吓一跳的。有方言的音调，让人笑出来的。一千年前的文章，竟意外地贴近现在的心情，令人一怔的。留在单字本里的每一个词，就是你走过这一百天的足迹。",
+      "en": "How many words have you gathered in these hundred days? Kanji you knew, but whose meanings turned out to be different and surprised you. Dialect sounds that made you laugh. Writing from a thousand years ago that felt unexpectedly close to how you feel now, and made you stop short. Every word left in your word list is simply the footprint of your hundred days of walking.",
+      "de": "How many words have you gathered in these hundred days? Kanji you knew, but whose meanings turned out to be different and surprised you. Dialect sounds that made you laugh. Writing from a thousand years ago that felt unexpectedly close to how you feel now, and made you stop short. Every word left in your word list is simply the footprint of your hundred days of walking."
+    },
+    {
+      "zh-Hant": "栞會從讀完的書中被抽出來。但也有人對真正喜愛的書，會就那樣夾著栞收起來。等哪天再翻開時，就能知道自己已經走到了哪裡。",
+      "zh-Hans": "栞会从读完的书中被抽出来。但也有人对真正喜爱的书，会就那样夹着栞收起来。等哪天再翻开时，就能知道自己已经走到了哪里。",
+      "en": "A bookmark is removed once you finish a book. But some people, for books they truly love, put them away with the bookmark still inside, so that when they open them again someday, they will know how far they got.",
+      "de": "A bookmark is removed once you finish a book. But some people, for books they truly love, put them away with the bookmark still inside, so that when they open them again someday, they will know how far they got."
+    },
+    {
+      "zh-Hant": "從明天起，又回到第一篇。第二次讀的「栞」，一定會看起來有些不一樣。",
+      "zh-Hans": "从明天起，又回到第一篇。第二次读的「栞」，一定会看起来有些不一样。",
+      "en": "From tomorrow, we return to the first piece. The second time you read the 「栞」, it will surely look a little different.",
+      "de": "From tomorrow, we return to the first piece. The second time you read the 「栞」, it will surely look a little different."
+    }
+  ]
+}

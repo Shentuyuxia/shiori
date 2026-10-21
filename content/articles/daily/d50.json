@@ -1,0 +1,171 @@
+{
+  "id": "d50",
+  "d": 50,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "專欄",
+    "ja": "コラム"
+  },
+  "title": "年賀状じまい",
+  "sub": "「結束寄賀年卡」",
+  "body": "年末が近づくと、「今年をもちまして、年始のご挨拶を[[失礼|しつれい]]させていただくことにしました」という[[はがき|はがき]]が届くことがある。年賀状のやりとりをやめることを知らせる、いわゆる「年賀状じまい」だ。\n\n年賀状の発行枚数は、ピーク時から大きく減った。SNS やメッセージアプリで新年の挨拶を済ませる人が増え、はがきの[[値上げ|ねあげ]]も[[追い打ち|おいうち]]をかけた。高齢になって書くのが[[負担|ふたん]]になった、という人も多い。\n\nそれでも、年に一度だけ近況を知らせ合う関係を、[[惜しむ|おしむ]]声は根強い。手書きの一言が添えられた年賀状には、画面の[[スタンプ|スタンプ]]にはない[[温もり|ぬくもり]]がある。やめるのも続けるのも自由だ。ただ、「じまい」という言葉に、関係を丁寧に[[閉じる|とじる]]という、日本らしい[[作法|さほう]]を感じる。",
+  "gloss": {
+    "失礼": {
+      "m": "失禮、恕不（再）"
+    },
+    "はがき": {
+      "m": "明信片"
+    },
+    "値上げ": {
+      "m": "漲價"
+    },
+    "追い打ち": {
+      "m": "雪上加霜"
+    },
+    "負担": {
+      "m": "負擔"
+    },
+    "惜しむ": {
+      "m": "惋惜、珍惜"
+    },
+    "スタンプ": {
+      "m": "貼圖"
+    },
+    "温もり": {
+      "m": "溫暖"
+    },
+    "閉じる": {
+      "m": "關閉、結束"
+    },
+    "作法": {
+      "m": "禮法、規矩"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Giving up New Year's cards",
+      "g": {
+        "失礼": [
+          "discourtesy; excuse me"
+        ],
+        "はがき": [
+          "postcard"
+        ],
+        "値上げ": [
+          "price increase"
+        ],
+        "追い打ち": [
+          "an additional blow"
+        ],
+        "負担": [
+          "burden"
+        ],
+        "惜しむ": [
+          "to regret, cherish"
+        ],
+        "スタンプ": [
+          "sticker (in chat apps)"
+        ],
+        "温もり": [
+          "warmth"
+        ],
+        "閉じる": [
+          "to close, end"
+        ],
+        "作法": [
+          "etiquette"
+        ]
+      }
+    },
+    "de": {
+      "s": "Schluss mit Neujahrskarten",
+      "g": {
+        "失礼": [
+          "Unhöflichkeit; Verzeihung"
+        ],
+        "はがき": [
+          "Postkarte"
+        ],
+        "値上げ": [
+          "Preiserhöhung"
+        ],
+        "追い打ち": [
+          "zusätzlicher Schlag"
+        ],
+        "負担": [
+          "Belastung"
+        ],
+        "惜しむ": [
+          "bedauern, schätzen"
+        ],
+        "スタンプ": [
+          "Sticker (in Chat-Apps)"
+        ],
+        "温もり": [
+          "Wärme"
+        ],
+        "閉じる": [
+          "schließen, beenden"
+        ],
+        "作法": [
+          "Etikette"
+        ]
+      }
+    },
+    "hans": {
+      "s": "「结束寄贺年卡」",
+      "g": {
+        "失礼": [
+          "失礼、恕不（再）"
+        ],
+        "はがき": [
+          "明信片"
+        ],
+        "値上げ": [
+          "涨价"
+        ],
+        "追い打ち": [
+          "雪上加霜"
+        ],
+        "負担": [
+          "负担"
+        ],
+        "惜しむ": [
+          "惋惜、珍惜"
+        ],
+        "スタンプ": [
+          "贴图"
+        ],
+        "温もり": [
+          "温暖"
+        ],
+        "閉じる": [
+          "关闭、结束"
+        ],
+        "作法": [
+          "礼法、规矩"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "接近年底時，有時會收到這樣的明信片：「本年度之後，恕我不再寄送新年問候，敬請見諒。」這就是通知停止寄送賀年卡的所謂「年賀狀仕舞」。",
+      "zh-Hans": "接近年底时，有时会收到这样的明信片：「本年度之后，恕我不再寄送新年问候，敬请见谅。」这就是通知停止寄送贺年卡的所谓「年贺状仕舞」。",
+      "en": "As the year end approaches, you sometimes receive a postcard saying, \"With this year, I have decided to omit sending New Year's greetings. Please forgive me.\" This is what is called 「年賀状じまい」, the closing of New Year's card exchanges, a notice that one is stopping the custom of sending New Year's cards.",
+      "de": "As the year end approaches, you sometimes receive a postcard saying, \"With this year, I have decided to omit sending New Year's greetings. Please forgive me.\" This is what is called 「年賀状じまい」, the closing of New Year's card exchanges, a notice that one is stopping the custom of sending New Year's cards."
+    },
+    {
+      "zh-Hant": "賀年卡的印製數量比高峰期大幅減少。用社群媒體或訊息App來完成新年問候的人越來越多，明信片漲價更是雪上加霜。也有很多人表示，年紀大了之後寫賀卡成了負擔。",
+      "zh-Hans": "贺年卡的印制数量比高峰期大幅减少。用社群媒体或消息App来完成新年问候的人越来越多，明信片涨价更是雪上加霜。也有很多人表示，年纪大了之后写贺卡成了负担。",
+      "en": "The number of New Year's cards printed has fallen sharply from its peak. More people now send New Year's greetings through social media or messaging apps, and the rising price of postcards has added to the decline. Many people also say that writing cards has become a burden as they get older.",
+      "de": "The number of New Year's cards printed has fallen sharply from its peak. More people now send New Year's greetings through social media or messaging apps, and the rising price of postcards has added to the decline. Many people also say that writing cards has become a burden as they get older."
+    },
+    {
+      "zh-Hant": "儘管如此，一年一次互通近況的關係，仍有很多人感到可惜。附上手寫一句話的賀年卡，有著螢幕貼圖所沒有的溫度。要停止或是繼續，都是自由的。只是，「じまい」這個詞，讓人感受到一種細心地收尾關係的日本式禮儀。",
+      "zh-Hans": "尽管如此，一年一次互通近况的关系，仍有很多人感到可惜。附上手写一句话的贺年卡，有着屏幕贴图所没有的温度。要停止或是继续，都是自由的。只是，「じまい」这个词，让人感受到一种细心地收尾关系的日本式礼仪。",
+      "en": "Still, many people are reluctant to give up a relationship that keeps in touch once a year. A New Year's card with a handwritten line has a warmth that screen stickers cannot match. Whether to stop or continue is up to each person. Yet the word 「じまい」 conveys a distinctly Japanese etiquette of carefully closing a relationship.",
+      "de": "Still, many people are reluctant to give up a relationship that keeps in touch once a year. A New Year's card with a handwritten line has a warmth that screen stickers cannot match. Whether to stop or continue is up to each person. Yet the word 「じまい」 conveys a distinctly Japanese etiquette of carefully closing a relationship."
+    }
+  ]
+}

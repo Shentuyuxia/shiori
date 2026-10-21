@@ -1,0 +1,41 @@
+{
+  "start": "2026-10-19",
+  "_note": "start = date of daily piece d0. library and wiki list those articles in display order; daily pieces are ordered by their d field.",
+  "library": [
+    "sento",
+    "oden",
+    "kanji",
+    "yonaga",
+    "mail",
+    "shoten",
+    "shuden",
+    "kuki",
+    "shasetsu",
+    "kansai",
+    "kusamakura",
+    "kumo",
+    "makura"
+  ],
+  "wiki": [
+    "w-sake-e",
+    "w-sake",
+    "w-natto-e",
+    "w-natto",
+    "w-katsuo-e",
+    "w-katsuo",
+    "w-tanuki-e",
+    "w-tanuki",
+    "w-shika-e",
+    "w-shika",
+    "w-saru-e",
+    "w-saru",
+    "w-sake2-e",
+    "w-sake2",
+    "w-koyo-e",
+    "w-koyo",
+    "w-sakura-e",
+    "w-sakura",
+    "w-jihanki-e",
+    "w-jihanki"
+  ]
+}

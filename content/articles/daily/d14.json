@@ -1,0 +1,159 @@
+{
+  "id": "d14",
+  "d": 14,
+  "lv": "n2",
+  "genre": {
+    "zh-Hant": "飲食",
+    "ja": "たべもの"
+  },
+  "title": "新米の季節",
+  "sub": "新米上市",
+  "body": "秋になると、スーパーの[[米売り場|こめうりば]]に「新米」の[[シール|シール]]が並ぶ。その年に[[収穫|しゅうかく]]されたばかりのお米のことだ。\n\n新米は水分が多く、炊くとつやつやして、[[香り|かおり]]も強い。そのため、炊くときは水を[[ほんの少し|ほんのすこし]]減らすのがよいと言われる。[[おかず|おかず]]がなくても、塩むすびだけで十分においしい。\n\n日本人がお米に[[こだわる|こだわる]]のは、味だけの問題ではないかもしれない。田植えから稲刈りまで、お米は一年の季節の[[巡り|めぐり]]と結びついている。新米を口にすることは、「今年も[[実り|みのり]]の秋が来た」と確かめることでもあるのだ。",
+  "gloss": {
+    "米売り場": {
+      "m": "米的賣場"
+    },
+    "シール": {
+      "m": "貼紙"
+    },
+    "収穫": {
+      "m": "收成"
+    },
+    "香り": {
+      "m": "香氣"
+    },
+    "ほんの少し": {
+      "m": "一點點"
+    },
+    "おかず": {
+      "m": "配菜"
+    },
+    "こだわる": {
+      "m": "講究、執著"
+    },
+    "巡り": {
+      "m": "循環、輪轉"
+    },
+    "実り": {
+      "m": "結實、收穫"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "New-crop rice season",
+      "g": {
+        "米売り場": [
+          "rice section (in a shop)"
+        ],
+        "シール": [
+          "sticker"
+        ],
+        "収穫": [
+          "harvest"
+        ],
+        "香り": [
+          "fragrance, aroma"
+        ],
+        "ほんの少し": [
+          "just a little"
+        ],
+        "おかず": [
+          "side dish (eaten with rice)"
+        ],
+        "こだわる": [
+          "to be particular about"
+        ],
+        "巡り": [
+          "cycle, turning"
+        ],
+        "実り": [
+          "fruit, harvest"
+        ]
+      }
+    },
+    "de": {
+      "s": "Die Zeit des neuen Reises",
+      "g": {
+        "米売り場": [
+          "Reisabteilung"
+        ],
+        "シール": [
+          "Aufkleber"
+        ],
+        "収穫": [
+          "Ernte"
+        ],
+        "香り": [
+          "Duft"
+        ],
+        "ほんの少し": [
+          "nur ein bisschen"
+        ],
+        "おかず": [
+          "Beilage (zum Reis)"
+        ],
+        "こだわる": [
+          "Wert legen auf, wählerisch sein"
+        ],
+        "巡り": [
+          "Kreislauf"
+        ],
+        "実り": [
+          "Frucht, Ertrag"
+        ]
+      }
+    },
+    "hans": {
+      "s": "新米上市",
+      "g": {
+        "米売り場": [
+          "米的卖场"
+        ],
+        "シール": [
+          "贴纸"
+        ],
+        "収穫": [
+          "收成"
+        ],
+        "香り": [
+          "香气"
+        ],
+        "ほんの少し": [
+          "一点点"
+        ],
+        "おかず": [
+          "配菜"
+        ],
+        "こだわる": [
+          "讲究、执着"
+        ],
+        "巡り": [
+          "循环、轮转"
+        ],
+        "実り": [
+          "结实、收获"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "到了秋天，超市的米櫃區會擺出貼著「新米」標籤的商品。指的是當年剛收成的米。",
+      "zh-Hans": "到了秋天，超市的米柜区会摆出贴着「新米」标签的商品。指的是当年刚收成的米。",
+      "en": "In autumn, supermarket rice sections display products labeled 「新米」, shin-mai. This refers to rice just harvested that year.",
+      "de": "In autumn, supermarket rice sections display products labeled 「新米」, shin-mai. This refers to rice just harvested that year."
+    },
+    {
+      "zh-Hant": "新米水分多，煮好後油亮亮的，香氣也很濃。因此據說煮的時候，水稍微少放一點比較好。就算沒有配菜，只吃鹽飯糰也已經足夠美味了。",
+      "zh-Hans": "新米水分多，煮好后油亮亮的，香气也很浓。因此据说煮的时候，水稍微少放一点比较好。就算没有配菜，只吃盐饭团也已经足够美味了。",
+      "en": "New rice has a high moisture content, so when cooked it turns glossy and has a strong aroma. For that reason, it is said that using slightly less water is better when cooking. Even without side dishes, plain salted rice balls are delicious enough.",
+      "de": "New rice has a high moisture content, so when cooked it turns glossy and has a strong aroma. For that reason, it is said that using slightly less water is better when cooking. Even without side dishes, plain salted rice balls are delicious enough."
+    },
+    {
+      "zh-Hant": "日本人對米如此講究，或許不只是味道的問題。從插秧到割稻，米與一年四季的循環緊緊相連。吃到新米，也是在確認「今年的豐收之秋又來了」。",
+      "zh-Hans": "日本人对米如此讲究，或许不只是味道的问题。从插秧到割稻，米与一年四季的循环紧紧相连。吃到新米，也是在确认「今年的丰收之秋又来了」。",
+      "en": "The Japanese fussiness about rice may not be just about taste. From rice planting to harvest, rice is tied to the rhythm of the seasons throughout the year. Eating new rice is also a way to confirm that \"the harvest autumn has come again this year.\"",
+      "de": "The Japanese fussiness about rice may not be just about taste. From rice planting to harvest, rice is tied to the rhythm of the seasons throughout the year. Eating new rice is also a way to confirm that \"the harvest autumn has come again this year.\""
+    }
+  ]
+}

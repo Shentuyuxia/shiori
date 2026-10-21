@@ -1,0 +1,147 @@
+{
+  "id": "d53",
+  "d": 53,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "短篇",
+    "ja": "掌編"
+  },
+  "title": "忘年会の帰り",
+  "sub": "掌篇：尾牙歸途",
+  "body": "[[二次会|にじかい]]を[[断って|ことわって]]店を出ると、外は思ったより冷えていた。[[マフラー|マフラー]]を巻き直しながら、駅までの道を歩く。\n\n今年もいろいろあった。部署が変わり、上司が変わり、[[通勤|つうきん]]の電車が変わった。乾杯のとき、隣の席の後輩に「来年もよろしくお願いします」と言われて、私はとっさに「こちらこそ」と返した。来年、自分がこの会社にいるかどうかも分からないのに。\n\n駅前の[[イルミネーション|イルミネーション]]の下で、若い二人が写真を撮っていた。私はその横を通り過ぎて、[[改札|かいさつ]]に[[交通系ICカード|こうつうけいアイシーカード]]をかざした。ピッという[[軽い|かるい]]音。今年が、あと何日で終わるのか数えてみた。指が、少し足りなかった。",
+  "gloss": {
+    "二次会": {
+      "m": "續攤"
+    },
+    "断って": {
+      "m": "拒絕"
+    },
+    "マフラー": {
+      "m": "圍巾"
+    },
+    "通勤": {
+      "m": "通勤"
+    },
+    "イルミネーション": {
+      "m": "燈飾"
+    },
+    "改札": {
+      "m": "剪票口"
+    },
+    "交通系ICカード": {
+      "m": "交通IC卡（類似悠遊卡）"
+    },
+    "軽い": {
+      "m": "輕快的"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Home from the year-end party",
+      "g": {
+        "二次会": [
+          "after-party"
+        ],
+        "断って": [
+          "declining"
+        ],
+        "マフラー": [
+          "scarf"
+        ],
+        "通勤": [
+          "commute"
+        ],
+        "イルミネーション": [
+          "illuminations, light displays"
+        ],
+        "改札": [
+          "ticket gate"
+        ],
+        "交通系ICカード": [
+          "transit IC card"
+        ],
+        "軽い": [
+          "light"
+        ]
+      }
+    },
+    "de": {
+      "s": "Heimweg von der Jahresfeier",
+      "g": {
+        "二次会": [
+          "Nachfeier"
+        ],
+        "断って": [
+          "absagend"
+        ],
+        "マフラー": [
+          "Schal"
+        ],
+        "通勤": [
+          "Pendeln"
+        ],
+        "イルミネーション": [
+          "Lichterschmuck"
+        ],
+        "改札": [
+          "Fahrkartensperre"
+        ],
+        "交通系ICカード": [
+          "Verkehrs-Chipkarte"
+        ],
+        "軽い": [
+          "leicht"
+        ]
+      }
+    },
+    "hans": {
+      "s": "掌篇：尾牙归途",
+      "g": {
+        "二次会": [
+          "续摊"
+        ],
+        "断って": [
+          "拒绝"
+        ],
+        "マフラー": [
+          "围巾"
+        ],
+        "通勤": [
+          "通勤"
+        ],
+        "イルミネーション": [
+          "灯饰"
+        ],
+        "改札": [
+          "剪票口"
+        ],
+        "交通系ICカード": [
+          "交通IC卡（类似悠游卡）"
+        ],
+        "軽い": [
+          "轻快的"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "婉拒續攤、走出店門時，外面比想像中還冷。一邊重新圍好圍巾，一邊走向車站。",
+      "zh-Hans": "婉拒续摊、走出店门时，外面比想像中还冷。一边重新围好围巾，一边走向车站。",
+      "en": "After declining the second round and stepping out of the restaurant, I found it colder outside than I expected. I walked toward the station, re-wrapping my scarf as I went.",
+      "de": "After declining the second round and stepping out of the restaurant, I found it colder outside than I expected. I walked toward the station, re-wrapping my scarf as I went."
+    },
+    {
+      "zh-Hant": "今年也發生了很多事。部門變了，主管變了，上班的電車也換了。乾杯的時候，隔壁座的後輩對我說：「明年也請多多指教。」我下意識地回了一句：「彼此彼此。」明明連明年自己還在不在這家公司，都不知道。",
+      "zh-Hans": "今年也发生了很多事。部门变了，主管变了，上班的电车也换了。干杯的时候，隔壁座的后辈对我说：「明年也请多多指教。」我下意识地回了一句：「彼此彼此。」明明连明年自己还在不在这家公司，都不知道。",
+      "en": "A lot happened this year too. My department changed, my boss changed, and so did the train I take to work. At the toast, a junior colleague in the next seat said, \"Please continue to look after me next year,\" and I instinctively replied, \"Likewise.\" Even though I didn't know whether I would still be at this company next year.",
+      "de": "A lot happened this year too. My department changed, my boss changed, and so did the train I take to work. At the toast, a junior colleague in the next seat said, \"Please continue to look after me next year,\" and I instinctively replied, \"Likewise.\" Even though I didn't know whether I would still be at this company next year."
+    },
+    {
+      "zh-Hant": "在車站前的燈飾下，一對年輕人正在拍照。我從旁邊經過，把交通卡靠近閘門。嗶的一聲，很輕。我試著數了數，今年還剩下幾天。手指，好像有點不夠用。",
+      "zh-Hans": "在车站前的灯饰下，一对年轻人正在拍照。我从旁边经过，把交通卡靠近闸门。哔的一声，很轻。我试着数了数，今年还剩下几天。手指，好像有点不够用。",
+      "en": "Under the illuminations in front of the station, a young couple was taking photos. I passed by them and held my transit card to the ticket gate. A light beep. I tried counting how many days were left in this year. My fingers, it seemed, were not quite enough.",
+      "de": "Under the illuminations in front of the station, a young couple was taking photos. I passed by them and held my transit card to the ticket gate. A light beep. I tried counting how many days were left in this year. My fingers, it seemed, were not quite enough."
+    }
+  ]
+}

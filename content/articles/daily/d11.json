@@ -1,0 +1,213 @@
+{
+  "id": "d11",
+  "d": 11,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "語言雜談",
+    "ja": "ことば雑記"
+  },
+  "title": "雨の音はいくつある？",
+  "sub": "擬聲擬態語：雨",
+  "body": "日本語は[[オノマトペ|オノマトペ]]が豊かな言語だと言われる。雨ひとつとっても、その降り方を[[言い分ける|いいわける]]言葉がいくつもある。\n\n「[[しとしと|しとしと]]」は、静かに、細かく、長く降り続ける雨。梅雨の雨の[[典型|てんけい]]だ。「[[ぱらぱら|ぱらぱら]]」は、[[まばら|まばら]]に降り始めた雨。「[[ざあざあ|ざあざあ]]」は、音を立てて激しく降る雨で、「[[どしゃ降り|どしゃぶり]]」とも言う。\n\n雨そのものではなく、雨が[[もたらす|もたらす]]空気を表す言葉もある。「[[じめじめ|じめじめ]]」は湿気が多くて不快な様子、「[[しっとり|しっとり]]」は適度な湿り気があって落ち着いた様子だ。同じ湿気でも、評価が[[正反対|せいはんたい]]なのが面白い。\n\n中国語なら「毛毛雨」「傾盆大雨」と漢字で描くところを、日本語は音で描く。[[耳|みみ]]で読む言語、と言えるかもしれない。",
+  "gloss": {
+    "オノマトペ": {
+      "m": "擬聲擬態語（onomatopoeia）"
+    },
+    "言い分ける": {
+      "m": "分別使用不同說法"
+    },
+    "しとしと": {
+      "m": "淅淅瀝瀝（綿綿細雨）"
+    },
+    "典型": {
+      "m": "典型"
+    },
+    "ぱらぱら": {
+      "m": "稀稀落落"
+    },
+    "まばら": {
+      "m": "稀疏、零星"
+    },
+    "ざあざあ": {
+      "m": "嘩啦嘩啦（大雨）"
+    },
+    "どしゃ降り": {
+      "m": "傾盆大雨"
+    },
+    "もたらす": {
+      "m": "帶來"
+    },
+    "じめじめ": {
+      "m": "潮濕黏膩（負面）"
+    },
+    "しっとり": {
+      "m": "濕潤、溫潤沉靜（正面）"
+    },
+    "正反対": {
+      "m": "完全相反"
+    },
+    "耳": {
+      "m": "耳朵"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "How many sounds does rain make?",
+      "g": {
+        "オノマトペ": [
+          "onomatopoeia, sound-symbolic words"
+        ],
+        "言い分ける": [
+          "to use different expressions for"
+        ],
+        "しとしと": [
+          "pitter-patter (steady drizzle)"
+        ],
+        "典型": [
+          "typical example"
+        ],
+        "ぱらぱら": [
+          "sprinkling, a few scattered drops"
+        ],
+        "まばら": [
+          "sparse, scattered"
+        ],
+        "ざあざあ": [
+          "pouring (heavy rain)"
+        ],
+        "どしゃ降り": [
+          "downpour"
+        ],
+        "もたらす": [
+          "to bring about"
+        ],
+        "じめじめ": [
+          "damp and sticky (negative)"
+        ],
+        "しっとり": [
+          "moist; calm and graceful (positive)"
+        ],
+        "正反対": [
+          "the exact opposite"
+        ],
+        "耳": [
+          "ear"
+        ]
+      }
+    },
+    "de": {
+      "s": "Wie viele Klänge hat der Regen?",
+      "g": {
+        "オノマトペ": [
+          "Lautmalerei, lautsymbolische Wörter"
+        ],
+        "言い分ける": [
+          "je nach Fall anders ausdrücken"
+        ],
+        "しとしと": [
+          "leises, stetiges Nieseln"
+        ],
+        "典型": [
+          "typisches Beispiel"
+        ],
+        "ぱらぱら": [
+          "vereinzelt tröpfelnd"
+        ],
+        "まばら": [
+          "spärlich, vereinzelt"
+        ],
+        "ざあざあ": [
+          "prasselnd (Starkregen)"
+        ],
+        "どしゃ降り": [
+          "Wolkenbruch"
+        ],
+        "もたらす": [
+          "mit sich bringen"
+        ],
+        "じめじめ": [
+          "feucht und klamm (negativ)"
+        ],
+        "しっとり": [
+          "sanft feucht; ruhig und anmutig (positiv)"
+        ],
+        "正反対": [
+          "genaues Gegenteil"
+        ],
+        "耳": [
+          "Ohr"
+        ]
+      }
+    },
+    "hans": {
+      "s": "拟声拟态语：雨",
+      "g": {
+        "オノマトペ": [
+          "拟声拟态语（onomatopoeia）"
+        ],
+        "言い分ける": [
+          "分别使用不同说法"
+        ],
+        "しとしと": [
+          "淅淅沥沥（绵绵细雨）"
+        ],
+        "典型": [
+          "典型"
+        ],
+        "ぱらぱら": [
+          "稀稀落落"
+        ],
+        "まばら": [
+          "稀疏、零星"
+        ],
+        "ざあざあ": [
+          "哗啦哗啦（大雨）"
+        ],
+        "どしゃ降り": [
+          "倾盆大雨"
+        ],
+        "もたらす": [
+          "带来"
+        ],
+        "じめじめ": [
+          "潮湿黏腻（负面）"
+        ],
+        "しっとり": [
+          "湿润、温润沉静（正面）"
+        ],
+        "正反対": [
+          "完全相反"
+        ],
+        "耳": [
+          "耳朵"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日語被認為是擬聲擬態詞非常豐富的語言。光是雨，就有好幾個詞用來區分它的下法。",
+      "zh-Hans": "日语被认为是拟声拟态词非常丰富的语言。光是雨，就有好几个词用来区分它的下法。",
+      "en": "Japanese is said to be a language rich in onomatopoeia. Even for rain alone, there are many words to distinguish how it falls.",
+      "de": "Japanese is said to be a language rich in onomatopoeia. Even for rain alone, there are many words to distinguish how it falls."
+    },
+    {
+      "zh-Hant": "「しとしと」指安靜、細密、綿長持續下著的雨，是梅雨典型的雨。「ぱらぱら」是稀稀落落開始下的雨。「ざあざあ」是發出聲響、激烈下著的雨，也叫「どしゃ降り」。",
+      "zh-Hans": "「しとしと」指安静、细密、绵长持续下着的雨，是梅雨典型的雨。「ぱらぱら」是稀稀落落开始下的雨。「ざあざあ」是发出声响、激烈下着的雨，也叫「どしゃ降り」。",
+      "en": "「しとしと」 is quiet, fine rain that keeps falling for a long time, the very essence of rainy-season rain. 「ぱらぱら」 is rain that begins to fall sparsely. 「ざあざあ」 is rain that falls noisily and hard, also called 「どしゃ降り」.",
+      "de": "「しとしと」 is quiet, fine rain that keeps falling for a long time, the very essence of rainy-season rain. 「ぱらぱら」 is rain that begins to fall sparsely. 「ざあざあ」 is rain that falls noisily and hard, also called 「どしゃ降り」."
+    },
+    {
+      "zh-Hant": "也有些詞不是描寫雨本身，而是描寫雨帶來的空氣。「じめじめ」是濕氣重、令人不舒服的樣子；「しっとり」則是帶著適度濕潤、令人感到沉靜安穩的樣子。同樣是濕氣，評價卻截然相反，很有意思。",
+      "zh-Hans": "也有些词不是描写雨本身，而是描写雨带来的空气。「じめじめ」是湿气重、令人不舒服的样子；「しっとり」则是带着适度湿润、令人感到沉静安稳的样子。同样是湿气，评价却截然相反，很有意思。",
+      "en": "Some words describe not the rain itself but the air it brings. 「じめじめ」 describes a muggy, unpleasant dampness, while 「しっとり」 describes a moderate moistness that feels calm and settled. It is interesting that the same humidity can be judged in completely opposite ways.",
+      "de": "Some words describe not the rain itself but the air it brings. 「じめじめ」 describes a muggy, unpleasant dampness, while 「しっとり」 describes a moderate moistness that feels calm and settled. It is interesting that the same humidity can be judged in completely opposite ways."
+    },
+    {
+      "zh-Hant": "中文會用「毛毛雨」「傾盆大雨」這樣的漢字來描繪，日語則用聲音來描繪。或許可以說，這是一種用耳朵閱讀的語言。",
+      "zh-Hans": "中文会用「毛毛雨」「倾盆大雨」这样的汉字来描绘，日语则用声音来描绘。或许可以说，这是一种用耳朵阅读的语言。",
+      "en": "Where Chinese paints with characters like 毛毛雨 (drizzle) and 傾盆大雨 (pouring rain), Japanese paints with sound. One might say it is a language read with the ears.",
+      "de": "Where Chinese paints with characters like 毛毛雨 (drizzle) and 傾盆大雨 (pouring rain), Japanese paints with sound. One might say it is a language read with the ears."
+    }
+  ]
+}

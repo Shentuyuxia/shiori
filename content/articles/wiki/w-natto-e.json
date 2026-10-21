@@ -1,0 +1,124 @@
+{
+  "id": "w-natto-e",
+  "d": -1,
+  "lv": "n4",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "納豆",
+  "sub": "納豆（簡單版）",
+  "body": "[[納豆|なっとう]]は、[[大豆|だいず]]から{作|つく}る{日本|にほん}の{食|た}べ{物|もの}です。\n\n{納豆|なっとう}を[[混ぜる|まぜる]]と、{白|しろ}い[[糸|いと]]が{出|で}ます。たくさん{混|ま}ぜると、{糸|いと}も{多|おお}くなります。\n\n{納豆|なっとう}は、においが[[強い|つよい]]です。{好|す}きな{人|ひと}も、[[苦手|にがて]]な{人|ひと}もいます。{朝|あさ}ごはんに、ごはんと{一緒|いっしょ}に{食|た}べる{人|ひと}が{多|おお}いです。",
+  "gloss": {
+    "納豆": {
+      "m": "納豆"
+    },
+    "大豆": {
+      "m": "黃豆"
+    },
+    "混ぜる": {
+      "m": "攪拌"
+    },
+    "糸": {
+      "m": "絲"
+    },
+    "強い": {
+      "m": "強烈"
+    },
+    "苦手": {
+      "m": "不擅長；不喜歡"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Natto (easy)",
+      "g": {
+        "納豆": [
+          "natto (fermented soybeans)"
+        ],
+        "大豆": [
+          "soybean"
+        ],
+        "混ぜる": [
+          "to stir, mix"
+        ],
+        "糸": [
+          "string, thread"
+        ],
+        "強い": [
+          "strong"
+        ],
+        "苦手": [
+          "not good with, dislike"
+        ]
+      }
+    },
+    "de": {
+      "s": "Natto (leicht)",
+      "g": {
+        "納豆": [
+          "Natto (fermentierte Sojabohnen)"
+        ],
+        "大豆": [
+          "Sojabohne"
+        ],
+        "混ぜる": [
+          "umrühren, mischen"
+        ],
+        "糸": [
+          "Faden"
+        ],
+        "強い": [
+          "stark"
+        ],
+        "苦手": [
+          "nicht mögen, schwer finden"
+        ]
+      }
+    },
+    "hans": {
+      "s": "纳豆（简单版）",
+      "g": {
+        "納豆": [
+          "纳豆"
+        ],
+        "大豆": [
+          "黄豆"
+        ],
+        "混ぜる": [
+          "搅拌"
+        ],
+        "糸": [
+          "丝"
+        ],
+        "強い": [
+          "强烈"
+        ],
+        "苦手": [
+          "不擅长；不喜欢"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "納豆是用黃豆做的日本食物。",
+      "zh-Hans": "纳豆是用黄豆做的日本食物。",
+      "en": "Natto is a Japanese food made from soybeans.",
+      "de": "Natto ist ein japanisches Lebensmittel aus Sojabohnen."
+    },
+    {
+      "zh-Hant": "攪拌納豆，就會牽出白色的絲。攪得越多，絲也越多。",
+      "zh-Hans": "搅拌纳豆，就会牵出白色的丝。搅得越多，丝也越多。",
+      "en": "When you stir natto, white strings appear. The more you stir, the more strings there are.",
+      "de": "Wenn man Natto umrührt, entstehen weiße Fäden. Je mehr man rührt, desto mehr Fäden gibt es."
+    },
+    {
+      "zh-Hant": "納豆的氣味很重，有人喜歡，也有人怕。很多人早餐時配白飯一起吃。",
+      "zh-Hans": "纳豆的气味很重，有人喜欢，也有人怕。很多人早餐时配白饭一起吃。",
+      "en": "Natto has a strong smell. Some people love it, others can't stand it. Many people eat it with rice for breakfast.",
+      "de": "Natto riecht stark. Manche lieben es, andere mögen es gar nicht. Viele essen es zum Frühstück mit Reis."
+    }
+  ]
+}

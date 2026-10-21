@@ -1,0 +1,221 @@
+{
+  "id": "makura",
+  "d": -1,
+  "lv": "x",
+  "genre": {
+    "zh-Hant": "古典",
+    "ja": "古典"
+  },
+  "title": "枕草子・秋は夕暮れ",
+  "sub": "清少納言《枕草子》第一段（秋）",
+  "body": "秋は[[夕暮れ|ゆうぐれ]]。夕日のさして[[山の端|やまのは]][[いと|いと]][[近うなりたる|ちこうなりたる]]に、{烏|からす}の[[寝どころ|ねどころ]]へ行くとて、三つ四つ、二つ三つなど[[飛び急ぐ|とびいそぐ]]さへ[[あはれなり|あはれなり]]。[[まいて|まいて]][[雁|かり]]などの[[連ねたる|つらねたる]]が、いと小さく見ゆるは、いと[[をかし|をかし]]。\n\n[[日入り果てて|ひいりはてて]]、風の音、虫の音など、はた[[言ふべきにあらず|いうべきにあらず]]。",
+  "gloss": {
+    "夕暮れ": {
+      "m": "黃昏、傍晚"
+    },
+    "山の端": {
+      "m": "山稜線"
+    },
+    "いと": {
+      "m": "非常、很（古語）"
+    },
+    "近うなりたる": {
+      "m": "變近了",
+      "n": "現代語：近くなった。"
+    },
+    "寝どころ": {
+      "m": "歸巢處、睡覺的地方"
+    },
+    "飛び急ぐ": {
+      "m": "急急飛去"
+    },
+    "あはれなり": {
+      "m": "令人動容、深有感觸（古語）",
+      "n": "「さへ」＝連…都。"
+    },
+    "まいて": {
+      "m": "更何況",
+      "n": "現代語：まして。"
+    },
+    "雁": {
+      "m": "雁"
+    },
+    "連ねたる": {
+      "m": "排成一列的"
+    },
+    "をかし": {
+      "m": "有趣、雅致（古語）",
+      "n": "與「あはれ」並列為平安文學兩大美感。"
+    },
+    "日入り果てて": {
+      "m": "太陽完全落下之後"
+    },
+    "言ふべきにあらず": {
+      "m": "無法言喻",
+      "n": "「はた」＝更是、又。"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The Pillow Book: autumn is the evening",
+      "g": {
+        "夕暮れ": [
+          "dusk, evening"
+        ],
+        "山の端": [
+          "the ridge line of the mountains"
+        ],
+        "いと": [
+          "very (classical)"
+        ],
+        "近うなりたる": [
+          "has drawn close",
+          "Modern: 近くなった."
+        ],
+        "寝どころ": [
+          "roost, place to sleep"
+        ],
+        "飛び急ぐ": [
+          "to hurry flying"
+        ],
+        "あはれなり": [
+          "deeply moving (classical)",
+          "「さへ」 = even."
+        ],
+        "まいて": [
+          "all the more",
+          "Modern: まして."
+        ],
+        "雁": [
+          "wild goose"
+        ],
+        "連ねたる": [
+          "lined up in a row"
+        ],
+        "をかし": [
+          "charming, delightful (classical)",
+          "With あはれ, one of the two great aesthetics of Heian literature."
+        ],
+        "日入り果てて": [
+          "once the sun has fully set"
+        ],
+        "言ふべきにあらず": [
+          "beyond words",
+          "「はた」 = moreover, also."
+        ]
+      }
+    },
+    "de": {
+      "s": "Das Kopfkissenbuch: Herbst ist der Abend",
+      "g": {
+        "夕暮れ": [
+          "Abenddämmerung"
+        ],
+        "山の端": [
+          "Bergkamm, Bergsaum"
+        ],
+        "いと": [
+          "sehr (klassisch)"
+        ],
+        "近うなりたる": [
+          "ist nahe gerückt",
+          "Modern: 近くなった."
+        ],
+        "寝どころ": [
+          "Schlafplatz, Nest"
+        ],
+        "飛び急ぐ": [
+          "eilig fliegen"
+        ],
+        "あはれなり": [
+          "zutiefst rührend (klassisch)",
+          "„さへ“ = sogar."
+        ],
+        "まいて": [
+          "umso mehr",
+          "Modern: まして."
+        ],
+        "雁": [
+          "Wildgans"
+        ],
+        "連ねたる": [
+          "in einer Reihe aufgereiht"
+        ],
+        "をかし": [
+          "reizvoll, anmutig (klassisch)",
+          "Neben あはれ eines der zwei großen Schönheitsideale der Heian-Literatur."
+        ],
+        "日入り果てて": [
+          "wenn die Sonne ganz untergegangen ist"
+        ],
+        "言ふべきにあらず": [
+          "unbeschreiblich",
+          "„はた“ = zudem, ebenfalls."
+        ]
+      }
+    },
+    "hans": {
+      "s": "清少纳言《枕草子》第一段（秋）",
+      "g": {
+        "夕暮れ": [
+          "黄昏、傍晚"
+        ],
+        "山の端": [
+          "山棱线"
+        ],
+        "いと": [
+          "非常、很（古语）"
+        ],
+        "近うなりたる": [
+          "变近了",
+          "现代语：近くなった。"
+        ],
+        "寝どころ": [
+          "归巢处、睡觉的地方"
+        ],
+        "飛び急ぐ": [
+          "急急飞去"
+        ],
+        "あはれなり": [
+          "令人动容、深有感触（古语）",
+          "「さへ」＝连…都。"
+        ],
+        "まいて": [
+          "更何况",
+          "现代语：まして。"
+        ],
+        "雁": [
+          "雁"
+        ],
+        "連ねたる": [
+          "排成一列的"
+        ],
+        "をかし": [
+          "有趣、雅致（古语）",
+          "与「あはれ」并列为平安文学两大美感。"
+        ],
+        "日入り果てて": [
+          "太阳完全落下之后"
+        ],
+        "言ふべきにあらず": [
+          "无法言喻",
+          "「はた」＝更是、又。"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "秋天是黃昏時分。夕陽漸漸接近山稜線，烏鴉們正急急忙忙飛回巢裡，三隻四隻、兩隻三隻地飛過，這景象也令人動容。更何況是大雁成列飛過，看起來小小的，實在很有情趣。",
+      "zh-Hans": "秋天是黄昏时分。夕阳渐渐接近山棱线，乌鸦们正急急忙忙飞回巢里，三只四只、两只三只地飞过，这景象也令人动容。更何况是大雁成列飞过，看起来小小的，实在很有情趣。",
+      "en": "In autumn, it is the evening dusk. When the setting sun draws close to the mountain ridge, crows hurry off to their roosts, three or four, or two or three, flying in a rush, and even that stirs the heart. How much more so when wild geese fly in a line, looking tiny. That is truly charming.",
+      "de": "In autumn, it is the evening dusk. When the setting sun draws close to the mountain ridge, crows hurry off to their roosts, three or four, or two or three, flying in a rush, and even that stirs the heart. How much more so when wild geese fly in a line, looking tiny. That is truly charming."
+    },
+    {
+      "zh-Hant": "太陽完全落下之後，風聲、蟲鳴等等，更是無法言喻。",
+      "zh-Hans": "太阳完全落下之后，风声、虫鸣等等，更是无法言喻。",
+      "en": "After the sun has completely set, the sound of the wind, the chirping of insects, and so on are beyond words.",
+      "de": "After the sun has completely set, the sound of the wind, the chirping of insects, and so on are beyond words."
+    }
+  ]
+}

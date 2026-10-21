@@ -1,0 +1,168 @@
+{
+  "id": "d2",
+  "d": 2,
+  "lv": "pro",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "方言",
+    "ja": "方言"
+  },
+  "title": "なんしようと？",
+  "sub": "博多腔對話",
+  "body": "「[[なんしようと|なんしようと]]？」\n「明日の発表の準備。[[ばり|ばり]]焦っとう」\n「[[よかよか|よかよか]]、あんたなら[[なんとかなるっちゃない|なんとかなるっちゃない]]？」\n「そげん簡単に言わんで。資料、まだ半分も[[できとらん|できとらん]]と」\n「[[しょんなか|しょんなか]]ねえ。ラーメン[[おごっちゃるけん|おごっちゃるけん]]、[[がんばらんね|がんばらんね]]」",
+  "gloss": {
+    "なんしようと": {
+      "m": "你在幹嘛？",
+      "n": "博多腔。＝何をしているの？「～しよう」表示進行。"
+    },
+    "ばり": {
+      "m": "超、非常",
+      "n": "＝とても。"
+    },
+    "よかよか": {
+      "m": "沒事沒事、好啦好啦",
+      "n": "＝いいよいいよ。"
+    },
+    "なんとかなるっちゃない": {
+      "m": "總會有辦法的吧？",
+      "n": "「っちゃない」＝んじゃない。"
+    },
+    "できとらん": {
+      "m": "還沒做好",
+      "n": "＝できていない。"
+    },
+    "しょんなか": {
+      "m": "沒辦法啊",
+      "n": "＝しょうがない。"
+    },
+    "おごっちゃるけん": {
+      "m": "我請你（吃）",
+      "n": "「～ちゃる」＝てやる，「けん」＝から。"
+    },
+    "がんばらんね": {
+      "m": "加油啦",
+      "n": "語氣是勸說，不是否定。＝がんばりなさいよ。"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Whatcha doin'? (Hakata dialect)",
+      "g": {
+        "なんしようと": [
+          "what are you doing?",
+          "Hakata dialect = 何をしているの？「～しよう」 marks an ongoing action."
+        ],
+        "ばり": [
+          "super, really",
+          "= とても."
+        ],
+        "よかよか": [
+          "it's fine, it's fine",
+          "= いいよいいよ."
+        ],
+        "なんとかなるっちゃない": [
+          "it'll work out somehow, won't it?",
+          "「っちゃない」 = んじゃない."
+        ],
+        "できとらん": [
+          "not done yet",
+          "= できていない."
+        ],
+        "しょんなか": [
+          "can't be helped",
+          "= しょうがない."
+        ],
+        "おごっちゃるけん": [
+          "I'll treat you",
+          "「～ちゃる」 = てやる, 「けん」 = から."
+        ],
+        "がんばらんね": [
+          "go for it!",
+          "An encouragement, not a negative. = がんばりなさいよ."
+        ]
+      }
+    },
+    "de": {
+      "s": "Was machst du? (Hakata-Dialekt)",
+      "g": {
+        "なんしようと": [
+          "was machst du gerade?",
+          "Hakata-Dialekt = 何をしているの？„～しよう“ zeigt eine laufende Handlung."
+        ],
+        "ばり": [
+          "total, echt",
+          "= とても."
+        ],
+        "よかよか": [
+          "passt schon, passt schon",
+          "= いいよいいよ."
+        ],
+        "なんとかなるっちゃない": [
+          "das wird schon irgendwie, oder?",
+          "„っちゃない“ = んじゃない."
+        ],
+        "できとらん": [
+          "noch nicht fertig",
+          "= できていない."
+        ],
+        "しょんなか": [
+          "da kann man nichts machen",
+          "= しょうがない."
+        ],
+        "おごっちゃるけん": [
+          "ich lad dich ein",
+          "„～ちゃる“ = てやる, „けん“ = から."
+        ],
+        "がんばらんね": [
+          "gib alles!",
+          "Eine Ermunterung, keine Verneinung. = がんばりなさいよ."
+        ]
+      }
+    },
+    "hans": {
+      "s": "博多腔对话",
+      "g": {
+        "なんしようと": [
+          "你在干嘛？",
+          "博多腔。＝何をしているの？「～しよう」表示进行。"
+        ],
+        "ばり": [
+          "超、非常",
+          "＝とても。"
+        ],
+        "よかよか": [
+          "没事没事、好啦好啦",
+          "＝いいよいいよ。"
+        ],
+        "なんとかなるっちゃない": [
+          "总会有办法的吧？",
+          "「っちゃない」＝んじゃない。"
+        ],
+        "できとらん": [
+          "还没做好",
+          "＝できていない。"
+        ],
+        "しょんなか": [
+          "没办法啊",
+          "＝しょうがない。"
+        ],
+        "おごっちゃるけん": [
+          "我请你（吃）",
+          "「～ちゃる」＝てやる，「けん」＝から。"
+        ],
+        "がんばらんね": [
+          "加油啦",
+          "语气是劝说，不是否定。＝がんばりなさいよ。"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「你在幹嘛？」\n「明天報告的準備。超緊張的啦。」\n「沒問題啦，你的話，總會有辦法的吧？」\n「別說得那麼簡單。資料，還有一半都沒做完呢。」\n「真拿你沒辦法呢。請你吃拉麵，加油喔。」",
+      "zh-Hans": "「你在干嘛？」\n「明天报告的准备。超紧张的啦。」\n「没问题啦，你的话，总会有办法的吧？」\n「别说得那么简单。数据，还有一半都没做完呢。」\n「真拿你没办法呢。请你吃拉面，加油喔。」",
+      "en": "\"What are you doing?\"\n\"Preparing for tomorrow's presentation. I'm super nervous.\"\n\"Don't worry, you'll manage somehow, right?\"\n\"Don't say it so easily. I haven't even finished half the materials.\"\n\"Oh well. I'll treat you to ramen, so do your best.\"",
+      "de": "\"What are you doing?\"\n\"Preparing for tomorrow's presentation. I'm super nervous.\"\n\"Don't worry, you'll manage somehow, right?\"\n\"Don't say it so easily. I haven't even finished half the materials.\"\n\"Oh well. I'll treat you to ramen, so do your best.\""
+    }
+  ]
+}

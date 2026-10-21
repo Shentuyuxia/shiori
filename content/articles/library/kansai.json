@@ -1,0 +1,168 @@
+{
+  "id": "kansai",
+  "d": -1,
+  "lv": "pro",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "方言",
+    "ja": "方言"
+  },
+  "title": "なんぼしたん？",
+  "sub": "關西腔對話",
+  "body": "「あんた、それ[[なんぼ|なんぼ]]したん？」\n「三千円やったかな」\n「[[高っ|たかっ]]！ そんなん、うちの近所[[やったら|やったら]]半額で売ってるで」\n「[[ほんまに|ほんまに]]？ [[ほな|ほな]]今度連れてってや」\n「ええよ。[[せやけど|せやけど]]、あそこの[[おっちゃん|おっちゃん]]話長いから[[覚悟しときや|かくごしときや]]」",
+  "gloss": {
+    "なんぼ": {
+      "m": "多少（錢）",
+      "n": "標準語：いくら。「～したん？」＝「～したの？」"
+    },
+    "高っ": {
+      "m": "好貴！",
+      "n": "形容詞去掉「い」加促音，口語感嘆。"
+    },
+    "やったら": {
+      "m": "如果是…的話",
+      "n": "標準語：だったら。關西腔「だ」→「や」。"
+    },
+    "ほんまに": {
+      "m": "真的嗎",
+      "n": "標準語：本当に。"
+    },
+    "ほな": {
+      "m": "那麼",
+      "n": "標準語：それなら。"
+    },
+    "せやけど": {
+      "m": "可是、不過",
+      "n": "標準語：そうだけど。"
+    },
+    "おっちゃん": {
+      "m": "大叔",
+      "n": "標準語：おじさん。"
+    },
+    "覚悟しときや": {
+      "m": "要有心理準備喔",
+      "n": "＝覚悟しておきなさい。「～とき」＝「～ておき」。"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "How much was it? (Kansai dialect)",
+      "g": {
+        "なんぼ": [
+          "how much (money)",
+          "Standard: いくら. 「～したん？」 = 「～したの？」"
+        ],
+        "高っ": [
+          "so expensive!",
+          "Adjective minus い plus a small っ: spoken exclamation."
+        ],
+        "やったら": [
+          "if it's …",
+          "Standard: だったら. Kansai turns だ into や."
+        ],
+        "ほんまに": [
+          "really?",
+          "Standard: 本当に."
+        ],
+        "ほな": [
+          "well then",
+          "Standard: それなら."
+        ],
+        "せやけど": [
+          "but, still",
+          "Standard: そうだけど."
+        ],
+        "おっちゃん": [
+          "mister, old man",
+          "Standard: おじさん."
+        ],
+        "覚悟しときや": [
+          "be prepared!",
+          "= 覚悟しておきなさい. 「～とき」 = 「～ておき」."
+        ]
+      }
+    },
+    "de": {
+      "s": "Was hat's gekostet? (Kansai-Dialekt)",
+      "g": {
+        "なんぼ": [
+          "wie viel (Geld)",
+          "Standard: いくら. „～したん？“ = „～したの？“"
+        ],
+        "高っ": [
+          "so teuer!",
+          "Adjektiv ohne い plus kleines っ: gesprochener Ausruf."
+        ],
+        "やったら": [
+          "wenn es … ist",
+          "Standard: だったら. In Kansai wird だ zu や."
+        ],
+        "ほんまに": [
+          "wirklich?",
+          "Standard: 本当に."
+        ],
+        "ほな": [
+          "na dann",
+          "Standard: それなら."
+        ],
+        "せやけど": [
+          "aber, trotzdem",
+          "Standard: そうだけど."
+        ],
+        "おっちゃん": [
+          "der Onkel (von nebenan)",
+          "Standard: おじさん."
+        ],
+        "覚悟しときや": [
+          "stell dich drauf ein!",
+          "= 覚悟しておきなさい. „～とき“ = „～ておき“."
+        ]
+      }
+    },
+    "hans": {
+      "s": "关西腔对话",
+      "g": {
+        "なんぼ": [
+          "多少（钱）",
+          "标准语：いくら。「～したん？」＝「～したの？」"
+        ],
+        "高っ": [
+          "好贵！",
+          "形容词去掉「い」加促音，口语感叹。"
+        ],
+        "やったら": [
+          "如果是…的话",
+          "标准语：だったら。关西腔「だ」→「や」。"
+        ],
+        "ほんまに": [
+          "真的吗",
+          "标准语：本当に。"
+        ],
+        "ほな": [
+          "那么",
+          "标准语：それなら。"
+        ],
+        "せやけど": [
+          "可是、不过",
+          "标准语：そうだけど。"
+        ],
+        "おっちゃん": [
+          "大叔",
+          "标准语：おじさん。"
+        ],
+        "覚悟しときや": [
+          "要有心理准备喔",
+          "＝覚悟しておきなさい。「～とき」＝「～ておき」。"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「你那個多少錢買的？」\n「我記得是三千圓吧」\n「好貴！那種東西，我家附近半價就在賣啊」\n「真的嗎？那下次帶我去吧」\n「好啊。不過那家老闆話很多，你要有心理準備喔」",
+      "zh-Hans": "「你那个多少钱买的？」\n「我记得是三千圆吧」\n「好贵！那种东西，我家附近半价就在卖啊」\n「真的吗？那下次带我去吧」\n「好啊。不过那家老板话很多，你要有心理准备喔」",
+      "en": "\"How much did you pay for that?\"\n\"I think it was three thousand yen.\"\n\"That's expensive! They sell that kind of thing at half price near my place.\"\n\"Really? Then take me there next time.\"\n\"Sure. But the shopkeeper there talks a lot, so be prepared.\"",
+      "de": "\"How much did you pay for that?\"\n\"I think it was three thousand yen.\"\n\"That's expensive! They sell that kind of thing at half price near my place.\"\n\"Really? Then take me there next time.\"\n\"Sure. But the shopkeeper there talks a lot, so be prepared.\""
+    }
+  ]
+}

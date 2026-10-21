@@ -1,0 +1,142 @@
+{
+  "id": "w-natto",
+  "d": -1,
+  "lv": "n2",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "納豆はなぜ糸を引くのか",
+  "sub": "納豆為什麼會牽絲？",
+  "body": "日本を訪れた外国人が「最も苦手な食べ物」として挙げることが多いのが、納豆だ。においもさることながら、箸で持ち上げるとどこまでも[[糸を引く|いとをひく]]、あの見た目に驚くらしい。\n\n納豆は、蒸した大豆に[[納豆菌|なっとうきん]]を加え、四十度前後の温かい場所で一日ほど置いて作る。納豆菌は[[枯草菌|こそうきん]]の仲間で、もともとは稲わらに多くすむ[[細菌|さいきん]]だ。昔は煮た豆をわらで包んで作っていた。\n\nあの糸の正体は、納豆菌が作り出す「[[ポリグルタミン酸|ポリグルタミンさん]]」という物質だ。アミノ酸の一種であるグルタミン酸が、鎖のように長くつながったもので、[[粘り|ねばり]]のもとになる。よく混ぜるほど糸が増え、[[うま味|うまみ]]も感じやすくなると言われる。\n\n納豆の好き嫌いは、日本国内でも地域によって差がある。伝統的に東日本ではよく食べられ、関西ではあまり食べられてこなかった。ただ、健康によいというイメージもあって、今では全国で食べられるようになった。",
+  "gloss": {
+    "糸を引く": {
+      "m": "牽絲"
+    },
+    "納豆菌": {
+      "m": "納豆菌"
+    },
+    "枯草菌": {
+      "m": "枯草桿菌"
+    },
+    "細菌": {
+      "m": "細菌"
+    },
+    "ポリグルタミン酸": {
+      "m": "聚麩胺酸"
+    },
+    "粘り": {
+      "m": "黏性"
+    },
+    "うま味": {
+      "m": "鮮味"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Why does natto get stringy?",
+      "g": {
+        "糸を引く": [
+          "to get stringy"
+        ],
+        "納豆菌": [
+          "natto bacteria"
+        ],
+        "枯草菌": [
+          "Bacillus subtilis (hay bacillus)"
+        ],
+        "細菌": [
+          "bacteria"
+        ],
+        "ポリグルタミン酸": [
+          "polyglutamic acid"
+        ],
+        "粘り": [
+          "stickiness"
+        ],
+        "うま味": [
+          "umami (savoury taste)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Warum zieht Natto Fäden?",
+      "g": {
+        "糸を引く": [
+          "Fäden ziehen"
+        ],
+        "納豆菌": [
+          "Natto-Bakterien"
+        ],
+        "枯草菌": [
+          "Heubazillus (Bacillus subtilis)"
+        ],
+        "細菌": [
+          "Bakterien"
+        ],
+        "ポリグルタミン酸": [
+          "Polyglutaminsäure"
+        ],
+        "粘り": [
+          "Klebrigkeit"
+        ],
+        "うま味": [
+          "Umami (herzhafter Geschmack)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "纳豆为什么会牵丝？",
+      "g": {
+        "糸を引く": [
+          "牵丝"
+        ],
+        "納豆菌": [
+          "纳豆菌"
+        ],
+        "枯草菌": [
+          "枯草杆菌"
+        ],
+        "細菌": [
+          "细菌"
+        ],
+        "ポリグルタミン酸": [
+          "聚谷氨酸"
+        ],
+        "粘り": [
+          "黏性"
+        ],
+        "うま味": [
+          "鲜味"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "來日本的外國人常把納豆列為「最怕的食物」。除了氣味，用筷子夾起來時那種沒完沒了牽絲的樣子，似乎最讓人吃驚。",
+      "zh-Hans": "来日本的外国人常把纳豆列为「最怕的食物」。除了气味，用筷子夹起来时那种没完没了牵丝的样子，似乎最让人吃惊。",
+      "en": "Natto is often named by visitors to Japan as the food they like least. Besides the smell, it's the look that surprises them: the endless strings when you lift it with chopsticks.",
+      "de": "Besucher in Japan nennen Natto oft als das Essen, das sie am wenigsten mögen. Neben dem Geruch überrascht vor allem der Anblick: die endlosen Fäden, wenn man es mit Stäbchen anhebt."
+    },
+    {
+      "zh-Hant": "納豆的做法是在蒸熟的黃豆裡加入納豆菌，放在四十度左右的溫暖地方約一天。納豆菌是枯草桿菌的一種，原本大量生活在稻草上。以前是用稻草把煮好的豆子包起來做的。",
+      "zh-Hans": "纳豆的做法是在蒸熟的黄豆里加入纳豆菌，放在四十度左右的温暖地方约一天。纳豆菌是枯草杆菌的一种，原本大量生活在稻草上。以前是用稻草把煮好的豆子包起来做的。",
+      "en": "Natto is made by adding natto bacteria to steamed soybeans and leaving them in a warm place at around 40 °C for about a day. Natto bacteria are a kind of hay bacillus that originally lives in large numbers on rice straw. In the past, cooked beans were wrapped in straw to make it.",
+      "de": "Für Natto gibt man Natto-Bakterien zu gedämpften Sojabohnen und lässt sie etwa einen Tag bei rund 40 °C warm stehen. Natto-Bakterien gehören zum Heubazillus, der ursprünglich in großer Zahl auf Reisstroh lebt. Früher wickelte man gekochte Bohnen dafür in Stroh."
+    },
+    {
+      "zh-Hant": "那些絲的真面目，是納豆菌製造的一種叫「聚麩胺酸」的物質。它是胺基酸之一的麩胺酸像鎖鏈一樣長長連在一起而成，是黏性的來源。據說攪拌得越久，絲就越多，鮮味也更容易感受到。",
+      "zh-Hans": "那些丝的真面目，是纳豆菌制造的一种叫「聚谷氨酸」的物质。它是氨基酸之一的谷氨酸像锁链一样长长连在一起而成，是黏性的来源。据说搅拌得越久，丝就越多，鲜味也更容易感受到。",
+      "en": "The strings are a substance called polyglutamic acid, produced by the natto bacteria. It consists of glutamic acid, an amino acid, linked in a long chain, and it's the source of the stickiness. It's said that the more you stir, the more strings form and the more umami you taste.",
+      "de": "Die Fäden bestehen aus Polyglutaminsäure, die die Natto-Bakterien bilden. Das ist die Aminosäure Glutaminsäure, zu einer langen Kette verbunden – sie macht Natto klebrig. Je länger man rührt, heißt es, desto mehr Fäden entstehen und desto stärker schmeckt man das Umami."
+    },
+    {
+      "zh-Hant": "在日本國內，對納豆的喜好也因地區而異。傳統上東日本吃得多，關西則不太吃。不過因為有「對健康好」的形象，現在全國各地都吃了。",
+      "zh-Hans": "在日本国内，对纳豆的喜好也因地区而异。传统上东日本吃得多，关西则不太吃。不过因为有「对健康好」的形象，现在全国各地都吃了。",
+      "en": "Even within Japan, liking natto depends on the region. Traditionally it was eaten a lot in eastern Japan and much less in Kansai. Thanks partly to its healthy image, it's now eaten all over the country.",
+      "de": "Auch innerhalb Japans hängt die Vorliebe für Natto von der Region ab. Traditionell aß man es viel im Osten und wenig in Kansai. Auch wegen seines gesunden Images isst man es heute im ganzen Land."
+    }
+  ]
+}

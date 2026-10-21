@@ -1,0 +1,183 @@
+{
+  "id": "d49",
+  "d": 49,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "大雪",
+  "sub": "節氣：大雪",
+  "body": "二十四節気の「大雪」。山々は雪に[[覆われ|おおわれ]]、平地でも雪が降り始める頃とされる。もっとも、太平洋側の都市では、この時期に大雪が降ることはまれだ。暦と実際の天気の[[ずれ|ずれ]]も、また季節の楽しみ方の一つである。\n\n雪国では、本格的な冬に備えて「[[雪囲い|ゆきがこい]]」をする。家の窓や庭木を[[板|いた]]や[[わら|わら]]で囲い、雪の重みや吹雪から守るのだ。[[軒先|のきさき]]には[[つらら|つらら]]が下がり、朝は[[除雪車|じょせつしゃ]]の音で目が覚める。\n\n台湾では雪を見る機会はほとんどないが、合歡山などの高い山では、寒波の日に雪が降ることがある。雪が降るとニュースになり、見物の車で道路が[[渋滞|じゅうたい]]する。雪の[[珍しさ|めずらしさ]]は、そのまま[[ありがたさ|ありがたさ]]なのかもしれない。",
+  "gloss": {
+    "覆われ": {
+      "m": "被覆蓋"
+    },
+    "ずれ": {
+      "m": "落差"
+    },
+    "雪囲い": {
+      "m": "防雪圍籬"
+    },
+    "板": {
+      "m": "木板"
+    },
+    "わら": {
+      "m": "稻草"
+    },
+    "軒先": {
+      "m": "屋簷前端"
+    },
+    "つらら": {
+      "m": "冰柱"
+    },
+    "除雪車": {
+      "m": "除雪車"
+    },
+    "渋滞": {
+      "m": "塞車"
+    },
+    "珍しさ": {
+      "m": "稀奇"
+    },
+    "ありがたさ": {
+      "m": "可貴"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Taisetsu: heavy snow",
+      "g": {
+        "覆われ": [
+          "covered"
+        ],
+        "ずれ": [
+          "gap, mismatch"
+        ],
+        "雪囲い": [
+          "snow fence"
+        ],
+        "板": [
+          "board, plank"
+        ],
+        "わら": [
+          "straw"
+        ],
+        "軒先": [
+          "edge of the eaves"
+        ],
+        "つらら": [
+          "icicle"
+        ],
+        "除雪車": [
+          "snowplough"
+        ],
+        "渋滞": [
+          "traffic jam"
+        ],
+        "珍しさ": [
+          "novelty, rarity"
+        ],
+        "ありがたさ": [
+          "value, something to be grateful for"
+        ]
+      }
+    },
+    "de": {
+      "s": "Taisetsu: großer Schnee",
+      "g": {
+        "覆われ": [
+          "bedeckt"
+        ],
+        "ずれ": [
+          "Abweichung"
+        ],
+        "雪囲い": [
+          "Schneezaun"
+        ],
+        "板": [
+          "Brett"
+        ],
+        "わら": [
+          "Stroh"
+        ],
+        "軒先": [
+          "Dachtraufe"
+        ],
+        "つらら": [
+          "Eiszapfen"
+        ],
+        "除雪車": [
+          "Schneepflug"
+        ],
+        "渋滞": [
+          "Stau"
+        ],
+        "珍しさ": [
+          "Seltenheit"
+        ],
+        "ありがたさ": [
+          "Wert, Dankbarkeit"
+        ]
+      }
+    },
+    "hans": {
+      "s": "节气：大雪",
+      "g": {
+        "覆われ": [
+          "被覆盖"
+        ],
+        "ずれ": [
+          "落差"
+        ],
+        "雪囲い": [
+          "防雪围篱"
+        ],
+        "板": [
+          "木板"
+        ],
+        "わら": [
+          "稻草"
+        ],
+        "軒先": [
+          "屋檐前端"
+        ],
+        "つらら": [
+          "冰柱"
+        ],
+        "除雪車": [
+          "除雪车"
+        ],
+        "渋滞": [
+          "塞车"
+        ],
+        "珍しさ": [
+          "稀奇"
+        ],
+        "ありがたさ": [
+          "可贵"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "二十四節氣中的「大雪」。據說這時群山被雪覆蓋，連平地也開始下雪。不過，在太平洋一側的城市，這個時期很少會下大雪。曆法與實際天氣之間的落差，也是季節樂趣的一部分。",
+      "zh-Hans": "二十四节气中的「大雪」。据说这时群山被雪覆盖，连平地也开始下雪。不过，在太平洋一侧的城市，这个时期很少会下大雪。历法与实际天气之间的落差，也是季节乐趣的一部分。",
+      "en": "「大雪」, Major Snow, is one of the 24 solar terms. It is said to be the time when the mountains are covered in snow and snow begins to fall even in the lowlands. However, in cities on the Pacific side, heavy snow is rare at this time. The gap between the calendar and the actual weather is also one of the pleasures of the season.",
+      "de": "「大雪」, Major Snow, is one of the 24 solar terms. It is said to be the time when the mountains are covered in snow and snow begins to fall even in the lowlands. However, in cities on the Pacific side, heavy snow is rare at this time. The gap between the calendar and the actual weather is also one of the pleasures of the season."
+    },
+    {
+      "zh-Hant": "在雪國，為了迎接真正的寒冬，人們會進行「雪圍」。用木板或稻草把屋子的窗戶與庭樹圍起來，保護它們不受積雪的重量與暴風雪的侵襲。屋簷下垂著冰柱，早上則被除雪車的聲音吵醒。",
+      "zh-Hans": "在雪国，为了迎接真正的寒冬，人们会进行「雪围」。用木板或稻草把屋子的窗户与庭树围起来，保护它们不受积雪的重量与暴风雪的侵袭。屋檐下垂着冰柱，早上则被除雪车的声音吵醒。",
+      "en": "In snowy regions, people prepare for the real winter by putting up 「雪囲い」, snow enclosures. They wrap windows and garden trees in boards or straw to protect them from the weight of snow and blizzards. Icicles hang from the eaves, and in the morning you wake to the sound of snowplows.",
+      "de": "In snowy regions, people prepare for the real winter by putting up 「雪囲い」, snow enclosures. They wrap windows and garden trees in boards or straw to protect them from the weight of snow and blizzards. Icicles hang from the eaves, and in the morning you wake to the sound of snowplows."
+    },
+    {
+      "zh-Hant": "在台灣，幾乎沒有什麼機會看到雪，不過在合歡山等高山上，寒流來襲的日子偶爾會下雪。一下雪就會上新聞，前往觀賞的車輛會讓道路塞車。雪的稀罕，或許也正是它的珍貴之處。",
+      "zh-Hans": "在台湾，几乎没有什么机会看到雪，不过在合欢山等高山上，寒流来袭的日子偶尔会下雪。一下雪就会上新闻，前往观赏的车辆会让道路塞车。雪的稀罕，或许也正是它的珍贵之处。",
+      "en": "In Taiwan, there are few chances to see snow, but on high mountains such as Hehuanshan, it occasionally snows on days when cold waves arrive. When it snows, it makes the news, and the cars of sightseers jam the roads. The rarity of snow may be exactly what makes it precious.",
+      "de": "In Taiwan, there are few chances to see snow, but on high mountains such as Hehuanshan, it occasionally snows on days when cold waves arrive. When it snows, it makes the news, and the cars of sightseers jam the roads. The rarity of snow may be exactly what makes it precious."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "d57",
+  "d": 57,
+  "lv": "pro",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "方言",
+    "ja": "方言"
+  },
+  "title": "なまらしばれるっしょ",
+  "sub": "北海道腔對話",
+  "body": "「今朝、[[なまら|なまら]][[しばれた|しばれた]]っしょ」\n「ほんとさ。車のフロントガラス、[[真っ白|まっしろ]]で[[ゆるくなかった|ゆるくなかった]]わ」\n「手袋、ちゃんと[[はいてった|はいてった]]？」\n「はいてった、はいてった。でも[[こわい|こわい]]から、今日はもう家にいるわ」\n「[[したっけ|したっけ]]、また明日ね」",
+  "gloss": {
+    "なまら": {
+      "m": "非常",
+      "n": "北海道腔。＝とても。"
+    },
+    "しばれた": {
+      "m": "冷得結凍",
+      "n": "北海道・東北腔。＝ひどく冷え込む。"
+    },
+    "真っ白": {
+      "m": "一片白"
+    },
+    "ゆるくなかった": {
+      "m": "很辛苦、不輕鬆",
+      "n": "北海道腔。「ゆるくない」＝大変だ。"
+    },
+    "はいてった": {
+      "m": "戴去了",
+      "n": "北海道人說「手袋をはく」，標準語是「はめる」。"
+    },
+    "こわい": {
+      "m": "累",
+      "n": "北海道腔「こわい」是疲累，不是害怕。"
+    },
+    "したっけ": {
+      "m": "那麼、掰啦",
+      "n": "北海道腔。＝それじゃあ。"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Freezing cold, eh? (Hokkaido dialect)",
+      "g": {
+        "なまら": [
+          "very",
+          "Hokkaido dialect = とても."
+        ],
+        "しばれた": [
+          "freezing cold",
+          "Hokkaido/Tōhoku dialect = ひどく冷え込む."
+        ],
+        "真っ白": [
+          "pure white"
+        ],
+        "ゆるくなかった": [
+          "it was tough",
+          "Hokkaido: 「ゆるくない」 = 大変だ."
+        ],
+        "はいてった": [
+          "wore (gloves)",
+          "In Hokkaido gloves are はく; standard is はめる."
+        ],
+        "こわい": [
+          "tired",
+          "In Hokkaido こわい means tired, not scared."
+        ],
+        "したっけ": [
+          "well then, bye",
+          "Hokkaido = それじゃあ."
+        ]
+      }
+    },
+    "de": {
+      "s": "Saukalt, oder? (Hokkaido-Dialekt)",
+      "g": {
+        "なまら": [
+          "sehr",
+          "Hokkaido-Dialekt = とても."
+        ],
+        "しばれた": [
+          "eiskalt",
+          "Hokkaido/Tōhoku-Dialekt = ひどく冷え込む."
+        ],
+        "真っ白": [
+          "schneeweiß"
+        ],
+        "ゆるくなかった": [
+          "es war hart",
+          "Hokkaido: „ゆるくない“ = 大変だ."
+        ],
+        "はいてった": [
+          "(Handschuhe) angezogen",
+          "In Hokkaido „はく“ man Handschuhe; Standard ist はめる."
+        ],
+        "こわい": [
+          "müde",
+          "In Hokkaido heißt こわい müde, nicht ängstlich."
+        ],
+        "したっけ": [
+          "na dann, tschüss",
+          "Hokkaido = それじゃあ."
+        ]
+      }
+    },
+    "hans": {
+      "s": "北海道腔对话",
+      "g": {
+        "なまら": [
+          "非常",
+          "北海道腔。＝とても。"
+        ],
+        "しばれた": [
+          "冷得结冻",
+          "北海道・东北腔。＝ひどく冷え込む。"
+        ],
+        "真っ白": [
+          "一片白"
+        ],
+        "ゆるくなかった": [
+          "很辛苦、不轻松",
+          "北海道腔。「ゆるくない」＝大変だ。"
+        ],
+        "はいてった": [
+          "戴去了",
+          "北海道人说「手袋をはく」，标准语是「はめる」。"
+        ],
+        "こわい": [
+          "累",
+          "北海道腔「こわい」是疲累，不是害怕。"
+        ],
+        "したっけ": [
+          "那么、掰啦",
+          "北海道腔。＝それじゃあ。"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「今天早上，冷得超厲害的吧？」\n「真的啊。車子的擋風玻璃白茫茫的，都刮不乾淨呢。」\n「手套有戴好嗎？」\n「有戴有戴。不過好怕，今天就待在家裡吧。」\n「那麼，明天見囉。」",
+      "zh-Hans": "「今天早上，冷得超厉害的吧？」\n「真的啊。车子的挡风玻璃白茫茫的，都刮不干净呢。」\n「手套有戴好吗？」\n「有戴有戴。不过好怕，今天就待在家里吧。」\n「那么，明天见啰。」",
+      "en": "\"Wasn't it insanely cold this morning?\"\n\"Really. The car's windshield was completely white and hard to clear.\"\n\"Did you wear your gloves?\"\n\"I did, I did. But it's scary out there, so I'll stay home today.\"\n\"Well then, see you tomorrow.\"",
+      "de": "\"Wasn't it insanely cold this morning?\"\n\"Really. The car's windshield was completely white and hard to clear.\"\n\"Did you wear your gloves?\"\n\"I did, I did. But it's scary out there, so I'll stay home today.\"\n\"Well then, see you tomorrow.\""
+    }
+  ]
+}

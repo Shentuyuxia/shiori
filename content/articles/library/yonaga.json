@@ -1,0 +1,179 @@
+{
+  "id": "yonaga",
+  "d": -1,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "秋の夜長",
+  "sub": "秋夜漫長",
+  "body": "[[立秋|りっしゅう]]を過ぎても、東京の暑さはなかなか{引|ひ}かない。それでも十月に入ると、{日|ひ}が{暮|く}れるのがはっきりと早くなる。俳句の世界では、この{頃|ころ}を「[[夜長|よなが]]」と呼ぶ。夜が長いことを[[嘆く|なげく]]のではなく、むしろ[[味わう|あじわう]]ための言葉だ。\n\n[[虫の音|むしのね]]を聞きながら本を読む。温かいほうじ茶を{淹|い}れる。誰かに手紙を書く。そんな[[ささやかな|ささやかな]]時間こそが、秋という季節の[[醍醐味|だいごみ]]なのだろう。\n\nちなみに「[[灯火親しむ|とうかしたしむ]]」という[[季語|きご]]もある。{灯|あか}りの下で読書を楽しむのにふさわしい季節、という意味だ。今夜は少しだけ早く[[家路|いえじ]]につこうか。",
+  "gloss": {
+    "立秋": {
+      "m": "立秋（節氣）"
+    },
+    "夜長": {
+      "m": "秋夜漫長",
+      "n": "秋季的季語。"
+    },
+    "嘆く": {
+      "m": "嘆息、悲嘆"
+    },
+    "味わう": {
+      "m": "品味、細細體會"
+    },
+    "虫の音": {
+      "m": "蟲鳴聲"
+    },
+    "ささやかな": {
+      "m": "小小的、不起眼卻珍貴的"
+    },
+    "醍醐味": {
+      "m": "真正的樂趣、精髓"
+    },
+    "灯火親しむ": {
+      "m": "適合燈下讀書的時節",
+      "n": "秋季季語，典出韓愈〈符讀書城南〉「燈火稍可親」。"
+    },
+    "季語": {
+      "m": "季語（俳句中表示季節的詞）"
+    },
+    "家路": {
+      "m": "回家的路"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Long autumn nights",
+      "g": {
+        "立秋": [
+          "start of autumn (solar term)"
+        ],
+        "夜長": [
+          "the long nights of autumn",
+          "A seasonal word (kigo) for autumn."
+        ],
+        "嘆く": [
+          "to lament, sigh over"
+        ],
+        "味わう": [
+          "to savour, appreciate fully"
+        ],
+        "虫の音": [
+          "chirping of insects"
+        ],
+        "ささやかな": [
+          "small, modest but precious"
+        ],
+        "醍醐味": [
+          "the real joy, the essence"
+        ],
+        "灯火親しむ": [
+          "the season for reading by lamplight",
+          "Autumn kigo, from a poem by the Tang writer Han Yu."
+        ],
+        "季語": [
+          "seasonal word in haiku"
+        ],
+        "家路": [
+          "the way home"
+        ]
+      }
+    },
+    "de": {
+      "s": "Lange Herbstnächte",
+      "g": {
+        "立秋": [
+          "Herbstbeginn (Sonnenperiode)"
+        ],
+        "夜長": [
+          "die langen Herbstnächte",
+          "Jahreszeitenwort (Kigo) für den Herbst."
+        ],
+        "嘆く": [
+          "beklagen, seufzen über"
+        ],
+        "味わう": [
+          "genießen, auskosten"
+        ],
+        "虫の音": [
+          "Zirpen der Insekten"
+        ],
+        "ささやかな": [
+          "klein, bescheiden, aber kostbar"
+        ],
+        "醍醐味": [
+          "der eigentliche Reiz, das Beste daran"
+        ],
+        "灯火親しむ": [
+          "die Zeit, um beim Lampenlicht zu lesen",
+          "Herbst-Kigo, nach einem Gedicht des Tang-Dichters Han Yu."
+        ],
+        "季語": [
+          "Jahreszeitenwort im Haiku"
+        ],
+        "家路": [
+          "Heimweg"
+        ]
+      }
+    },
+    "hans": {
+      "s": "秋夜漫长",
+      "g": {
+        "立秋": [
+          "立秋（节气）"
+        ],
+        "夜長": [
+          "秋夜漫长",
+          "秋季的季语。"
+        ],
+        "嘆く": [
+          "叹息、悲叹"
+        ],
+        "味わう": [
+          "品味、细细体会"
+        ],
+        "虫の音": [
+          "虫鸣声"
+        ],
+        "ささやかな": [
+          "小小的、不起眼却珍贵的"
+        ],
+        "醍醐味": [
+          "真正的乐趣、精髓"
+        ],
+        "灯火親しむ": [
+          "适合灯下读书的时节",
+          "秋季季语，典出韩愈〈符读书城南〉「灯火稍可亲」。"
+        ],
+        "季語": [
+          "季语（俳句中表示季节的词）"
+        ],
+        "家路": [
+          "回家的路"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "過了立秋，東京的暑氣還是遲遲不退。不過一進入十月，太陽下山明顯變早了。在俳句的世界裡，這段時節被稱為「夜長」。不是為夜晚變長而嘆息，而是用來細細品味的詞語。",
+      "zh-Hans": "过了立秋，东京的暑气还是迟迟不退。不过一进入十月，太阳下山明显变早了。在俳句的世界里，这段时节被称为「夜长」。不是为夜晚变长而叹息，而是用来细细品味的词语。",
+      "en": "Even after 立秋, the summer heat in Tokyo is slow to fade. Still, once October arrives, the sun sets noticeably earlier. In the world of haiku, this season is called 「夜長」. It is not a word for lamenting the long nights, but for savoring them.",
+      "de": "Even after 立秋, the summer heat in Tokyo is slow to fade. Still, once October arrives, the sun sets noticeably earlier. In the world of haiku, this season is called 「夜長」. It is not a word for lamenting the long nights, but for savoring them."
+    },
+    {
+      "zh-Hant": "一邊聽蟲鳴，一邊看書。泡一杯溫熱的焙茶。寫信給某個人。這些小小的時光，大概正是秋天這個季節的醍醐味吧。",
+      "zh-Hans": "一边听虫鸣，一边看书。泡一杯温热的焙茶。写信给某个人。这些小小的时光，大概正是秋天这个季节的醍醐味吧。",
+      "en": "Reading a book while listening to insects sing. Brewing a cup of warm hojicha. Writing a letter to someone. These small moments are probably the true pleasure of autumn.",
+      "de": "Reading a book while listening to insects sing. Brewing a cup of warm hojicha. Writing a letter to someone. These small moments are probably the true pleasure of autumn."
+    },
+    {
+      "zh-Hant": "順帶一提，還有一個季語叫「燈火親しむ」，意思是適合在燈下讀書的季節。今晚要不要早一點回家休息呢？",
+      "zh-Hans": "顺带一提，还有一个季语叫「灯火亲しむ」，意思是适合在灯下读书的季节。今晚要不要早一点回家休息呢？",
+      "en": "By the way, there is also a seasonal word 「灯火親しむ」, meaning a season well suited to reading under the lamp. Shall I head home a little earlier tonight?",
+      "de": "By the way, there is also a seasonal word 「灯火親しむ」, meaning a season well suited to reading under the lamp. Shall I head home a little earlier tonight?"
+    }
+  ]
+}

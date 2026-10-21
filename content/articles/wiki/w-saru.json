@@ -1,0 +1,154 @@
+{
+  "id": "w-saru",
+  "d": -1,
+  "lv": "n2",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "サルはなぜ温泉に入るのか",
+  "sub": "會泡溫泉的雪猴",
+  "body": "長野県の山あいにある「[[地獄谷|じごくだに]]野猿公苑」では、冬になると、[[ニホンザル|ニホンザル]]が温泉に入る姿が見られる。頭に雪をのせ、目を細めて湯に浸かるサルの写真は、海外でも「スノーモンキー」として知られている。\n\nニホンザルは、人間を除く[[霊長類|れいちょうるい]]の中で、世界で最も北に住む種だとされる。本州最北の下北半島にも群れがいる。厚い毛で寒さに耐えるとはいえ、雪の中で冬を越すのは楽ではない。\n\nサルが温泉に入るようになったのは、一九六〇年代のことだ。一匹の若いメスが湯に入ったのをきっかけに、ほかのサルたちも真似をし始め、群れの中に[[広まって|ひろまって]]いったという。サルの社会で、新しい行動が「文化」として[[受け継がれる|うけつがれる]]例としても注目されてきた。\n\n研究によると、温泉に入るサルは、入らないサルに比べて、寒さによる[[ストレス|ストレス]]が低いことが分かっている。ただし、湯に入るのは主にメスと子どもで、群れの[[順位|じゅんい]]によって入れるかどうかが決まることもあるそうだ。温泉にも、サルの世界の[[事情|じじょう]]がある。",
+  "gloss": {
+    "地獄谷": {
+      "m": "地獄谷（長野縣地名）"
+    },
+    "ニホンザル": {
+      "m": "日本獼猴"
+    },
+    "霊長類": {
+      "m": "靈長類"
+    },
+    "広まって": {
+      "m": "擴散開來（原形：広まる）"
+    },
+    "受け継がれる": {
+      "m": "被傳承"
+    },
+    "ストレス": {
+      "m": "壓力"
+    },
+    "順位": {
+      "m": "排名、地位"
+    },
+    "事情": {
+      "m": "情況、內情"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The snow monkeys' hot spring",
+      "g": {
+        "地獄谷": [
+          "Jigokudani (place in Nagano)"
+        ],
+        "ニホンザル": [
+          "Japanese macaque"
+        ],
+        "霊長類": [
+          "primates"
+        ],
+        "広まって": [
+          "spreading (dict. form: 広まる)"
+        ],
+        "受け継がれる": [
+          "to be passed down"
+        ],
+        "ストレス": [
+          "stress"
+        ],
+        "順位": [
+          "rank"
+        ],
+        "事情": [
+          "circumstances"
+        ]
+      }
+    },
+    "de": {
+      "s": "Die badenden Schneeaffen",
+      "g": {
+        "地獄谷": [
+          "Jigokudani (Ort in Nagano)"
+        ],
+        "ニホンザル": [
+          "Japanmakak"
+        ],
+        "霊長類": [
+          "Primaten"
+        ],
+        "広まって": [
+          "sich verbreitend (Grundform: 広まる)"
+        ],
+        "受け継がれる": [
+          "weitergegeben werden"
+        ],
+        "ストレス": [
+          "Stress"
+        ],
+        "順位": [
+          "Rang"
+        ],
+        "事情": [
+          "Umstände"
+        ]
+      }
+    },
+    "hans": {
+      "s": "会泡温泉的雪猴",
+      "g": {
+        "地獄谷": [
+          "地狱谷（长野县地名）"
+        ],
+        "ニホンザル": [
+          "日本猕猴"
+        ],
+        "霊長類": [
+          "灵长类"
+        ],
+        "広まって": [
+          "扩散开来（原形：広まる）"
+        ],
+        "受け継がれる": [
+          "被传承"
+        ],
+        "ストレス": [
+          "压力"
+        ],
+        "順位": [
+          "排名、地位"
+        ],
+        "事情": [
+          "情况、内情"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "在長野縣山谷裡的「地獄谷野猿公苑」，一到冬天就能看到日本獼猴泡溫泉。頭上頂著雪、瞇著眼睛泡在熱水裡的猴子照片，在海外也以「雪猴」聞名。",
+      "zh-Hans": "在长野县山谷里的「地狱谷野猿公苑」，一到冬天就能看到日本猕猴泡温泉。头上顶着雪、瞇着眼睛泡在热水里的猴子照片，在海外也以「雪猴」闻名。",
+      "en": "At Jigokudani Monkey Park in a valley in Nagano, Japanese macaques can be seen bathing in a hot spring in winter. Photos of monkeys soaking with snow on their heads and eyes half-closed are known abroad as \"snow monkeys\".",
+      "de": "Im Jigokudani-Affenpark in einem Tal in Nagano kann man im Winter Japanmakaken beim Baden in einer heißen Quelle beobachten. Fotos von Affen mit Schnee auf dem Kopf und halb geschlossenen Augen sind im Ausland als „Snow Monkeys“ bekannt."
+    },
+    {
+      "zh-Hant": "據說日本獼猴是除了人類以外，世界上住得最北的靈長類。本州最北端的下北半島也有猴群。雖然有厚毛可以禦寒，但在雪中過冬並不輕鬆。",
+      "zh-Hans": "据说日本猕猴是除了人类以外，世界上住得最北的灵长类。本州最北端的下北半岛也有猴群。虽然有厚毛可以御寒，但在雪中过冬并不轻松。",
+      "en": "The Japanese macaque is said to be the northernmost-living primate in the world, apart from humans. There are troops even on the Shimokita Peninsula at the northern tip of Honshu. Their thick fur helps against the cold, but surviving winter in the snow is not easy.",
+      "de": "Der Japanmakak gilt – vom Menschen abgesehen – als der am nördlichsten lebende Primat der Welt. Selbst auf der Shimokita-Halbinsel an der Nordspitze Honshus gibt es Gruppen. Das dicke Fell schützt zwar, doch ein Winter im Schnee ist kein Vergnügen."
+    },
+    {
+      "zh-Hant": "猴子開始泡溫泉是一九六〇年代的事。據說起因是一隻年輕母猴進了熱水，其他猴子也開始模仿，就這樣在猴群中擴散開來。這也被視為新行為在猴子社會裡作為「文化」傳承下去的例子而受到關注。",
+      "zh-Hans": "猴子开始泡温泉是一九六〇年代的事。据说起因是一只年轻母猴进了热水，其他猴子也开始模仿，就这样在猴群中扩散开来。这也被视为新行为在猴子社会里作为「文化」传承下去的例子而受到关注。",
+      "en": "The monkeys started bathing in the 1960s. It's said that after one young female got into the water, others began to copy her, and the habit spread through the troop. It has drawn attention as an example of a new behaviour being passed on as \"culture\" in monkey society.",
+      "de": "Mit dem Baden begannen die Affen in den 1960er-Jahren. Ein junges Weibchen soll ins Wasser gegangen sein, andere ahmten es nach, und so breitete sich das Verhalten in der Gruppe aus. Es gilt als Beispiel dafür, wie neues Verhalten in einer Affengesellschaft als „Kultur“ weitergegeben wird."
+    },
+    {
+      "zh-Hant": "研究發現，泡溫泉的猴子比不泡的猴子，因寒冷造成的壓力比較低。不過，泡溫泉的主要是母猴和小猴，能不能下水有時還取決於在猴群裡的地位。溫泉也有猴子世界的內情。",
+      "zh-Hans": "研究发现，泡温泉的猴子比不泡的猴子，因寒冷造成的压力比较低。不过，泡温泉的主要是母猴和小猴，能不能下水有时还取决于在猴群里的地位。温泉也有猴子世界的内情。",
+      "en": "Research has found that monkeys that bathe have lower cold-related stress than those that don't. However, it's mainly females and young who bathe, and whether a monkey may get in can depend on its rank in the troop. Even the hot spring has its monkey politics.",
+      "de": "Studien zeigen, dass badende Affen weniger kältebedingten Stress haben als die, die nicht baden. Baden tun aber vor allem Weibchen und Jungtiere, und ob ein Affe ins Wasser darf, kann von seinem Rang in der Gruppe abhängen. Auch an der heißen Quelle gibt es Affenpolitik."
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "d5",
+  "d": 5,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "商務日語",
+    "ja": "ビジネス日本語"
+  },
+  "title": "「させていただきます」の功罪",
+  "sub": "「させていただく」的功與過",
+  "body": "「本日の司会を[[務めさせていただきます|つとめさせていただきます]]」「資料を[[拝見させていただきました|はいけんさせていただきました]]」――ビジネスの場で、この表現を聞かない日はない。\n\n本来、「させていただく」は、相手の[[許可|きょか]]や[[恩恵|おんけい]]を受けて何かをする、という意味だ。だから「お休みをいただいて、旅行に行かせていただきます」には、ちゃんと理由がある。\n\n一方、相手の許可と関係のない場面で使うと、[[過剰|かじょう]]な、時に[[卑屈|ひくつ]]な印象を与える。「拝見させていただく」に至っては、「拝見する」自体がすでに[[謙譲語|けんじょうご]]なので、[[二重敬語|にじゅうけいご]]だと[[指摘|してき]]されることもある。迷ったら「務めます」「拝見しました」で十分だ。",
+  "gloss": {
+    "務めさせていただきます": {
+      "m": "請容我擔任"
+    },
+    "拝見させていただきました": {
+      "m": "拜讀了",
+      "n": "常被認為是重複謙讓。"
+    },
+    "許可": {
+      "m": "許可、同意"
+    },
+    "恩恵": {
+      "m": "恩惠"
+    },
+    "過剰": {
+      "m": "過度"
+    },
+    "卑屈": {
+      "m": "卑躬屈膝、自卑"
+    },
+    "謙譲語": {
+      "m": "謙讓語"
+    },
+    "二重敬語": {
+      "m": "雙重敬語（冗贅敬語）"
+    },
+    "指摘": {
+      "m": "指出"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The merits and faults of させていただきます",
+      "g": {
+        "務めさせていただきます": [
+          "allow me to serve as"
+        ],
+        "拝見させていただきました": [
+          "I have (humbly) looked at it",
+          "Often considered a double humble form."
+        ],
+        "許可": [
+          "permission"
+        ],
+        "恩恵": [
+          "benefit, favour"
+        ],
+        "過剰": [
+          "excessive"
+        ],
+        "卑屈": [
+          "servile"
+        ],
+        "謙譲語": [
+          "humble language"
+        ],
+        "二重敬語": [
+          "double honorific (redundant)"
+        ],
+        "指摘": [
+          "pointing out"
+        ]
+      }
+    },
+    "de": {
+      "s": "Für und Wider von させていただきます",
+      "g": {
+        "務めさせていただきます": [
+          "ich darf als … fungieren"
+        ],
+        "拝見させていただきました": [
+          "ich habe es (ergebenst) angesehen",
+          "Gilt oft als doppelte Bescheidenheitsform."
+        ],
+        "許可": [
+          "Erlaubnis"
+        ],
+        "恩恵": [
+          "Gunst, Wohltat"
+        ],
+        "過剰": [
+          "übermäßig"
+        ],
+        "卑屈": [
+          "unterwürfig"
+        ],
+        "謙譲語": [
+          "Bescheidenheitssprache"
+        ],
+        "二重敬語": [
+          "doppeltes Honorativ (überflüssig)"
+        ],
+        "指摘": [
+          "Hinweis, Kritik"
+        ]
+      }
+    },
+    "hans": {
+      "s": "「させていただく」的功与过",
+      "g": {
+        "務めさせていただきます": [
+          "请容我担任"
+        ],
+        "拝見させていただきました": [
+          "拜读了",
+          "常被认为是重复谦让。"
+        ],
+        "許可": [
+          "许可、同意"
+        ],
+        "恩恵": [
+          "恩惠"
+        ],
+        "過剰": [
+          "过度"
+        ],
+        "卑屈": [
+          "卑躬屈膝、自卑"
+        ],
+        "謙譲語": [
+          "谦让语"
+        ],
+        "二重敬語": [
+          "双重敬语（冗赘敬语）"
+        ],
+        "指摘": [
+          "指出"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「本日的司會由我來擔任」「已經拜讀過資料了」——在商務場合，幾乎每天都會聽到這樣的表達。",
+      "zh-Hans": "「本日的司会由我来担任」「已经拜读过数据了」——在商务场合，几乎每天都会听到这样的表达。",
+      "en": "\"I will have the honor of serving as today's moderator\" and \"I have had the opportunity to review the materials\"—you hear expressions like these almost every day in business settings.",
+      "de": "\"I will have the honor of serving as today's moderator\" and \"I have had the opportunity to review the materials\"—you hear expressions like these almost every day in business settings."
+    },
+    {
+      "zh-Hant": "「させていただく」本來的意思，是接受對方的許可或恩惠而做某件事。所以「請讓我休假，去旅行」這樣的說法，是有道理的。",
+      "zh-Hans": "「させていただく」本来的意思，是接受对方的许可或恩惠而做某件事。所以「请让我休假，去旅行」这样的说法，是有道理的。",
+      "en": "Originally, 「させていただく」 means doing something after receiving permission or a favor from the other party. So a phrase like 「お休みをいただいて、旅行に行かせていただきます」 has a proper reason behind it.",
+      "de": "Originally, 「させていただく」 means doing something after receiving permission or a favor from the other party. So a phrase like 「お休みをいただいて、旅行に行かせていただきます」 has a proper reason behind it."
+    },
+    {
+      "zh-Hant": "反過來，如果用在與對方許可無關的場合，會給人過度、有時甚至卑躬屈膝的印象。至於「拝見させていただく」，「拝見する」本身已經是謙讓語，因此也有人指出這是雙重敬語。拿不定主意的時候，「務めます」「拝見しました」就已經足夠了。",
+      "zh-Hans": "反过来，如果用在与对方许可无关的场合，会给人过度、有时甚至卑躬屈膝的印象。至于「拝见させていただく」，「拝见する」本身已经是谦让语，因此也有人指出这是双重敬语。拿不定主意的时候，「务めます」「拝见しました」就已经足够了。",
+      "en": "On the other hand, using it in situations unrelated to the other party's permission can create an impression of excessive humility, and sometimes even servility. As for 「拝見させていただく」, since 「拝見する」 is already a humble form, some point out that it is a double honorific. When in doubt, 「務めます」 or 「拝見しました」 is perfectly sufficient.",
+      "de": "On the other hand, using it in situations unrelated to the other party's permission can create an impression of excessive humility, and sometimes even servility. As for 「拝見させていただく」, since 「拝見する」 is already a humble form, some point out that it is a double honorific. When in doubt, 「務めます」 or 「拝見しました」 is perfectly sufficient."
+    }
+  ]
+}

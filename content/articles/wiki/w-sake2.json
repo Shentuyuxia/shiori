@@ -1,0 +1,166 @@
+{
+  "id": "w-sake2",
+  "d": -1,
+  "lv": "n2",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "鮭はなぜ生まれた川に帰るのか",
+  "sub": "鮭魚為什麼會回到出生的河流？",
+  "body": "秋、北海道や東北の川では、海から戻ってきた鮭が流れに[[逆らって|さからって]]上っていく姿が見られる。浅瀬で背びれを出し、ときには小さな滝を跳び越えながら、ひたすら[[上流|じょうりゅう]]を目指す。\n\n日本で最も多いシロザケは、川で生まれ、春に海へ下る。そして北太平洋を数千キロも回遊しながら、およそ三年から五年かけて大きくなる。やがて[[産卵|さんらん]]の時期が近づくと、自分が生まれた川に戻ってくる。これを「[[母川回帰|ぼせんかいき]]」と言う。\n\n広い海の中でどうやって方向を知るのかは、まだ完全には分かっていない。地球の[[磁気|じき]]や太陽の位置を手がかりにしているという説がある。一方、川の近くまで来てからは、[[嗅覚|きゅうかく]]が重要な役割を果たすと考えられている。稚魚のころに覚えた故郷の川の[[におい|におい]]を、何年も記憶しているというのだ。\n\n産卵を終えた鮭は、多くがそのまま一生を終える。その体は川の生き物や森の動物の[[餌|えさ]]となり、[[栄養|えいよう]]が上流の森にまで運ばれていく。鮭の旅は、海と森をつなぐ旅でもある。",
+  "gloss": {
+    "逆らって": {
+      "m": "逆著（原形：逆らう）"
+    },
+    "上流": {
+      "m": "上游"
+    },
+    "産卵": {
+      "m": "產卵"
+    },
+    "母川回帰": {
+      "m": "母川洄游（回到出生河流）"
+    },
+    "磁気": {
+      "m": "磁場、磁力"
+    },
+    "嗅覚": {
+      "m": "嗅覺"
+    },
+    "におい": {
+      "m": "氣味"
+    },
+    "餌": {
+      "m": "飼料、食物"
+    },
+    "栄養": {
+      "m": "營養"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Why do salmon return to their home river?",
+      "g": {
+        "逆らって": [
+          "going against (dict. form: 逆らう)"
+        ],
+        "上流": [
+          "upstream"
+        ],
+        "産卵": [
+          "spawning"
+        ],
+        "母川回帰": [
+          "natal homing"
+        ],
+        "磁気": [
+          "magnetism, magnetic field"
+        ],
+        "嗅覚": [
+          "sense of smell"
+        ],
+        "におい": [
+          "smell"
+        ],
+        "餌": [
+          "food (for animals)"
+        ],
+        "栄養": [
+          "nutrients"
+        ]
+      }
+    },
+    "de": {
+      "s": "Warum kehren Lachse in ihren Fluss zurück?",
+      "g": {
+        "逆らって": [
+          "gegen … ankämpfen (Grundform: 逆らう)"
+        ],
+        "上流": [
+          "flussaufwärts"
+        ],
+        "産卵": [
+          "Laichen"
+        ],
+        "母川回帰": [
+          "Rückkehr zum Geburtsfluss"
+        ],
+        "磁気": [
+          "Magnetismus, Magnetfeld"
+        ],
+        "嗅覚": [
+          "Geruchssinn"
+        ],
+        "におい": [
+          "Geruch"
+        ],
+        "餌": [
+          "Futter"
+        ],
+        "栄養": [
+          "Nährstoffe"
+        ]
+      }
+    },
+    "hans": {
+      "s": "鲑鱼为什么会回到出生的河流？",
+      "g": {
+        "逆らって": [
+          "逆着（原形：逆らう）"
+        ],
+        "上流": [
+          "上游"
+        ],
+        "産卵": [
+          "产卵"
+        ],
+        "母川回帰": [
+          "母川洄游（回到出生河流）"
+        ],
+        "磁気": [
+          "磁场、磁力"
+        ],
+        "嗅覚": [
+          "嗅觉"
+        ],
+        "におい": [
+          "气味"
+        ],
+        "餌": [
+          "饲料、食物"
+        ],
+        "栄養": [
+          "营养"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "秋天，在北海道和東北的河流裡，可以看到從海裡回來的鮭魚逆流而上。牠們在淺灘露出背鰭，有時還跳過小瀑布，一心朝上游前進。",
+      "zh-Hans": "秋天，在北海道和东北的河流里，可以看到从海里回来的鲑鱼逆流而上。牠们在浅滩露出背鳍，有时还跳过小瀑布，一心朝上游前进。",
+      "en": "In autumn, in the rivers of Hokkaido and Tōhoku, you can see salmon back from the sea swimming upstream against the current. They show their dorsal fins in the shallows and sometimes leap small waterfalls, heading single-mindedly upstream.",
+      "de": "Im Herbst sieht man in den Flüssen von Hokkaido und Tōhoku Lachse, die aus dem Meer zurück sind und gegen die Strömung aufsteigen. In flachen Stellen ragen ihre Rückenflossen heraus, manchmal springen sie über kleine Wasserfälle – immer flussaufwärts."
+    },
+    {
+      "zh-Hant": "日本最多的白鮭在河裡出生，春天游向大海。然後在北太平洋迴游數千公里，花大約三到五年長大。產卵期接近時，就回到自己出生的河流，這叫「母川洄游」。",
+      "zh-Hans": "日本最多的白鲑在河里出生，春天游向大海。然后在北太平洋回游数千公里，花大约三到五年长大。产卵期接近时，就回到自己出生的河流，这叫「母川洄游」。",
+      "en": "Chum salmon, the most common kind in Japan, are born in rivers and head to sea in spring. They then roam thousands of kilometres around the North Pacific and grow for about three to five years. When spawning time approaches, they return to the river they were born in. This is called natal homing.",
+      "de": "Der Ketalachs, die häufigste Art in Japan, wird im Fluss geboren und wandert im Frühjahr ins Meer. Dort zieht er Tausende Kilometer durch den Nordpazifik und wächst drei bis fünf Jahre. Naht die Laichzeit, kehrt er in seinen Geburtsfluss zurück – die sogenannte Heimfindung."
+    },
+    {
+      "zh-Hant": "牠們在廣闊的大海中如何辨別方向，至今還沒有完全弄清楚。有一種說法是牠們以地球磁場或太陽的位置為線索。另一方面，到了河口附近之後，嗅覺被認為扮演了重要角色：牠們記得小時候故鄉河流的氣味，記好幾年。",
+      "zh-Hans": "牠们在广阔的大海中如何辨别方向，至今还没有完全弄清楚。有一种说法是牠们以地球磁场或太阳的位置为线索。另一方面，到了河口附近之后，嗅觉被认为扮演了重要角色：牠们记得小时候故乡河流的气味，记好几年。",
+      "en": "How they find their way in the open ocean is still not fully understood. One theory is that they use the Earth's magnetic field or the position of the sun. Once they get close to the river, however, smell is thought to play a key role: they remember the scent of their home river from their days as fry, for years.",
+      "de": "Wie sie sich im offenen Meer orientieren, ist noch nicht ganz geklärt. Eine Theorie: Sie nutzen das Erdmagnetfeld oder den Sonnenstand. In Flussnähe spielt dann wohl der Geruchssinn die Hauptrolle – sie merken sich den Geruch ihres Heimatflusses aus der Jungfischzeit über Jahre."
+    },
+    {
+      "zh-Hant": "產完卵的鮭魚，大多就這樣結束一生。牠們的身體成為河裡生物和森林動物的食物，養分也被帶到上游的森林。鮭魚的旅程，也是一趟連結大海和森林的旅程。",
+      "zh-Hans": "产完卵的鲑鱼，大多就这样结束一生。牠们的身体成为河里生物和森林动物的食物，养分也被带到上游的森林。鲑鱼的旅程，也是一趟链接大海和森林的旅程。",
+      "en": "After spawning, most salmon end their lives right there. Their bodies become food for river creatures and forest animals, and their nutrients are carried all the way to the forests upstream. The salmon's journey is also one that links the sea and the forest.",
+      "de": "Nach dem Laichen sterben die meisten Lachse. Ihre Körper werden Nahrung für Flusstiere und Waldtiere, und ihre Nährstoffe gelangen bis in die Wälder am Oberlauf. Die Reise des Lachses verbindet Meer und Wald."
+    }
+  ]
+}

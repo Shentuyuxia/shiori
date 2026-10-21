@@ -1,0 +1,159 @@
+{
+  "id": "d89",
+  "d": 89,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "商務日語",
+    "ja": "ビジネス日本語"
+  },
+  "title": "クッション言葉",
+  "sub": "緩衝用語",
+  "body": "ビジネス日本語では、何かを頼んだり断ったりするとき、本題の前に「クッション言葉」と呼ばれる一言を置く。相手への[[衝撃|しょうげき]]をやわらげる[[緩衝材|かんしょうざい]]、という意味だ。\n\n頼むときには「お忙しいところ恐れ入りますが」「お手数をおかけしますが」「[[お手すきの際に|おてすきのさいに]]」。断るときには「あいにくですが」「せっかくですが」「[[申し上げにくいのですが|もうしあげにくいのですが]]」。尋ねるときには「[[差し支えなければ|さしつかえなければ]]」「[[失礼ですが|しつれいですが]]」。\n\n例えば、「資料を送ってください」より、「お手数をおかけしますが、資料をお送りいただけますでしょうか」のほうが、[[角|かど]]が立たない。[[回りくどい|まわりくどい]]と感じるかもしれないが、このひと手間が、日本の職場の人間関係を[[滑らか|なめらか]]にしている。",
+  "gloss": {
+    "衝撃": {
+      "m": "衝擊"
+    },
+    "緩衝材": {
+      "m": "緩衝材"
+    },
+    "お手すきの際に": {
+      "m": "您有空的時候"
+    },
+    "申し上げにくいのですが": {
+      "m": "雖然很難開口"
+    },
+    "差し支えなければ": {
+      "m": "如果方便的話"
+    },
+    "失礼ですが": {
+      "m": "冒昧請問"
+    },
+    "角": {
+      "m": "稜角"
+    },
+    "回りくどい": {
+      "m": "拐彎抹角"
+    },
+    "滑らか": {
+      "m": "順暢"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Cushion words",
+      "g": {
+        "衝撃": [
+          "impact"
+        ],
+        "緩衝材": [
+          "cushioning material"
+        ],
+        "お手すきの際に": [
+          "when you have a moment"
+        ],
+        "申し上げにくいのですが": [
+          "this is hard to say, but"
+        ],
+        "差し支えなければ": [
+          "if it's not inconvenient"
+        ],
+        "失礼ですが": [
+          "excuse me, but"
+        ],
+        "角": [
+          "edges, sharpness"
+        ],
+        "回りくどい": [
+          "roundabout"
+        ],
+        "滑らか": [
+          "smooth"
+        ]
+      }
+    },
+    "de": {
+      "s": "Polsterwörter",
+      "g": {
+        "衝撃": [
+          "Stoß"
+        ],
+        "緩衝材": [
+          "Polstermaterial"
+        ],
+        "お手すきの際に": [
+          "wenn Sie einen Moment Zeit haben"
+        ],
+        "申し上げにくいのですが": [
+          "es fällt mir schwer, das zu sagen, aber"
+        ],
+        "差し支えなければ": [
+          "wenn es Ihnen recht ist"
+        ],
+        "失礼ですが": [
+          "entschuldigen Sie, aber"
+        ],
+        "角": [
+          "Ecken und Kanten"
+        ],
+        "回りくどい": [
+          "umständlich"
+        ],
+        "滑らか": [
+          "reibungslos"
+        ]
+      }
+    },
+    "hans": {
+      "s": "缓冲用语",
+      "g": {
+        "衝撃": [
+          "冲击"
+        ],
+        "緩衝材": [
+          "缓冲材"
+        ],
+        "お手すきの際に": [
+          "您有空的时候"
+        ],
+        "申し上げにくいのですが": [
+          "虽然很难开口"
+        ],
+        "差し支えなければ": [
+          "如果方便的话"
+        ],
+        "失礼ですが": [
+          "冒昧请问"
+        ],
+        "角": [
+          "棱角"
+        ],
+        "回りくどい": [
+          "拐弯抹角"
+        ],
+        "滑らか": [
+          "顺畅"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "在商務日語中，要請託或拒絕某件事時，會在正題之前加上一句被稱為「緩衝詞」（クッション言葉）的話。意思是緩和對方受到衝擊的緩衝材。",
+      "zh-Hans": "在商务日语中，要请托或拒绝某件事时，会在正题之前加上一句被称为「缓冲词」（クッション言叶）的话。意思是缓和对方受到冲击的缓冲材。",
+      "en": "In business Japanese, when making a request or declining something, a phrase called 「クッション言葉」, a cushion phrase, is placed before the main point. It is a buffer that softens the impact on the other party.",
+      "de": "In business Japanese, when making a request or declining something, a phrase called 「クッション言葉」, a cushion phrase, is placed before the main point. It is a buffer that softens the impact on the other party."
+    },
+    {
+      "zh-Hant": "請託時說「百忙之中打擾您，非常抱歉」「麻煩您了」「方便的時候」。拒絕時說「很抱歉」「承蒙您的好意」「實在難以啟齒」。詢問時說「如果方便的話」「冒昧請教」。",
+      "zh-Hans": "请托时说「百忙之中打扰您，非常抱歉」「麻烦您了」「方便的时候」。拒绝时说「很抱歉」「承蒙您的好意」「实在难以启齿」。询问时说「如果方便的话」「冒昧请教」。",
+      "en": "When making a request, you say 「お忙しいところ恐れ入りますが」, 「お手数をおかけしますが」, or 「お手すきの際に」. When declining, you say 「あいにくですが」, 「せっかくですが」, or 「申し上げにくいのですが」. When asking a question, you say 「差し支えなければ」 or 「失礼ですが」.",
+      "de": "When making a request, you say 「お忙しいところ恐れ入りますが」, 「お手数をおかけしますが」, or 「お手すきの際に」. When declining, you say 「あいにくですが」, 「せっかくですが」, or 「申し上げにくいのですが」. When asking a question, you say 「差し支えなければ」 or 「失礼ですが」."
+    },
+    {
+      "zh-Hant": "例如，比起「請把資料寄給我」，「麻煩您了，能否請您寄送資料呢？」就不會顯得生硬。也許你會覺得繞了遠路，但正是這一道工序，讓日本職場的人際關係變得圓滑。",
+      "zh-Hans": "例如，比起「请把数据寄给我」，「麻烦您了，能否请您寄送数据呢？」就不会显得生硬。也许你会觉得绕了远路，但正是这一道工序，让日本职场的人际关系变得圆滑。",
+      "en": "For example, \"Could you please send me the materials?\" can come across as abrupt, while \"I'm sorry to trouble you, but would it be possible to send the materials?\" softens the request. You may find it roundabout, but this extra step is what keeps relationships in Japanese workplaces running smoothly.",
+      "de": "For example, \"Could you please send me the materials?\" can come across as abrupt, while \"I'm sorry to trouble you, but would it be possible to send the materials?\" softens the request. You may find it roundabout, but this extra step is what keeps relationships in Japanese workplaces running smoothly."
+    }
+  ]
+}

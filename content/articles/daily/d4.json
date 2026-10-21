@@ -1,0 +1,127 @@
+{
+  "id": "d4",
+  "d": 4,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "霜降",
+  "sub": "節氣：霜降",
+  "body": "二十四[[節気|せっき]]の「霜降」は、[[露|つゆ]]が霜に変わり始める頃を言う。暦の上では秋の最後の節気で、これが過ぎると、もう立冬である。\n\n実際には、東京で霜が降りるのはまだずっと先のことだ。それでも、朝晩の[[冷え込み|ひえこみ]]は日ごとに[[厳しく|きびしく]]なり、山では紅葉が[[見頃|みごろ]]を迎える。[[衣替え|ころもがえ]]を済ませていない人は、そろそろ冬物を出しておこう。\n\n台湾で暮らしていた人にとっては、「霜」という字そのものが、どこか遠い国の言葉のように感じられるかもしれない。息が白くなる最初の朝は、もうすぐそこまで来ている。",
+  "gloss": {
+    "節気": {
+      "m": "節氣"
+    },
+    "露": {
+      "m": "露水"
+    },
+    "冷え込み": {
+      "m": "（氣溫）驟降、寒意"
+    },
+    "厳しく": {
+      "m": "嚴峻、嚴寒（原形：厳しい）"
+    },
+    "見頃": {
+      "m": "最佳觀賞期"
+    },
+    "衣替え": {
+      "m": "換季（整理衣櫃）",
+      "n": "傳統上是6月1日與10月1日。"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Sōkō: frost descends",
+      "g": {
+        "節気": [
+          "solar term"
+        ],
+        "露": [
+          "dew"
+        ],
+        "冷え込み": [
+          "sharp drop in temperature"
+        ],
+        "厳しく": [
+          "severe, harsh (dict. form: 厳しい)"
+        ],
+        "見頃": [
+          "best time to see"
+        ],
+        "衣替え": [
+          "seasonal wardrobe change",
+          "Traditionally on 1 June and 1 October."
+        ]
+      }
+    },
+    "de": {
+      "s": "Sōkō: der erste Frost",
+      "g": {
+        "節気": [
+          "Sonnenperiode"
+        ],
+        "露": [
+          "Tau"
+        ],
+        "冷え込み": [
+          "Kälteeinbruch"
+        ],
+        "厳しく": [
+          "streng, hart (Grundform: 厳しい)"
+        ],
+        "見頃": [
+          "beste Zeit zum Anschauen"
+        ],
+        "衣替え": [
+          "saisonaler Kleiderwechsel",
+          "Traditionell am 1. Juni und 1. Oktober."
+        ]
+      }
+    },
+    "hans": {
+      "s": "节气：霜降",
+      "g": {
+        "節気": [
+          "节气"
+        ],
+        "露": [
+          "露水"
+        ],
+        "冷え込み": [
+          "（气温）骤降、寒意"
+        ],
+        "厳しく": [
+          "严峻、严寒（原形：厳しい）"
+        ],
+        "見頃": [
+          "最佳观赏期"
+        ],
+        "衣替え": [
+          "换季（整理衣柜）",
+          "传统上是6月1日与10月1日。"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "二十四節氣中的「霜降」，指露水開始變成霜的時節。在曆法上，它是秋天的最後一個節氣，過了這一天，就是立冬了。",
+      "zh-Hans": "二十四节气中的「霜降」，指露水开始变成霜的时节。在历法上，它是秋天的最后一个节气，过了这一天，就是立冬了。",
+      "en": "「霜降」, Frost's Descent, is one of the 24 solar terms, when dew begins to turn into frost. On the calendar, it is the last solar term of autumn; once it passes, it is 立冬, the start of winter.",
+      "de": "「霜降」, Frost's Descent, is one of the 24 solar terms, when dew begins to turn into frost. On the calendar, it is the last solar term of autumn; once it passes, it is 立冬, the start of winter."
+    },
+    {
+      "zh-Hant": "實際上，東京要降霜還早得很。不過，早晚的寒意一天比一天深，山裡的紅葉也正值最美的時候。還沒換季的人，差不多該把冬天的衣物拿出來了。",
+      "zh-Hans": "实际上，东京要降霜还早得很。不过，早晚的寒意一天比一天深，山里的红叶也正值最美的时候。还没换季的人，差不多该把冬天的衣物拿出来了。",
+      "en": "In reality, frost in Tokyo is still a long way off. Still, the morning and evening chill grows sharper by the day, and the autumn leaves in the mountains are reaching their peak. Anyone who hasn't yet switched their wardrobes should probably start getting out their winter clothes.",
+      "de": "In reality, frost in Tokyo is still a long way off. Still, the morning and evening chill grows sharper by the day, and the autumn leaves in the mountains are reaching their peak. Anyone who hasn't yet switched their wardrobes should probably start getting out their winter clothes."
+    },
+    {
+      "zh-Hant": "對曾經住在台灣的人來說，「霜」這個字本身，或許會讓人覺得像是遠方國家的語言。呼出的氣息變成白色的第一個早晨，已經近在眼前了。",
+      "zh-Hans": "对曾经住在台湾的人来说，「霜」这个字本身，或许会让人觉得像是远方国家的语言。呼出的气息变成白色的第一个早晨，已经近在眼前了。",
+      "en": "For someone who once lived in Taiwan, the character 「霜」 itself might feel like a word from a faraway country. The first morning when your breath turns white is already almost here.",
+      "de": "For someone who once lived in Taiwan, the character 「霜」 itself might feel like a word from a faraway country. The first morning when your breath turns white is already almost here."
+    }
+  ]
+}

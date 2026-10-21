@@ -1,0 +1,231 @@
+{
+  "id": "d98",
+  "d": 98,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "旅行",
+    "ja": "旅"
+  },
+  "title": "雪の夜の温泉街",
+  "sub": "雪夜的溫泉街",
+  "body": "山形県の[[銀山温泉|ぎんざんおんせん]]は、雪の季節になると、まるで古い映画の[[一場面|いちばめん]]のような景色になる。川の両岸に、大正から昭和初期に建てられた木造の旅館が並び、夕暮れにはガス[[灯|とう]]がともる。\n\n雪が[[しんしん|しんしん]]と降る夜、[[浴衣|ゆかた]]に[[丹前|たんぜん]]を[[羽織って|はおって]]外に出ると、橋の上から川の湯気と旅館の明かりが見える。[[吐く息|はくいき]]は白く、[[耳たぶ|みみたぶ]]が痛いほど冷たい。それでも、宿に戻って[[露天風呂|ろてんぶろ]]に入れば、[[一瞬|いっしゅん]]で体がほどけていく。\n\n台湾にも北投や礁溪などの温泉地があり、[[湯|ゆ]]に[[浸かる|つかる]]文化は日本統治時代に広まったものも多い。雪を見ながら湯に浸かる[[体験|たいけん]]は、台湾ではなかなかできない。一度は味わってみたい冬の[[醍醐味|だいごみ]]だ。",
+  "gloss": {
+    "銀山温泉": {
+      "m": "銀山溫泉"
+    },
+    "一場面": {
+      "m": "一幕"
+    },
+    "灯": {
+      "m": "燈"
+    },
+    "しんしん": {
+      "m": "（雪）靜靜地下"
+    },
+    "浴衣": {
+      "m": "浴衣"
+    },
+    "丹前": {
+      "m": "棉袍（穿在浴衣外）"
+    },
+    "羽織って": {
+      "m": "披上"
+    },
+    "吐く息": {
+      "m": "呼出的氣"
+    },
+    "耳たぶ": {
+      "m": "耳垂"
+    },
+    "露天風呂": {
+      "m": "露天浴池"
+    },
+    "一瞬": {
+      "m": "一瞬間"
+    },
+    "湯": {
+      "m": "熱水、溫泉"
+    },
+    "浸かる": {
+      "m": "泡（在水裡）"
+    },
+    "体験": {
+      "m": "體驗"
+    },
+    "醍醐味": {
+      "m": "精髓、真正的樂趣"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "A hot-spring town on a snowy night",
+      "g": {
+        "銀山温泉": [
+          "Ginzan Onsen"
+        ],
+        "一場面": [
+          "a scene"
+        ],
+        "灯": [
+          "lamp light"
+        ],
+        "しんしん": [
+          "(snow) falling silently"
+        ],
+        "浴衣": [
+          "yukata"
+        ],
+        "丹前": [
+          "padded robe (worn over a yukata)"
+        ],
+        "羽織って": [
+          "throwing on"
+        ],
+        "吐く息": [
+          "breath"
+        ],
+        "耳たぶ": [
+          "earlobe"
+        ],
+        "露天風呂": [
+          "open-air bath"
+        ],
+        "一瞬": [
+          "an instant"
+        ],
+        "湯": [
+          "hot water"
+        ],
+        "浸かる": [
+          "to soak"
+        ],
+        "体験": [
+          "experience"
+        ],
+        "醍醐味": [
+          "the real joy"
+        ]
+      }
+    },
+    "de": {
+      "s": "Ein Onsen-Ort in einer Schneenacht",
+      "g": {
+        "銀山温泉": [
+          "Ginzan Onsen"
+        ],
+        "一場面": [
+          "eine Szene"
+        ],
+        "灯": [
+          "Lampenlicht"
+        ],
+        "しんしん": [
+          "(Schnee) fällt lautlos"
+        ],
+        "浴衣": [
+          "Yukata"
+        ],
+        "丹前": [
+          "wattierter Mantel (über dem Yukata)"
+        ],
+        "羽織って": [
+          "überwerfend"
+        ],
+        "吐く息": [
+          "Atem"
+        ],
+        "耳たぶ": [
+          "Ohrläppchen"
+        ],
+        "露天風呂": [
+          "Freiluftbad"
+        ],
+        "一瞬": [
+          "ein Augenblick"
+        ],
+        "湯": [
+          "heißes Wasser"
+        ],
+        "浸かる": [
+          "eintauchen, baden"
+        ],
+        "体験": [
+          "Erlebnis"
+        ],
+        "醍醐味": [
+          "der eigentliche Reiz"
+        ]
+      }
+    },
+    "hans": {
+      "s": "雪夜的温泉街",
+      "g": {
+        "銀山温泉": [
+          "银山温泉"
+        ],
+        "一場面": [
+          "一幕"
+        ],
+        "灯": [
+          "灯"
+        ],
+        "しんしん": [
+          "（雪）静静地下"
+        ],
+        "浴衣": [
+          "浴衣"
+        ],
+        "丹前": [
+          "棉袍（穿在浴衣外）"
+        ],
+        "羽織って": [
+          "披上"
+        ],
+        "吐く息": [
+          "呼出的气"
+        ],
+        "耳たぶ": [
+          "耳垂"
+        ],
+        "露天風呂": [
+          "露天浴池"
+        ],
+        "一瞬": [
+          "一瞬间"
+        ],
+        "湯": [
+          "热水、温泉"
+        ],
+        "浸かる": [
+          "泡（在水里）"
+        ],
+        "体験": [
+          "体验"
+        ],
+        "醍醐味": [
+          "精髓、真正的乐趣"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "山形縣的銀山溫泉，每到下雪的季節，景色就宛如一幕老電影的場景。河流兩岸排列著大正到昭和初期建造的木造旅館，黃昏時分會點亮瓦斯燈。",
+      "zh-Hans": "山形县的银山温泉，每到下雪的季节，景色就宛如一幕老电影的场景。河流两岸排列着大正到昭和初期建造的木造旅馆，黄昏时分会点亮瓦斯灯。",
+      "en": "Ginzan Onsen in Yamagata Prefecture takes on the look of a scene from an old film when the snow season arrives. Wooden inns built from the Taishō to early Shōwa periods line both banks of the river, and at dusk the gas lamps are lit.",
+      "de": "Ginzan Onsen in Yamagata Prefecture takes on the look of a scene from an old film when the snow season arrives. Wooden inns built from the Taishō to early Shōwa periods line both banks of the river, and at dusk the gas lamps are lit."
+    },
+    {
+      "zh-Hant": "在雪無聲飄落的夜晚，穿著浴衣、披上丹前走到外面，從橋上可以看見河面升起的水氣與旅館的燈光。呼出的氣息是白色的，耳朵冷得發疼。然而回到旅館，泡進露天溫泉，身體會瞬間鬆開。",
+      "zh-Hans": "在雪无声飘落的夜晚，穿着浴衣、披上丹前走到外面，从桥上可以看见河面升起的水气与旅馆的灯光。呼出的气息是白色的，耳朵冷得发疼。然而回到旅馆，泡进露天温泉，身体会瞬间松开。",
+      "en": "On a night when snow falls silently, when you step outside in a yukata with a tanzen (padded robe) over it, you can see the steam rising off the river and the lights of the inns from the bridge. Your breath is white, and your earlobes ache with cold. Yet once you return to the inn and soak in the open-air bath, your body unwinds in an instant.",
+      "de": "On a night when snow falls silently, when you step outside in a yukata with a tanzen (padded robe) over it, you can see the steam rising off the river and the lights of the inns from the bridge. Your breath is white, and your earlobes ache with cold. Yet once you return to the inn and soak in the open-air bath, your body unwinds in an instant."
+    },
+    {
+      "zh-Hant": "台灣也有北投、礁溪等溫泉地，泡湯的文化有不少是在日本統治時期才流傳開來的。邊看雪邊泡湯的體驗，在台灣並不容易遇到。這是一次想親身品味的冬天醍醐味。",
+      "zh-Hans": "台湾也有北投、礁溪等温泉地，泡汤的文化有不少是在日本统治时期才流传开来的。边看雪边泡汤的体验，在台湾并不容易遇到。这是一次想亲身品味的冬天醍醐味。",
+      "en": "Taiwan also has hot-spring towns such as Beitou and Jiaoxi, and much of its bathing culture spread during the Japanese colonial period. The experience of soaking in a hot spring while watching snow is hard to find in Taiwan. It is a winter pleasure worth experiencing at least once.",
+      "de": "Taiwan also has hot-spring towns such as Beitou and Jiaoxi, and much of its bathing culture spread during the Japanese colonial period. The experience of soaking in a hot spring while watching snow is hard to find in Taiwan. It is a winter pleasure worth experiencing at least once."
+    }
+  ]
+}

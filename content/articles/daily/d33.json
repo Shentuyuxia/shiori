@@ -1,0 +1,141 @@
+{
+  "id": "d33",
+  "d": 33,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "短篇",
+    "ja": "掌編"
+  },
+  "title": "留守番電話",
+  "sub": "掌篇：電話答錄機",
+  "body": "母が[[施設|しせつ]]に入って、実家の電話を解約することになった。最後に、[[留守番電話|るすばんでんわ]]の録音を聞いてみた。\n\n古い機械は、[[意外|いがい]]なほど多くの声を覚えていた。歯医者の予約の確認。近所の人からの、[[回覧板|かいらんばん]]の連絡。そして、私自身の声。「お母さん、今日は帰れなくなった。ごめん」。何年前のものだろう。思い出せなかった。\n\n最後の一件は、母の声だった。外から自分の家にかけたらしい。「あら、誰もいないのね。……当たり前か」。小さく笑って、それで切れていた。\n\n私は、[[消去|しょうきょ]]ボタンの上に指を置いたまま、しばらく動けなかった。窓の外では、[[銀杏|いちょう]]の葉が音もなく[[散って|ちって]]いた。",
+  "gloss": {
+    "施設": {
+      "m": "（養老）機構"
+    },
+    "留守番電話": {
+      "m": "電話答錄機"
+    },
+    "意外": {
+      "m": "出乎意料"
+    },
+    "回覧板": {
+      "m": "（社區）傳閱板"
+    },
+    "消去": {
+      "m": "刪除"
+    },
+    "銀杏": {
+      "m": "銀杏"
+    },
+    "散って": {
+      "m": "飄落（原形：散る）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Answering machine",
+      "g": {
+        "施設": [
+          "(care) home"
+        ],
+        "留守番電話": [
+          "answering machine"
+        ],
+        "意外": [
+          "unexpected"
+        ],
+        "回覧板": [
+          "neighbourhood circular board"
+        ],
+        "消去": [
+          "deletion"
+        ],
+        "銀杏": [
+          "ginkgo"
+        ],
+        "散って": [
+          "falling (leaves) (dict. form: 散る)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Anrufbeantworter",
+      "g": {
+        "施設": [
+          "(Pflege-)Heim"
+        ],
+        "留守番電話": [
+          "Anrufbeantworter"
+        ],
+        "意外": [
+          "unerwartet"
+        ],
+        "回覧板": [
+          "Umlaufmappe der Nachbarschaft"
+        ],
+        "消去": [
+          "Löschung"
+        ],
+        "銀杏": [
+          "Ginkgo"
+        ],
+        "散って": [
+          "fallend (Blätter) (Grundform: 散る)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "掌篇：电话答录机",
+      "g": {
+        "施設": [
+          "（养老）机构"
+        ],
+        "留守番電話": [
+          "电话答录机"
+        ],
+        "意外": [
+          "出乎意料"
+        ],
+        "回覧板": [
+          "（社区）传阅板"
+        ],
+        "消去": [
+          "删除"
+        ],
+        "銀杏": [
+          "银杏"
+        ],
+        "散って": [
+          "飘落（原形：散る）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "母親住進了機構，老家的電話也要解約了。最後，我聽了一次留言機裡的錄音。",
+      "zh-Hans": "母亲住进了机构，老家的电话也要解约了。最后，我听了一次留言机里的录音。",
+      "en": "My mother moved into a care facility, and we were going to cancel the phone line at the family home. Before that, I listened to the recordings on the answering machine one last time.",
+      "de": "My mother moved into a care facility, and we were going to cancel the phone line at the family home. Before that, I listened to the recordings on the answering machine one last time."
+    },
+    {
+      "zh-Hant": "舊機器裡，意外地保存著好多聲音。牙醫預約的確認。鄰居傳來的社區通知。還有我自己的聲音：「媽，今天沒辦法回去了。對不起。」不知道是幾年前錄的，我想不起來了。",
+      "zh-Hans": "旧机器里，意外地保存着好多声音。牙医预约的确认。邻居传来的社区通知。还有我自己的声音：「妈，今天没办法回去了。对不起。」不知道是几年前录的，我想不起来了。",
+      "en": "The old machine had kept far more voices than I expected. A confirmation of a dentist appointment. A neighborhood notice passed along from a neighbor. And my own voice: \"Mom, I can't come home today. Sorry.\" I couldn't remember how many years ago it was.",
+      "de": "The old machine had kept far more voices than I expected. A confirmation of a dentist appointment. A neighborhood notice passed along from a neighbor. And my own voice: \"Mom, I can't come home today. Sorry.\" I couldn't remember how many years ago it was."
+    },
+    {
+      "zh-Hant": "最後一則，是母親的聲音。她好像是從外面打到家裡來的。「哎呀，沒有人在呢。……也是啦。」她輕輕笑了一下，然後就掛斷了。",
+      "zh-Hans": "最后一则，是母亲的声音。她好像是从外面打到家里来的。「哎呀，没有人在呢。……也是啦。」她轻轻笑了一下，然后就挂断了。",
+      "en": "The last message was my mother's voice. She must have called our home from outside. \"Oh, nobody's home. ...Well, of course.\" She gave a small laugh, and then the call ended.",
+      "de": "The last message was my mother's voice. She must have called our home from outside. \"Oh, nobody's home. ...Well, of course.\" She gave a small laugh, and then the call ended."
+    },
+    {
+      "zh-Hant": "我把手指放在刪除鍵上，好一陣子都動彈不得。窗外，銀杏葉無聲地飄落。",
+      "zh-Hans": "我把手指放在删除键上，好一阵子都动弹不得。窗外，银杏叶无声地飘落。",
+      "en": "With my finger resting on the delete button, I could not move for a while. Outside the window, ginkgo leaves were falling silently.",
+      "de": "With my finger resting on the delete button, I could not move for a while. Outside the window, ginkgo leaves were falling silently."
+    }
+  ]
+}

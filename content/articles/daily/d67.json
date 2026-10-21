@@ -1,0 +1,183 @@
+{
+  "id": "d67",
+  "d": 67,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "專欄",
+    "ja": "コラム"
+  },
+  "title": "クリスマスはケーキとチキン",
+  "sub": "日本的聖誕節：蛋糕和炸雞",
+  "body": "日本のクリスマスの食卓には、[[苺|いちご]]と[[生クリーム|なまクリーム]]のショートケーキ、そしてフライドチキンが並ぶ。海外から来た人は、これに驚くことが多い。\n\nフライドチキンが定着したのは、[[ファストフード|ファストフード]]店の[[宣伝|せんでん]]がきっかけだったと言われる。七面鳥が手に入りにくい日本で、「クリスマスにはチキンを」という[[呼びかけ|よびかけ]]が見事に[[根付いた|ねづいた]]のだ。今では、何週間も前から予約しないと買えない店もある。\n\nまた、日本のクリスマスは、家族で過ごす宗教的な日というより、恋人や友人と過ごす[[イベント|イベント]]としての性格が強い。その分、[[翌朝|よくあさ]]にはツリーが片付けられ、街は一気に[[門松|かどまつ]]と[[しめ飾り|しめかざり]]に[[衣替え|ころもがえ]]する。この切り替えの早さこそ、日本らしいと言えるかもしれない。",
+  "gloss": {
+    "苺": {
+      "m": "草莓"
+    },
+    "生クリーム": {
+      "m": "鮮奶油"
+    },
+    "ファストフード": {
+      "m": "速食"
+    },
+    "宣伝": {
+      "m": "宣傳"
+    },
+    "呼びかけ": {
+      "m": "號召"
+    },
+    "根付いた": {
+      "m": "紮根（原形：根付く）"
+    },
+    "イベント": {
+      "m": "活動"
+    },
+    "翌朝": {
+      "m": "隔天早上"
+    },
+    "門松": {
+      "m": "門松"
+    },
+    "しめ飾り": {
+      "m": "注連飾（新年門飾）"
+    },
+    "衣替え": {
+      "m": "換裝"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Christmas means cake and chicken",
+      "g": {
+        "苺": [
+          "strawberry"
+        ],
+        "生クリーム": [
+          "whipped cream"
+        ],
+        "ファストフード": [
+          "fast food"
+        ],
+        "宣伝": [
+          "advertising"
+        ],
+        "呼びかけ": [
+          "appeal, campaign"
+        ],
+        "根付いた": [
+          "took root (dict. form: 根付く)"
+        ],
+        "イベント": [
+          "event"
+        ],
+        "翌朝": [
+          "next morning"
+        ],
+        "門松": [
+          "kadomatsu (New Year decoration)"
+        ],
+        "しめ飾り": [
+          "shimekazari (New Year rope decoration)"
+        ],
+        "衣替え": [
+          "change of outfit"
+        ]
+      }
+    },
+    "de": {
+      "s": "Weihnachten heißt Kuchen und Hähnchen",
+      "g": {
+        "苺": [
+          "Erdbeere"
+        ],
+        "生クリーム": [
+          "Sahne"
+        ],
+        "ファストフード": [
+          "Fastfood"
+        ],
+        "宣伝": [
+          "Werbung"
+        ],
+        "呼びかけ": [
+          "Aufruf, Kampagne"
+        ],
+        "根付いた": [
+          "hat Wurzeln geschlagen (Grundform: 根付く)"
+        ],
+        "イベント": [
+          "Event"
+        ],
+        "翌朝": [
+          "am nächsten Morgen"
+        ],
+        "門松": [
+          "Kadomatsu (Neujahrsschmuck)"
+        ],
+        "しめ飾り": [
+          "Shimekazari (Neujahrs-Strohschmuck)"
+        ],
+        "衣替え": [
+          "Umkleiden, Wechsel"
+        ]
+      }
+    },
+    "hans": {
+      "s": "日本的圣诞节：蛋糕和炸鸡",
+      "g": {
+        "苺": [
+          "草莓"
+        ],
+        "生クリーム": [
+          "鲜奶油"
+        ],
+        "ファストフード": [
+          "速食"
+        ],
+        "宣伝": [
+          "宣传"
+        ],
+        "呼びかけ": [
+          "号召"
+        ],
+        "根付いた": [
+          "扎根（原形：根付く）"
+        ],
+        "イベント": [
+          "活动"
+        ],
+        "翌朝": [
+          "隔天早上"
+        ],
+        "門松": [
+          "门松"
+        ],
+        "しめ飾り": [
+          "注连饰（新年门饰）"
+        ],
+        "衣替え": [
+          "换装"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本聖誕節的餐桌上，擺著草莓與鮮奶油的蛋糕，還有炸雞。從海外來的人，常常為此感到驚訝。",
+      "zh-Hans": "日本圣诞节的餐桌上，摆着草莓与鲜奶油的蛋糕，还有炸鸡。从海外来的人，常常为此感到惊讶。",
+      "en": "A Japanese Christmas table features strawberry shortcake with fresh cream, and fried chicken. People from overseas are often surprised by this.",
+      "de": "A Japanese Christmas table features strawberry shortcake with fresh cream, and fried chicken. People from overseas are often surprised by this."
+    },
+    {
+      "zh-Hant": "炸雞之所以能普及，據說是因為速食店的廣告。在日本很難買到火雞，於是「聖誕節就吃炸雞」這樣的呼籲，成功地扎根下來。如今，有些店要提前幾週預約才買得到。",
+      "zh-Hans": "炸鸡之所以能普及，据说是因为速食店的广告。在日本很难买到火鸡，于是「圣诞节就吃炸鸡」这样的呼吁，成功地扎根下来。如今，有些店要提前几周预约才买得到。",
+      "en": "Fried chicken is said to have become popular because of fast-food advertising. Turkey was hard to find in Japan, so the call to \"eat chicken for Christmas\" took root remarkably well. Today, some shops require orders several weeks in advance.",
+      "de": "Fried chicken is said to have become popular because of fast-food advertising. Turkey was hard to find in Japan, so the call to \"eat chicken for Christmas\" took root remarkably well. Today, some shops require orders several weeks in advance."
+    },
+    {
+      "zh-Hant": "此外，日本的聖誕節，與其說是全家一起度過的宗教節日，不如說更像是與戀人或朋友共度的活動。正因如此，隔天早上聖誕樹就被收起來，整個城市一下子換上門松和注連飾。這種轉換之快，或許正可以說是日本式的。",
+      "zh-Hans": "此外，日本的圣诞节，与其说是全家一起度过的宗教节日，不如说更像是与恋人或朋友共度的活动。正因如此，隔天早上圣诞树就被收起来，整个城市一下子换上门松和注连饰。这种转换之快，或许正可以说是日本式的。",
+      "en": "Also, Christmas in Japan is less a religious day spent with family and more an event to share with a lover or friends. Because of this, the Christmas tree is taken down the next morning, and the whole city quickly changes into kadomatsu and shimenawa decorations. This quick switch may be exactly what makes it distinctly Japanese.",
+      "de": "Also, Christmas in Japan is less a religious day spent with family and more an event to share with a lover or friends. Because of this, the Christmas tree is taken down the next morning, and the whole city quickly changes into kadomatsu and shimenawa decorations. This quick switch may be exactly what makes it distinctly Japanese."
+    }
+  ]
+}

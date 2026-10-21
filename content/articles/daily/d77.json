@@ -1,0 +1,167 @@
+{
+  "id": "d77",
+  "d": 77,
+  "lv": "x",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "俳句・短歌",
+    "ja": "俳句・短歌"
+  },
+  "title": "百人一首・冬の歌",
+  "sub": "《百人一首》中的冬歌",
+  "src": "『小倉百人一首』（山部赤人・坂上是則）",
+  "body": "[[田子の浦|たごのうら]]に　うち出でてみれば　[[白妙|しろたえ]]の\n富士の[[高嶺|たかね]]に　雪は降りつつ\n（山部赤人）\n\n[[朝ぼらけ|あさぼらけ]]　[[有明の月|ありあけのつき]]と　見るまでに\n吉野の里に　降れる白雪\n（坂上是則）\n\n正月の家庭では、百人一首を使った[[かるた|かるた]]遊びをする伝統がある。読み手が上の句を読み始めると、取り手は下の句が書かれた札を探して[[素早く|すばやく]]取る。\n\n一首目は、田子の浦の海辺に出て見上げると、真っ白な富士の[[頂|いただき]]に雪が降り続いている、という歌。二首目は、夜明けの[[薄明かり|うすあかり]]の中、[[有明の月|ありあけのつき]]の光かと思うほど白く、吉野の里に雪が降り積もっている、という歌だ。",
+  "gloss": {
+    "田子の浦": {
+      "m": "田子之浦（靜岡縣海岸）"
+    },
+    "白妙": {
+      "m": "雪白的"
+    },
+    "高嶺": {
+      "m": "高峰"
+    },
+    "朝ぼらけ": {
+      "m": "破曉時分"
+    },
+    "有明の月": {
+      "m": "殘月（黎明時仍掛在天上的月）"
+    },
+    "かるた": {
+      "m": "歌牌"
+    },
+    "素早く": {
+      "m": "迅速地"
+    },
+    "頂": {
+      "m": "頂峰"
+    },
+    "薄明かり": {
+      "m": "微光"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Winter poems from the Hyakunin Isshu",
+      "g": {
+        "田子の浦": [
+          "Tago Bay (Shizuoka coast)"
+        ],
+        "白妙": [
+          "pure white"
+        ],
+        "高嶺": [
+          "high peak"
+        ],
+        "朝ぼらけ": [
+          "dawn"
+        ],
+        "有明の月": [
+          "moon lingering at dawn"
+        ],
+        "かるた": [
+          "karuta (poem card game)"
+        ],
+        "素早く": [
+          "quickly"
+        ],
+        "頂": [
+          "summit"
+        ],
+        "薄明かり": [
+          "faint light"
+        ]
+      }
+    },
+    "de": {
+      "s": "Wintergedichte aus dem Hyakunin Isshu",
+      "g": {
+        "田子の浦": [
+          "Bucht von Tago (Küste von Shizuoka)"
+        ],
+        "白妙": [
+          "schneeweiß"
+        ],
+        "高嶺": [
+          "hoher Gipfel"
+        ],
+        "朝ぼらけ": [
+          "Morgengrauen"
+        ],
+        "有明の月": [
+          "Mond im Morgengrauen"
+        ],
+        "かるた": [
+          "Karuta (Gedicht-Kartenspiel)"
+        ],
+        "素早く": [
+          "flink"
+        ],
+        "頂": [
+          "Gipfel"
+        ],
+        "薄明かり": [
+          "Dämmerlicht"
+        ]
+      }
+    },
+    "hans": {
+      "s": "《百人一首》中的冬歌",
+      "g": {
+        "田子の浦": [
+          "田子之浦（静冈县海岸）"
+        ],
+        "白妙": [
+          "雪白的"
+        ],
+        "高嶺": [
+          "高峰"
+        ],
+        "朝ぼらけ": [
+          "破晓时分"
+        ],
+        "有明の月": [
+          "残月（黎明时仍挂在天上的月）"
+        ],
+        "かるた": [
+          "歌牌"
+        ],
+        "素早く": [
+          "迅速地"
+        ],
+        "頂": [
+          "顶峰"
+        ],
+        "薄明かり": [
+          "微光"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "走到田子之浦一看　白雪紛紛落在　富士山的高峰\n（山部赤人）",
+      "zh-Hans": "走到田子之浦一看　白雪纷纷落在　富士山的高峰\n（山部赤人）",
+      "en": "Going out to Tagonoura and looking up, the snow keeps falling on the snowy peak of Mount Fuji.\n(Yamabe no Akahito)",
+      "de": "Going out to Tagonoura and looking up, the snow keeps falling on the snowy peak of Mount Fuji.\n(Yamabe no Akahito)"
+    },
+    {
+      "zh-Hant": "晨光微明之中　彷彿見到有明之月　白雪正覆蓋著吉野的村落\n（坂上是則）",
+      "zh-Hans": "晨光微明之中　仿佛见到有明之月　白雪正覆盖着吉野的村落\n（坂上是则）",
+      "en": "In the faint light of dawn, it looks like the moon of Ariake, the white snow that has fallen on the village of Yoshino.\n(Sakanoue no Korenori)",
+      "de": "In the faint light of dawn, it looks like the moon of Ariake, the white snow that has fallen on the village of Yoshino.\n(Sakanoue no Korenori)"
+    },
+    {
+      "zh-Hant": "在新年的家庭裡，有用百人一首玩紙牌遊戲（歌留多）的傳統。讀牌的人一開始念上句，搶牌的人要迅速找到寫有下句的牌並拿起來。",
+      "zh-Hans": "在新年的家庭里，有用百人一首玩纸牌游戏（歌留多）的传统。读牌的人一开始念上句，抢牌的人要迅速找到写有下句的牌并拿起来。",
+      "en": "In families at New Year's, there is a tradition of playing karuta, the card game using the Hyakunin Isshu. When the reader begins the first half of a poem, the players must quickly find and grab the card bearing its second half.",
+      "de": "In families at New Year's, there is a tradition of playing karuta, the card game using the Hyakunin Isshu. When the reader begins the first half of a poem, the players must quickly find and grab the card bearing its second half."
+    },
+    {
+      "zh-Hant": "第一首是說站在田子之浦的海邊抬頭望去，雪正不斷落在純白的富士山頂。第二首是說在黎明微光中，白雪在吉野的村落裡堆積，白得讓人誤以為是有明之月的光。",
+      "zh-Hans": "第一首是说站在田子之浦的海边擡头望去，雪正不断落在纯白的富士山顶。第二首是说在黎明微光中，白雪在吉野的村落里堆积，白得让人误以为是有明之月的光。",
+      "en": "The first poem says that when you go out to the shore of Tagonoura and look up, snow keeps falling on the snow-white peak of Mount Fuji. The second says that in the dim light before dawn, snow has piled up in the village of Yoshino, so white that one might mistake it for the light of the Ariake moon.",
+      "de": "The first poem says that when you go out to the shore of Tagonoura and look up, snow keeps falling on the snow-white peak of Mount Fuji. The second says that in the dim light before dawn, snow has piled up in the village of Yoshino, so white that one might mistake it for the light of the Ariake moon."
+    }
+  ]
+}

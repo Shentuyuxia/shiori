@@ -1,0 +1,155 @@
+{
+  "id": "d0",
+  "d": 0,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "隨筆",
+    "ja": "随筆"
+  },
+  "title": "「栞」という字",
+  "sub": "「栞」這個字",
+  "body": "「栞」は、もともと「[[枝折り|しおり]]」と書いた。山道を行く人が、帰り道に迷わないよう、木の枝を折って[[目印|めじるし]]にした。それが[[転じて|てんじて]]、読みかけの本に挟む紙を指すようになったという。\n\nだから栞は、ただ「どこまで読んだか」を示すだけのものではない。知らない森に分け入った人が、自分の来た道を[[振り返る|ふりかえる]]ための[[手がかり|てがかり]]でもある。\n\n新しい言葉を一つ覚えるたびに、心の中で小さな枝を折る。百日後、振り返ったときに、その枝が[[点々|てんてん]]と道になっていたら[[素敵|すてき]]だと思う。今日から、一日一編。[[気負わず|きおわず]]に、どうぞ。",
+  "gloss": {
+    "枝折り": {
+      "m": "折枝（做記號）",
+      "n": "「栞」的語源。古時在山路折樹枝當路標。"
+    },
+    "目印": {
+      "m": "記號、標誌"
+    },
+    "転じて": {
+      "m": "引申為（原形：転じる）"
+    },
+    "振り返る": {
+      "m": "回顧、回頭看"
+    },
+    "手がかり": {
+      "m": "線索、憑藉"
+    },
+    "点々": {
+      "m": "點點、零星分布"
+    },
+    "素敵": {
+      "m": "很棒、美好"
+    },
+    "気負わず": {
+      "m": "不必太用力、輕鬆地",
+      "n": "原形：気負う＝幹勁過頭、逞強。"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The character 栞",
+      "g": {
+        "枝折り": [
+          "breaking a twig (as a marker)",
+          "Origin of 栞: travellers broke twigs on mountain paths to mark the way."
+        ],
+        "目印": [
+          "mark, landmark"
+        ],
+        "転じて": [
+          "by extension (dict. form: 転じる)"
+        ],
+        "振り返る": [
+          "to look back"
+        ],
+        "手がかり": [
+          "clue, something to hold on to"
+        ],
+        "点々": [
+          "dotted here and there"
+        ],
+        "素敵": [
+          "lovely, wonderful"
+        ],
+        "気負わず": [
+          "without straining, relaxed",
+          "Dict. form: 気負う = to be over-eager."
+        ]
+      }
+    },
+    "de": {
+      "s": "Das Schriftzeichen 栞",
+      "g": {
+        "枝折り": [
+          "einen Zweig knicken (als Zeichen)",
+          "Ursprung von 栞: Wanderer knickten Zweige, um den Weg zu markieren."
+        ],
+        "目印": [
+          "Markierung, Orientierungspunkt"
+        ],
+        "転じて": [
+          "im übertragenen Sinn (Grundform: 転じる)"
+        ],
+        "振り返る": [
+          "zurückblicken"
+        ],
+        "手がかり": [
+          "Anhaltspunkt"
+        ],
+        "点々": [
+          "hier und da verstreut"
+        ],
+        "素敵": [
+          "wunderschön, toll"
+        ],
+        "気負わず": [
+          "ohne sich zu verkrampfen",
+          "Grundform: 気負う = übereifrig sein."
+        ]
+      }
+    },
+    "hans": {
+      "s": "「栞」这个字",
+      "g": {
+        "枝折り": [
+          "折枝（做记号）",
+          "「栞」的语源。古时在山路折树枝当路标。"
+        ],
+        "目印": [
+          "记号、标志"
+        ],
+        "転じて": [
+          "引申为（原形：転じる）"
+        ],
+        "振り返る": [
+          "回顾、回头看"
+        ],
+        "手がかり": [
+          "线索、凭借"
+        ],
+        "点々": [
+          "点点、零星分布"
+        ],
+        "素敵": [
+          "很棒、美好"
+        ],
+        "気負わず": [
+          "不必太用力、轻松地",
+          "原形：気负う＝干劲过头、逞强。"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「栞」原本寫作「枝折り」。走在山路上的人，為了回程不迷路，會折斷樹枝作為標記。後來這個意思轉而指夾在正在讀的書中的紙片。",
+      "zh-Hans": "「栞」原本写作「枝折り」。走在山路上的人，为了回程不迷路，会折断树枝作为标记。后来这个意思转而指夹在正在读的书中的纸片。",
+      "en": "The character 「栞」 was originally written 「枝折り」, meaning \"breaking branches.\" People walking mountain paths broke branches to mark their way back so they would not get lost. The meaning later shifted to refer to the slip of paper placed in a book you are reading.",
+      "de": "The character 「栞」 was originally written 「枝折り」, meaning \"breaking branches.\" People walking mountain paths broke branches to mark their way back so they would not get lost. The meaning later shifted to refer to the slip of paper placed in a book you are reading."
+    },
+    {
+      "zh-Hant": "所以栞不只是標示「讀到哪裡」的東西。對於走進陌生森林的人而言，它也是讓人回頭看清來時之路的線索。",
+      "zh-Hans": "所以栞不只是标示「读到哪里」的东西。对于走进陌生森林的人而言，它也是让人回头看清来时之路的线索。",
+      "en": "So a bookmark is not merely a sign of how far you have read. For someone who has entered an unfamiliar forest, it is also a clue for looking back at the path they came by.",
+      "de": "So a bookmark is not merely a sign of how far you have read. For someone who has entered an unfamiliar forest, it is also a clue for looking back at the path they came by."
+    },
+    {
+      "zh-Hant": "每學會一個新詞，就在心裡折斷一根小樹枝。一百天後回頭看時，若那些枝條已連成點點滴滴的道路，那將是很美好的事。從今天起，每天一篇。不必太用力，請慢慢來。",
+      "zh-Hans": "每学会一个新词，就在心里折断一根小树枝。一百天后回头看时，若那些枝条已连成点点滴滴的道路，那将是很美好的事。从今天起，每天一篇。不必太用力，请慢慢来。",
+      "en": "Each time you learn a new word, you break a small branch in your heart. A hundred days from now, if you look back and those branches have become a dotted path, that would be wonderful. Starting today, one piece a day. No need to push too hard; take your time.",
+      "de": "Each time you learn a new word, you break a small branch in your heart. A hundred days from now, if you look back and those branches have become a dotted path, that would be wonderful. Starting today, one piece a day. No need to push too hard; take your time."
+    }
+  ]
+}

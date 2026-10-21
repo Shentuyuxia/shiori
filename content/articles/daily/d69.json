@@ -1,0 +1,165 @@
+{
+  "id": "d69",
+  "d": 69,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "短篇",
+    "ja": "掌編"
+  },
+  "title": "年の瀬の銭湯",
+  "sub": "掌篇：年終的澡堂",
+  "body": "年の瀬の銭湯は、いつもより混んでいた。大掃除を終えた人たちが、一年の[[垢|あか]]を落としに来るのだろう。\n\n湯船の[[縁|ふち]]で、知らないおばあさんが「今年もお世話さまでした」と言った。私に言ったのか、隣の人に言ったのか分からなかったが、「こちらこそ」と返した。おばあさんは満足そうに[[頷いて|うなずいて]]、また目を閉じた。\n\n[[脱衣所|だついじょ]]では、[[番台|ばんだい]]の主人が[[来年|らいねん]]のカレンダーを常連客に配っていた。私も一枚もらった。地元の工務店の名前が入った、どこにでもあるカレンダーだ。\n\n外に出ると、[[湯冷め|ゆざめ]]しそうなほどの寒さだった。それでも、[[首筋|くびすじ]]から立ちのぼる湯気が、しばらく私を[[守って|まもって]]くれた。もうすぐ、今年が終わる。",
+  "gloss": {
+    "垢": {
+      "m": "污垢"
+    },
+    "縁": {
+      "m": "邊緣"
+    },
+    "頷いて": {
+      "m": "點頭"
+    },
+    "脱衣所": {
+      "m": "更衣室"
+    },
+    "番台": {
+      "m": "澡堂收費櫃台"
+    },
+    "来年": {
+      "m": "明年"
+    },
+    "湯冷め": {
+      "m": "洗澡後著涼"
+    },
+    "首筋": {
+      "m": "後頸"
+    },
+    "守って": {
+      "m": "守護"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The bathhouse at year's end",
+      "g": {
+        "垢": [
+          "dirt, grime"
+        ],
+        "縁": [
+          "edge, rim"
+        ],
+        "頷いて": [
+          "nodding"
+        ],
+        "脱衣所": [
+          "changing room"
+        ],
+        "番台": [
+          "bathhouse attendant's booth"
+        ],
+        "来年": [
+          "next year"
+        ],
+        "湯冷め": [
+          "getting chilled after a bath"
+        ],
+        "首筋": [
+          "nape of the neck"
+        ],
+        "守って": [
+          "protecting"
+        ]
+      }
+    },
+    "de": {
+      "s": "Das Badehaus zum Jahresende",
+      "g": {
+        "垢": [
+          "Schmutz"
+        ],
+        "縁": [
+          "Rand"
+        ],
+        "頷いて": [
+          "nickend"
+        ],
+        "脱衣所": [
+          "Umkleide"
+        ],
+        "番台": [
+          "Kassenpult des Badehauses"
+        ],
+        "来年": [
+          "nächstes Jahr"
+        ],
+        "湯冷め": [
+          "Auskühlen nach dem Bad"
+        ],
+        "首筋": [
+          "Nacken"
+        ],
+        "守って": [
+          "beschützend"
+        ]
+      }
+    },
+    "hans": {
+      "s": "掌篇：年终的澡堂",
+      "g": {
+        "垢": [
+          "污垢"
+        ],
+        "縁": [
+          "边缘"
+        ],
+        "頷いて": [
+          "点头"
+        ],
+        "脱衣所": [
+          "更衣室"
+        ],
+        "番台": [
+          "澡堂收费柜台"
+        ],
+        "来年": [
+          "明年"
+        ],
+        "湯冷め": [
+          "洗澡后着凉"
+        ],
+        "首筋": [
+          "后颈"
+        ],
+        "守って": [
+          "守护"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "年底的澡堂比平常更擁擠。大概是大掃除結束的人們，前來洗去一年的汙垢吧。",
+      "zh-Hans": "年底的澡堂比平常更拥挤。大概是大扫除结束的人们，前来洗去一年的污垢吧。",
+      "en": "The public bath at year's end was more crowded than usual. Perhaps people who had finished their year-end cleaning had come to wash away a year's grime.",
+      "de": "The public bath at year's end was more crowded than usual. Perhaps people who had finished their year-end cleaning had come to wash away a year's grime."
+    },
+    {
+      "zh-Hant": "在浴池邊，一位不認識的奶奶說：「今年也承蒙您照顧了。」我不確定她是對我說，還是對旁邊的人說，但還是回了一句：「彼此彼此。」奶奶滿意地點點頭，又閉上了眼睛。",
+      "zh-Hans": "在浴池边，一位不认识的奶奶说：「今年也承蒙您照顾了。」我不确定她是对我说，还是对旁边的人说，但还是回了一句：「彼此彼此。」奶奶满意地点点头，又闭上了眼睛。",
+      "en": "At the edge of the bath, an elderly woman I didn't know said, \"Thank you for everything this year.\" I wasn't sure whether she was speaking to me or to the person next to her, but I replied, \"Likewise.\" She nodded contentedly and closed her eyes again.",
+      "de": "At the edge of the bath, an elderly woman I didn't know said, \"Thank you for everything this year.\" I wasn't sure whether she was speaking to me or to the person next to her, but I replied, \"Likewise.\" She nodded contentedly and closed her eyes again."
+    },
+    {
+      "zh-Hant": "在更衣室，櫃台的老闆正在把明年的月曆分給常客。我也拿到了一本。是印有當地工務店名字、隨處可見的那種月曆。",
+      "zh-Hans": "在更衣室，柜台的老板正在把明年的月历分给常客。我也拿到了一本。是印有当地工务店名字、随处可见的那种月历。",
+      "en": "In the changing room, the owner at the front desk was handing out next year's calendars to the regulars. I received one too. It was an ordinary calendar bearing the name of a local construction company.",
+      "de": "In the changing room, the owner at the front desk was handing out next year's calendars to the regulars. I received one too. It was an ordinary calendar bearing the name of a local construction company."
+    },
+    {
+      "zh-Hant": "走出去，寒冷得彷彿會讓剛泡過的身體再次著涼。不過，從頸後升起的水氣，還是護著我待了一會兒。今年，快要結束了。",
+      "zh-Hans": "走出去，寒冷得仿佛会让刚泡过的身体再次着凉。不过，从颈后升起的水气，还是护着我待了一会儿。今年，快要结束了。",
+      "en": "Outside, it was cold enough that I might catch a chill from the bath. Still, the steam rising from the back of my neck protected me for a while. This year is almost over.",
+      "de": "Outside, it was cold enough that I might catch a chill from the bath. Still, the steam rising from the back of my neck protected me for a while. This year is almost over."
+    }
+  ]
+}

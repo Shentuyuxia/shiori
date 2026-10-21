@@ -1,0 +1,172 @@
+{
+  "id": "d71",
+  "d": 71,
+  "lv": "pro",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "方言",
+    "ja": "方言"
+  },
+  "title": "たいぎいけえ",
+  "sub": "廣島腔對話",
+  "body": "「大掃除、[[たいぎい|たいぎい]]けえ、明日にせん？」\n「明日は大晦日[[じゃろう|じゃろう]]が。今日やらんと[[いけん|いけん]]よ」\n「ほうじゃのう。[[ほいじゃが|ほいじゃが]]、窓だけでも[[ぶち|ぶち]]多いけえ」\n「文句言うとらんで、はよ[[雑巾|ぞうきん]][[持ってきんさい|もってきんさい]]」\n「[[はいはい|はいはい]]……ほんま、[[きつい|きつい]]のう」",
+  "gloss": {
+    "たいぎい": {
+      "m": "好麻煩、提不起勁",
+      "n": "廣島腔。＝面倒くさい。「けえ」＝から。"
+    },
+    "じゃろう": {
+      "m": "不是嗎",
+      "n": "＝だろう。"
+    },
+    "いけん": {
+      "m": "不行",
+      "n": "＝いけない。"
+    },
+    "ほいじゃが": {
+      "m": "可是",
+      "n": "＝それでも、そうだけど。「ほうじゃのう」＝そうだね。"
+    },
+    "ぶち": {
+      "m": "超級、非常",
+      "n": "廣島・山口腔。"
+    },
+    "雑巾": {
+      "m": "抹布"
+    },
+    "持ってきんさい": {
+      "m": "拿過來",
+      "n": "「～きんさい」＝～てきなさい。"
+    },
+    "はいはい": {
+      "m": "好啦好啦"
+    },
+    "きつい": {
+      "m": "累人、吃力"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "What a drag (Hiroshima dialect)",
+      "g": {
+        "たいぎい": [
+          "a drag, can't be bothered",
+          "Hiroshima dialect = 面倒くさい. 「けえ」 = から."
+        ],
+        "じゃろう": [
+          "isn't it?",
+          "= だろう."
+        ],
+        "いけん": [
+          "no good, not allowed",
+          "= いけない."
+        ],
+        "ほいじゃが": [
+          "but still",
+          "= それでも、そうだけど. 「ほうじゃのう」 = そうだね."
+        ],
+        "ぶち": [
+          "super, very",
+          "Hiroshima/Yamaguchi dialect."
+        ],
+        "雑巾": [
+          "cleaning rag"
+        ],
+        "持ってきんさい": [
+          "bring it here",
+          "「～きんさい」 = ～てきなさい."
+        ],
+        "はいはい": [
+          "OK, OK"
+        ],
+        "きつい": [
+          "tough, exhausting"
+        ]
+      }
+    },
+    "de": {
+      "s": "Was für ein Aufwand (Hiroshima-Dialekt)",
+      "g": {
+        "たいぎい": [
+          "lästig, keine Lust",
+          "Hiroshima-Dialekt = 面倒くさい. „けえ“ = から."
+        ],
+        "じゃろう": [
+          "oder nicht?",
+          "= だろう."
+        ],
+        "いけん": [
+          "geht nicht",
+          "= いけない."
+        ],
+        "ほいじゃが": [
+          "aber trotzdem",
+          "= それでも、そうだけど. „ほうじゃのう“ = そうだね."
+        ],
+        "ぶち": [
+          "mega, sehr",
+          "Hiroshima/Yamaguchi-Dialekt."
+        ],
+        "雑巾": [
+          "Putzlappen"
+        ],
+        "持ってきんさい": [
+          "bring's her",
+          "„～きんさい“ = ～てきなさい."
+        ],
+        "はいはい": [
+          "ja, ja"
+        ],
+        "きつい": [
+          "anstrengend"
+        ]
+      }
+    },
+    "hans": {
+      "s": "广岛腔对话",
+      "g": {
+        "たいぎい": [
+          "好麻烦、提不起劲",
+          "广岛腔。＝面倒くさい。「けえ」＝から。"
+        ],
+        "じゃろう": [
+          "不是吗",
+          "＝だろう。"
+        ],
+        "いけん": [
+          "不行",
+          "＝いけない。"
+        ],
+        "ほいじゃが": [
+          "可是",
+          "＝それでも、そうだけど。「ほうじゃのう」＝そうだね。"
+        ],
+        "ぶち": [
+          "超级、非常",
+          "广岛・山口腔。"
+        ],
+        "雑巾": [
+          "抹布"
+        ],
+        "持ってきんさい": [
+          "拿过来",
+          "「～きんさい」＝～てきなさい。"
+        ],
+        "はいはい": [
+          "好啦好啦"
+        ],
+        "きつい": [
+          "累人、吃力"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「大掃除，好麻煩耶，明天再做好不好？」\n「明天就是除夕了吧。今天不做不行喔。」\n「說得也是啦。不過，只打掃窗戶就好啦。」\n「少囉唆，快把抹布拿來。」\n「好啦好啦……真的好累喔。」",
+      "zh-Hans": "「大扫除，好麻烦耶，明天再做好不好？」\n「明天就是除夕了吧。今天不做不行喔。」\n「说得也是啦。不过，只打扫窗户就好啦。」\n「少啰唆，快把抹布拿来。」\n「好啦好啦……真的好累喔。」",
+      "en": "\"Big cleaning is such a hassle. Shall we leave it for tomorrow?\"\n\"Tomorrow is New Year's Eve, isn't it? We have to do it today.\"\n\"You're right. But let's just do the windows.\"\n\"Stop complaining and bring me the rags already.\"\n\"Okay, okay... Man, this is really tough.\"",
+      "de": "\"Big cleaning is such a hassle. Shall we leave it for tomorrow?\"\n\"Tomorrow is New Year's Eve, isn't it? We have to do it today.\"\n\"You're right. But let's just do the windows.\"\n\"Stop complaining and bring me the rags already.\"\n\"Okay, okay... Man, this is really tough.\""
+    }
+  ]
+}

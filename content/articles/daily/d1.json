@@ -1,0 +1,151 @@
+{
+  "id": "d1",
+  "d": 1,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "同字異義",
+    "ja": "同形異義語"
+  },
+  "title": "「愛人」に気をつけて",
+  "sub": "同字異義①：愛人、大家、小人",
+  "body": "台湾の友人が日本人の同僚に「こちらは私の愛人です」と夫を紹介して、場が[[凍りついた|こおりついた]]という話がある。中国語の「愛人」は配偶者を指す地域もあるが、日本語ではほぼ[[例外なく|れいがいなく]]「不倫相手」の意味になる。\n\n似たような[[落とし穴|おとしあな]]はほかにもある。日本語の「大家」は、たいてい「[[おおや|おおや]]」と読んで、アパートの[[家主|やぬし]]のこと。「たいか」と読めば、その道の[[第一人者|だいいちにんしゃ]]を指す。また「小人」は「こびと」と読めば童話の[[登場人物|とうじょうじんぶつ]]だが、遊園地の料金表では「しょうにん」、つまり子ども料金のことだ。\n\n漢字が読めるからこそ、読み方と[[文脈|ぶんみゃく]]に注意したい。",
+  "gloss": {
+    "凍りついた": {
+      "m": "（氣氛）凍結、僵住"
+    },
+    "例外なく": {
+      "m": "毫無例外"
+    },
+    "落とし穴": {
+      "m": "陷阱"
+    },
+    "おおや": {
+      "m": "房東",
+      "n": "寫作「大家」。"
+    },
+    "家主": {
+      "m": "屋主、房東"
+    },
+    "第一人者": {
+      "m": "第一把交椅、權威"
+    },
+    "登場人物": {
+      "m": "登場人物、角色"
+    },
+    "文脈": {
+      "m": "上下文、脈絡"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Careful with 愛人",
+      "g": {
+        "凍りついた": [
+          "(the mood) froze"
+        ],
+        "例外なく": [
+          "without exception"
+        ],
+        "落とし穴": [
+          "pitfall, trap"
+        ],
+        "おおや": [
+          "landlord",
+          "Written 大家."
+        ],
+        "家主": [
+          "landlord, house owner"
+        ],
+        "第一人者": [
+          "leading authority"
+        ],
+        "登場人物": [
+          "character (in a story)"
+        ],
+        "文脈": [
+          "context"
+        ]
+      }
+    },
+    "de": {
+      "s": "Vorsicht bei 愛人",
+      "g": {
+        "凍りついた": [
+          "(die Stimmung) gefror"
+        ],
+        "例外なく": [
+          "ausnahmslos"
+        ],
+        "落とし穴": [
+          "Falle, Fallstrick"
+        ],
+        "おおや": [
+          "Vermieter",
+          "Geschrieben 大家."
+        ],
+        "家主": [
+          "Hausbesitzer, Vermieter"
+        ],
+        "第一人者": [
+          "führende Kapazität"
+        ],
+        "登場人物": [
+          "Figur (einer Geschichte)"
+        ],
+        "文脈": [
+          "Kontext"
+        ]
+      }
+    },
+    "hans": {
+      "s": "同字异义①：爱人、大家、小人",
+      "g": {
+        "凍りついた": [
+          "（气氛）冻结、僵住"
+        ],
+        "例外なく": [
+          "毫无例外"
+        ],
+        "落とし穴": [
+          "陷阱"
+        ],
+        "おおや": [
+          "房东",
+          "写作「大家」。"
+        ],
+        "家主": [
+          "屋主、房东"
+        ],
+        "第一人者": [
+          "第一把交椅、权威"
+        ],
+        "登場人物": [
+          "登场人物、角色"
+        ],
+        "文脈": [
+          "上下文、脉络"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "有一個故事：台灣的朋友向日本同事介紹自己的丈夫時說「這位是我的愛人」，結果場面頓時凍結。中文的「愛人」在某些地區指配偶，但在日語裡，幾乎毫無例外地是「外遇對象」的意思。",
+      "zh-Hans": "有一个故事：台湾的朋友向日本同事介绍自己的丈夫时说「这位是我的爱人」，结果场面顿时冻结。中文的「爱人」在某些地区指配偶，但在日语里，几乎毫无例外地是「外遇对象」的意思。",
+      "en": "There is a story about a Taiwanese friend who introduced her husband to a Japanese colleague as \"my 愛人,\" and the room instantly froze. In Chinese, 「愛人」 refers to a spouse in some regions, but in Japanese it almost always means a lover outside marriage, without exception.",
+      "de": "There is a story about a Taiwanese friend who introduced her husband to a Japanese colleague as \"my 愛人,\" and the room instantly froze. In Chinese, 「愛人」 refers to a spouse in some regions, but in Japanese it almost always means a lover outside marriage, without exception."
+    },
+    {
+      "zh-Hant": "類似的陷阱還有很多。日語的「大家」通常讀作「おおや」，指公寓的房東；若讀作「たいか」，則指某個領域的第一把交椅。還有「小人」，讀作「こびと」是童話裡的角色，但在遊樂園的票價表上讀作「しょうにん」，也就是兒童票。",
+      "zh-Hans": "类似的陷阱还有很多。日语的「大家」通常读作「おおや」，指公寓的房东；若读作「たいか」，则指某个领域的第一把交椅。还有「小人」，读作「こびと」是童话里的角色，但在游乐园的票价表上读作「しょうにん」，也就是儿童票。",
+      "en": "There are other similar traps. The Japanese 「大家」 is usually read 「おおや」 and means the landlord of an apartment; read 「たいか」, it refers to the leading authority in a field. Also 「小人」 read 「こびと」 is a character in fairy tales, but on an amusement park price list, it is read 「しょうにん」, meaning a child's fare.",
+      "de": "There are other similar traps. The Japanese 「大家」 is usually read 「おおや」 and means the landlord of an apartment; read 「たいか」, it refers to the leading authority in a field. Also 「小人」 read 「こびと」 is a character in fairy tales, but on an amusement park price list, it is read 「しょうにん」, meaning a child's fare."
+    },
+    {
+      "zh-Hant": "正因為看得懂漢字，才更需要留意讀音與上下文。",
+      "zh-Hans": "正因为看得懂汉字，才更需要留意读音与上下文。",
+      "en": "Precisely because you can read the kanji, you need to pay attention to pronunciation and context.",
+      "de": "Precisely because you can read the kanji, you need to pay attention to pronunciation and context."
+    }
+  ]
+}

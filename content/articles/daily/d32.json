@@ -1,0 +1,176 @@
+{
+  "id": "d32",
+  "d": 32,
+  "lv": "pro",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "方言",
+    "ja": "方言"
+  },
+  "title": "えらいでかんわ",
+  "sub": "名古屋腔對話",
+  "body": "「今日は[[えらい|えらい]]寒いがね」\n「ほんと、[[でら|でら]]寒いわ。手が[[ちんちん|ちんちん]]……じゃなくて、[[かじかんどる|かじかんどる]]」\n「ちんちんは熱いときだがね。[[どえりゃあ|どえりゃあ]][[間違い|まちがい]]だわ」\n「[[ほうだね|ほうだね]]。もう疲れて[[えらいでかんわ|えらいでかんわ]]。帰って[[味噌煮込み|みそにこみ]]でも食べよ」",
+  "gloss": {
+    "えらい": {
+      "m": "非常（副詞）；累、辛苦（形容詞）",
+      "n": "名古屋腔的「えらい」常指「疲累」。"
+    },
+    "でら": {
+      "m": "超、非常",
+      "n": "名古屋腔。＝とても。"
+    },
+    "ちんちん": {
+      "m": "（水、鐵壺等）滾燙",
+      "n": "名古屋腔，注意與標準語的意思完全不同。"
+    },
+    "かじかんどる": {
+      "m": "凍僵了",
+      "n": "＝かじかんでいる。"
+    },
+    "どえりゃあ": {
+      "m": "非常、厲害",
+      "n": "＝どえらい。"
+    },
+    "間違い": {
+      "m": "錯誤"
+    },
+    "ほうだね": {
+      "m": "是啊",
+      "n": "＝そうだね。"
+    },
+    "えらいでかんわ": {
+      "m": "累死了、受不了",
+      "n": "「でかん」＝いけない。"
+    },
+    "味噌煮込み": {
+      "m": "味噌燉烏龍麵（名古屋名物）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Worn out! (Nagoya dialect)",
+      "g": {
+        "えらい": [
+          "very (adverb); tiring, tough (adjective)",
+          "In Nagoya dialect えらい often means \"tired\"."
+        ],
+        "でら": [
+          "super, very",
+          "Nagoya dialect = とても."
+        ],
+        "ちんちん": [
+          "piping hot (water, kettle)",
+          "Nagoya dialect; completely different from the standard meaning."
+        ],
+        "かじかんどる": [
+          "numb with cold",
+          "= かじかんでいる."
+        ],
+        "どえりゃあ": [
+          "tremendously",
+          "= どえらい."
+        ],
+        "間違い": [
+          "mistake"
+        ],
+        "ほうだね": [
+          "that's right",
+          "= そうだね."
+        ],
+        "えらいでかんわ": [
+          "I'm exhausted, can't take it",
+          "「でかん」 = いけない."
+        ],
+        "味噌煮込み": [
+          "udon stewed in miso (Nagoya speciality)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Fix und fertig! (Nagoya-Dialekt)",
+      "g": {
+        "えらい": [
+          "sehr (Adverb); anstrengend (Adjektiv)",
+          "Im Nagoya-Dialekt heißt えらい oft „erschöpft“."
+        ],
+        "でら": [
+          "total, sehr",
+          "Nagoya-Dialekt = とても."
+        ],
+        "ちんちん": [
+          "kochend heiß (Wasser, Kessel)",
+          "Nagoya-Dialekt; völlig andere Bedeutung als im Standard."
+        ],
+        "かじかんどる": [
+          "vor Kälte steif",
+          "= かじかんでいる."
+        ],
+        "どえりゃあ": [
+          "enorm",
+          "= どえらい."
+        ],
+        "間違い": [
+          "Fehler"
+        ],
+        "ほうだね": [
+          "stimmt",
+          "= そうだね."
+        ],
+        "えらいでかんわ": [
+          "ich bin fix und fertig",
+          "„でかん“ = いけない."
+        ],
+        "味噌煮込み": [
+          "in Miso geschmorte Udon (Spezialität aus Nagoya)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "名古屋腔对话",
+      "g": {
+        "えらい": [
+          "非常（副词）；累、辛苦（形容词）",
+          "名古屋腔的「えらい」常指「疲累」。"
+        ],
+        "でら": [
+          "超、非常",
+          "名古屋腔。＝とても。"
+        ],
+        "ちんちん": [
+          "（水、铁壶等）滚烫",
+          "名古屋腔，注意与标准语的意思完全不同。"
+        ],
+        "かじかんどる": [
+          "冻僵了",
+          "＝かじかんでいる。"
+        ],
+        "どえりゃあ": [
+          "非常、厉害",
+          "＝どえらい。"
+        ],
+        "間違い": [
+          "错误"
+        ],
+        "ほうだね": [
+          "是啊",
+          "＝そうだね。"
+        ],
+        "えらいでかんわ": [
+          "累死了、受不了",
+          "「でかん」＝いけない。"
+        ],
+        "味噌煮込み": [
+          "味噌炖乌龙面（名古屋名物）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「今天好冷啊。」\n「真的，超冷的。手都凍僵了……不對，是凍得發麻了。」\n「『ちんちん』是熱的時候用的啦，搞錯了吧。」\n「對啊。已經累得不得了，回去吃味噌燉煮吧。」",
+      "zh-Hans": "「今天好冷啊。」\n「真的，超冷的。手都冻僵了……不对，是冻得发麻了。」\n「『ちんちん』是热的时候用的啦，搞错了吧。」\n「对啊。已经累得不得了，回去吃味噌炖煮吧。」",
+      "en": "\"It's really cold today, huh?\"\n\"Yeah, super cold. My hands are all numb... no, wait, I mean frozen stiff.\"\n\"Chin-chin is what you say when something is hot, you know. That's a mistake.\"\n\"Right. I'm exhausted. Let's go home and eat miso-nikomi.\"",
+      "de": "\"It's really cold today, huh?\"\n\"Yeah, super cold. My hands are all numb... no, wait, I mean frozen stiff.\"\n\"Chin-chin is what you say when something is hot, you know. That's a mistake.\"\n\"Right. I'm exhausted. Let's go home and eat miso-nikomi.\""
+    }
+  ]
+}

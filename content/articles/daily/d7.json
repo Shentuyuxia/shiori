@@ -1,0 +1,118 @@
+{
+  "id": "d7",
+  "d": 7,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "文學原文",
+    "ja": "文学（原文）"
+  },
+  "title": "吾輩は猫である（冒頭）",
+  "sub": "夏目漱石《我是貓》開頭（1905）",
+  "src": "青空文庫（夏目漱石『吾輩は猫である』）",
+  "body": "[[吾輩|わがはい]]は猫である。名前はまだ無い。\n\nどこで生れたか[[とんと|とんと]][[見当|けんとう]]がつかぬ。何でも[[薄暗い|うすぐらい]][[じめじめ|じめじめ]]した所でニャーニャー泣いていた事だけは記憶している。",
+  "gloss": {
+    "吾輩": {
+      "m": "吾輩、本大爺",
+      "n": "自稱，帶有自大、裝腔作勢的語氣。由貓來說，形成幽默反差。"
+    },
+    "とんと": {
+      "m": "完全（不）",
+      "n": "後接否定。古風說法。"
+    },
+    "見当": {
+      "m": "頭緒、推測",
+      "n": "「見当がつかぬ」＝完全想不出來。「ぬ」＝ない。"
+    },
+    "薄暗い": {
+      "m": "昏暗"
+    },
+    "じめじめ": {
+      "m": "潮濕陰暗"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "I Am a Cat (opening)",
+      "g": {
+        "吾輩": [
+          "I (pompous)",
+          "A pompous first person; coming from a cat, it's comic."
+        ],
+        "とんと": [
+          "not at all",
+          "With a negative. Old-fashioned."
+        ],
+        "見当": [
+          "idea, guess",
+          "「見当がつかぬ」 = have no idea. 「ぬ」 = ない."
+        ],
+        "薄暗い": [
+          "dim, gloomy"
+        ],
+        "じめじめ": [
+          "damp and dark"
+        ]
+      }
+    },
+    "de": {
+      "s": "Ich der Kater (Anfang)",
+      "g": {
+        "吾輩": [
+          "meine Wenigkeit (großspurig)",
+          "Ein aufgeblasenes „Ich“; aus dem Mund einer Katze komisch."
+        ],
+        "とんと": [
+          "überhaupt nicht",
+          "Mit Verneinung. Altmodisch."
+        ],
+        "見当": [
+          "Ahnung, Vermutung",
+          "„見当がつかぬ“ = keine Ahnung haben. „ぬ“ = ない."
+        ],
+        "薄暗い": [
+          "düster, dämmrig"
+        ],
+        "じめじめ": [
+          "feucht und muffig"
+        ]
+      }
+    },
+    "hans": {
+      "s": "夏目漱石《我是猫》开头（1905）",
+      "g": {
+        "吾輩": [
+          "吾辈、本大爷",
+          "自称，带有自大、装腔作势的语气。由猫来说，形成幽默反差。"
+        ],
+        "とんと": [
+          "完全（不）",
+          "后接否定。古风说法。"
+        ],
+        "見当": [
+          "头绪、推测",
+          "「见当がつかぬ」＝完全想不出来。「ぬ」＝ない。"
+        ],
+        "薄暗い": [
+          "昏暗"
+        ],
+        "じめじめ": [
+          "潮湿阴暗"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "我是貓。名字還沒有。",
+      "zh-Hans": "我是猫。名字还没有。",
+      "en": "I am a cat. As yet I have no name.",
+      "de": "I am a cat. As yet I have no name."
+    },
+    {
+      "zh-Hant": "我究竟生在哪裡，完全摸不著頭緒。只記得自己好像是在一個陰暗潮濕的地方，喵喵地哭著。",
+      "zh-Hans": "我究竟生在哪里，完全摸不着头绪。只记得自己好像是在一个阴暗潮湿的地方，喵喵地哭着。",
+      "en": "Where I was born, I have not the slightest idea. I only remember crying meow-meow in some dim, damp place.",
+      "de": "Where I was born, I have not the slightest idea. I only remember crying meow-meow in some dim, damp place."
+    }
+  ]
+}

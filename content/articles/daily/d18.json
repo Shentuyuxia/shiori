@@ -1,0 +1,191 @@
+{
+  "id": "d18",
+  "d": 18,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "方言",
+    "ja": "方言"
+  },
+  "title": "ぶぶ漬けでもどうどす",
+  "sub": "京都腔與「言外之意」",
+  "body": "京都には、「[[ぶぶ漬け|ぶぶづけ]]でもどうどす？」と言われたら「そろそろ帰ってください」という意味だ、という有名な話がある。ぶぶ漬けとはお茶漬けのこと。[[客|きゃく]]を本当にもてなすつもりなら、お茶漬けなど出さない、というわけだ。\n\n実際にこう言う京都人がどれほどいるかは怪しいが、京都の言葉が「[[本音|ほんね]]を直接言わない」[[象徴|しょうちょう]]として語られることは多い。「[[ええ時計|ええとけい]]してはりますなあ」が「話が長い」の意味になる、といった[[冗談|じょうだん]]も同じだ。\n\nもっとも、こうした[[遠回し|とおまわし]]な言い方は、相手の[[面子|メンツ]]を[[潰さず|つぶさず]]に気持ちを伝えるための知恵でもある。「[[おおきに|おおきに]]」の柔らかい響きとともに、京ことばの[[奥深さ|おくぶかさ]]を味わいたい。",
+  "gloss": {
+    "ぶぶ漬け": {
+      "m": "茶泡飯（京都說法）",
+      "n": "「どうどす」＝どうですか。"
+    },
+    "客": {
+      "m": "客人"
+    },
+    "本音": {
+      "m": "真心話"
+    },
+    "象徴": {
+      "m": "象徵"
+    },
+    "ええ時計": {
+      "m": "好手錶",
+      "n": "「してはります」＝しておられます。"
+    },
+    "冗談": {
+      "m": "玩笑"
+    },
+    "遠回し": {
+      "m": "拐彎抹角、委婉"
+    },
+    "面子": {
+      "m": "面子"
+    },
+    "潰さず": {
+      "m": "不使…掃地（原形：潰す）"
+    },
+    "おおきに": {
+      "m": "謝謝（關西）"
+    },
+    "奥深さ": {
+      "m": "深奧、韻味"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "\"How about some bubuzuke?\" Kyoto talk",
+      "g": {
+        "ぶぶ漬け": [
+          "rice with tea poured over (Kyoto word)",
+          "「どうどす」 = どうですか."
+        ],
+        "客": [
+          "guest"
+        ],
+        "本音": [
+          "one's true feelings"
+        ],
+        "象徴": [
+          "symbol"
+        ],
+        "ええ時計": [
+          "nice watch",
+          "「してはります」 = しておられます."
+        ],
+        "冗談": [
+          "joke"
+        ],
+        "遠回し": [
+          "indirect, roundabout"
+        ],
+        "面子": [
+          "face, honour"
+        ],
+        "潰さず": [
+          "without ruining (dict. form: 潰す)"
+        ],
+        "おおきに": [
+          "thank you (Kansai)"
+        ],
+        "奥深さ": [
+          "depth, subtlety"
+        ]
+      }
+    },
+    "de": {
+      "s": "„Ein bisschen Bubuzuke?“ Kyoto-Dialekt",
+      "g": {
+        "ぶぶ漬け": [
+          "Reis mit Tee übergossen (Kyoto-Ausdruck)",
+          "„どうどす“ = どうですか."
+        ],
+        "客": [
+          "Gast"
+        ],
+        "本音": [
+          "wahre Meinung"
+        ],
+        "象徴": [
+          "Symbol"
+        ],
+        "ええ時計": [
+          "schöne Uhr",
+          "„してはります“ = しておられます."
+        ],
+        "冗談": [
+          "Scherz"
+        ],
+        "遠回し": [
+          "durch die Blume, indirekt"
+        ],
+        "面子": [
+          "Gesicht, Ehre"
+        ],
+        "潰さず": [
+          "ohne zu ruinieren (Grundform: 潰す)"
+        ],
+        "おおきに": [
+          "danke (Kansai)"
+        ],
+        "奥深さ": [
+          "Tiefe, Hintergründigkeit"
+        ]
+      }
+    },
+    "hans": {
+      "s": "京都腔与「言外之意」",
+      "g": {
+        "ぶぶ漬け": [
+          "茶泡饭（京都说法）",
+          "「どうどす」＝どうですか。"
+        ],
+        "客": [
+          "客人"
+        ],
+        "本音": [
+          "真心话"
+        ],
+        "象徴": [
+          "象征"
+        ],
+        "ええ時計": [
+          "好手表",
+          "「してはります」＝しておられます。"
+        ],
+        "冗談": [
+          "玩笑"
+        ],
+        "遠回し": [
+          "拐弯抹角、委婉"
+        ],
+        "面子": [
+          "面子"
+        ],
+        "潰さず": [
+          "不使…扫地（原形：溃す）"
+        ],
+        "おおきに": [
+          "谢谢（关西）"
+        ],
+        "奥深さ": [
+          "深奥、韵味"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "京都有一個很有名的說法：如果有人對你說「要不要來碗茶泡飯？」，意思是「請差不多該回去了」。茶泡飯就是御茶漬。意思是，如果真心想招待客人，就不會端出茶泡飯來。",
+      "zh-Hans": "京都有一个很有名的说法：如果有人对你说「要不要来碗茶泡饭？」，意思是「请差不多该回去了」。茶泡饭就是御茶渍。意思是，如果真心想招待客人，就不会端出茶泡饭来。",
+      "en": "There is a famous saying in Kyoto: if someone asks, \"Would you like some ochazuke?\" it means \"It's about time you went home.\" Ochazuke is rice with tea poured over it. The idea is that if you truly wanted to host a guest, you would never serve ochazuke.",
+      "de": "There is a famous saying in Kyoto: if someone asks, \"Would you like some ochazuke?\" it means \"It's about time you went home.\" Ochazuke is rice with tea poured over it. The idea is that if you truly wanted to host a guest, you would never serve ochazuke."
+    },
+    {
+      "zh-Hant": "現在究竟有多少京都人會這樣說，很難說。但京都的語言常被當作「不直接說出真心話」的象徵來談論。「ええ時計してはりますなあ」（您的表真好看呢）意思是「話很長」，這類玩笑也是同樣的道理。",
+      "zh-Hans": "现在究竟有多少京都人会这样说，很难说。但京都的语言常被当作「不直接说出真心话」的象征来谈论。「ええ时计してはりますなあ」（您的表真好看呢）意思是「话很长」，这类玩笑也是同样的道理。",
+      "en": "It is doubtful how many Kyoto people actually speak this way, but Kyoto's language is often discussed as a symbol of not saying what you really mean outright. Jokes like 「ええ時計してはりますなあ」（What a nice watch you have）, which means \"your story is long,\" work the same way.",
+      "de": "It is doubtful how many Kyoto people actually speak this way, but Kyoto's language is often discussed as a symbol of not saying what you really mean outright. Jokes like 「ええ時計してはりますなあ」（What a nice watch you have）, which means \"your story is long,\" work the same way."
+    },
+    {
+      "zh-Hant": "話說回來，這些委婉的說法，也是一種在不傷害對方顏面的前提下傳達心意的智慧。讓我們在「おおきに」柔和的語感中，細細品味京都話的深意吧。",
+      "zh-Hans": "话说回来，这些委婉的说法，也是一种在不伤害对方颜面的前提下传达心意的智能。让我们在「おおきに」柔和的语感中，细细品味京都话的深意吧。",
+      "en": "That said, these indirect expressions are also a kind of wisdom for conveying feelings without damaging the other person's face. Let us savor the depth of the Kyoto dialect along with the gentle sound of 「おおきに」.",
+      "de": "That said, these indirect expressions are also a kind of wisdom for conveying feelings without damaging the other person's face. Let us savor the depth of the Kyoto dialect along with the gentle sound of 「おおきに」."
+    }
+  ]
+}

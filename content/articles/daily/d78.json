@@ -1,0 +1,195 @@
+{
+  "id": "d78",
+  "d": 78,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "小寒・寒の入り",
+  "sub": "節氣：小寒",
+  "body": "二十四節気の「小寒」。この日から「寒の入り」となり、次の節気「大寒」を経て、二月初めの立春の前日（[[節分|せつぶん]]）までの約三十日間を「[[寒の内|かんのうち]]」と呼ぶ。一年で最も寒い時期だ。\n\nこの時期に届ける[[便り|たより]]を「[[寒中見舞い|かんちゅうみまい]]」と言う。年賀状を出しそびれた人への[[返礼|へんれい]]や、喪中の人への挨拶としても使われる。「寒中お見舞い申し上げます」で始め、相手の健康を気づかう言葉を添える。\n\n寒さを[[逆手|さかて]]にとった行事もある。[[寒稽古|かんげいこ]]は、武道や芸事の稽古を、あえて寒さの厳しい早朝に行うもの。[[寒仕込み|かんじこみ]]は、雑菌の少ない寒い時期に、味噌や酒を[[仕込む|しこむ]]ことだ。寒さは[[厄介者|やっかいもの]]であると同時に、何かを[[鍛え|きたえ]]、[[育てる|そだてる]]力でもある。",
+  "gloss": {
+    "節分": {
+      "m": "節分（立春前一天）"
+    },
+    "寒の内": {
+      "m": "寒之內（小寒到節分）"
+    },
+    "便り": {
+      "m": "信、消息"
+    },
+    "寒中見舞い": {
+      "m": "寒冬問候信"
+    },
+    "返礼": {
+      "m": "回禮"
+    },
+    "逆手": {
+      "m": "反過來利用"
+    },
+    "寒稽古": {
+      "m": "寒冬練功"
+    },
+    "寒仕込み": {
+      "m": "寒冬釀造"
+    },
+    "仕込む": {
+      "m": "釀造、醃製"
+    },
+    "厄介者": {
+      "m": "麻煩的東西"
+    },
+    "鍛え": {
+      "m": "鍛鍊"
+    },
+    "育てる": {
+      "m": "培育"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Shōkan: start of the cold season",
+      "g": {
+        "節分": [
+          "Setsubun (day before spring begins)"
+        ],
+        "寒の内": [
+          "the coldest season (Shōkan to Setsubun)"
+        ],
+        "便り": [
+          "letter, news"
+        ],
+        "寒中見舞い": [
+          "midwinter greeting card"
+        ],
+        "返礼": [
+          "return greeting"
+        ],
+        "逆手": [
+          "turning to advantage"
+        ],
+        "寒稽古": [
+          "midwinter training"
+        ],
+        "寒仕込み": [
+          "midwinter brewing"
+        ],
+        "仕込む": [
+          "to brew, prepare"
+        ],
+        "厄介者": [
+          "nuisance"
+        ],
+        "鍛え": [
+          "training, toughening"
+        ],
+        "育てる": [
+          "to raise, nurture"
+        ]
+      }
+    },
+    "de": {
+      "s": "Shōkan: Beginn der Kältezeit",
+      "g": {
+        "節分": [
+          "Setsubun (Tag vor Frühlingsbeginn)"
+        ],
+        "寒の内": [
+          "Kältezeit (von Shōkan bis Setsubun)"
+        ],
+        "便り": [
+          "Brief, Nachricht"
+        ],
+        "寒中見舞い": [
+          "Mittwintergruß"
+        ],
+        "返礼": [
+          "Gegengruß"
+        ],
+        "逆手": [
+          "zum Vorteil wenden"
+        ],
+        "寒稽古": [
+          "Wintertraining"
+        ],
+        "寒仕込み": [
+          "Brauen im Winter"
+        ],
+        "仕込む": [
+          "ansetzen, brauen"
+        ],
+        "厄介者": [
+          "lästiges Ding"
+        ],
+        "鍛え": [
+          "Abhärtung"
+        ],
+        "育てる": [
+          "großziehen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "节气：小寒",
+      "g": {
+        "節分": [
+          "节分（立春前一天）"
+        ],
+        "寒の内": [
+          "寒之内（小寒到节分）"
+        ],
+        "便り": [
+          "信、消息"
+        ],
+        "寒中見舞い": [
+          "寒冬问候信"
+        ],
+        "返礼": [
+          "回礼"
+        ],
+        "逆手": [
+          "反过来利用"
+        ],
+        "寒稽古": [
+          "寒冬练功"
+        ],
+        "寒仕込み": [
+          "寒冬酿造"
+        ],
+        "仕込む": [
+          "酿造、腌制"
+        ],
+        "厄介者": [
+          "麻烦的东西"
+        ],
+        "鍛え": [
+          "锻炼"
+        ],
+        "育てる": [
+          "培育"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "二十四節氣中的「小寒」。從這一天起進入「寒之入」，經過下一個節氣「大寒」，直到二月初立春前一天（節分），約三十天稱為「寒之內」，是一年中最冷的時節。",
+      "zh-Hans": "二十四节气中的「小寒」。从这一天起进入「寒之入」，经过下一个节气「大寒」，直到二月初立春前一天（节分），约三十天称为「寒之内」，是一年中最冷的时节。",
+      "en": "「小寒」, Lesser Cold, is one of the 24 solar terms. From this day it becomes 「寒の入り」, the entrance of the cold, and the roughly thirty days through the next solar term, 「大寒」, up to the day before 立春 (the start of spring) in early February, are called 「寒の内」, the inside of the cold. It is the coldest time of the year.",
+      "de": "「小寒」, Lesser Cold, is one of the 24 solar terms. From this day it becomes 「寒の入り」, the entrance of the cold, and the roughly thirty days through the next solar term, 「大寒」, up to the day before 立春 (the start of spring) in early February, are called 「寒の内」, the inside of the cold. It is the coldest time of the year."
+    },
+    {
+      "zh-Hant": "這個時期寄出的問候叫做「寒中見舞い」。它也用來回覆那些沒來得及寄出賀年卡的人，或是向服喪中的人致意。通常以「寒中お見舞い申し上げます」開頭，並附上關心對方健康的話語。",
+      "zh-Hans": "这个时期寄出的问候叫做「寒中见舞い」。它也用来回复那些没来得及寄出贺年卡的人，或是向服丧中的人致意。通常以「寒中お见舞い申し上げます」开头，并附上关心对方健康的话语。",
+      "en": "A greeting sent during this period is called 「寒中見舞い」. It is used to reply to people to whom one did not send a New Year's card, or to offer condolences to those in mourning. It usually begins with 「寒中お見舞い申し上げます」 and includes words expressing concern for the recipient's health.",
+      "de": "A greeting sent during this period is called 「寒中見舞い」. It is used to reply to people to whom one did not send a New Year's card, or to offer condolences to those in mourning. It usually begins with 「寒中お見舞い申し上げます」 and includes words expressing concern for the recipient's health."
+    },
+    {
+      "zh-Hant": "也有反過來利用寒冷的活動。寒稽古，是在格外寒冷的清晨，刻意進行武道或藝道的練習。寒仕込，則是在雜菌較少的寒冷時節，釀造味噌或酒。寒冷既是麻煩的存在，同時也是鍛鍊、培育事物的力量。",
+      "zh-Hans": "也有反过来利用寒冷的活动。寒稽古，是在格外寒冷的清晨，刻意进行武道或艺道的练习。寒仕込，则是在杂菌较少的寒冷时节，酿造味噌或酒。寒冷既是麻烦的存在，同时也是锻炼、培育事物的力量。",
+      "en": "There are also events that turn the cold to advantage. 「寒稽古」 is deliberately practicing martial arts or traditional arts in the bitter early morning. 「寒仕込み」 is brewing miso or sake in the cold season, when there are fewer harmful bacteria. Cold is both a nuisance and a force that tempers and nurtures things.",
+      "de": "There are also events that turn the cold to advantage. 「寒稽古」 is deliberately practicing martial arts or traditional arts in the bitter early morning. 「寒仕込み」 is brewing miso or sake in the cold season, when there are fewer harmful bacteria. Cold is both a nuisance and a force that tempers and nurtures things."
+    }
+  ]
+}

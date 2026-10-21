@@ -1,0 +1,217 @@
+{
+  "id": "d3",
+  "d": 3,
+  "lv": "x",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "俳句・短歌",
+    "ja": "俳句・短歌"
+  },
+  "title": "百人一首・秋の歌",
+  "sub": "《百人一首》中的秋歌",
+  "src": "『小倉百人一首』（猿丸大夫・在原業平）",
+  "body": "[[奥山|おくやま]]に　[[紅葉|もみじ]][[踏み分け|ふみわけ]]　鳴く鹿の\n声聞く時ぞ　秋は悲しき\n（猿丸大夫）\n\n[[ちはやぶる|ちはやぶる]]　[[神代|かみよ]]も聞かず　[[竜田川|たつたがわ]]\n[[からくれなゐ|からくれない]]に　水[[くくる|くくる]]とは\n（在原業平）\n\n一首目は、深い山の中で、落ち葉を踏みながら鳴く鹿の声に秋の[[寂しさ|さびしさ]]を聞く歌。二首目は、川面を[[埋め尽くす|うめつくす]]紅葉を、真紅に染め上げた布に[[見立てた|みたてた]]、[[華やかな|はなやかな]]歌である。",
+  "gloss": {
+    "奥山": {
+      "m": "深山"
+    },
+    "紅葉": {
+      "m": "紅葉",
+      "n": "古文中「もみぢ」，此處讀「もみじ」。"
+    },
+    "踏み分け": {
+      "m": "撥開、踩過（落葉）"
+    },
+    "ちはやぶる": {
+      "m": "（枕詞）修飾「神」",
+      "n": "枕詞本身沒有實際意思，用來引出特定詞語。"
+    },
+    "神代": {
+      "m": "神的時代、太古"
+    },
+    "竜田川": {
+      "m": "龍田川（奈良的紅葉名勝）"
+    },
+    "からくれなゐ": {
+      "m": "深紅色",
+      "n": "「韓紅」，歷史假名讀作「からくれない」。"
+    },
+    "くくる": {
+      "m": "紮染",
+      "n": "把布紮起來染色，比喻紅葉漂滿河面。"
+    },
+    "寂しさ": {
+      "m": "寂寞、冷清"
+    },
+    "埋め尽くす": {
+      "m": "填滿、覆滿"
+    },
+    "見立てた": {
+      "m": "比作（原形：見立てる）",
+      "n": "日本和歌與庭園常用的手法。"
+    },
+    "華やかな": {
+      "m": "華麗的"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Autumn poems from the Hyakunin Isshu",
+      "g": {
+        "奥山": [
+          "deep in the mountains"
+        ],
+        "紅葉": [
+          "autumn leaves",
+          "Classical もみぢ, read もみじ here."
+        ],
+        "踏み分け": [
+          "treading through (fallen leaves)"
+        ],
+        "ちはやぶる": [
+          "pillow word for \"gods\"",
+          "Pillow words have no meaning of their own; they introduce a set word."
+        ],
+        "神代": [
+          "age of the gods"
+        ],
+        "竜田川": [
+          "Tatsuta River (famous for autumn leaves, Nara)"
+        ],
+        "からくれなゐ": [
+          "deep crimson",
+          "韓紅; historical kana spelling, read からくれない."
+        ],
+        "くくる": [
+          "tie-dyeing",
+          "Cloth is tied and dyed — leaves covering the river like a dyed pattern."
+        ],
+        "寂しさ": [
+          "loneliness"
+        ],
+        "埋め尽くす": [
+          "to fill completely, cover"
+        ],
+        "見立てた": [
+          "likened to (dict. form: 見立てる)",
+          "A common device in Japanese poetry and garden design."
+        ],
+        "華やかな": [
+          "gorgeous, splendid"
+        ]
+      }
+    },
+    "de": {
+      "s": "Herbstgedichte aus dem Hyakunin Isshu",
+      "g": {
+        "奥山": [
+          "tief in den Bergen"
+        ],
+        "紅葉": [
+          "Herbstlaub",
+          "Klassisch もみぢ, hier もみじ gelesen."
+        ],
+        "踏み分け": [
+          "sich durch (Laub) einen Weg bahnen"
+        ],
+        "ちはやぶる": [
+          "Kopfkissenwort für „Götter“",
+          "Kopfkissenwörter haben keine eigene Bedeutung, sie leiten ein festes Wort ein."
+        ],
+        "神代": [
+          "Zeitalter der Götter"
+        ],
+        "竜田川": [
+          "Tatsuta-Fluss (berühmt fürs Herbstlaub, Nara)"
+        ],
+        "からくれなゐ": [
+          "tiefes Karmesinrot",
+          "韓紅; historische Kana-Schreibung, gelesen からくれない."
+        ],
+        "くくる": [
+          "Abbindebatik",
+          "Stoff wird abgebunden und gefärbt – das Laub bedeckt den Fluss wie ein Muster."
+        ],
+        "寂しさ": [
+          "Einsamkeit"
+        ],
+        "埋め尽くす": [
+          "vollständig bedecken"
+        ],
+        "見立てた": [
+          "verglichen mit (Grundform: 見立てる)",
+          "Ein häufiges Mittel in Dichtung und Gartenkunst."
+        ],
+        "華やかな": [
+          "prächtig"
+        ]
+      }
+    },
+    "hans": {
+      "s": "《百人一首》中的秋歌",
+      "g": {
+        "奥山": [
+          "深山"
+        ],
+        "紅葉": [
+          "红叶",
+          "古文中「もみぢ」，此处读「もみじ」。"
+        ],
+        "踏み分け": [
+          "拨开、踩过（落叶）"
+        ],
+        "ちはやぶる": [
+          "（枕词）修饰「神」",
+          "枕词本身没有实际意思，用来引出特定词语。"
+        ],
+        "神代": [
+          "神的时代、太古"
+        ],
+        "竜田川": [
+          "龙田川（奈良的红叶名胜）"
+        ],
+        "からくれなゐ": [
+          "深红色",
+          "「韩红」，历史假名读作「からくれない」。"
+        ],
+        "くくる": [
+          "扎染",
+          "把布扎起来染色，比喻红叶漂满河面。"
+        ],
+        "寂しさ": [
+          "寂寞、冷清"
+        ],
+        "埋め尽くす": [
+          "填满、覆满"
+        ],
+        "見立てた": [
+          "比作（原形：见立てる）",
+          "日本和歌与庭园常用的手法。"
+        ],
+        "華やかな": [
+          "华丽的"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "深山裡　踏過楓葉的　鳴叫的鹿\n聽見牠鳴聲之時　秋天真是悲傷啊\n（猿丸大夫）",
+      "zh-Hans": "深山里　踏过枫叶的　鸣叫的鹿\n听见牠鸣声之时　秋天真是悲伤啊\n（猿丸大夫）",
+      "en": "Deep in the mountains, where stags tread on fallen maple leaves and call out,\nwhen I hear their cries, autumn is truly sad.\n(Sarumaru Dayū)",
+      "de": "Deep in the mountains, where stags tread on fallen maple leaves and call out,\nwhen I hear their cries, autumn is truly sad.\n(Sarumaru Dayū)"
+    },
+    {
+      "zh-Hant": "神代以來未曾聽聞　龍田川\n竟將水染成了深紅色\n（在原業平）",
+      "zh-Hans": "神代以来未曾听闻　龙田川\n竟将水染成了深红色\n（在原业平）",
+      "en": "Not even in the age of the gods was it ever heard\nthat the Tatsuta River would be dyed crimson, water and all.\n(Ariwara no Narihira)",
+      "de": "Not even in the age of the gods was it ever heard\nthat the Tatsuta River would be dyed crimson, water and all.\n(Ariwara no Narihira)"
+    },
+    {
+      "zh-Hant": "第一首是在深山中，聽著踩著落葉鳴叫的鹿聲，感受秋天的寂寞之歌。第二首則是把鋪滿河面的紅葉，比作染成真紅的布，是一首華麗的和歌。",
+      "zh-Hans": "第一首是在深山中，听着踩着落叶鸣叫的鹿声，感受秋天的寂寞之歌。第二首则是把铺满河面的红叶，比作染成真红的布，是一首华丽的和歌。",
+      "en": "The first poem hears in the stag's call, as it walks through fallen leaves deep in the mountains, the loneliness of autumn. The second likens the maple leaves that cover the river's surface to cloth dyed a brilliant crimson, a dazzling poem.",
+      "de": "The first poem hears in the stag's call, as it walks through fallen leaves deep in the mountains, the loneliness of autumn. The second likens the maple leaves that cover the river's surface to cloth dyed a brilliant crimson, a dazzling poem."
+    }
+  ]
+}

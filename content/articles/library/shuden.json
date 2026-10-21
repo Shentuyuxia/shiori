@@ -1,0 +1,141 @@
+{
+  "id": "shuden",
+  "d": -1,
+  "lv": "n2",
+  "genre": {
+    "zh-Hant": "短篇",
+    "ja": "掌編"
+  },
+  "title": "終電のあと",
+  "sub": "末班車之後",
+  "body": "[[終電|しゅうでん]]を[[逃した|のがした]]のは、これで二度目だった。\n\n駅前のロータリーには、タクシーを待つ人の列が[[ぼんやり|ぼんやり]]と{伸|の}びている。私はその列には{並|なら}ばず、コンビニで温かい缶コーヒーを買って、[[歩道橋|ほどうきょう]]の上に立った。\n\n{眼下|がんか}を流れる車の{光|ひかり}は、台北の夜とどこか似ていた。違うのは、[[屋台|やたい]]の匂いがしないことくらいだ。\n\n「帰りたい」と思った。けれど、どこへ帰りたいのか、自分でもよく分からなかった。缶コーヒーが[[ぬるく|ぬるく]]なるまで、私はそこに[[立ち尽くして|たちつくして]]いた。",
+  "gloss": {
+    "終電": {
+      "m": "末班電車"
+    },
+    "逃した": {
+      "m": "錯過（原形：逃す）"
+    },
+    "ぼんやり": {
+      "m": "模模糊糊、朦朧"
+    },
+    "歩道橋": {
+      "m": "天橋（行人陸橋）"
+    },
+    "屋台": {
+      "m": "路邊攤、攤販"
+    },
+    "ぬるく": {
+      "m": "變得溫溫的、不冷不熱（原形：ぬるい）"
+    },
+    "立ち尽くして": {
+      "m": "呆立良久（原形：立ち尽くす）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "After the last train",
+      "g": {
+        "終電": [
+          "last train"
+        ],
+        "逃した": [
+          "missed (dict. form: 逃す)"
+        ],
+        "ぼんやり": [
+          "vaguely, absent-mindedly"
+        ],
+        "歩道橋": [
+          "pedestrian bridge"
+        ],
+        "屋台": [
+          "food stall"
+        ],
+        "ぬるく": [
+          "lukewarm (dict. form: ぬるい)"
+        ],
+        "立ち尽くして": [
+          "standing still for a long time (dict. form: 立ち尽くす)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Nach der letzten Bahn",
+      "g": {
+        "終電": [
+          "letzte Bahn"
+        ],
+        "逃した": [
+          "verpasst (Grundform: 逃す)"
+        ],
+        "ぼんやり": [
+          "verschwommen, geistesabwesend"
+        ],
+        "歩道橋": [
+          "Fußgängerbrücke"
+        ],
+        "屋台": [
+          "Imbissstand"
+        ],
+        "ぬるく": [
+          "lauwarm (Grundform: ぬるい)"
+        ],
+        "立ち尽くして": [
+          "lange regungslos dastehen (Grundform: 立ち尽くす)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "末班车之后",
+      "g": {
+        "終電": [
+          "末班电车"
+        ],
+        "逃した": [
+          "错过（原形：逃す）"
+        ],
+        "ぼんやり": [
+          "模模糊糊、朦胧"
+        ],
+        "歩道橋": [
+          "天桥（行人陆桥）"
+        ],
+        "屋台": [
+          "路边摊、摊贩"
+        ],
+        "ぬるく": [
+          "变得温温的、不冷不热（原形：ぬるい）"
+        ],
+        "立ち尽くして": [
+          "呆立良久（原形：立ち尽くす）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "這已經是第二次錯過末班電車了。",
+      "zh-Hans": "这已经是第二次错过末班电车了。",
+      "en": "This was the second time I had missed the last train.",
+      "de": "This was the second time I had missed the last train."
+    },
+    {
+      "zh-Hant": "車站前的圓環上，等計程車的人排成一長列，模模糊糊地延伸著。我沒有排進去，而是在便利商店買了一罐溫熱的罐裝咖啡，站到了天橋上。",
+      "zh-Hans": "车站前的圆环上，等出租车的人排成一长列，模模糊糊地延伸着。我没有排进去，而是在便利商店买了一罐温热的罐装咖啡，站到了天桥上。",
+      "en": "In the roundabout in front of the station, a line of people waiting for taxis stretched out hazily. I didn't join the line. Instead, I bought a warm canned coffee at a convenience store and stood on the pedestrian bridge.",
+      "de": "In the roundabout in front of the station, a line of people waiting for taxis stretched out hazily. I didn't join the line. Instead, I bought a warm canned coffee at a convenience store and stood on the pedestrian bridge."
+    },
+    {
+      "zh-Hant": "腳下流動的車燈，和台北的夜晚有些相似。不同的只是，這裡聞不到夜市攤的香味。",
+      "zh-Hans": "脚下流动的车灯，和台北的夜晚有些相似。不同的只是，这里闻不到夜市摊的香味。",
+      "en": "The car lights flowing below looked somewhat like Taipei's night. The only difference was that there was no smell of street food stalls.",
+      "de": "The car lights flowing below looked somewhat like Taipei's night. The only difference was that there was no smell of street food stalls."
+    },
+    {
+      "zh-Hant": "我想著「想回去」。但是，想回去的地方到底在哪裡，我自己也不太清楚。直到罐裝咖啡涼掉，我就那樣呆呆地站在那裡。",
+      "zh-Hans": "我想着「想回去」。但是，想回去的地方到底在哪里，我自己也不太清楚。直到罐装咖啡凉掉，我就那样呆呆地站在那里。",
+      "en": "I thought, \"I want to go home.\" But where I wanted to go home to, I didn't really know myself. I stood there, lost in thought, until the canned coffee went lukewarm.",
+      "de": "I thought, \"I want to go home.\" But where I wanted to go home to, I didn't really know myself. I stood there, lost in thought, until the canned coffee went lukewarm."
+    }
+  ]
+}

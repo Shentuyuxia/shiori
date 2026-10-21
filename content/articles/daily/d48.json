@@ -1,0 +1,108 @@
+{
+  "id": "d48",
+  "d": 48,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "文學原文",
+    "ja": "文学（原文）"
+  },
+  "title": "注文の多い料理店（冒頭）",
+  "sub": "宮澤賢治《要求很多的餐廳》開頭（1924）",
+  "src": "青空文庫（宮沢賢治『注文の多い料理店』）",
+  "body": "二人の若い[[紳士|しんし]]が、すっかりイギリスの兵隊のかたちをして、ぴかぴかする[[鉄砲|てっぽう]]をかついで、白熊のような犬を二[[疋|ひき]]つれて、だいぶ山奥の、木の葉の[[かさかさ|かさかさ]]したとこを、こんなことを[[云いながら|いいながら]]、あるいておりました。",
+  "gloss": {
+    "紳士": {
+      "m": "紳士"
+    },
+    "鉄砲": {
+      "m": "槍"
+    },
+    "疋": {
+      "m": "隻（量詞）",
+      "n": "舊時用於動物的量詞，今寫作「匹」。"
+    },
+    "かさかさ": {
+      "m": "乾巴巴、沙沙作響"
+    },
+    "云いながら": {
+      "m": "一邊說著",
+      "n": "「云う」是「言う」的舊寫法。"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The Restaurant of Many Orders (opening)",
+      "g": {
+        "紳士": [
+          "gentleman"
+        ],
+        "鉄砲": [
+          "gun"
+        ],
+        "疋": [
+          "counter for animals",
+          "Old counter for animals, now written 匹."
+        ],
+        "かさかさ": [
+          "rustling, dry"
+        ],
+        "云いながら": [
+          "while saying",
+          "云う is an old spelling of 言う."
+        ]
+      }
+    },
+    "de": {
+      "s": "Das Restaurant der vielen Bestellungen (Anfang)",
+      "g": {
+        "紳士": [
+          "Gentleman"
+        ],
+        "鉄砲": [
+          "Gewehr"
+        ],
+        "疋": [
+          "Zählwort für Tiere",
+          "Altes Zählwort für Tiere, heute 匹."
+        ],
+        "かさかさ": [
+          "raschelnd, trocken"
+        ],
+        "云いながら": [
+          "während sie sagten",
+          "云う ist eine alte Schreibung für 言う."
+        ]
+      }
+    },
+    "hans": {
+      "s": "宫泽贤治《要求很多的餐厅》开头（1924）",
+      "g": {
+        "紳士": [
+          "绅士"
+        ],
+        "鉄砲": [
+          "枪"
+        ],
+        "疋": [
+          "只（量词）",
+          "旧时用于动物的量词，今写作「匹」。"
+        ],
+        "かさかさ": [
+          "干巴巴、沙沙作响"
+        ],
+        "云いながら": [
+          "一边说着",
+          "「云う」是「言う」的旧写法。"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "兩位年輕的紳士，打扮得完全像英國的士兵，扛著閃閃發亮的槍，牽著兩隻像白熊一樣的狗，在深山裡一片樹葉沙沙作響的地方，邊說著各種話邊走著。",
+      "zh-Hans": "两位年轻的绅士，打扮得完全像英国的士兵，扛着闪闪发亮的枪，牵着两只像白熊一样的狗，在深山里一片树叶沙沙作响的地方，边说着各种话边走着。",
+      "en": "Two young gentlemen, dressed entirely like British soldiers, shouldering gleaming rifles and leading two dogs as big as white bears, walked deep in the mountains where the dry leaves rustled, chatting away about all sorts of things.",
+      "de": "Two young gentlemen, dressed entirely like British soldiers, shouldering gleaming rifles and leading two dogs as big as white bears, walked deep in the mountains where the dry leaves rustled, chatting away about all sorts of things."
+    }
+  ]
+}

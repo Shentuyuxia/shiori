@@ -1,0 +1,154 @@
+{
+  "id": "d96",
+  "d": 96,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "文學原文",
+    "ja": "文学（原文）"
+  },
+  "title": "銀河鉄道の夜（冒頭）",
+  "sub": "宮澤賢治《銀河鐵道之夜》開頭",
+  "src": "青空文庫（宮沢賢治『銀河鉄道の夜』）",
+  "body": "「ではみなさんは、そういうふうに川だと[[云われたり|いわれたり]]、[[乳|ちち]]の流れたあとだと云われたりしていたこのぼんやりと白いものがほんとうは何か[[ご承知|ごしょうち]]ですか。」先生は、黒板に[[吊した|つるした]]大きな黒い[[星座|せいざ]]の図の、上から下へ白く[[けぶった|けぶった]][[銀河帯|ぎんがたい]]のようなところを指しながら、みんなに[[問|とい]]をかけました。\n\n冬の夜空を見上げたくなる、宮沢賢治の未完の[[名作|めいさく]]。少年ジョバンニは、親友カムパネルラとともに、銀河を走る列車に乗って旅をする。",
+  "gloss": {
+    "云われたり": {
+      "m": "被說成（「云う」＝言う）"
+    },
+    "乳": {
+      "m": "乳汁（Milky Way 的意象）"
+    },
+    "ご承知": {
+      "m": "知道（尊敬語）"
+    },
+    "吊した": {
+      "m": "掛著的"
+    },
+    "星座": {
+      "m": "星座"
+    },
+    "けぶった": {
+      "m": "朦朧如煙的（原形：けぶる）"
+    },
+    "銀河帯": {
+      "m": "銀河帶"
+    },
+    "問": {
+      "m": "問題"
+    },
+    "名作": {
+      "m": "名作"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Night on the Galactic Railroad (opening)",
+      "g": {
+        "云われたり": [
+          "being called (云う = 言う)"
+        ],
+        "乳": [
+          "milk (Milky Way image)"
+        ],
+        "ご承知": [
+          "knowing (honorific)"
+        ],
+        "吊した": [
+          "hanging"
+        ],
+        "星座": [
+          "constellation"
+        ],
+        "けぶった": [
+          "hazy (dict. form: けぶる)"
+        ],
+        "銀河帯": [
+          "the band of the Milky Way"
+        ],
+        "問": [
+          "question"
+        ],
+        "名作": [
+          "masterpiece"
+        ]
+      }
+    },
+    "de": {
+      "s": "Nacht auf der Milchstraßen-Eisenbahn (Anfang)",
+      "g": {
+        "云われたり": [
+          "genannt werden (云う = 言う)"
+        ],
+        "乳": [
+          "Milch (Bild der Milchstraße)"
+        ],
+        "ご承知": [
+          "wissen (Honorativ)"
+        ],
+        "吊した": [
+          "aufgehängt"
+        ],
+        "星座": [
+          "Sternbild"
+        ],
+        "けぶった": [
+          "dunstig (Grundform: けぶる)"
+        ],
+        "銀河帯": [
+          "das Band der Milchstraße"
+        ],
+        "問": [
+          "Frage"
+        ],
+        "名作": [
+          "Meisterwerk"
+        ]
+      }
+    },
+    "hans": {
+      "s": "宫泽贤治《银河铁道之夜》开头",
+      "g": {
+        "云われたり": [
+          "被说成（「云う」＝言う）"
+        ],
+        "乳": [
+          "乳汁（Milky Way 的意象）"
+        ],
+        "ご承知": [
+          "知道（尊敬语）"
+        ],
+        "吊した": [
+          "挂着的"
+        ],
+        "星座": [
+          "星座"
+        ],
+        "けぶった": [
+          "朦胧如烟的（原形：けぶる）"
+        ],
+        "銀河帯": [
+          "银河带"
+        ],
+        "問": [
+          "问题"
+        ],
+        "名作": [
+          "名作"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「那麼各位，你們知道被說成是河流、或是奶汁流過後痕跡的這片白濛濛的東西，究竟是什麼嗎？」老師指著掛在黑板上的大型黑色星座圖，從上到下那片白霧般的銀河帶，向大家提出了問題。",
+      "zh-Hans": "「那么各位，你们知道被说成是河流、或是奶汁流过后痕迹的这片白蒙蒙的东西，究竟是什么吗？」老师指着挂在黑板上的大型黑色星座图，从上到下那片白雾般的银河带，向大家提出了问题。",
+      "en": "\"Now, do you all know what this faintly white thing is, which has been called a river, or the trail of spilled milk?\" The teacher pointed at the hazy white band of the Milky Way, running from top to bottom on the large black star chart hanging on the blackboard, and asked the class.",
+      "de": "\"Now, do you all know what this faintly white thing is, which has been called a river, or the trail of spilled milk?\" The teacher pointed at the hazy white band of the Milky Way, running from top to bottom on the large black star chart hanging on the blackboard, and asked the class."
+    },
+    {
+      "zh-Hant": "這是宮澤賢治未完成的名作，讓人忍不住想仰望冬夜的天空。少年喬萬尼與好友坎帕內拉，搭乘行駛在銀河上的列車，踏上旅程。",
+      "zh-Hans": "这是宫泽贤治未完成的名作，让人忍不住想仰望冬夜的天空。少年乔万尼与好友坎帕内拉，搭乘行驶在银河上的列车，踏上旅程。",
+      "en": "This is Miyazawa Kenji's unfinished masterpiece, one that makes you want to gaze up at the winter night sky. The boy Giovanni and his best friend Campanella ride a train that runs across the Milky Way on a journey.",
+      "de": "This is Miyazawa Kenji's unfinished masterpiece, one that makes you want to gaze up at the winter night sky. The boy Giovanni and his best friend Campanella ride a train that runs across the Milky Way on a journey."
+    }
+  ]
+}

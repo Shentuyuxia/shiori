@@ -1,0 +1,147 @@
+{
+  "id": "d25",
+  "d": 25,
+  "lv": "x",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "俳句・短歌",
+    "ja": "俳句・短歌"
+  },
+  "title": "秋の俳句二句",
+  "sub": "芭蕉與子規的秋句",
+  "src": "松尾芭蕉／正岡子規",
+  "body": "この道や　行く人なしに　秋の[[暮|くれ]]\n（松尾芭蕉）\n\n柿[[食へば|くえば]]　鐘が鳴るなり　法隆寺\n（正岡子規）\n\n芭蕉の句は、[[晩年|ばんねん]]の作。一本の道を、ほかに歩く人もいない秋の夕暮れ。目に見える風景であると同時に、芸の道を一人で[[究める|きわめる]][[孤独|こどく]]も読み取れる。\n\n子規の句は、奈良を旅したときのもの。柿を食べていると、ちょうど法隆寺の鐘が鳴った。それだけのことなのに、柿の[[甘み|あまみ]]と鐘の音、秋の[[澄んだ|すんだ]]空気が一度に伝わってくる。子規は柿が大好物だったという。",
+  "gloss": {
+    "暮": {
+      "m": "日暮、黃昏"
+    },
+    "食へば": {
+      "m": "吃著（柿子）",
+      "n": "歷史假名「食へば」讀作「くえば」。"
+    },
+    "晩年": {
+      "m": "晚年"
+    },
+    "究める": {
+      "m": "鑽研到極致"
+    },
+    "孤独": {
+      "m": "孤獨"
+    },
+    "甘み": {
+      "m": "甜味"
+    },
+    "澄んだ": {
+      "m": "清澈的"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Two autumn haiku",
+      "g": {
+        "暮": [
+          "dusk, evening"
+        ],
+        "食へば": [
+          "as I eat (a persimmon)",
+          "Historical kana 食へば is read くえば."
+        ],
+        "晩年": [
+          "later years"
+        ],
+        "究める": [
+          "to master thoroughly"
+        ],
+        "孤独": [
+          "solitude"
+        ],
+        "甘み": [
+          "sweetness"
+        ],
+        "澄んだ": [
+          "clear"
+        ]
+      }
+    },
+    "de": {
+      "s": "Zwei Herbst-Haiku",
+      "g": {
+        "暮": [
+          "Abenddämmerung"
+        ],
+        "食へば": [
+          "während ich (eine Kaki) esse",
+          "Historische Kana: 食へば wird くえば gelesen."
+        ],
+        "晩年": [
+          "späte Lebensjahre"
+        ],
+        "究める": [
+          "bis zur Vollendung ergründen"
+        ],
+        "孤独": [
+          "Einsamkeit"
+        ],
+        "甘み": [
+          "Süße"
+        ],
+        "澄んだ": [
+          "klar"
+        ]
+      }
+    },
+    "hans": {
+      "s": "芭蕉与子规的秋句",
+      "g": {
+        "暮": [
+          "日暮、黄昏"
+        ],
+        "食へば": [
+          "吃着（柿子）",
+          "历史假名「食へば」读作「くえば」。"
+        ],
+        "晩年": [
+          "晚年"
+        ],
+        "究める": [
+          "钻研到极致"
+        ],
+        "孤独": [
+          "孤独"
+        ],
+        "甘み": [
+          "甜味"
+        ],
+        "澄んだ": [
+          "清澈的"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "這條路啊　無人行走　秋日黃昏",
+      "zh-Hans": "这条路啊　无人行走　秋日黄昏",
+      "en": "Along this road, with no one walking, autumn dusk.\n(Matsuo Bashō)",
+      "de": "Along this road, with no one walking, autumn dusk.\n(Matsuo Bashō)"
+    },
+    {
+      "zh-Hant": "吃了柿子　鐘聲響起　法隆寺",
+      "zh-Hans": "吃了柿子　钟声响起　法隆寺",
+      "en": "Eating a persimmon — the bell rings out at Hōryū-ji.\n(Masaoka Shiki)",
+      "de": "Eating a persimmon — the bell rings out at Hōryū-ji.\n(Masaoka Shiki)"
+    },
+    {
+      "zh-Hant": "芭蕉的這首句是晚年之作。在秋日黃昏裡，一條路上沒有其他行人。它既是眼前的風景，也讀得出一個人在藝道上追求極致的孤獨。",
+      "zh-Hans": "芭蕉的这首句是晚年之作。在秋日黄昏里，一条路上没有其他行人。它既是眼前的风景，也读得出一个人在艺道上追求极致的孤独。",
+      "en": "Bashō's verse is a work from his later years. At autumn dusk, a single road with no one else walking on it. It is both a visible landscape and a loneliness of one person pursuing the ultimate in an art.",
+      "de": "Bashō's verse is a work from his later years. At autumn dusk, a single road with no one else walking on it. It is both a visible landscape and a loneliness of one person pursuing the ultimate in an art."
+    },
+    {
+      "zh-Hant": "子規的這首句，是他遊歷奈良時所作。正吃著柿子，法隆寺的鐘聲恰好響起。雖然只是一件小事，柿子的甘甜、鐘聲與秋天清澈的空氣，卻一起傳達過來。據說子規非常喜歡柿子。",
+      "zh-Hans": "子规的这首句，是他游历奈良时所作。正吃着柿子，法隆寺的钟声恰好响起。虽然只是一件小事，柿子的甘甜、钟声与秋天清澈的空气，却一起传达过来。据说子规非常喜欢柿子。",
+      "en": "Shiki's verse was written during a trip to Nara. As he was eating a persimmon, the bell of Hōryū-ji happened to ring. It was only a small moment, yet the sweetness of the persimmon, the sound of the bell, and the clear autumn air all come through at once. Shiki was said to be very fond of persimmons.",
+      "de": "Shiki's verse was written during a trip to Nara. As he was eating a persimmon, the bell of Hōryū-ji happened to ring. It was only a small moment, yet the sweetness of the persimmon, the sound of the bell, and the clear autumn air all come through at once. Shiki was said to be very fond of persimmons."
+    }
+  ]
+}

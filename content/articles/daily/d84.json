@@ -1,0 +1,195 @@
+{
+  "id": "d84",
+  "d": 84,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "成人の日と鏡開き",
+  "sub": "成人之日與開鏡（1月11日）",
+  "body": "一月の第二月曜日は「成人の日」。各地で「二十歳の集い」が開かれ、[[振袖|ふりそで]]や[[袴|はかま]]を着た若者たちで会場が華やぐ。\n\n同じ頃、一月十一日には「[[鏡開き|かがみびらき]]」が行われる。正月に年神様に供えた[[鏡餅|かがみもち]]を下ろし、[[お汁粉|おしるこ]]や[[ぜんざい|ぜんざい]]にして食べる行事だ。神様の力が宿った餅を食べることで、一年の無病息災を願う。\n\n注意したいのは、鏡餅を「切る」とは言わないこと。[[刃物|はもの]]を使うのは[[切腹|せっぷく]]を連想させるとして[[避け|さけ]]、木槌などで「割る」。さらに「割る」も縁起が悪いので、「開く」と言い換える。だから「鏡開き」なのだ。言葉の上での[[忌み|いみ]]を避ける、[[忌み言葉|いみことば]]の[[典型|てんけい]]と言える。",
+  "gloss": {
+    "振袖": {
+      "m": "振袖（未婚女性的長袖和服）"
+    },
+    "袴": {
+      "m": "袴（和服褲裙）"
+    },
+    "鏡開き": {
+      "m": "開鏡（把供奉的鏡餅敲開來吃）"
+    },
+    "鏡餅": {
+      "m": "鏡餅（新年供奉的圓年糕）"
+    },
+    "お汁粉": {
+      "m": "紅豆湯"
+    },
+    "ぜんざい": {
+      "m": "紅豆年糕湯"
+    },
+    "刃物": {
+      "m": "刀具"
+    },
+    "切腹": {
+      "m": "切腹"
+    },
+    "避け": {
+      "m": "避開"
+    },
+    "忌み": {
+      "m": "忌諱"
+    },
+    "忌み言葉": {
+      "m": "忌諱詞"
+    },
+    "典型": {
+      "m": "典型"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Coming-of-Age Day and kagami-biraki (11 January)",
+      "g": {
+        "振袖": [
+          "furisode (long-sleeved kimono)"
+        ],
+        "袴": [
+          "hakama (pleated kimono trousers)"
+        ],
+        "鏡開き": [
+          "kagami-biraki (breaking the offering mochi)"
+        ],
+        "鏡餅": [
+          "kagami-mochi (round New Year rice cakes)"
+        ],
+        "お汁粉": [
+          "sweet red bean soup"
+        ],
+        "ぜんざい": [
+          "sweet bean soup with mochi"
+        ],
+        "刃物": [
+          "blades, knives"
+        ],
+        "切腹": [
+          "seppuku"
+        ],
+        "避け": [
+          "avoiding"
+        ],
+        "忌み": [
+          "taboo"
+        ],
+        "忌み言葉": [
+          "taboo word"
+        ],
+        "典型": [
+          "typical example"
+        ]
+      }
+    },
+    "de": {
+      "s": "Tag der Volljährigkeit und Kagami-biraki (11. Januar)",
+      "g": {
+        "振袖": [
+          "Furisode (Kimono mit langen Ärmeln)"
+        ],
+        "袴": [
+          "Hakama (Hosenrock)"
+        ],
+        "鏡開き": [
+          "Kagami-biraki (Aufbrechen der Opfer-Mochi)"
+        ],
+        "鏡餅": [
+          "Kagami-Mochi (runde Neujahrsreiskuchen)"
+        ],
+        "お汁粉": [
+          "süße Bohnensuppe"
+        ],
+        "ぜんざい": [
+          "süße Bohnensuppe mit Mochi"
+        ],
+        "刃物": [
+          "Klingen, Messer"
+        ],
+        "切腹": [
+          "Seppuku"
+        ],
+        "避け": [
+          "meiden"
+        ],
+        "忌み": [
+          "Tabu"
+        ],
+        "忌み言葉": [
+          "Tabuwort"
+        ],
+        "典型": [
+          "typisches Beispiel"
+        ]
+      }
+    },
+    "hans": {
+      "s": "成人之日与开镜（1月11日）",
+      "g": {
+        "振袖": [
+          "振袖（未婚女性的长袖和服）"
+        ],
+        "袴": [
+          "袴（和服裤裙）"
+        ],
+        "鏡開き": [
+          "开镜（把供奉的镜饼敲开来吃）"
+        ],
+        "鏡餅": [
+          "镜饼（新年供奉的圆年糕）"
+        ],
+        "お汁粉": [
+          "红豆汤"
+        ],
+        "ぜんざい": [
+          "红豆年糕汤"
+        ],
+        "刃物": [
+          "刀具"
+        ],
+        "切腹": [
+          "切腹"
+        ],
+        "避け": [
+          "避开"
+        ],
+        "忌み": [
+          "忌讳"
+        ],
+        "忌み言葉": [
+          "忌讳词"
+        ],
+        "典型": [
+          "典型"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "一月的第二個星期一是「成人之日」。各地會舉辦「二十歲的聚會」，穿著振袖和服、袴的年輕人讓會場熱鬧非凡。",
+      "zh-Hans": "一月的第二个星期一是「成人之日」。各地会举办「二十岁的聚会」，穿着振袖和服、袴的年轻人让会场热闹非凡。",
+      "en": "The second Monday of January is 「成人の日」, Coming-of-Age Day. Gatherings for twenty-year-olds are held in various places, and the venues come alive with young people in furisode kimono and hakama.",
+      "de": "The second Monday of January is 「成人の日」, Coming-of-Age Day. Gatherings for twenty-year-olds are held in various places, and the venues come alive with young people in furisode kimono and hakama."
+    },
+    {
+      "zh-Hant": "同一時期，一月十一日會舉行「鏡開」。這是把新年時供奉給年神的鏡餅撤下來，做成紅豆湯或紅豆年糕湯來吃的活動。藉由吃下承載神明力量的年糕，祈求一年無病無災。",
+      "zh-Hans": "同一时期，一月十一日会举行「镜开」。这是把新年时供奉给年神的镜饼撤下来，做成红豆汤或红豆年糕汤来吃的活动。借由吃下承载神明力量的年糕，祈求一年无病无灾。",
+      "en": "Around the same time, on January 11th, there is 「鏡開き」, kagami-biraki, the opening of the mirror. It is an event in which the kagami-mochi offered to the New Year's deity are taken down and eaten in sweet red bean soup (oshiruko or zenzai). By eating mochi that holds the power of the gods, people pray for a year free of illness and misfortune.",
+      "de": "Around the same time, on January 11th, there is 「鏡開き」, kagami-biraki, the opening of the mirror. It is an event in which the kagami-mochi offered to the New Year's deity are taken down and eaten in sweet red bean soup (oshiruko or zenzai). By eating mochi that holds the power of the gods, people pray for a year free of illness and misfortune."
+    },
+    {
+      "zh-Hant": "需要注意的是，人們不會說把鏡餅「切」開。因為用刀具會讓人聯想到切腹，所以改用木槌等「敲開」。又因為「割る」（打破）也不吉利，於是改說「開く」（開啟）。這就是「鏡開き」的由來。這可以說是避諱語言上不吉利之詞的典型例子。",
+      "zh-Hans": "需要注意的是，人们不会说把镜饼「切」开。因为用刀具会让人联想到切腹，所以改用木槌等「敲开」。又因为「割る」（打破）也不吉利，于是改说「开く」（打开）。这就是「镜开き」的由来。这可以说是避讳语言上不吉利之词的典型例子。",
+      "en": "Note that people do not say to \"cut\" the kagami-mochi. Using a blade is avoided because it recalls seppuku (ritual suicide), so it is broken apart with a wooden mallet instead. Since 「割る」 (to break) is also inauspicious, it is replaced with 「開く」 (to open). That is why it is called 「鏡開き」. It is a classic example of avoiding inauspicious words.",
+      "de": "Note that people do not say to \"cut\" the kagami-mochi. Using a blade is avoided because it recalls seppuku (ritual suicide), so it is broken apart with a wooden mallet instead. Since 「割る」 (to break) is also inauspicious, it is replaced with 「開く」 (to open). That is why it is called 「鏡開き」. It is a classic example of avoiding inauspicious words."
+    }
+  ]
+}

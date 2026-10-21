@@ -1,0 +1,183 @@
+{
+  "id": "d62",
+  "d": 62,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "語言雜談",
+    "ja": "ことば雑記"
+  },
+  "title": "峠・凪・畑",
+  "sub": "日本自創的漢字「國字」",
+  "body": "漢字は中国から伝わったものだが、日本で独自に作られた漢字もある。これを「[[国字|こくじ]]」または「和製漢字」と呼ぶ。\n\n「峠」は、山の上りと下りの[[境目|さかいめ]]、つまり山道の最も高いところ。山へんに上と下を組み合わせた、見事な[[発想|はっそう]]だ。「凪」は、風が止まって海が静かになること。「畑」は、火で草を焼いて作った[[耕作地|こうさくち]]を表す。水田の「田」と区別するために生まれた。\n\nほかにも、「働」「込」「[[枠|わく]]」「[[匂|にお]]う」などが国字とされる。中でも「[[腺|せん]]」は、江戸時代の[[蘭学者|らんがくしゃ]]が[[オランダ語|オランダご]]の[[医学書|いがくしょ]]を翻訳するために作った字で、のちに中国語にも取り入れられ、「淋巴腺」などに使われている。漢字は一方通行で伝わったのではなく、[[行き来|ゆきき]]しながら育ってきたのである。",
+  "gloss": {
+    "国字": {
+      "m": "國字（日本自創漢字）"
+    },
+    "境目": {
+      "m": "分界"
+    },
+    "発想": {
+      "m": "構想"
+    },
+    "耕作地": {
+      "m": "耕地"
+    },
+    "枠": {
+      "m": "框"
+    },
+    "匂": {
+      "m": "散發香氣（匂う）"
+    },
+    "行き来": {
+      "m": "往返交流"
+    },
+    "腺": {
+      "m": "腺"
+    },
+    "蘭学者": {
+      "m": "蘭學者（研究荷蘭學術的學者）"
+    },
+    "オランダ語": {
+      "m": "荷蘭語"
+    },
+    "医学書": {
+      "m": "醫學書"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "峠, 凪, 畑: kanji made in Japan",
+      "g": {
+        "国字": [
+          "kokuji (kanji created in Japan)"
+        ],
+        "境目": [
+          "borderline"
+        ],
+        "発想": [
+          "idea, conception"
+        ],
+        "耕作地": [
+          "farmland"
+        ],
+        "枠": [
+          "frame"
+        ],
+        "匂": [
+          "to smell fragrant (匂う)"
+        ],
+        "行き来": [
+          "coming and going, exchange"
+        ],
+        "腺": [
+          "gland"
+        ],
+        "蘭学者": [
+          "scholar of Dutch learning"
+        ],
+        "オランダ語": [
+          "Dutch"
+        ],
+        "医学書": [
+          "medical book"
+        ]
+      }
+    },
+    "de": {
+      "s": "峠, 凪, 畑: in Japan erfundene Kanji",
+      "g": {
+        "国字": [
+          "Kokuji (in Japan erfundene Kanji)"
+        ],
+        "境目": [
+          "Grenze"
+        ],
+        "発想": [
+          "Idee"
+        ],
+        "耕作地": [
+          "Ackerland"
+        ],
+        "枠": [
+          "Rahmen"
+        ],
+        "匂": [
+          "duften (匂う)"
+        ],
+        "行き来": [
+          "Austausch, Hin und Her"
+        ],
+        "腺": [
+          "Drüse"
+        ],
+        "蘭学者": [
+          "Gelehrter der „Hollandkunde“"
+        ],
+        "オランダ語": [
+          "Niederländisch"
+        ],
+        "医学書": [
+          "medizinisches Buch"
+        ]
+      }
+    },
+    "hans": {
+      "s": "日本自创的汉字「国字」",
+      "g": {
+        "国字": [
+          "国字（日本自创汉字）"
+        ],
+        "境目": [
+          "分界"
+        ],
+        "発想": [
+          "构想"
+        ],
+        "耕作地": [
+          "耕地"
+        ],
+        "枠": [
+          "框"
+        ],
+        "匂": [
+          "散发香气（匂う）"
+        ],
+        "行き来": [
+          "往返交流"
+        ],
+        "腺": [
+          "腺"
+        ],
+        "蘭学者": [
+          "兰学者（研究荷兰学术的学者）"
+        ],
+        "オランダ語": [
+          "荷兰语"
+        ],
+        "医学書": [
+          "医学书"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "漢字雖然是從中國傳來的，但日本也有自己獨創的漢字。這些字被稱為「國字」或「和製漢字」。",
+      "zh-Hans": "汉字虽然是从中国传来的，但日本也有自己独创的汉字。这些字被称为「国字」或「和制汉字」。",
+      "en": "Although kanji came from China, Japan also created its own kanji. These are called 「国字」 or 「和製漢字」, Japanese-made kanji.",
+      "de": "Although kanji came from China, Japan also created its own kanji. These are called 「国字」 or 「和製漢字」, Japanese-made kanji."
+    },
+    {
+      "zh-Hant": "「峠」指的是上坡與下坡的分界，也就是山路最高的地方。在山字旁上組合「上」與「下」，構思極為巧妙。「凪」指風停了、海面變得平靜。「畑」則表示用火燒掉雜草後開墾出來的旱田。它是為了與水田的「田」加以區分而誕生的。",
+      "zh-Hans": "「峠」指的是上坡与下坡的分界，也就是山路最高的地方。在山字旁上组合「上」与「下」，构思极为巧妙。「凪」指风停了、海面变得平静。「畑」则表示用火烧掉杂草后开垦出来的旱田。它是为了与水田的「田」加以区分而诞生的。",
+      "en": "「峠」 refers to the boundary between an uphill and a downhill slope, the highest point of a mountain path. Combining 「上」 and 「下」 within the mountain radical is a brilliant idea. 「凪」 means the wind has stopped and the sea has grown calm. 「畑」 denotes dry farmland cleared by burning weeds. It was created to distinguish it from the rice-paddy character 「田」.",
+      "de": "「峠」 refers to the boundary between an uphill and a downhill slope, the highest point of a mountain path. Combining 「上」 and 「下」 within the mountain radical is a brilliant idea. 「凪」 means the wind has stopped and the sea has grown calm. 「畑」 denotes dry farmland cleared by burning weeds. It was created to distinguish it from the rice-paddy character 「田」."
+    },
+    {
+      "zh-Hant": "此外，「働」「込」「枠」「匂う」等也被視為國字。其中，「腺」是江戶時代的蘭學者為了翻譯荷蘭文醫學書而造出的字，後來也傳入中文，用在「淋巴腺」等詞中。漢字並不是單向傳播的，而是在往來之間不斷成長的。",
+      "zh-Hans": "此外，「働」「込」「枠」「匂う」等也被视为国字。其中，「腺」是江户时代的兰学者为了翻译荷兰文医学书而造出的字，后来也传入中文，用在「淋巴腺」等词中。汉字并不是单向传播的，而是在往来之间不断成长的。",
+      "en": "Other characters considered 国字 include 「働」「込」「枠」 and 「匂う」. Among them, 「腺」 (gland) was created by Edo-period Dutch-learning scholars to translate Dutch medical texts. It later entered Chinese and is used in words like 淋巴腺 (lymph gland). Kanji did not travel in one direction only; they grew through constant exchange.",
+      "de": "Other characters considered 国字 include 「働」「込」「枠」 and 「匂う」. Among them, 「腺」 (gland) was created by Edo-period Dutch-learning scholars to translate Dutch medical texts. It later entered Chinese and is used in words like 淋巴腺 (lymph gland). Kanji did not travel in one direction only; they grew through constant exchange."
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "w-sakura",
+  "d": -1,
+  "lv": "n2",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "桜はなぜ一斉に咲くのか",
+  "sub": "櫻花為什麼會同時盛開？",
+  "body": "春になると、ニュースで「[[桜前線|さくらぜんせん]]」という言葉を耳にする。各地の[[開花日|かいかび]]を結んだ線で、三月に九州から始まり、五月ごろ北海道に達する。こうした予報が成り立つのは、日本の桜の大部分が、ある一つの品種だからだ。\n\nその品種が「ソメイヨシノ」。江戸時代の末ごろ、江戸の染井村（今の東京都豊島区）の植木職人たちが広めたとされる。花が大きく、葉が出る前に花だけが一斉に咲くため、見栄えがよく、明治以降、学校や公園、川沿いに次々と植えられた。\n\n実は、ソメイヨシノは自分の花どうしでは種ができにくい。そのため、増やすときは[[接ぎ木|つぎき]]という方法を使う。ほかの木の枝を[[台木|だいき]]につないで育てるのだ。つまり、全国のソメイヨシノは、元をたどれば同じ一本の木から分かれた[[クローン|クローン]]であり、遺伝的な性質がほぼ同じだと考えられている。\n\nだから、気温などの条件がそろえば、同じ地域の桜はほぼ同時に咲き、同時に散る。一斉に咲いて、はかなく散る。日本人が桜に重ねてきた[[美意識|びいしき]]は、実はこの植物の[[性質|せいしつ]]に支えられているのかもしれない。",
+  "gloss": {
+    "桜前線": {
+      "m": "櫻花前線（各地開花日期的連線）"
+    },
+    "開花日": {
+      "m": "開花日"
+    },
+    "接ぎ木": {
+      "m": "嫁接"
+    },
+    "台木": {
+      "m": "砧木"
+    },
+    "クローン": {
+      "m": "複製體（無性繁殖系）"
+    },
+    "美意識": {
+      "m": "審美意識"
+    },
+    "性質": {
+      "m": "性質、特性"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Why do the cherry trees bloom all at once?",
+      "g": {
+        "桜前線": [
+          "cherry blossom front"
+        ],
+        "開花日": [
+          "first-bloom date"
+        ],
+        "接ぎ木": [
+          "grafting"
+        ],
+        "台木": [
+          "rootstock"
+        ],
+        "クローン": [
+          "clone"
+        ],
+        "美意識": [
+          "aesthetic sense"
+        ],
+        "性質": [
+          "nature, property"
+        ]
+      }
+    },
+    "de": {
+      "s": "Warum blühen die Kirschbäume alle gleichzeitig?",
+      "g": {
+        "桜前線": [
+          "Kirschblütenfront"
+        ],
+        "開花日": [
+          "Blühbeginn"
+        ],
+        "接ぎ木": [
+          "Pfropfen, Veredeln"
+        ],
+        "台木": [
+          "Unterlage (beim Veredeln)"
+        ],
+        "クローン": [
+          "Klon"
+        ],
+        "美意識": [
+          "Schönheitsempfinden"
+        ],
+        "性質": [
+          "Eigenschaft"
+        ]
+      }
+    },
+    "hans": {
+      "s": "樱花为什么会同时盛开？",
+      "g": {
+        "桜前線": [
+          "樱花前线（各地开花日期的连接）"
+        ],
+        "開花日": [
+          "开花日"
+        ],
+        "接ぎ木": [
+          "嫁接"
+        ],
+        "台木": [
+          "砧木"
+        ],
+        "クローン": [
+          "拷贝体（无性繁殖系）"
+        ],
+        "美意識": [
+          "审美意识"
+        ],
+        "性質": [
+          "性质、特性"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "每到春天，新聞裡就會聽到「櫻花前線」這個詞。這是把各地開花日期連起來的線，三月從九州開始，五月左右抵達北海道。之所以能做這樣的預報，是因為日本的櫻花大部分都是同一個品種。",
+      "zh-Hans": "每到春天，新闻里就会听到「樱花前线」这个词。这是把各地开花日期连起来的线，三月从九州开始，五月左右抵达北海道。之所以能做这样的预报，是因为日本的樱花大部分都是同一个品种。",
+      "en": "Every spring the news talks about the cherry blossom front. It's a line connecting the first-bloom dates across the country, starting in Kyushu in March and reaching Hokkaido around May. Forecasts like this work because most of Japan's cherry trees are a single variety.",
+      "de": "Jeden Frühling spricht man in den Nachrichten von der Kirschblütenfront. Sie verbindet die Blühtermine im ganzen Land, beginnt im März in Kyushu und erreicht um Mai Hokkaido. Solche Vorhersagen funktionieren, weil die meisten Kirschbäume Japans zu einer einzigen Sorte gehören."
+    },
+    {
+      "zh-Hant": "這個品種就是「染井吉野」。據說是江戶時代末期，由江戶染井村（現在的東京都豐島區）的園藝師傅推廣開來的。它的花大，而且在長葉子之前就只有花一齊盛開，非常好看，所以明治以後被大量種在學校、公園和河邊。",
+      "zh-Hans": "这个品种就是「染井吉野」。据说是江户时代末期，由江户染井村（现在的东京都丰岛区）的园艺师傅推广开来的。它的花大，而且在长叶子之前就只有花一齐盛开，非常好看，所以明治以后被大量种在学校、公园和河边。",
+      "en": "That variety is the Somei-yoshino. It is said to have been spread by gardeners in Somei village in Edo (today Toshima, Tokyo) at the end of the Edo period. Its flowers are large and they all open before the leaves appear, which looks spectacular, so from the Meiji era on it was planted at schools, in parks and along rivers.",
+      "de": "Diese Sorte ist die Somei-yoshino. Gärtner aus dem Dorf Somei in Edo (heute Toshima, Tokio) sollen sie gegen Ende der Edo-Zeit verbreitet haben. Die Blüten sind groß und öffnen sich alle, bevor die Blätter kommen – ein prächtiger Anblick. Ab der Meiji-Zeit pflanzte man sie deshalb an Schulen, in Parks und entlang von Flüssen."
+    },
+    {
+      "zh-Hant": "其實，染井吉野用自己的花互相授粉很難結出種子，所以繁殖時用的是「嫁接」：把枝條接到別的樹的砧木上培育。也就是說，全國的染井吉野追溯起來都是從同一棵樹分出來的複製體，遺傳性質被認為幾乎相同。",
+      "zh-Hans": "其实，染井吉野用自己的花互相授粉很难结出种子，所以繁殖时用的是「嫁接」：把枝条接到别的树的砧木上培育。也就是说，全国的染井吉野追溯起来都是从同一棵树分出来的拷贝体，遗传性质被认为几乎相同。",
+      "en": "Somei-yoshino rarely sets seed from its own flowers, so it is propagated by grafting: a branch is joined onto the rootstock of another tree. In other words, the Somei-yoshino trees across Japan are clones that trace back to a single tree, and are thought to be almost genetically identical.",
+      "de": "Somei-yoshino bildet mit eigenen Blüten kaum Samen, deshalb vermehrt man sie durch Pfropfen: Ein Zweig wird auf die Unterlage eines anderen Baums gesetzt. Die Somei-yoshino im ganzen Land sind also Klone, die auf einen einzigen Baum zurückgehen, und gelten als genetisch fast identisch."
+    },
+    {
+      "zh-Hant": "所以只要氣溫等條件一致，同一地區的櫻花就會幾乎同時開、同時謝。一齊盛開，又短暫凋零——日本人寄託在櫻花上的審美意識，也許其實是由這種植物的特性支撐著的。",
+      "zh-Hans": "所以只要气温等条件一致，同一地区的樱花就会几乎同时开、同时谢。一齐盛开，又短暂凋零——日本人寄托在樱花上的审美意识，也许其实是由这种植物的特性支撑着的。",
+      "en": "So when temperature and other conditions are the same, cherry trees in one area bloom and fall almost at the same time. Blooming all at once and scattering so briefly — the aesthetic the Japanese have long seen in cherry blossoms may in fact rest on the nature of this one plant.",
+      "de": "Herrschen also gleiche Bedingungen wie die Temperatur, blühen und verblühen die Kirschbäume einer Gegend fast gleichzeitig. Alle auf einmal blühen und schnell vergehen – das Schönheitsempfinden, das die Japaner mit der Kirschblüte verbinden, beruht vielleicht tatsächlich auf den Eigenschaften dieser einen Pflanze."
+    }
+  ]
+}

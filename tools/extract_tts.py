@@ -1,6 +1,8 @@
 """Collect every Japanese string Shiori can read aloud -> tools/tts_texts.json.
-Run locally after editing content:  python3 tools/extract_tts.py  (needs playwright + chromium)."""
-import json, pathlib
+Run after editing content (it reads the built data/content.json, so run tools/build_content.py first):
+    python3 tools/build_content.py && python3 tools/extract_tts.py      (needs playwright + chromium)
+Pushing a changed tools/tts_texts.json starts the VOICEVOX build on GitHub, which only renders new texts."""
+import functools, http.server, json, pathlib, threading
 from playwright.sync_api import sync_playwright
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 JS = r"""async()=>{
@@ -20,10 +22,17 @@ JS = r"""async()=>{
  for(const k in KEX)add(k);
  add("こんにちは。栞へようこそ。今日も、少しずつ読んでいきましょう。");
  return [...out]}"""
+# the page loads data/content.json with fetch(), which needs http:// (not file://)
+class Quiet(http.server.SimpleHTTPRequestHandler):
+    def log_message(self, *a): pass
+srv = http.server.ThreadingHTTPServer(("127.0.0.1", 0), functools.partial(Quiet, directory=str(ROOT)))
+threading.Thread(target=srv.serve_forever, daemon=True).start()
 with sync_playwright() as p:
     b = p.chromium.launch(); pg = b.new_page()
-    pg.goto((ROOT / "index.html").as_uri()); pg.wait_for_timeout(800)
+    pg.goto(f"http://127.0.0.1:{srv.server_address[1]}/index.html")
+    pg.wait_for_function("typeof render==='function'", timeout=30000)
     texts = pg.evaluate(JS); b.close()
+srv.shutdown()
 kata = lambda s: "".join(chr(ord(c) + 0x60) if 0x3041 <= ord(c) <= 0x3096 else c for c in s)
 texts = sorted(set(texts) | {kata(x) for x in texts if len(x) <= 2 and all(0x3041 <= ord(c) <= 0x309F for c in x)})
 (ROOT / "tools/tts_texts.json").write_text(json.dumps(texts, ensure_ascii=False, indent=0), encoding="utf-8")

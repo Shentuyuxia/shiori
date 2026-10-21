@@ -1,0 +1,201 @@
+{
+  "id": "d91",
+  "d": 91,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "短篇",
+    "ja": "掌編"
+  },
+  "title": "試験の朝",
+  "sub": "掌篇：考試的早晨",
+  "body": "母は何も言わずに、いつもより早く起きて[[味噌汁|みそしる]]を作っていた。[[験担ぎ|げんかつぎ]]の[[カツ丼|カツどん]]は、昨日の夜に済ませた。「試験に勝つ」の「カツ」だ。\n\n玄関で靴を履いていると、母が[[使い捨てカイロ|つかいすてカイロ]]を二つ[[手渡して|てわたして]]きた。「一つは手、一つは[[背中|せなか]]」。それから[[お守り|おまもり]]。去年、合格[[祈願|きがん]]で有名な神社まで行って買ってきたものだ。\n\n「行ってきます」と言うと、母は「行ってらっしゃい」とだけ言った。[[頑張って|がんばって]]とは言わなかった。それが母なりの[[気遣い|きづかい]]だと分かったのは、ずっと後になってからだ。\n\n外は[[凍える|こごえる]]ほど寒かった。私はポケットの中のカイロを[[握りしめて|にぎりしめて]]、駅に向かって歩き出した。",
+  "gloss": {
+    "味噌汁": {
+      "m": "味噌湯"
+    },
+    "験担ぎ": {
+      "m": "討吉利"
+    },
+    "カツ丼": {
+      "m": "豬排丼"
+    },
+    "使い捨てカイロ": {
+      "m": "拋棄式暖暖包"
+    },
+    "手渡して": {
+      "m": "親手遞給"
+    },
+    "背中": {
+      "m": "背"
+    },
+    "お守り": {
+      "m": "護身符"
+    },
+    "祈願": {
+      "m": "祈願"
+    },
+    "頑張って": {
+      "m": "加油"
+    },
+    "気遣い": {
+      "m": "體貼"
+    },
+    "凍える": {
+      "m": "凍僵"
+    },
+    "握りしめて": {
+      "m": "緊握"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The morning of the exam",
+      "g": {
+        "味噌汁": [
+          "miso soup"
+        ],
+        "験担ぎ": [
+          "doing something for luck"
+        ],
+        "カツ丼": [
+          "katsudon (pork cutlet on rice)"
+        ],
+        "使い捨てカイロ": [
+          "disposable hand warmer"
+        ],
+        "手渡して": [
+          "handing over"
+        ],
+        "背中": [
+          "back"
+        ],
+        "お守り": [
+          "amulet"
+        ],
+        "祈願": [
+          "prayer for"
+        ],
+        "頑張って": [
+          "good luck, do your best"
+        ],
+        "気遣い": [
+          "thoughtfulness"
+        ],
+        "凍える": [
+          "to be frozen"
+        ],
+        "握りしめて": [
+          "clutching"
+        ]
+      }
+    },
+    "de": {
+      "s": "Der Morgen der Prüfung",
+      "g": {
+        "味噌汁": [
+          "Misosuppe"
+        ],
+        "験担ぎ": [
+          "etwas für das Glück tun"
+        ],
+        "カツ丼": [
+          "Katsudon (Schnitzel auf Reis)"
+        ],
+        "使い捨てカイロ": [
+          "Einweg-Handwärmer"
+        ],
+        "手渡して": [
+          "überreichend"
+        ],
+        "背中": [
+          "Rücken"
+        ],
+        "お守り": [
+          "Glücksbringer"
+        ],
+        "祈願": [
+          "Gebet um"
+        ],
+        "頑張って": [
+          "viel Erfolg, gib dein Bestes"
+        ],
+        "気遣い": [
+          "Fürsorge"
+        ],
+        "凍える": [
+          "frieren"
+        ],
+        "握りしめて": [
+          "fest umklammernd"
+        ]
+      }
+    },
+    "hans": {
+      "s": "掌篇：考试的早晨",
+      "g": {
+        "味噌汁": [
+          "味噌汤"
+        ],
+        "験担ぎ": [
+          "讨吉利"
+        ],
+        "カツ丼": [
+          "猪排丼"
+        ],
+        "使い捨てカイロ": [
+          "抛弃式暖暖包"
+        ],
+        "手渡して": [
+          "亲手递给"
+        ],
+        "背中": [
+          "背"
+        ],
+        "お守り": [
+          "护身符"
+        ],
+        "祈願": [
+          "祈愿"
+        ],
+        "頑張って": [
+          "加油"
+        ],
+        "気遣い": [
+          "体贴"
+        ],
+        "凍える": [
+          "冻僵"
+        ],
+        "握りしめて": [
+          "紧握"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "母親什麼也沒說，比平常更早起床，煮了味噌湯。為了討吉利吃的炸豬排蓋飯，昨晚就已經吃過了。是「考試致勝」的「カツ」。",
+      "zh-Hans": "母亲什么也没说，比平常更早起床，煮了味噌汤。为了讨吉利吃的炸猪排盖饭，昨晚就已经吃过了。是「考试致胜」的「カツ」。",
+      "en": "My mother said nothing and got up earlier than usual to make miso soup. The tonkatsu donburi I ate for good luck was already eaten last night. It was the 「カツ」 of \"winning the exam\" (katsu, the same sound as \"cutlet\").",
+      "de": "My mother said nothing and got up earlier than usual to make miso soup. The tonkatsu donburi I ate for good luck was already eaten last night. It was the 「カツ」 of \"winning the exam\" (katsu, the same sound as \"cutlet\")."
+    },
+    {
+      "zh-Hant": "穿鞋時，母親遞給我兩個一次性暖暖包。「一個貼手，一個貼背。」接著又是一個護身符。那是去年我為了祈求考試合格，去著名神社買回來的。",
+      "zh-Hans": "穿鞋时，母亲递给我两个一次性暖暖包。「一个贴手，一个贴背。」接着又是一个护身符。那是去年我为了祈求考试合格，去著名神社买回来的。",
+      "en": "As I was putting on my shoes at the entrance, my mother handed me two disposable hand warmers. \"One for your hands, one for your back.\" Then there was an amulet, which I had bought last year at a famous shrine to pray for passing the exam.",
+      "de": "As I was putting on my shoes at the entrance, my mother handed me two disposable hand warmers. \"One for your hands, one for your back.\" Then there was an amulet, which I had bought last year at a famous shrine to pray for passing the exam."
+    },
+    {
+      "zh-Hant": "我說「我去了」，母親只回了一句「去吧」。她沒有說要加油。直到很久以後，我才明白那是她獨特的關心。",
+      "zh-Hans": "我说「我去了」，母亲只回了一句「去吧」。她没有说要加油。直到很久以后，我才明白那是她独特的关心。",
+      "en": "When I said, \"I'm going,\" my mother only replied, \"Off you go.\" She did not say to do my best. It was only much later that I understood this was her own way of caring.",
+      "de": "When I said, \"I'm going,\" my mother only replied, \"Off you go.\" She did not say to do my best. It was only much later that I understood this was her own way of caring."
+    },
+    {
+      "zh-Hant": "外面冷得幾乎凍僵。我握緊口袋裡的暖暖包，邁步走向車站。",
+      "zh-Hans": "外面冷得几乎冻僵。我握紧口袋里的暖暖包，迈步走向车站。",
+      "en": "Outside, it was cold enough to freeze me. I clenched the hand warmer in my pocket and started walking toward the station.",
+      "de": "Outside, it was cold enough to freeze me. I clenched the hand warmer in my pocket and started walking toward the station."
+    }
+  ]
+}

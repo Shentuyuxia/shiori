@@ -1,0 +1,144 @@
+{
+  "id": "d21",
+  "d": 21,
+  "lv": "n1",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "商務日語",
+    "ja": "ビジネス日本語"
+  },
+  "title": "上手に断るメール",
+  "sub": "商務日語：婉拒的郵件",
+  "body": "件名：講演のご依頼について\n\n山田様\n\nいつもお世話になっております。\nこのたびは講演のご依頼をいただき、誠にありがとうございます。\n\n[[大変恐縮|たいへんきょうしゅく]]ではございますが、当日はあいにく[[先約|せんやく]]がございまして、お引き受けすることが[[難しい|むずかしい]]状況です。\nせっかくお声がけいただいたにもかかわらず、ご期待に[[添えず|そえず]]申し訳ございません。\n\n[[差し支えなければ|さしつかえなければ]]、別の日程であれば調整が可能ですので、[[改めて|あらためて]]ご相談いただけますと幸いです。\n今後とも何卒よろしくお願い申し上げます。",
+  "gloss": {
+    "大変恐縮": {
+      "m": "非常過意不去",
+      "n": "婉拒時的開場白。"
+    },
+    "先約": {
+      "m": "已有約在先"
+    },
+    "難しい": {
+      "m": "困難",
+      "n": "商務上「難しい」幾乎等於「不行」。"
+    },
+    "添えず": {
+      "m": "無法符合（原形：添う）"
+    },
+    "差し支えなければ": {
+      "m": "如果方便的話"
+    },
+    "改めて": {
+      "m": "另外、重新"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "A polite refusal email",
+      "g": {
+        "大変恐縮": [
+          "I am very sorry to say",
+          "Opening phrase for a refusal."
+        ],
+        "先約": [
+          "prior engagement"
+        ],
+        "難しい": [
+          "difficult",
+          "In business 難しい practically means \"no\"."
+        ],
+        "添えず": [
+          "unable to meet (dict. form: 添う)"
+        ],
+        "差し支えなければ": [
+          "if it's not inconvenient"
+        ],
+        "改めて": [
+          "again, another time"
+        ]
+      }
+    },
+    "de": {
+      "s": "Eine höfliche Absage per Mail",
+      "g": {
+        "大変恐縮": [
+          "es tut mir sehr leid",
+          "Einleitungsformel für eine Absage."
+        ],
+        "先約": [
+          "frühere Verabredung"
+        ],
+        "難しい": [
+          "schwierig",
+          "Im Geschäftsleben heißt 難しい praktisch „nein“."
+        ],
+        "添えず": [
+          "nicht entsprechen können (Grundform: 添う)"
+        ],
+        "差し支えなければ": [
+          "wenn es Ihnen recht ist"
+        ],
+        "改めて": [
+          "erneut, ein andermal"
+        ]
+      }
+    },
+    "hans": {
+      "s": "商务日语：婉拒的邮件",
+      "g": {
+        "大変恐縮": [
+          "非常过意不去",
+          "婉拒时的开场白。"
+        ],
+        "先約": [
+          "已有约在先"
+        ],
+        "難しい": [
+          "困难",
+          "商务上「难しい」几乎等于「不行」。"
+        ],
+        "添えず": [
+          "无法符合（原形：添う）"
+        ],
+        "差し支えなければ": [
+          "如果方便的话"
+        ],
+        "改めて": [
+          "另外、重新"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "主旨：關於演講邀約",
+      "zh-Hans": "主旨：关于演讲邀约",
+      "en": "Subject: Regarding your speaking request",
+      "de": "Subject: Regarding your speaking request"
+    },
+    {
+      "zh-Hant": "山田先生",
+      "zh-Hans": "山田先生",
+      "en": "Dear Mr. Yamada,",
+      "de": "Dear Mr. Yamada,"
+    },
+    {
+      "zh-Hant": "一直承蒙您的關照。\n非常感謝您這次邀請我擔任演講。",
+      "zh-Hans": "一直承蒙您的关照。\n非常感谢您这次邀请我担任演讲。",
+      "en": "Thank you always for your kind support.\nThank you very much for inviting me to speak.",
+      "de": "Thank you always for your kind support.\nThank you very much for inviting me to speak."
+    },
+    {
+      "zh-Hant": "非常抱歉，當天很不巧我已經有約在先，因此很難答應這次邀請。\n明明您特地來邀請我，卻無法符合您的期待，實在非常抱歉。",
+      "zh-Hans": "非常抱歉，当天很不巧我已经有约在先，因此很难答应这次邀请。\n明明您特地来邀请我，却无法符合您的期待，实在非常抱歉。",
+      "en": "I am truly sorry, but unfortunately I already have a prior engagement on that day, which makes it difficult for me to accept.\nI regret that I cannot meet your expectations, despite your kind invitation.",
+      "de": "I am truly sorry, but unfortunately I already have a prior engagement on that day, which makes it difficult for me to accept.\nI regret that I cannot meet your expectations, despite your kind invitation."
+    },
+    {
+      "zh-Hant": "如果方便的話，若能安排其他日期，我可以再協調。若您願意，請另外再與我們商量，我將不勝感激。\n今後也請您多多指教。",
+      "zh-Hans": "如果方便的话，若能安排其他日期，我可以再协调。若您愿意，请另外再与我们商量，我将不胜感激。\n今后也请您多多指教。",
+      "en": "If it is convenient for you, I may be able to adjust for a different date. If you would be willing to discuss it again at another time, I would be grateful.\nI look forward to your continued support.",
+      "de": "If it is convenient for you, I may be able to adjust for a different date. If you would be willing to discuss it again at another time, I would be grateful.\nI look forward to your continued support."
+    }
+  ]
+}

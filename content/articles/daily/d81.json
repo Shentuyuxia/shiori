@@ -1,0 +1,177 @@
+{
+  "id": "d81",
+  "d": 81,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "同字異義",
+    "ja": "同形異義語"
+  },
+  "title": "娘・姑・老婆",
+  "sub": "同字異義⑥：家人的稱呼",
+  "body": "家族を表す漢字にも、日本語と中国語でずれがあるものが多い。\n\n日本語の「娘」は、「むすめ」と読み、自分の女の子どもを指す。若い女性一般を言うこともある。中国語の「娘」が[[母親|ははおや]]を指すのとは、世代が一つ[[ずれて|ずれて]]いる。\n\n「姑」は「しゅうとめ」と読み、夫の母、つまり[[義理|ぎり]]の母のこと。中国語の「姑」（父の姉妹）とは別人だ。「嫁と姑」と言えば、日本のドラマで[[繰り返し|くりかえし]]描かれてきた、[[永遠|えいえん]]の対立の[[構図|こうず]]である。\n\nそして「老婆」。日本語では「ろうば」と読み、年をとった女性のことだ。中国語の「老婆」（妻）のつもりで「これが私の老婆です」と紹介したら、とんでもない[[誤解|ごかい]]を[[招く|まねく]]。「[[老婆心|ろうばしん]]ながら」は、「[[余計なお世話|よけいなおせわ]]かもしれませんが」という前置きの言葉だ。",
+  "gloss": {
+    "母親": {
+      "m": "母親"
+    },
+    "ずれて": {
+      "m": "錯開"
+    },
+    "義理": {
+      "m": "（姻親上的）"
+    },
+    "繰り返し": {
+      "m": "反覆"
+    },
+    "永遠": {
+      "m": "永恆"
+    },
+    "構図": {
+      "m": "構圖、格局"
+    },
+    "誤解": {
+      "m": "誤會"
+    },
+    "招く": {
+      "m": "招致"
+    },
+    "老婆心": {
+      "m": "老婆心切、多管閒事的好意"
+    },
+    "余計なお世話": {
+      "m": "多管閒事"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "娘, 姑, 老婆: family words",
+      "g": {
+        "母親": [
+          "mother"
+        ],
+        "ずれて": [
+          "shifted, off"
+        ],
+        "義理": [
+          "in-law"
+        ],
+        "繰り返し": [
+          "repetition"
+        ],
+        "永遠": [
+          "eternity"
+        ],
+        "構図": [
+          "setup, composition"
+        ],
+        "誤解": [
+          "misunderstanding"
+        ],
+        "招く": [
+          "to invite, cause"
+        ],
+        "老婆心": [
+          "unsolicited advice from concern"
+        ],
+        "余計なお世話": [
+          "none of your business"
+        ]
+      }
+    },
+    "de": {
+      "s": "娘, 姑, 老婆: Familienwörter",
+      "g": {
+        "母親": [
+          "Mutter"
+        ],
+        "ずれて": [
+          "verschoben"
+        ],
+        "義理": [
+          "angeheiratet"
+        ],
+        "繰り返し": [
+          "Wiederholung"
+        ],
+        "永遠": [
+          "Ewigkeit"
+        ],
+        "構図": [
+          "Konstellation"
+        ],
+        "誤解": [
+          "Missverständnis"
+        ],
+        "招く": [
+          "hervorrufen"
+        ],
+        "老婆心": [
+          "gut gemeinter Rat"
+        ],
+        "余計なお世話": [
+          "geht dich nichts an"
+        ]
+      }
+    },
+    "hans": {
+      "s": "同字异义⑥：家人的称呼",
+      "g": {
+        "母親": [
+          "母亲"
+        ],
+        "ずれて": [
+          "错开"
+        ],
+        "義理": [
+          "（姻亲上的）"
+        ],
+        "繰り返し": [
+          "反复"
+        ],
+        "永遠": [
+          "永恒"
+        ],
+        "構図": [
+          "构图、格局"
+        ],
+        "誤解": [
+          "误会"
+        ],
+        "招く": [
+          "招致"
+        ],
+        "老婆心": [
+          "老婆心切、多管闲事的好意"
+        ],
+        "余計なお世話": [
+          "多管闲事"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "表示家人的漢字，在日語和中文之間有許多錯位。",
+      "zh-Hans": "表示家人的汉字，在日语和中文之间有许多错位。",
+      "en": "Many kanji for family members have shifts in meaning between Japanese and Chinese.",
+      "de": "Many kanji for family members have shifts in meaning between Japanese and Chinese."
+    },
+    {
+      "zh-Hant": "日語的「娘」讀作「むすめ」，指自己的女兒，有時也泛指年輕女性。與中文「娘」指母親相比，差了一個世代。",
+      "zh-Hans": "日语的「娘」读作「むすめ」，指自己的女儿，有时也泛指年轻女性。与中文「娘」指母亲相比，差了一个世代。",
+      "en": "Japanese 「娘」 is read 「むすめ」 and refers to one's own daughter, though it can also refer to young women in general. Compared with the Chinese 娘, which means mother, it is one generation off.",
+      "de": "Japanese 「娘」 is read 「むすめ」 and refers to one's own daughter, though it can also refer to young women in general. Compared with the Chinese 娘, which means mother, it is one generation off."
+    },
+    {
+      "zh-Hant": "「姑」讀作「しゅうとめ」，指丈夫的母親，也就是婆婆。與中文的「姑」（父親的姊妹）完全是不同的人。說到「嫁與姑」，是日本電視劇中反覆描寫的、永恆的對立結構。",
+      "zh-Hans": "「姑」读作「しゅうとめ」，指丈夫的母亲，也就是婆婆。与中文的「姑」（父亲的姊妹）完全是不同的人。说到「嫁与姑」，是日本电视剧中反复描写的、永恒的对立结构。",
+      "en": "「姑」 is read 「しゅうとめ」 and refers to one's husband's mother, the mother-in-law. It is a different person from the Chinese 姑 (a father's sister). Speaking of 「嫁と姑」, the bride and mother-in-law, this is the eternal conflict depicted again and again in Japanese TV dramas.",
+      "de": "「姑」 is read 「しゅうとめ」 and refers to one's husband's mother, the mother-in-law. It is a different person from the Chinese 姑 (a father's sister). Speaking of 「嫁と姑」, the bride and mother-in-law, this is the eternal conflict depicted again and again in Japanese TV dramas."
+    },
+    {
+      "zh-Hant": "還有「老婆」。日語讀作「ろうば」，指年長的女性。如果用中文「老婆」（妻子）的意思，說「這是我的老婆」，就會造成極大的誤會。「老婆心ながら」是一句前言，意思是「或許是多管閒事」。",
+      "zh-Hans": "还有「老婆」。日语读作「ろうば」，指年长的女性。如果用中文「老婆」（妻子）的意思，说「这是我的老婆」，就会造成极大的误会。「老婆心ながら」是一句前言，意思是「或许是多管闲事」。",
+      "en": "And then there is 「老婆」. In Japanese it is read 「ろうば」 and means an elderly woman. If you introduce someone as 「これが私の老婆です」 using the Chinese meaning of 老婆 (wife), you will cause a serious misunderstanding. 「老婆心ながら」 is a preface meaning \"this may be unnecessary meddling, but...\"",
+      "de": "And then there is 「老婆」. In Japanese it is read 「ろうば」 and means an elderly woman. If you introduce someone as 「これが私の老婆です」 using the Chinese meaning of 老婆 (wife), you will cause a serious misunderstanding. 「老婆心ながら」 is a preface meaning \"this may be unnecessary meddling, but...\""
+    }
+  ]
+}

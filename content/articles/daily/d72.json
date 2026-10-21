@@ -1,0 +1,135 @@
+{
+  "id": "d72",
+  "d": 72,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "語言雜談",
+    "ja": "ことば雑記"
+  },
+  "title": "「よいお年を」",
+  "sub": "年底與年初的問候語",
+  "body": "年末に人と別れるとき、日本人は「よいお年を」と言う。「よいお年をお迎えください」を短くした形だ。一方、年が明けてから会ったときには「あけましておめでとうございます」と言う。\n\nこの二つは、使う時期がはっきり分かれている。年内に「あけましておめでとう」と言うのは[[気が早すぎる|きがはやすぎる]]し、年が明けてから「よいお年を」と言うのは[[間が抜けて|まがぬけて]]いる。[[仕事納め|しごとおさめ]]の日に会社で交わされるのは、もちろん「よいお年を」だ。\n\nなお、「あけましておめでとう」は、一般に[[松の内|まつのうち]]（一月七日、地域によっては十五日まで）に使うものとされる。また、[[喪中|もちゅう]]の人には「おめでとう」を避け、「今年もよろしくお願いします」とだけ伝えるのが[[心遣い|こころづかい]]だ。挨拶一つにも、季節と相手を[[読む|よむ]]感覚が求められる。",
+  "gloss": {
+    "気が早すぎる": {
+      "m": "太心急"
+    },
+    "間が抜けて": {
+      "m": "顯得遲鈍、脫線"
+    },
+    "仕事納め": {
+      "m": "年終最後一個工作日"
+    },
+    "松の内": {
+      "m": "松之內（新年擺門松的期間）"
+    },
+    "喪中": {
+      "m": "服喪期間"
+    },
+    "心遣い": {
+      "m": "體貼、關照"
+    },
+    "読む": {
+      "m": "揣摩"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "\"Have a good year\": year-end and New Year greetings",
+      "g": {
+        "気が早すぎる": [
+          "too early, jumping the gun"
+        ],
+        "間が抜けて": [
+          "seeming off, out of place"
+        ],
+        "仕事納め": [
+          "last working day of the year"
+        ],
+        "松の内": [
+          "New Year period (while pine decorations are up)"
+        ],
+        "喪中": [
+          "period of mourning"
+        ],
+        "心遣い": [
+          "thoughtfulness"
+        ],
+        "読む": [
+          "to read (the situation)"
+        ]
+      }
+    },
+    "de": {
+      "s": "„Einen guten Rutsch“: Grüße zum Jahreswechsel",
+      "g": {
+        "気が早すぎる": [
+          "zu voreilig"
+        ],
+        "間が抜けて": [
+          "unpassend, daneben wirkend"
+        ],
+        "仕事納め": [
+          "letzter Arbeitstag des Jahres"
+        ],
+        "松の内": [
+          "Neujahrszeit (solange der Kiefernschmuck steht)"
+        ],
+        "喪中": [
+          "Trauerzeit"
+        ],
+        "心遣い": [
+          "Rücksichtnahme"
+        ],
+        "読む": [
+          "(die Lage) einschätzen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "年底与年初的问候语",
+      "g": {
+        "気が早すぎる": [
+          "太心急"
+        ],
+        "間が抜けて": [
+          "显得迟钝、脱线"
+        ],
+        "仕事納め": [
+          "年终最后一个工作日"
+        ],
+        "松の内": [
+          "松之内（新年摆门松的期间）"
+        ],
+        "喪中": [
+          "服丧期间"
+        ],
+        "心遣い": [
+          "体贴、关照"
+        ],
+        "読む": [
+          "揣摩"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "年末與人道別時，日本人會說「よいお年を」。這是「祝您有個好的新年」的縮略說法。另一方面，年初再見面時，則會說「あけましておめでとうございます」。",
+      "zh-Hans": "年末与人道别时，日本人会说「よいお年を」。这是「祝您有个好的新年」的缩略说法。另一方面，年初再见面时，则会说「あけましておめでとうございます」。",
+      "en": "When parting with someone at year's end, Japanese people say 「よいお年を」, \"Have a good year-end and New Year.\" It is a shortened form of 「よいお年をお迎えください」. On the other hand, when meeting after the new year begins, they say 「あけましておめでとうございます」, \"Happy New Year.\"",
+      "de": "When parting with someone at year's end, Japanese people say 「よいお年を」, \"Have a good year-end and New Year.\" It is a shortened form of 「よいお年をお迎えください」. On the other hand, when meeting after the new year begins, they say 「あけましておめでとうございます」, \"Happy New Year.\""
+    },
+    {
+      "zh-Hant": "這兩句的使用時機分得很清楚。在年內說「あけましておめでとう」就太早了，而年明後才說「よいお年を」又顯得不合時宜。在公司辦完最後一天工作的日子，當然大家互道的是「よいお年を」。",
+      "zh-Hans": "这两句的使用时机分得很清楚。在年内说「あけましておめでとう」就太早了，而年明后才说「よいお年を」又显得不合时宜。在公司办完最后一天工作的日子，当然大家互道的是「よいお年を」。",
+      "en": "These two phrases are clearly separated by timing. Saying 「あけましておめでとう」 within the year is too early, and saying 「よいお年を」 after the new year has begun sounds out of place. On the last working day at the office, of course, everyone exchanges 「よいお年を」.",
+      "de": "These two phrases are clearly separated by timing. Saying 「あけましておめでとう」 within the year is too early, and saying 「よいお年を」 after the new year has begun sounds out of place. On the last working day at the office, of course, everyone exchanges 「よいお年を」."
+    },
+    {
+      "zh-Hant": "另外，「あけましておめでとう」一般用於松之內（一月七日，部分地區到十五日）。對於服喪中的人，則避免說「おめでとう」，只說「今年也請多多關照」，這是一種體貼。即使是一句問候，也需要懂得讀取季節與對方的感覺。",
+      "zh-Hans": "另外，「あけましておめでとう」一般用于松之内（一月七日，部分地区到十五日）。对于服丧中的人，则避免说「おめでとう」，只说「今年也请多多关照」，这是一种体贴。即使是一句问候，也需要懂得读取季节与对方的感觉。",
+      "en": "Also, 「あけましておめでとう」 is generally used during the 松の内 (through January 7th, or the 15th in some regions). For people in mourning, it is considerate to avoid \"congratulations\" and simply say 「今年もよろしくお願いします」. Even a single greeting calls for sensitivity to the season and to the other person.",
+      "de": "Also, 「あけましておめでとう」 is generally used during the 松の内 (through January 7th, or the 15th in some regions). For people in mourning, it is considerate to avoid \"congratulations\" and simply say 「今年もよろしくお願いします」. Even a single greeting calls for sensitivity to the season and to the other person."
+    }
+  ]
+}

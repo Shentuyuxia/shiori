@@ -1,0 +1,175 @@
+{
+  "id": "d39",
+  "d": 39,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "台灣與日本",
+    "ja": "台湾と日本"
+  },
+  "title": "ごみの分け方に驚く",
+  "sub": "台灣人對日本垃圾分類的驚訝",
+  "body": "台湾の[[ごみ収集車|ごみしゅうしゅうしゃ]]は、[[音楽|おんがく]]を流しながら町を回る。人々は決まった時間に家から出てきて、自分の手でごみを車に投げ入れる。日本から来た人は、この[[光景|こうけい]]にまず驚くそうだ。\n\n逆に、台湾から来た人が日本で驚くのは、ごみの[[分別|ぶんべつ]]の細かさだろう。燃えるごみ、燃えないごみ、[[資源|しげん]]ごみ、[[粗大|そだい]]ごみ。[[ペットボトル|ペットボトル]]はキャップとラベルを外し、中を[[すすいで|すすいで]]出す。曜日ごとに出せるごみが決まっていて、自治体によってルールも違う。\n\n最初は面倒に感じても、慣れると不思議と[[苦にならない|くにならない]]。台湾も日本も、それぞれのやり方で、ごみと[[真剣に|しんけんに]]向き合ってきたのだ。",
+  "gloss": {
+    "ごみ収集車": {
+      "m": "垃圾車"
+    },
+    "音楽": {
+      "m": "音樂"
+    },
+    "光景": {
+      "m": "光景"
+    },
+    "分別": {
+      "m": "分類",
+      "n": "讀「ぶんべつ」時是分類；讀「ふんべつ」是判斷力、理智。"
+    },
+    "資源": {
+      "m": "資源（回收）"
+    },
+    "粗大": {
+      "m": "大型（垃圾）"
+    },
+    "ペットボトル": {
+      "m": "寶特瓶"
+    },
+    "すすいで": {
+      "m": "沖洗（原形：すすぐ）"
+    },
+    "苦にならない": {
+      "m": "不覺得辛苦"
+    },
+    "真剣に": {
+      "m": "認真地"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Amazed by garbage sorting",
+      "g": {
+        "ごみ収集車": [
+          "garbage truck"
+        ],
+        "音楽": [
+          "music"
+        ],
+        "光景": [
+          "sight, scene"
+        ],
+        "分別": [
+          "sorting",
+          "Read ぶんべつ it means sorting; read ふんべつ it means good sense."
+        ],
+        "資源": [
+          "recyclables"
+        ],
+        "粗大": [
+          "oversized (garbage)"
+        ],
+        "ペットボトル": [
+          "plastic bottle"
+        ],
+        "すすいで": [
+          "rinsing (dict. form: すすぐ)"
+        ],
+        "苦にならない": [
+          "not a hassle"
+        ],
+        "真剣に": [
+          "seriously"
+        ]
+      }
+    },
+    "de": {
+      "s": "Erstaunt über die Mülltrennung",
+      "g": {
+        "ごみ収集車": [
+          "Müllwagen"
+        ],
+        "音楽": [
+          "Musik"
+        ],
+        "光景": [
+          "Anblick"
+        ],
+        "分別": [
+          "Trennung",
+          "ぶんべつ gelesen: Trennung; ふんべつ gelesen: Vernunft."
+        ],
+        "資源": [
+          "Wertstoffe"
+        ],
+        "粗大": [
+          "sperrig (Sperrmüll)"
+        ],
+        "ペットボトル": [
+          "Plastikflasche"
+        ],
+        "すすいで": [
+          "ausspülen (Grundform: すすぐ)"
+        ],
+        "苦にならない": [
+          "keine Mühe"
+        ],
+        "真剣に": [
+          "ernsthaft"
+        ]
+      }
+    },
+    "hans": {
+      "s": "台湾人对日本垃圾分类的惊讶",
+      "g": {
+        "ごみ収集車": [
+          "垃圾车"
+        ],
+        "音楽": [
+          "音乐"
+        ],
+        "光景": [
+          "光景"
+        ],
+        "分別": [
+          "分类",
+          "读「ぶんべつ」时是分类；读「ふんべつ」是判断力、理智。"
+        ],
+        "資源": [
+          "资源（回收）"
+        ],
+        "粗大": [
+          "大型（垃圾）"
+        ],
+        "ペットボトル": [
+          "宝特瓶"
+        ],
+        "すすいで": [
+          "冲洗（原形：すすぐ）"
+        ],
+        "苦にならない": [
+          "不觉得辛苦"
+        ],
+        "真剣に": [
+          "认真地"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "台灣的垃圾車會一邊播放音樂，一邊繞著街道行駛。人們會在固定的時間走出家門，親手把垃圾丟進車裡。據說從日本來的人，首先就會對這個景象感到驚訝。",
+      "zh-Hans": "台湾的垃圾车会一边播放音乐，一边绕着街道行驶。人们会在固定的时间走出家门，亲手把垃圾丢进车里。据说从日本来的人，首先就会对这个景象感到惊讶。",
+      "en": "In Taiwan, garbage trucks drive around town playing music. People come out of their homes at set times and toss their trash into the truck by hand. It is said that visitors from Japan are first surprised by this scene.",
+      "de": "In Taiwan, garbage trucks drive around town playing music. People come out of their homes at set times and toss their trash into the truck by hand. It is said that visitors from Japan are first surprised by this scene."
+    },
+    {
+      "zh-Hant": "反過來說，從台灣來的人在日本可能會驚訝於垃圾分類的細緻。可燃垃圾、不可燃垃圾、資源垃圾、大型垃圾。寶特瓶要拿掉瓶蓋和標籤，沖洗乾淨後再丟。每星期可以丟的垃圾種類都是固定的，不同的地方政府規則也不一樣。",
+      "zh-Hans": "反过来说，从台湾来的人在日本可能会惊讶于垃圾分类的细致。可燃垃圾、不可燃垃圾、资源垃圾、大型垃圾。宝特瓶要拿掉瓶盖和标签，冲洗干净后再丢。每星期可以丢的垃圾种类都是固定的，不同的地方政府规则也不一样。",
+      "en": "Conversely, people visiting from Taiwan may be surprised by how detailed Japanese garbage sorting is: burnable, non-burnable, recyclables, and oversized items. PET bottles must have their caps and labels removed and be rinsed before disposal. Which types of trash can be put out is set for each day of the week, and the rules differ from one municipality to another.",
+      "de": "Conversely, people visiting from Taiwan may be surprised by how detailed Japanese garbage sorting is: burnable, non-burnable, recyclables, and oversized items. PET bottles must have their caps and labels removed and be rinsed before disposal. Which types of trash can be put out is set for each day of the week, and the rules differ from one municipality to another."
+    },
+    {
+      "zh-Hant": "剛開始可能覺得麻煩，但習慣了之後，反而不覺得辛苦。無論台灣還是日本，都是以各自的方式，認真地面對垃圾。",
+      "zh-Hans": "刚开始可能觉得麻烦，但习惯了之后，反而不觉得辛苦。无论台湾还是日本，都是以各自的方式，认真地面对垃圾。",
+      "en": "It may feel tedious at first, but once you get used to it, it strangely stops being a burden. Both Taiwan and Japan have each, in their own way, taken garbage seriously.",
+      "de": "It may feel tedious at first, but once you get used to it, it strangely stops being a burden. Both Taiwan and Japan have each, in their own way, taken garbage seriously."
+    }
+  ]
+}

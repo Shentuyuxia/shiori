@@ -1,0 +1,187 @@
+{
+  "id": "d15",
+  "d": 15,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "季節的詞",
+    "ja": "季節のことば"
+  },
+  "title": "文化の日",
+  "sub": "文化之日（11月3日）",
+  "body": "十一月三日は「文化の日」。「自由と平和を愛し、文化をすすめる」日として、[[国民の祝日|こくみんのしゅくじつ]]に定められている。この日には皇居で[[文化勲章|ぶんかくんしょう]]の[[授与式|じゅよしき]]が行われ、学問や芸術で大きな[[功績|こうせき]]を残した人が[[表彰|ひょうしょう]]される。\n\n実はこの日は、[[明治天皇|めいじてんのう]]の誕生日でもあった。戦後、日本国憲法が[[公布|こうふ]]された日であることから、平和と文化を[[重んじる|おもんじる]]祝日として生まれ変わった。\n\nまた、文化の日は「晴れの[[特異日|とくいび]]」としても知られている。[[統計的|とうけいてき]]に晴れることが多い日、という意味だ。多くの美術館や博物館では、この日に[[入館料|にゅうかんりょう]]を無料にしているので、出かけるにはちょうどいい。",
+  "gloss": {
+    "国民の祝日": {
+      "m": "國定假日"
+    },
+    "文化勲章": {
+      "m": "文化勳章"
+    },
+    "授与式": {
+      "m": "頒發典禮"
+    },
+    "功績": {
+      "m": "功績"
+    },
+    "表彰": {
+      "m": "表揚"
+    },
+    "明治天皇": {
+      "m": "明治天皇"
+    },
+    "公布": {
+      "m": "公布"
+    },
+    "重んじる": {
+      "m": "重視、尊重"
+    },
+    "特異日": {
+      "m": "特異日",
+      "n": "統計上某種天氣特別容易出現的日子。"
+    },
+    "統計的": {
+      "m": "統計上"
+    },
+    "入館料": {
+      "m": "入館費"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Culture Day (3 November)",
+      "g": {
+        "国民の祝日": [
+          "national holiday"
+        ],
+        "文化勲章": [
+          "Order of Culture"
+        ],
+        "授与式": [
+          "award ceremony"
+        ],
+        "功績": [
+          "achievement, merit"
+        ],
+        "表彰": [
+          "commendation, honouring"
+        ],
+        "明治天皇": [
+          "Emperor Meiji"
+        ],
+        "公布": [
+          "promulgation"
+        ],
+        "重んじる": [
+          "to value, respect"
+        ],
+        "特異日": [
+          "singular day",
+          "A date on which a certain weather is statistically unusually likely."
+        ],
+        "統計的": [
+          "statistical"
+        ],
+        "入館料": [
+          "admission fee"
+        ]
+      }
+    },
+    "de": {
+      "s": "Kulturtag (3. November)",
+      "g": {
+        "国民の祝日": [
+          "nationaler Feiertag"
+        ],
+        "文化勲章": [
+          "Kulturorden"
+        ],
+        "授与式": [
+          "Verleihungszeremonie"
+        ],
+        "功績": [
+          "Verdienst, Leistung"
+        ],
+        "表彰": [
+          "Auszeichnung, Ehrung"
+        ],
+        "明治天皇": [
+          "Kaiser Meiji"
+        ],
+        "公布": [
+          "Verkündung"
+        ],
+        "重んじる": [
+          "wertschätzen, hochhalten"
+        ],
+        "特異日": [
+          "Singularitätstag",
+          "Ein Datum, an dem ein bestimmtes Wetter statistisch auffällig häufig ist."
+        ],
+        "統計的": [
+          "statistisch"
+        ],
+        "入館料": [
+          "Eintrittsgeld"
+        ]
+      }
+    },
+    "hans": {
+      "s": "文化之日（11月3日）",
+      "g": {
+        "国民の祝日": [
+          "国定假日"
+        ],
+        "文化勲章": [
+          "文化勋章"
+        ],
+        "授与式": [
+          "颁发典礼"
+        ],
+        "功績": [
+          "功绩"
+        ],
+        "表彰": [
+          "表扬"
+        ],
+        "明治天皇": [
+          "明治天皇"
+        ],
+        "公布": [
+          "公布"
+        ],
+        "重んじる": [
+          "重视、尊重"
+        ],
+        "特異日": [
+          "特异日",
+          "统计上某种天气特别容易出现的日子。"
+        ],
+        "統計的": [
+          "统计上"
+        ],
+        "入館料": [
+          "入馆费"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "十一月三日是「文化之日」。作為「熱愛自由與和平、推動文化」的日子，它被列為國定假日。當天在皇居會舉行文化勳章的頒授儀式，表揚在學術或藝術上留下重大功績的人。",
+      "zh-Hans": "十一月三日是「文化之日」。作为「热爱自由与和平、推动文化」的日子，它被列为国定假日。当天在皇居会举行文化勋章的颁授仪式，表扬在学术或艺术上留下重大功绩的人。",
+      "en": "November 3rd is 「文化の日」, Culture Day. Designated as a national holiday for \"loving freedom and peace and promoting culture,\" it is the day the Order of Culture is conferred at the Imperial Palace, honoring people who have made great contributions in scholarship or the arts.",
+      "de": "November 3rd is 「文化の日」, Culture Day. Designated as a national holiday for \"loving freedom and peace and promoting culture,\" it is the day the Order of Culture is conferred at the Imperial Palace, honoring people who have made great contributions in scholarship or the arts."
+    },
+    {
+      "zh-Hant": "其實這一天也是明治天皇的誕辰。戰後，因為這一天是《日本國憲法》公布的日子，它被重新定位為重視和平與文化的節日。",
+      "zh-Hans": "其实这一天也是明治天皇的诞辰。战后，因为这一天是《日本国宪法》公布的日子，它被重新定位为重视和平与文化的节日。",
+      "en": "In fact, this day was also the birthday of Emperor Meiji. After the war, because it was the day the Constitution of Japan was promulgated, it was reborn as a holiday that values peace and culture.",
+      "de": "In fact, this day was also the birthday of Emperor Meiji. After the war, because it was the day the Constitution of Japan was promulgated, it was reborn as a holiday that values peace and culture."
+    },
+    {
+      "zh-Hant": "另外，文化之日也以「晴天的特異日」聞名，意思是統計上經常是晴天的日子。許多美術館和博物館這天會免費入場，所以很適合出門。",
+      "zh-Hans": "另外，文化之日也以「晴天的特异日」闻名，意思是统计上经常是晴天的日子。许多美术馆和博物馆这天会免费入场，所以很适合出门。",
+      "en": "Culture Day is also known as a \"special fine-weather day,\" meaning a day that statistically tends to be sunny. Many art museums and museums offer free admission that day, so it is a good time to go out.",
+      "de": "Culture Day is also known as a \"special fine-weather day,\" meaning a day that statistically tends to be sunny. Many art museums and museums offer free admission that day, so it is a good time to go out."
+    }
+  ]
+}

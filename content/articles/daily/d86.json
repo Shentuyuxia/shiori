@@ -1,0 +1,182 @@
+{
+  "id": "d86",
+  "d": 86,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "文學原文",
+    "ja": "文学（原文）"
+  },
+  "title": "檸檬（冒頭）",
+  "sub": "梶井基次郎《檸檬》開頭（1925）",
+  "src": "青空文庫（梶井基次郎『檸檬』）",
+  "body": "[[えたいの知れない|えたいのしれない]][[不吉|ふきつ]]な[[塊|かたまり]]が私の心を[[始終|しじゅう]][[圧えつけて|おさえつけて]]いた。[[焦躁|しょうそう]]と言おうか、[[嫌悪|けんお]]と言おうか――酒を飲んだあとに[[宿酔|ふつかよい]]があるように、酒を毎日飲んでいると宿酔に相当した時期がやって来る。\n\n三十一歳で亡くなった作家の代表作。[[憂鬱|ゆううつ]]を抱えた「私」が、一個の檸檬を手にして、心がふっと軽くなる。その短い時間を、[[鮮烈|せんれつ]]な色彩で描いた[[短編|たんぺん]]である。",
+  "gloss": {
+    "えたいの知れない": {
+      "m": "莫名的、來路不明的"
+    },
+    "不吉": {
+      "m": "不祥"
+    },
+    "塊": {
+      "m": "團、塊"
+    },
+    "始終": {
+      "m": "始終"
+    },
+    "圧えつけて": {
+      "m": "壓住（今多寫「押さえつける」）"
+    },
+    "焦躁": {
+      "m": "焦躁"
+    },
+    "嫌悪": {
+      "m": "厭惡"
+    },
+    "宿酔": {
+      "m": "宿醉",
+      "n": "讀作「ふつかよい」。"
+    },
+    "憂鬱": {
+      "m": "憂鬱"
+    },
+    "鮮烈": {
+      "m": "鮮明強烈"
+    },
+    "短編": {
+      "m": "短篇"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Lemon (opening)",
+      "g": {
+        "えたいの知れない": [
+          "unidentifiable, mysterious"
+        ],
+        "不吉": [
+          "ominous"
+        ],
+        "塊": [
+          "lump, mass"
+        ],
+        "始終": [
+          "all the time"
+        ],
+        "圧えつけて": [
+          "pressing down (now usually 押さえつける)"
+        ],
+        "焦躁": [
+          "restlessness"
+        ],
+        "嫌悪": [
+          "disgust"
+        ],
+        "宿酔": [
+          "hangover",
+          "Read ふつかよい."
+        ],
+        "憂鬱": [
+          "melancholy"
+        ],
+        "鮮烈": [
+          "vivid, striking"
+        ],
+        "短編": [
+          "short story"
+        ]
+      }
+    },
+    "de": {
+      "s": "Zitrone (Anfang)",
+      "g": {
+        "えたいの知れない": [
+          "undefinierbar, rätselhaft"
+        ],
+        "不吉": [
+          "unheilvoll"
+        ],
+        "塊": [
+          "Klumpen"
+        ],
+        "始終": [
+          "ständig"
+        ],
+        "圧えつけて": [
+          "niederdrückend (heute meist 押さえつける)"
+        ],
+        "焦躁": [
+          "Unruhe"
+        ],
+        "嫌悪": [
+          "Abscheu"
+        ],
+        "宿酔": [
+          "Kater",
+          "Gelesen ふつかよい."
+        ],
+        "憂鬱": [
+          "Schwermut"
+        ],
+        "鮮烈": [
+          "eindringlich"
+        ],
+        "短編": [
+          "Kurzgeschichte"
+        ]
+      }
+    },
+    "hans": {
+      "s": "梶井基次郎《柠檬》开头（1925）",
+      "g": {
+        "えたいの知れない": [
+          "莫名的、来路不明的"
+        ],
+        "不吉": [
+          "不祥"
+        ],
+        "塊": [
+          "团、块"
+        ],
+        "始終": [
+          "始终"
+        ],
+        "圧えつけて": [
+          "压住（今多写「押さえつける」）"
+        ],
+        "焦躁": [
+          "焦躁"
+        ],
+        "嫌悪": [
+          "厌恶"
+        ],
+        "宿酔": [
+          "宿醉",
+          "读作「ふつかよい」。"
+        ],
+        "憂鬱": [
+          "忧郁"
+        ],
+        "鮮烈": [
+          "鲜明强烈"
+        ],
+        "短編": [
+          "短篇"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "一團難以名狀的、不祥的硬塊，始終壓在我的心上。說是焦躁也好，說是厭惡也罷——就像喝了酒之後會宿醉，每天喝酒的人，也會來到相當於宿醉的時期。",
+      "zh-Hans": "一团难以名状的、不祥的硬块，始终压在我的心上。说是焦躁也好，说是厌恶也罢——就像喝了酒之后会宿醉，每天喝酒的人，也会来到相当于宿醉的时期。",
+      "en": "Some ominous lump I could not name constantly pressed down on my heart. Call it irritation or call it loathing: just as drinking leaves a hangover, those who drink every day eventually reach a period equivalent to a hangover.",
+      "de": "Some ominous lump I could not name constantly pressed down on my heart. Call it irritation or call it loathing: just as drinking leaves a hangover, those who drink every day eventually reach a period equivalent to a hangover."
+    },
+    {
+      "zh-Hant": "這是三十一歲便去世的作家的代表作。懷著憂鬱的「我」，拿起一顆檸檬，心裡忽然輕鬆起來。這部短篇，以鮮明的色彩描繪了那段短暫的時光。",
+      "zh-Hans": "这是三十一岁便去世的作家的代表作。怀着忧郁的「我」，拿起一颗柠檬，心里忽然轻松起来。这部短篇，以鲜明的色彩描绘了那段短暂的时光。",
+      "en": "This is the representative work of a writer who died at thirty-one. The narrator, burdened by melancholy, picks up a single lemon, and his heart suddenly feels lighter. It is a short story that depicts that brief moment in vivid colors.",
+      "de": "This is the representative work of a writer who died at thirty-one. The narrator, burdened by melancholy, picks up a single lemon, and his heart suddenly feels lighter. It is a short story that depicts that brief moment in vivid colors."
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "d17",
+  "d": 17,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "同字異義",
+    "ja": "同形異義語"
+  },
+  "title": "「人間」はどこにいる？",
+  "sub": "同字異義②：人間、工作、放心",
+  "body": "日本語の「人間」は、ただ「人」を意味する。「人間関係」「人間らしさ」の「人間」だ。中国語の「人間」が「人の世」を指すのとは[[ずれ|ずれ]]があるが、実は日本語にも古い用法が残っている。「[[人間万事塞翁が馬|にんげんばんじさいおうがうま]]」の「人間」は、「じんかん」とも読み、世の中のことを言う。\n\n「工作」も注意が必要だ。日本語では、小学校の授業で[[画用紙|がようし]]や木を使って物を作ること、つまり「[[図画工作|ずがこうさく]]」の意味でよく使う。[[裏で|うらで]][[根回し|ねまわし]]をする、という意味の「工作」もあるが、中国語の「仕事」の意味はない。\n\nそして「放心」。日本語では「心配しないで」ではなく、[[ぼんやり|ぼんやり]]として気が[[抜けた|ぬけた]]状態を言う。「[[放心状態|ほうしんじょうたい]]」と言えば、ショックで何も考えられない様子だ。安心してください、と言いたいときには使えない。",
+  "gloss": {
+    "ずれ": {
+      "m": "落差、偏差"
+    },
+    "人間万事塞翁が馬": {
+      "m": "塞翁失馬，焉知非福"
+    },
+    "画用紙": {
+      "m": "圖畫紙"
+    },
+    "図画工作": {
+      "m": "美勞課"
+    },
+    "裏で": {
+      "m": "在背地裡"
+    },
+    "根回し": {
+      "m": "事先疏通、打點"
+    },
+    "ぼんやり": {
+      "m": "發呆、恍神"
+    },
+    "抜けた": {
+      "m": "脫離、洩了氣（原形：抜ける）"
+    },
+    "放心状態": {
+      "m": "失神狀態"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Where is the 人間?",
+      "g": {
+        "ずれ": [
+          "gap, mismatch"
+        ],
+        "人間万事塞翁が馬": [
+          "a blessing in disguise (old proverb)"
+        ],
+        "画用紙": [
+          "drawing paper"
+        ],
+        "図画工作": [
+          "arts and crafts (school subject)"
+        ],
+        "裏で": [
+          "behind the scenes"
+        ],
+        "根回し": [
+          "laying the groundwork, lobbying in advance"
+        ],
+        "ぼんやり": [
+          "spacing out, absent-minded"
+        ],
+        "抜けた": [
+          "drained, deflated (dict. form: 抜ける)"
+        ],
+        "放心状態": [
+          "dazed state"
+        ]
+      }
+    },
+    "de": {
+      "s": "Wo steckt der 人間?",
+      "g": {
+        "ずれ": [
+          "Abweichung, Verschiebung"
+        ],
+        "人間万事塞翁が馬": [
+          "wer weiß, wozu es gut ist (altes Sprichwort)"
+        ],
+        "画用紙": [
+          "Zeichenpapier"
+        ],
+        "図画工作": [
+          "Kunst und Werken (Schulfach)"
+        ],
+        "裏で": [
+          "hinter den Kulissen"
+        ],
+        "根回し": [
+          "Vorabsprachen, Strippenziehen"
+        ],
+        "ぼんやり": [
+          "geistesabwesend"
+        ],
+        "抜けた": [
+          "ausgelaugt, die Luft raus (Grundform: 抜ける)"
+        ],
+        "放心状態": [
+          "Zustand der Benommenheit"
+        ]
+      }
+    },
+    "hans": {
+      "s": "同字异义②：人间、工作、放心",
+      "g": {
+        "ずれ": [
+          "落差、偏差"
+        ],
+        "人間万事塞翁が馬": [
+          "塞翁失马，焉知非福"
+        ],
+        "画用紙": [
+          "图画纸"
+        ],
+        "図画工作": [
+          "美劳课"
+        ],
+        "裏で": [
+          "在背地里"
+        ],
+        "根回し": [
+          "事先疏通、打点"
+        ],
+        "ぼんやり": [
+          "发呆、恍神"
+        ],
+        "抜けた": [
+          "脱离、泄了气（原形：抜ける）"
+        ],
+        "放心状態": [
+          "失神状态"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日語的「人間」只是指「人」，例如「人間關係」「人間味」中的「人間」。它與中文「人間」指「人世間」的用法有些錯位，不過其實日語中也保留著古老的用法。「人間萬事塞翁馬」中的「人間」，也可以讀作「じんかん」，指世間萬事。",
+      "zh-Hans": "日语的「人间」只是指「人」，例如「人间关系」「人间味」中的「人间」。它与中文「人间」指「人世间」的用法有些错位，不过其实日语中也保留着古老的用法。「人间万事塞翁马」中的「人间」，也可以读作「じんかん」，指世间万事。",
+      "en": "In Japanese, 「人間」 simply means \"person,\" as in 人間関係 (human relations) or 人間らしさ (human-like warmth). It differs from the Chinese use meaning \"the human world,\" but Japanese does preserve an old usage: in the proverb 「人間万事塞翁が馬」, the word can also be read 「じんかん」 and refers to the affairs of the world.",
+      "de": "In Japanese, 「人間」 simply means \"person,\" as in 人間関係 (human relations) or 人間らしさ (human-like warmth). It differs from the Chinese use meaning \"the human world,\" but Japanese does preserve an old usage: in the proverb 「人間万事塞翁が馬」, the word can also be read 「じんかん」 and refers to the affairs of the world."
+    },
+    {
+      "zh-Hant": "「工作」也要留意。在日語中，它常指小學課堂上用畫紙、木頭等材料做東西，也就是「圖畫工作」。還有一個意思是在背後暗中打點，但沒有中文「工作」（職業、任務）的意思。",
+      "zh-Hans": "「工作」也要留意。在日语中，它常指小学课堂上用画纸、木头等材料做东西，也就是「图画工作」。还有一个意思是在背后暗中打点，但没有中文「工作」（职业、任务）的意思。",
+      "en": "「工作」 also requires caution. In Japanese, it often refers to making things with drawing paper, wood, and other materials in elementary school class, namely 図画工作 (art and craft). It also has the meaning of secretly lining up support behind the scenes, but it does not carry the Chinese sense of \"a job.\"",
+      "de": "「工作」 also requires caution. In Japanese, it often refers to making things with drawing paper, wood, and other materials in elementary school class, namely 図画工作 (art and craft). It also has the meaning of secretly lining up support behind the scenes, but it does not carry the Chinese sense of \"a job.\""
+    },
+    {
+      "zh-Hant": "還有「放心」。在日語中，它不是「別擔心」的意思，而是指恍恍惚惚、心神鬆懈的狀態。說「放心狀態」，指的是因受到衝擊而腦中一片空白的樣子。若想表達「請放心」，就不能用這個詞。",
+      "zh-Hans": "还有「放心」。在日语中，它不是「别担心」的意思，而是指恍恍惚惚、心神松懈的状态。说「放心状态」，指的是因受到冲击而脑中一片空白的样子。若想表达「请放心」，就不能用这个词。",
+      "en": "And then there is 「放心」. In Japanese it does not mean \"don't worry,\" but refers to a dazed, absent-minded state in which one's attention has gone slack. 「放心状態」 describes being so shocked that you cannot think of anything. You cannot use it to say \"Rest assured.\"",
+      "de": "And then there is 「放心」. In Japanese it does not mean \"don't worry,\" but refers to a dazed, absent-minded state in which one's attention has gone slack. 「放心状態」 describes being so shocked that you cannot think of anything. You cannot use it to say \"Rest assured.\""
+    }
+  ]
+}

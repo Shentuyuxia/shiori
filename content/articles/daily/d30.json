@@ -1,0 +1,171 @@
+{
+  "id": "d30",
+  "d": 30,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "同字異義",
+    "ja": "同形異義語"
+  },
+  "title": "「結構です」はイエスかノーか",
+  "sub": "同字異義③：得意、結構、適當",
+  "body": "「コーヒーのおかわりはいかがですか」「結構です」。この「結構です」は、ほとんどの場合「[[要りません|いりません]]」という意味だ。一方、「結構なお[[点前|てまえ]]でした」と言えば、「すばらしい」という[[褒め言葉|ほめことば]]になる。同じ言葉が、[[文脈|ぶんみゃく]]次第で正反対の意味になる。\n\n「適当」も[[厄介|やっかい]]だ。中国語では「ちょうどよい」だが、日本語の会話では「いいかげん」の意味で使われることが多い。「適当にやっといて」は「[[ほどほどに|ほどほどに]]」なのか「[[雑に|ざつに]]」なのか、言われた側は悩むことになる。\n\n「得意」は「[[得意げ|とくいげ]]」なら中国語と同じく「得意洋洋」だが、「料理が得意です」なら「[[上手|じょうず]]で[[自信|じしん]]がある」の意味。さらにビジネスでは「お得意様」、つまり大切な取引先を指す。一つの漢字語に、三つの顔があるわけだ。",
+  "gloss": {
+    "要りません": {
+      "m": "不需要"
+    },
+    "点前": {
+      "m": "（茶道的）點茶手法"
+    },
+    "褒め言葉": {
+      "m": "讚美的話"
+    },
+    "文脈": {
+      "m": "上下文"
+    },
+    "厄介": {
+      "m": "麻煩、棘手"
+    },
+    "ほどほどに": {
+      "m": "適可而止"
+    },
+    "雑に": {
+      "m": "草率地"
+    },
+    "得意げ": {
+      "m": "得意洋洋的樣子"
+    },
+    "上手": {
+      "m": "擅長、拿手"
+    },
+    "自信": {
+      "m": "自信"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Is 結構です yes or no?",
+      "g": {
+        "要りません": [
+          "I don't need it"
+        ],
+        "点前": [
+          "tea preparation (tea ceremony)"
+        ],
+        "褒め言葉": [
+          "compliment"
+        ],
+        "文脈": [
+          "context"
+        ],
+        "厄介": [
+          "troublesome"
+        ],
+        "ほどほどに": [
+          "in moderation"
+        ],
+        "雑に": [
+          "carelessly, sloppily"
+        ],
+        "得意げ": [
+          "proudly, smugly"
+        ],
+        "上手": [
+          "skilful, good at"
+        ],
+        "自信": [
+          "confidence"
+        ]
+      }
+    },
+    "de": {
+      "s": "Ist 結構です ja oder nein?",
+      "g": {
+        "要りません": [
+          "brauche ich nicht"
+        ],
+        "点前": [
+          "Teezubereitung (Teezeremonie)"
+        ],
+        "褒め言葉": [
+          "Kompliment"
+        ],
+        "文脈": [
+          "Kontext"
+        ],
+        "厄介": [
+          "lästig, heikel"
+        ],
+        "ほどほどに": [
+          "in Maßen"
+        ],
+        "雑に": [
+          "schlampig"
+        ],
+        "得意げ": [
+          "stolz, selbstgefällig"
+        ],
+        "上手": [
+          "geschickt, gut in"
+        ],
+        "自信": [
+          "Selbstvertrauen"
+        ]
+      }
+    },
+    "hans": {
+      "s": "同字异义③：得意、结构、适当",
+      "g": {
+        "要りません": [
+          "不需要"
+        ],
+        "点前": [
+          "（茶道的）点茶手法"
+        ],
+        "褒め言葉": [
+          "赞美的话"
+        ],
+        "文脈": [
+          "上下文"
+        ],
+        "厄介": [
+          "麻烦、棘手"
+        ],
+        "ほどほどに": [
+          "适可而止"
+        ],
+        "雑に": [
+          "草率地"
+        ],
+        "得意げ": [
+          "得意洋洋的样子"
+        ],
+        "上手": [
+          "擅长、拿手"
+        ],
+        "自信": [
+          "自信"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「要再來一杯咖啡嗎？」「結構です（不用了，謝謝）。」這裡的「結構です」，多數情況下是「不需要」的意思。相對地，如果說「結構なお点前でした（茶道很棒）」，就是「真好」的讚美。同樣的詞，依照上下文，意思會完全相反。",
+      "zh-Hans": "「要再来一杯咖啡吗？」「结构です（不用了，谢谢）。」这里的「结构です」，多数情况下是「不需要」的意思。相对地，如果说「结构なお点前でした（茶道很棒）」，就是「真好」的赞美。同样的词，依照上下文，意思会完全相反。",
+      "en": "\"Would you like another cup of coffee?\" \"Kekkō desu.\" In this case, 「結構です」 usually means \"No, thank you.\" But if you say 「結構なお点前でした」 about a tea ceremony, it is praise meaning \"It was splendid.\" The same word can mean the exact opposite depending on the context.",
+      "de": "\"Would you like another cup of coffee?\" \"Kekkō desu.\" In this case, 「結構です」 usually means \"No, thank you.\" But if you say 「結構なお点前でした」 about a tea ceremony, it is praise meaning \"It was splendid.\" The same word can mean the exact opposite depending on the context."
+    },
+    {
+      "zh-Hant": "「適当」也很麻煩。中文是「剛剛好」的意思，但在日語的對話中，常被用來表示「隨便」。「適当にやっといて」，到底是「適度就好」還是「草率地弄」，聽的人會很困擾。",
+      "zh-Hans": "「适当」也很麻烦。中文是「刚刚好」的意思，但在日语的对话中，常被用来表示「随便」。「适当にやっといて」，到底是「适度就好」还是「草率地弄」，听的人会很困扰。",
+      "en": "「適当」 is also tricky. In Chinese it means \"just right,\" but in Japanese conversation it is often used to mean \"careless\" or \"haphazard.\" When someone says 「適当にやっといて」, the listener is left wondering whether it means \"do it reasonably\" or \"do it carelessly.\"",
+      "de": "「適当」 is also tricky. In Chinese it means \"just right,\" but in Japanese conversation it is often used to mean \"careless\" or \"haphazard.\" When someone says 「適当にやっといて」, the listener is left wondering whether it means \"do it reasonably\" or \"do it carelessly.\""
+    },
+    {
+      "zh-Hant": "「得意」若是「得意げ」，就和中文一樣是「得意洋洋」；但「料理が得意です」則是指「擅長且有自信」。在商務場合，「お得意様」則指重要的客戶。一個漢字詞，有三張面孔。",
+      "zh-Hans": "「得意」若是「得意げ」，就和中文一样是「得意洋洋」；但「料理が得意です」则是指「擅长且有自信」。在商务场合，「お得意様」则指重要的客户。一个汉字词，有三张面孔。",
+      "en": "「得意」 in 「得意げ」 means \"proud,\" as in Chinese. But in 「料理が得意です」, it means \"good at cooking, with confidence.\" In business, 「お得意様」 refers to an important client. One Chinese-character word wears three faces.",
+      "de": "「得意」 in 「得意げ」 means \"proud,\" as in Chinese. But in 「料理が得意です」, it means \"good at cooking, with confidence.\" In business, 「お得意様」 refers to an important client. One Chinese-character word wears three faces."
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "w-jihanki",
+  "d": -1,
+  "lv": "n2",
+  "wiki": true,
+  "genre": {
+    "zh-Hant": "奇妙百科",
+    "ja": "ふしぎ百科"
+  },
+  "title": "自販機大国ニッポン",
+  "sub": "自動販賣機大國日本",
+  "body": "日本を初めて訪れた人が驚くものの一つに、[[自動販売機|じどうはんばいき]]の多さがある。駅のホーム、住宅街の角、田んぼの真ん中、さらには富士山の山小屋にまで置かれている。飲料以外のものも含めると、全国でおよそ四百万台近くあるとされ、人口当たりの台数は世界でもトップクラスだ。\n\nこれほど普及した理由の一つは、[[治安|ちあん]]のよさだと言われる。現金の入った機械を屋外に置いても、壊されて盗まれることが比較的少ない。また、[[人件費|じんけんひ]]が高く、[[土地|とち]]の狭い日本では、店を構えるより自販機を一台置くほうが効率がよかった。\n\n技術の進化もめざましい。一台の中で、温かい飲み物と冷たい飲み物を同時に売る仕組みは、日本で広まったものだ。最近は、電子マネーで支払えるのはもちろん、[[災害|さいがい]]時に中の飲み物を無料で提供できる「災害対応型」の自販機も増えている。\n\n一方で、[[電力|でんりょく]]消費の多さや、人口減少による売り上げの[[低迷|ていめい]]から、台数は少しずつ減っている。夜道を照らす自販機の光は、日本の街の風景の一部であると同時に、社会の変化を映す鏡でもある。",
+  "gloss": {
+    "自動販売機": {
+      "m": "自動販賣機"
+    },
+    "治安": {
+      "m": "治安"
+    },
+    "人件費": {
+      "m": "人事成本"
+    },
+    "土地": {
+      "m": "土地"
+    },
+    "災害": {
+      "m": "災害"
+    },
+    "電力": {
+      "m": "電力"
+    },
+    "低迷": {
+      "m": "低迷"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Japan, land of vending machines",
+      "g": {
+        "自動販売機": [
+          "vending machine"
+        ],
+        "治安": [
+          "public safety"
+        ],
+        "人件費": [
+          "labour costs"
+        ],
+        "土地": [
+          "land"
+        ],
+        "災害": [
+          "disaster"
+        ],
+        "電力": [
+          "electricity"
+        ],
+        "低迷": [
+          "slump"
+        ]
+      }
+    },
+    "de": {
+      "s": "Japan, das Land der Automaten",
+      "g": {
+        "自動販売機": [
+          "Automat"
+        ],
+        "治安": [
+          "öffentliche Sicherheit"
+        ],
+        "人件費": [
+          "Personalkosten"
+        ],
+        "土地": [
+          "Grund und Boden"
+        ],
+        "災害": [
+          "Katastrophe"
+        ],
+        "電力": [
+          "Strom"
+        ],
+        "低迷": [
+          "Flaute"
+        ]
+      }
+    },
+    "hans": {
+      "s": "自动贩卖机大国日本",
+      "g": {
+        "自動販売機": [
+          "自动贩卖机"
+        ],
+        "治安": [
+          "治安"
+        ],
+        "人件費": [
+          "人事成本"
+        ],
+        "土地": [
+          "土地"
+        ],
+        "災害": [
+          "灾害"
+        ],
+        "電力": [
+          "电力"
+        ],
+        "低迷": [
+          "低迷"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "第一次來日本的人會驚訝的事情之一，就是自動販賣機之多。月台上、住宅區的轉角、田中央，甚至連富士山的山屋都有。包含飲料以外的機器，全國據說有將近四百萬台，以人口比例來看是世界頂尖水準。",
+      "zh-Hans": "第一次来日本的人会惊讶的事情之一，就是自动贩卖机之多。月台上、住宅区的转角、田中央，甚至连富士山的山屋都有。包含饮料以外的机器，全国据说有将近四百万台，以人口比例来看是世界顶尖水准。",
+      "en": "One of the things that surprises first-time visitors to Japan is the sheer number of vending machines: on platforms, on residential street corners, in the middle of rice fields, even at mountain huts on Mount Fuji. Including machines that sell things other than drinks, there are said to be close to four million nationwide — one of the highest numbers per person in the world.",
+      "de": "Was Japan-Neulinge oft überrascht, ist die schiere Zahl der Automaten: auf Bahnsteigen, an Ecken in Wohnvierteln, mitten im Reisfeld, sogar an Berghütten am Fuji. Zählt man Automaten für andere Waren mit, sollen es landesweit fast vier Millionen sein – pro Kopf einer der höchsten Werte weltweit."
+    },
+    {
+      "zh-Hant": "普及到這種程度的原因之一，據說是治安良好。即使把裝著現金的機器放在戶外，被破壞盜竊的情況也相對少。而且在人事成本高、土地狹小的日本，與其開一家店，不如放一台販賣機更有效率。",
+      "zh-Hans": "普及到这种程度的原因之一，据说是治安良好。即使把装着现金的机器放在户外，被破坏盗窃的情况也相对少。而且在人事成本高、土地狭小的日本，与其开一家店，不如放一台贩卖机更有效率。",
+      "en": "One reason they spread so widely is said to be public safety. Even with cash inside and standing outdoors, they are relatively rarely broken into. And in Japan, with its high labour costs and little space, placing a machine was more efficient than opening a shop.",
+      "de": "Ein Grund für ihre Verbreitung soll die Sicherheit sein: Obwohl Bargeld darin steckt und sie draußen stehen, werden sie relativ selten aufgebrochen. Außerdem war in Japan mit hohen Personalkosten und wenig Platz ein Automat effizienter als ein Laden."
+    },
+    {
+      "zh-Hant": "技術進步也很驚人。在同一台機器裡同時販賣熱飲和冷飲的設計，就是在日本普及的。最近，不但可以用電子錢包付款，災害時能免費提供內部飲料的「災害對應型」販賣機也越來越多。",
+      "zh-Hans": "技术进步也很惊人。在同一台机器里同时贩卖热饮和冷饮的设计，就是在日本普及的。最近，不但可以用电子钱包付款，灾害时能免费提供内部饮料的「灾害对应型」贩卖机也越来越多。",
+      "en": "The technology has also come a long way. Selling hot and cold drinks from the same machine is something that took off in Japan. Today you can of course pay by e-money, and there are more and more disaster-ready machines that can hand out their drinks for free during an emergency.",
+      "de": "Auch technisch hat sich viel getan. Warme und kalte Getränke aus demselben Automaten – das hat sich in Japan durchgesetzt. Heute zahlt man selbstverständlich mit E-Geld, und es gibt immer mehr katastrophentaugliche Automaten, die ihre Getränke im Notfall kostenlos ausgeben."
+    },
+    {
+      "zh-Hant": "另一方面，由於耗電量大，加上人口減少導致銷售低迷，販賣機的數量正在一點一點減少。照亮夜路的販賣機燈光，既是日本街景的一部分，也是映照社會變化的一面鏡子。",
+      "zh-Hans": "另一方面，由于耗电量大，加上人口减少导致销售低迷，贩卖机的数量正在一点一点减少。照亮夜路的贩卖机灯光，既是日本街景的一部分，也是映照社会变化的一面镜子。",
+      "en": "On the other hand, because of high power use and falling sales as the population shrinks, the number of machines is slowly going down. The glow of vending machines lighting up the streets at night is part of Japan's townscape — and a mirror of how society is changing.",
+      "de": "Andererseits sinkt ihre Zahl langsam – wegen des hohen Stromverbrauchs und schwächerer Umsätze durch die schrumpfende Bevölkerung. Das Licht der Automaten an nächtlichen Straßen gehört zum japanischen Stadtbild und spiegelt zugleich den Wandel der Gesellschaft."
+    }
+  ]
+}

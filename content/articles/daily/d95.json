@@ -1,0 +1,171 @@
+{
+  "id": "d95",
+  "d": 95,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "專欄",
+    "ja": "コラム"
+  },
+  "title": "おひとりさま",
+  "sub": "「一個人」的時代",
+  "body": "「おひとりさまですか」。飲食店で一人で入ると、店員にこう聞かれる。かつては、一人で[[焼肉|やきにく]]やカラオケに行くことに、どこか[[気後れ|きおくれ]]を感じる人が多かった。\n\n今では、一人客を[[歓迎|かんげい]]する店が増えた。[[仕切り|しきり]]のある[[カウンター席|カウンターせき]]だけのラーメン店、一人用の鍋、一人カラオケの専用ルーム。単身世帯が増え、一人で過ごす時間を[[積極的|せっきょくてき]]に楽しむ[[価値観|かちかん]]も広がった。\n\n一人でいることは、必ずしも[[孤独|こどく]]ではない。誰にも気を遣わず、自分の[[ペース|ペース]]で食べ、考える時間は、人と過ごす時間と同じくらい大切だ。ただ、「おひとりさま」が選択であるうちはいい。[[望まない|のぞまない]]孤立にどう手を差し伸べるかは、社会全体の課題として残っている。",
+  "gloss": {
+    "焼肉": {
+      "m": "燒肉"
+    },
+    "気後れ": {
+      "m": "膽怯、不好意思"
+    },
+    "歓迎": {
+      "m": "歡迎"
+    },
+    "仕切り": {
+      "m": "隔板"
+    },
+    "カウンター席": {
+      "m": "吧台座位"
+    },
+    "積極的": {
+      "m": "積極"
+    },
+    "価値観": {
+      "m": "價值觀"
+    },
+    "孤独": {
+      "m": "孤獨"
+    },
+    "ペース": {
+      "m": "步調"
+    },
+    "望まない": {
+      "m": "不情願的"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Ohitorisama: doing things alone",
+      "g": {
+        "焼肉": [
+          "yakiniku (grilled meat)"
+        ],
+        "気後れ": [
+          "feeling timid"
+        ],
+        "歓迎": [
+          "welcome"
+        ],
+        "仕切り": [
+          "partition"
+        ],
+        "カウンター席": [
+          "counter seat"
+        ],
+        "積極的": [
+          "actively"
+        ],
+        "価値観": [
+          "values"
+        ],
+        "孤独": [
+          "loneliness"
+        ],
+        "ペース": [
+          "pace"
+        ],
+        "望まない": [
+          "unwanted"
+        ]
+      }
+    },
+    "de": {
+      "s": "Ohitorisama: allein unterwegs",
+      "g": {
+        "焼肉": [
+          "Yakiniku (gegrilltes Fleisch)"
+        ],
+        "気後れ": [
+          "Befangenheit"
+        ],
+        "歓迎": [
+          "Willkommen"
+        ],
+        "仕切り": [
+          "Trennwand"
+        ],
+        "カウンター席": [
+          "Thekenplatz"
+        ],
+        "積極的": [
+          "aktiv"
+        ],
+        "価値観": [
+          "Wertvorstellungen"
+        ],
+        "孤独": [
+          "Einsamkeit"
+        ],
+        "ペース": [
+          "Tempo"
+        ],
+        "望まない": [
+          "ungewollt"
+        ]
+      }
+    },
+    "hans": {
+      "s": "「一个人」的时代",
+      "g": {
+        "焼肉": [
+          "烧肉"
+        ],
+        "気後れ": [
+          "胆怯、不好意思"
+        ],
+        "歓迎": [
+          "欢迎"
+        ],
+        "仕切り": [
+          "隔板"
+        ],
+        "カウンター席": [
+          "吧台座位"
+        ],
+        "積極的": [
+          "积极"
+        ],
+        "価値観": [
+          "价值观"
+        ],
+        "孤独": [
+          "孤独"
+        ],
+        "ペース": [
+          "步调"
+        ],
+        "望まない": [
+          "不情愿的"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「請問一位嗎？」一個人走進餐廳時，店員會這樣問。過去，很多人對獨自去吃燒肉或唱卡拉OK，多少會感到不好意思。",
+      "zh-Hans": "「请问一位吗？」一个人走进餐厅时，店员会这样问。过去，很多人对独自去吃烧肉或唱卡拉OK，多少会感到不好意思。",
+      "en": "\"Just one person?\" This is what a staff member asks when you enter a restaurant alone. In the past, many people felt somewhat hesitant about going alone to a yakiniku restaurant or karaoke.",
+      "de": "\"Just one person?\" This is what a staff member asks when you enter a restaurant alone. In the past, many people felt somewhat hesitant about going alone to a yakiniku restaurant or karaoke."
+    },
+    {
+      "zh-Hant": "如今，歡迎單人客的店家越來越多。只有隔板式吧台座位的拉麵店、一人份的火鍋、專供一人使用的卡拉OK包廂。單身家庭增加，積極享受獨處時光的價值觀也逐漸擴散。",
+      "zh-Hans": "如今，欢迎单人客的店家越来越多。只有隔板式吧台座位的拉面店、一人份的火锅、专供一人使用的卡拉OK包厢。单身家庭增加，积极享受独处时光的价值观也逐渐扩散。",
+      "en": "Nowadays, more and more shops welcome solo customers: ramen shops with only partitioned counter seats, one-person hot pots, and private rooms for solo karaoke. As single-person households increase, the value of actively enjoying time alone has spread.",
+      "de": "Nowadays, more and more shops welcome solo customers: ramen shops with only partitioned counter seats, one-person hot pots, and private rooms for solo karaoke. As single-person households increase, the value of actively enjoying time alone has spread."
+    },
+    {
+      "zh-Hant": "一個人，不一定就是孤獨。不必顧慮任何人，按照自己的步調吃飯、思考的時間，與和他人相處的時間同樣珍貴。只是，只要「一個人」是出於自己的選擇，就很好。如何向不願意的孤立伸出援手，仍是整個社會的課題。",
+      "zh-Hans": "一个人，不一定就是孤独。不必顾虑任何人，按照自己的步调吃饭、思考的时间，与和他人相处的时间同样珍贵。只是，只要「一个人」是出于自己的选择，就很好。如何向不愿意的孤立伸出援手，仍是整个社会的课题。",
+      "en": "Being alone is not necessarily lonely. Time spent eating and thinking at your own pace, without worrying about anyone, is as precious as time spent with others. As long as \"being on your own\" is a choice, it is fine. How to reach out to isolation that people do not want remains a challenge for society as a whole.",
+      "de": "Being alone is not necessarily lonely. Time spent eating and thinking at your own pace, without worrying about anyone, is as precious as time spent with others. As long as \"being on your own\" is a choice, it is fine. How to reach out to isolation that people do not want remains a challenge for society as a whole."
+    }
+  ]
+}

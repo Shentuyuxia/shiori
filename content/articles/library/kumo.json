@@ -1,0 +1,173 @@
+{
+  "id": "kumo",
+  "d": -1,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "文學原文",
+    "ja": "文学（原文）"
+  },
+  "title": "蜘蛛の糸（冒頭）",
+  "sub": "芥川龍之介《蜘蛛之絲》開頭（1918）",
+  "body": "ある日の事でございます。[[御釈迦様|おしゃかさま]]は[[極楽|ごくらく]]の[[蓮池|はすいけ]]のふちを、独りで[[ぶらぶら|ぶらぶら]][[御歩きになっていらっしゃいました|おあるきになっていらっしゃいました]]。\n\n池の中に咲いている{蓮|はす}の花は、みんな{玉|たま}のようにまっ白で、そのまん中にある金色の[[蕊|ずい]]からは、[[何とも云えない|なんともいえない]]好い{匂|におい}が、[[絶間なく|たえまなく]]あたりへ[[溢れて|あふれて]][[居ります|おります]]。極楽は{丁度|ちょうど}朝なのでございましょう。",
+  "gloss": {
+    "御釈迦様": {
+      "m": "釋迦牟尼佛"
+    },
+    "極楽": {
+      "m": "極樂世界"
+    },
+    "蓮池": {
+      "m": "蓮花池"
+    },
+    "ぶらぶら": {
+      "m": "悠閒地散步"
+    },
+    "御歩きになっていらっしゃいました": {
+      "m": "（佛祖）正在散步",
+      "n": "「お～になる」加「いらっしゃる」的雙重尊敬語，是說書人口吻。"
+    },
+    "蕊": {
+      "m": "花蕊"
+    },
+    "何とも云えない": {
+      "m": "難以言喻",
+      "n": "「云う」是「言う」的舊寫法。"
+    },
+    "絶間なく": {
+      "m": "不間斷地"
+    },
+    "溢れて": {
+      "m": "滿溢（原形：溢れる）"
+    },
+    "居ります": {
+      "m": "＝おります（いる的謙讓／鄭重語）"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "The Spider's Thread (opening)",
+      "g": {
+        "御釈迦様": [
+          "the Buddha"
+        ],
+        "極楽": [
+          "paradise (Pure Land)"
+        ],
+        "蓮池": [
+          "lotus pond"
+        ],
+        "ぶらぶら": [
+          "strolling leisurely"
+        ],
+        "御歩きになっていらっしゃいました": [
+          "(the Buddha) was taking a stroll",
+          "Double honorific (お～になる + いらっしゃる): a storyteller's voice."
+        ],
+        "蕊": [
+          "stamen"
+        ],
+        "何とも云えない": [
+          "indescribable",
+          "云う is an old spelling of 言う."
+        ],
+        "絶間なく": [
+          "ceaselessly"
+        ],
+        "溢れて": [
+          "overflowing (dict. form: 溢れる)"
+        ],
+        "居ります": [
+          "= おります (humble/polite form of いる)"
+        ]
+      }
+    },
+    "de": {
+      "s": "Der Spinnenfaden (Anfang)",
+      "g": {
+        "御釈迦様": [
+          "der Buddha"
+        ],
+        "極楽": [
+          "Paradies (Reines Land)"
+        ],
+        "蓮池": [
+          "Lotosteich"
+        ],
+        "ぶらぶら": [
+          "gemütlich schlendern"
+        ],
+        "御歩きになっていらっしゃいました": [
+          "(der Buddha) wandelte umher",
+          "Doppeltes Honorativ (お～になる + いらっしゃる): Erzählerton."
+        ],
+        "蕊": [
+          "Staubgefäß"
+        ],
+        "何とも云えない": [
+          "unbeschreiblich",
+          "云う ist eine alte Schreibung für 言う."
+        ],
+        "絶間なく": [
+          "unaufhörlich"
+        ],
+        "溢れて": [
+          "überfließend (Grundform: 溢れる)"
+        ],
+        "居ります": [
+          "= おります (bescheidene/höfliche Form von いる)"
+        ]
+      }
+    },
+    "hans": {
+      "s": "芥川龙之介《蜘蛛之丝》开头（1918）",
+      "g": {
+        "御釈迦様": [
+          "释迦牟尼佛"
+        ],
+        "極楽": [
+          "极乐世界"
+        ],
+        "蓮池": [
+          "莲花池"
+        ],
+        "ぶらぶら": [
+          "悠闲地散步"
+        ],
+        "御歩きになっていらっしゃいました": [
+          "（佛祖）正在散步",
+          "「お～になる」加「いらっしゃる」的双重尊敬语，是说书人口吻。"
+        ],
+        "蕊": [
+          "花蕊"
+        ],
+        "何とも云えない": [
+          "难以言喻",
+          "「云う」是「言う」的旧写法。"
+        ],
+        "絶間なく": [
+          "不间断地"
+        ],
+        "溢れて": [
+          "满溢（原形：溢れる）"
+        ],
+        "居ります": [
+          "＝おります（いる的谦让／郑重语）"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "那是某一天的事。釋迦牟尼佛獨自在極樂世界的蓮花池畔悠閒地散步。",
+      "zh-Hans": "那是某一天的事。释迦牟尼佛独自在极乐世界的莲花池畔悠闲地散步。",
+      "en": "It was one day. Lord Buddha was strolling alone along the edge of the lotus pond in Paradise.",
+      "de": "It was one day. Lord Buddha was strolling alone along the edge of the lotus pond in Paradise."
+    },
+    {
+      "zh-Hant": "池中盛開的蓮花，朵朵都像珠玉一般潔白，花心裡的金色花蕊中，散發出難以言喻的美好香氣，不斷地溢滿四周。想必極樂世界正是清晨時分吧。",
+      "zh-Hans": "池中盛开的莲花，朵朵都像珠玉一般洁白，花心里的金色花蕊中，散发出难以言喻的美好香气，不断地溢满四周。想必极乐世界正是清晨时分吧。",
+      "en": "The lotus flowers blooming in the pond were all as white as jewels, and from the golden stamens at their centers rose an indescribably sweet fragrance that filled the surroundings without end. It must have been morning in Paradise.",
+      "de": "The lotus flowers blooming in the pond were all as white as jewels, and from the golden stamens at their centers rose an indescribably sweet fragrance that filled the surroundings without end. It must have been morning in Paradise."
+    }
+  ]
+}

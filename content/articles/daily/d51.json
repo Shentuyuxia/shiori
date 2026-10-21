@@ -1,0 +1,147 @@
+{
+  "id": "d51",
+  "d": 51,
+  "lv": "n1",
+  "genre": {
+    "zh-Hant": "語言雜談",
+    "ja": "ことば雑記"
+  },
+  "title": "一期一会",
+  "sub": "四字熟語",
+  "body": "日本で好まれる四字熟語の一つに「一期一会」がある。もとは茶道の言葉で、「この茶会は[[一生|いっしょう]]に一度きりのものと思い、心を尽くしてもてなせ」という[[教え|おしえ]]だ。「一期」は仏教の言葉で、人の一生を意味する。\n\n中国語の成語と共通する四字熟語も多いが、日本で独自に生まれたものも少なくない。「[[以心伝心|いしんでんしん]]」は禅の言葉から、「[[一石二鳥|いっせきにちょう]]」は英語の[[ことわざ|ことわざ]]の翻訳から広まったとされる。「[[十人十色|じゅうにんといろ]]」は、人の好みや考えがそれぞれ違うことを言う日本の言葉だ。\n\n逆に、中国語では日常的な成語でも、日本ではほとんど使われないものもある。共通の漢字の土台の上で、二つの言語は別々の[[枝|えだ]]を伸ばしてきた。その違いを見比べるのも、二つの言葉を知る人の[[特権|とっけん]]だろう。",
+  "gloss": {
+    "一生": {
+      "m": "一生"
+    },
+    "教え": {
+      "m": "教誨"
+    },
+    "以心伝心": {
+      "m": "心領神會、以心傳心"
+    },
+    "一石二鳥": {
+      "m": "一石二鳥"
+    },
+    "ことわざ": {
+      "m": "諺語"
+    },
+    "十人十色": {
+      "m": "人各有所好、一人一個樣"
+    },
+    "枝": {
+      "m": "枝"
+    },
+    "特権": {
+      "m": "特權"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "Ichigo ichie: four-character idioms",
+      "g": {
+        "一生": [
+          "lifetime"
+        ],
+        "教え": [
+          "teaching"
+        ],
+        "以心伝心": [
+          "tacit understanding, heart-to-heart"
+        ],
+        "一石二鳥": [
+          "killing two birds with one stone"
+        ],
+        "ことわざ": [
+          "proverb"
+        ],
+        "十人十色": [
+          "to each their own"
+        ],
+        "枝": [
+          "branch"
+        ],
+        "特権": [
+          "privilege"
+        ]
+      }
+    },
+    "de": {
+      "s": "Ichigo ichie: Vier-Zeichen-Redewendungen",
+      "g": {
+        "一生": [
+          "ganzes Leben"
+        ],
+        "教え": [
+          "Lehre"
+        ],
+        "以心伝心": [
+          "stilles Einverständnis"
+        ],
+        "一石二鳥": [
+          "zwei Fliegen mit einer Klappe"
+        ],
+        "ことわざ": [
+          "Sprichwort"
+        ],
+        "十人十色": [
+          "jedem das Seine"
+        ],
+        "枝": [
+          "Zweig"
+        ],
+        "特権": [
+          "Privileg"
+        ]
+      }
+    },
+    "hans": {
+      "s": "四字熟语",
+      "g": {
+        "一生": [
+          "一生"
+        ],
+        "教え": [
+          "教诲"
+        ],
+        "以心伝心": [
+          "心领神会、以心传心"
+        ],
+        "一石二鳥": [
+          "一石二鸟"
+        ],
+        "ことわざ": [
+          "谚语"
+        ],
+        "十人十色": [
+          "人各有所好、一人一个样"
+        ],
+        "枝": [
+          "枝"
+        ],
+        "特権": [
+          "特权"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "日本人喜愛的四字熟語中，有一個是「一期一會」。原本是茶道的用語，意思是「把這次茶會當作一生只有一次，全心招待」。「一期」是佛教用語，指一個人的一生。",
+      "zh-Hans": "日本人喜爱的四字熟语中，有一个是「一期一会」。原本是茶道的用语，意思是「把这次茶会当作一生只有一次，全心招待」。「一期」是佛教用语，指一个人的一生。",
+      "en": "One of the four-character idioms the Japanese favor is 「一期一会」, ichigo ichie. Originally a term from the tea ceremony, it teaches: \"Treat this tea gathering as the only one in your life, and host it with all your heart.\" 「一期」 is a Buddhist term meaning a person's whole lifetime.",
+      "de": "One of the four-character idioms the Japanese favor is 「一期一会」, ichigo ichie. Originally a term from the tea ceremony, it teaches: \"Treat this tea gathering as the only one in your life, and host it with all your heart.\" 「一期」 is a Buddhist term meaning a person's whole lifetime."
+    },
+    {
+      "zh-Hant": "與中文成語相同的四字熟語很多，但也有不少是日本獨自誕生的。「以心傳心」據說是從禪宗的用語流傳開來的，「一石二鳥」則是從英語諺語翻譯而來。「十人十色」是日本的詞語，指每個人的喜好與想法各不相同。",
+      "zh-Hans": "与中文成语相同的四字熟语很多，但也有不少是日本独自诞生的。「以心传心」据说是从禅宗的用语流传开来的，「一石二鸟」则是从英语谚语翻译而来。「十人十色」是日本的词语，指每个人的喜好与想法各不相同。",
+      "en": "Many four-character idioms are shared with Chinese, but quite a few were born uniquely in Japan. 「以心伝心」 is said to have spread from Zen terminology, and 「一石二鳥」 from a translation of an English proverb. 「十人十色」 is a Japanese expression meaning that each person's tastes and ideas differ.",
+      "de": "Many four-character idioms are shared with Chinese, but quite a few were born uniquely in Japan. 「以心伝心」 is said to have spread from Zen terminology, and 「一石二鳥」 from a translation of an English proverb. 「十人十色」 is a Japanese expression meaning that each person's tastes and ideas differ."
+    },
+    {
+      "zh-Hant": "反過來說，有些在中文裡很日常的成語，在日本幾乎不用。兩種語言在相同的漢字根基上，各自伸展出不同的枝條。比較這些差異，大概也是懂得兩種語言的人才能享有的特權吧。",
+      "zh-Hans": "反过来说，有些在中文里很日常的成语，在日本几乎不用。两种语言在相同的汉字根基上，各自伸展出不同的枝条。比较这些差异，大概也是懂得两种语言的人才能享有的特权吧。",
+      "en": "Conversely, some idioms that are everyday in Chinese are almost never used in Japan. On a shared foundation of kanji, the two languages have each grown different branches. Comparing these differences is perhaps a privilege reserved for those who know both languages.",
+      "de": "Conversely, some idioms that are everyday in Chinese are almost never used in Japan. On a shared foundation of kanji, the two languages have each grown different branches. Comparing these differences is perhaps a privilege reserved for those who know both languages."
+    }
+  ]
+}

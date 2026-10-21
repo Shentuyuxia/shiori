@@ -1,0 +1,184 @@
+{
+  "id": "d88",
+  "d": 88,
+  "lv": "pro",
+  "letter": true,
+  "genre": {
+    "zh-Hant": "方言",
+    "ja": "方言"
+  },
+  "title": "もうかりまっか",
+  "sub": "大阪商人的招呼",
+  "body": "「[[もうかりまっか|もうかりまっか]]」\n「[[ぼちぼちでんな|ぼちぼちでんな]]」\n\n大阪の商人の挨拶として有名なやりとりだ。「もうかっていますか」と聞かれ、「まあまあですね」と返す。実際にこう挨拶する人は今では少ないが、大阪の人の[[商売|しょうばい]]への[[意識|いしき]]の高さを表す[[決まり文句|きまりもんく]]として知られている。\n\n大阪の言葉には、[[値段|ねだん]]をめぐる表現も多い。「[[まけて|まけて]]」は「安くして」、「[[勉強|べんきょう]]しときます」は「値引きします」という意味だ。そして別れ際には「[[おおきに|おおきに]]」。もともとは「おおきにありがとう」の[[略|りゃく]]で、「とても」という意味だった。",
+  "gloss": {
+    "もうかりまっか": {
+      "m": "生意好嗎？",
+      "n": "大阪腔。＝もうかっていますか。"
+    },
+    "ぼちぼちでんな": {
+      "m": "馬馬虎虎啦",
+      "n": "＝まあまあですね。"
+    },
+    "商売": {
+      "m": "生意"
+    },
+    "意識": {
+      "m": "意識"
+    },
+    "決まり文句": {
+      "m": "套話"
+    },
+    "値段": {
+      "m": "價錢"
+    },
+    "まけて": {
+      "m": "算便宜一點"
+    },
+    "勉強": {
+      "m": "打折",
+      "n": "商人用語「勉強する」＝降價。"
+    },
+    "おおきに": {
+      "m": "謝謝"
+    },
+    "略": {
+      "m": "簡稱"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "\"Making money?\" Osaka merchant talk",
+      "g": {
+        "もうかりまっか": [
+          "making money?",
+          "Osaka dialect = もうかっていますか."
+        ],
+        "ぼちぼちでんな": [
+          "so-so",
+          "= まあまあですね."
+        ],
+        "商売": [
+          "business"
+        ],
+        "意識": [
+          "awareness"
+        ],
+        "決まり文句": [
+          "stock phrase"
+        ],
+        "値段": [
+          "price"
+        ],
+        "まけて": [
+          "give a discount"
+        ],
+        "勉強": [
+          "discount",
+          "Merchant speak: 勉強する = to lower the price."
+        ],
+        "おおきに": [
+          "thank you"
+        ],
+        "略": [
+          "abbreviation"
+        ]
+      }
+    },
+    "de": {
+      "s": "„Läuft das Geschäft?“ Osaka-Händlersprache",
+      "g": {
+        "もうかりまっか": [
+          "läuft das Geschäft?",
+          "Osaka-Dialekt = もうかっていますか."
+        ],
+        "ぼちぼちでんな": [
+          "es geht so",
+          "= まあまあですね."
+        ],
+        "商売": [
+          "Geschäft"
+        ],
+        "意識": [
+          "Bewusstsein"
+        ],
+        "決まり文句": [
+          "Floskel"
+        ],
+        "値段": [
+          "Preis"
+        ],
+        "まけて": [
+          "einen Rabatt geben"
+        ],
+        "勉強": [
+          "Rabatt",
+          "Händlersprache: 勉強する = den Preis senken."
+        ],
+        "おおきに": [
+          "danke"
+        ],
+        "略": [
+          "Abkürzung"
+        ]
+      }
+    },
+    "hans": {
+      "s": "大阪商人的招呼",
+      "g": {
+        "もうかりまっか": [
+          "生意好吗？",
+          "大阪腔。＝もうかっていますか。"
+        ],
+        "ぼちぼちでんな": [
+          "马马虎虎啦",
+          "＝まあまあですね。"
+        ],
+        "商売": [
+          "生意"
+        ],
+        "意識": [
+          "意识"
+        ],
+        "決まり文句": [
+          "套话"
+        ],
+        "値段": [
+          "价钱"
+        ],
+        "まけて": [
+          "算便宜一点"
+        ],
+        "勉強": [
+          "打折",
+          "商人用语「勉强する」＝降价。"
+        ],
+        "おおきに": [
+          "谢谢"
+        ],
+        "略": [
+          "简称"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "「生意還好嗎？」\n「馬馬虎虎啦。」",
+      "zh-Hans": "「生意还好吗？」\n「马马虎虎啦。」",
+      "en": "\"Are you making money?\"\n\"So-so, you know.\"",
+      "de": "\"Are you making money?\"\n\"So-so, you know.\""
+    },
+    {
+      "zh-Hant": "這是大阪商人間著名的寒暄對話。被問「生意還好嗎」，回答「還可以吧」。如今真的這樣打招呼的人已經不多，但它被視為大阪人對生意上心的一句固定用語。",
+      "zh-Hans": "这是大阪商人间著名的寒暄对话。被问「生意还好吗」，回答「还可以吧」。如今真的这样打招呼的人已经不多，但它被视为大阪人对生意上心的一句固定用语。",
+      "en": "This is a well-known exchange of greetings among Osaka merchants. You are asked, \"Are you making money?\" and you reply, \"So-so.\" Few people actually greet each other this way nowadays, but it is known as a set phrase reflecting the Osaka people's strong attention to business.",
+      "de": "This is a well-known exchange of greetings among Osaka merchants. You are asked, \"Are you making money?\" and you reply, \"So-so.\" Few people actually greet each other this way nowadays, but it is known as a set phrase reflecting the Osaka people's strong attention to business."
+    },
+    {
+      "zh-Hant": "大阪話中，與價格相關的表達也很多。「まけて」意思是「算便宜點」，「勉強しときます」意思是「給你打折」。而道別時會說「おおきに」。它原本是「おおきにありがとう」的省略，意思是「非常」。",
+      "zh-Hans": "大阪话中，与价格相关的表达也很多。「まけて」意思是「算便宜点」，「勉强しときます」意思是「给你打折」。而道别时会说「おおきに」。它原本是「おおきにありがとう」的省略，意思是「非常」。",
+      "en": "Osaka dialect has many expressions related to price. 「まけて」 means \"give me a discount,\" and 「勉強しときます」 means \"I'll knock off a bit.\" And when parting, one says 「おおきに」. It was originally a shortening of 「おおきにありがとう」, and meant \"very.\"",
+      "de": "Osaka dialect has many expressions related to price. 「まけて」 means \"give me a discount,\" and 「勉強しときます」 means \"I'll knock off a bit.\" And when parting, one says 「おおきに」. It was originally a shortening of 「おおきにありがとう」, and meant \"very.\""
+    }
+  ]
+}

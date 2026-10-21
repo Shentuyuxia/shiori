@@ -1,0 +1,207 @@
+{
+  "id": "shasetsu",
+  "d": -1,
+  "lv": "pro",
+  "genre": {
+    "zh-Hant": "社論",
+    "ja": "社説"
+  },
+  "title": "働き方改革の陰で",
+  "sub": "「工作方式改革」的陰影",
+  "body": "長時間労働の[[是正|ぜせい]]を[[掲げた|かかげた]]「働き方改革」が始まって久しい。残業時間には上限が設けられ、[[有給休暇|ゆうきゅうきゅうか]]の取得も[[義務付け|ぎむづけ]]られた。数字の上では、一定の成果が上がったと言えよう。\n\nだが、現場の実感は必ずしもそうではない。仕事の量が変わらないまま時間だけが[[削られ|けずられ]]、持ち帰り残業や[[サービス残業|サービスざんぎょう]]で[[帳尻を合わせる|ちょうじりをあわせる]]例も後を絶たない。管理職に負担が[[しわ寄せ|しわよせ]]される[[弊害|へいがい]]も指摘されている。\n\n制度を整えるだけでは[[看板倒れ|かんばんだおれ]]に終わりかねない。業務そのものを見直す[[抜本的|ばっぽんてき]]な取り組みと、それを[[検証|けんしょう]]する仕組みこそが[[喫緊|きっきん]]の課題である。",
+  "gloss": {
+    "是正": {
+      "m": "矯正、導正"
+    },
+    "掲げた": {
+      "m": "標舉（口號、目標）（原形：掲げる）"
+    },
+    "有給休暇": {
+      "m": "帶薪休假"
+    },
+    "義務付け": {
+      "m": "規定為義務（義務付ける）"
+    },
+    "削られ": {
+      "m": "被削減（原形：削る）"
+    },
+    "サービス残業": {
+      "m": "無償加班"
+    },
+    "帳尻を合わせる": {
+      "m": "把帳湊平；勉強交差"
+    },
+    "しわ寄せ": {
+      "m": "負擔被轉嫁（到弱勢一方）"
+    },
+    "弊害": {
+      "m": "弊端"
+    },
+    "看板倒れ": {
+      "m": "名不副實、徒有其名"
+    },
+    "抜本的": {
+      "m": "根本性的、徹底的"
+    },
+    "検証": {
+      "m": "驗證、檢討"
+    },
+    "喫緊": {
+      "m": "迫切、當務之急"
+    }
+  },
+  "translations": {
+    "en": {
+      "s": "In the shadow of work-style reform",
+      "g": {
+        "是正": [
+          "correction, rectifying"
+        ],
+        "掲げた": [
+          "held up (a goal, slogan) (dict. form: 掲げる)"
+        ],
+        "有給休暇": [
+          "paid leave"
+        ],
+        "義務付け": [
+          "making mandatory (義務付ける)"
+        ],
+        "削られ": [
+          "being cut (dict. form: 削る)"
+        ],
+        "サービス残業": [
+          "unpaid overtime"
+        ],
+        "帳尻を合わせる": [
+          "to make the numbers add up"
+        ],
+        "しわ寄せ": [
+          "burden pushed onto the weaker side"
+        ],
+        "弊害": [
+          "harmful side effect"
+        ],
+        "看板倒れ": [
+          "all show, failing to live up to its name"
+        ],
+        "抜本的": [
+          "fundamental, radical"
+        ],
+        "検証": [
+          "examination, verification"
+        ],
+        "喫緊": [
+          "urgent, pressing"
+        ]
+      }
+    },
+    "de": {
+      "s": "Im Schatten der Arbeitsreform",
+      "g": {
+        "是正": [
+          "Korrektur, Behebung"
+        ],
+        "掲げた": [
+          "ausgerufen (Ziel, Parole) (Grundform: 掲げる)"
+        ],
+        "有給休暇": [
+          "bezahlter Urlaub"
+        ],
+        "義務付け": [
+          "zur Pflicht machen (義務付ける)"
+        ],
+        "削られ": [
+          "gekürzt werden (Grundform: 削る)"
+        ],
+        "サービス残業": [
+          "unbezahlte Überstunden"
+        ],
+        "帳尻を合わせる": [
+          "die Bilanz schönrechnen"
+        ],
+        "しわ寄せ": [
+          "auf Schwächere abgewälzte Last"
+        ],
+        "弊害": [
+          "Missstand, schädliche Folge"
+        ],
+        "看板倒れ": [
+          "mehr Schein als Sein"
+        ],
+        "抜本的": [
+          "grundlegend, tiefgreifend"
+        ],
+        "検証": [
+          "Überprüfung"
+        ],
+        "喫緊": [
+          "dringend, vordringlich"
+        ]
+      }
+    },
+    "hans": {
+      "s": "「工作方式改革」的阴影",
+      "g": {
+        "是正": [
+          "矫正、导正"
+        ],
+        "掲げた": [
+          "标举（口号、目标）（原形：掲げる）"
+        ],
+        "有給休暇": [
+          "带薪休假"
+        ],
+        "義務付け": [
+          "规定为义务（义务付ける）"
+        ],
+        "削られ": [
+          "被削减（原形：削る）"
+        ],
+        "サービス残業": [
+          "无偿加班"
+        ],
+        "帳尻を合わせる": [
+          "把帐凑平；勉强交差"
+        ],
+        "しわ寄せ": [
+          "负担被转嫁（到弱势一方）"
+        ],
+        "弊害": [
+          "弊端"
+        ],
+        "看板倒れ": [
+          "名不副实、徒有其名"
+        ],
+        "抜本的": [
+          "根本性的、彻底的"
+        ],
+        "検証": [
+          "验证、检讨"
+        ],
+        "喫緊": [
+          "迫切、当务之急"
+        ]
+      }
+    }
+  },
+  "paragraphs": [
+    {
+      "zh-Hant": "推行「工作方式改革」以矯正長時間勞動，已經過了很久。加班時間有了上限，帶薪休假的取得也被規定為義務。從數字上看，可以說取得了一定的成果。",
+      "zh-Hans": "推行「工作方式改革」以矫正长时间劳动，已经过了很久。加班时间有了上限，带薪休假的取得也被规定为义务。从数字上看，可以说取得了一定的成果。",
+      "en": "It has been a long time since the 「work style reform」 began, aiming to correct long working hours. Overtime now has upper limits, and taking paid leave has been made mandatory. In terms of numbers, it can be said that some results have been achieved.",
+      "de": "It has been a long time since the 「work style reform」 began, aiming to correct long working hours. Overtime now has upper limits, and taking paid leave has been made mandatory. In terms of numbers, it can be said that some results have been achieved."
+    },
+    {
+      "zh-Hant": "但是，現場的真實感受未必如此。工作量沒有改變，時間卻被削減，帶回家加班或無償加班來湊數的例子也層出不窮。也有人指出，負擔被轉嫁到管理職身上，這種弊端也值得關注。",
+      "zh-Hans": "但是，现场的真实感受未必如此。工作量没有改变，时间却被削减，带回家加班或无偿加班来凑数的例子也层出不穷。也有人指出，负担被转嫁到管理职身上，这种弊端也值得关注。",
+      "en": "However, the reality on the ground is not necessarily the same. The amount of work hasn't changed, but the time has been cut, and there are countless cases of taking work home or doing unpaid overtime to make things add up. It has also been pointed out that the burden is shifted onto managers, which is a harmful side effect.",
+      "de": "However, the reality on the ground is not necessarily the same. The amount of work hasn't changed, but the time has been cut, and there are countless cases of taking work home or doing unpaid overtime to make things add up. It has also been pointed out that the burden is shifted onto managers, which is a harmful side effect."
+    },
+    {
+      "zh-Hant": "只完善制度，恐怕會淪為有名無實。真正迫切的課題，是根本性地重新檢視工作本身，以及驗證這些改革的機制。",
+      "zh-Hans": "只完善制度，恐怕会沦为有名无实。真正迫切的课题，是根本性地重新查看工作本身，以及验证这些改革的机制。",
+      "en": "Simply improving the system may end up as nothing more than a hollow promise. What is urgently needed is a fundamental effort to review the work itself, along with a mechanism to verify whether it is working.",
+      "de": "Simply improving the system may end up as nothing more than a hollow promise. What is urgently needed is a fundamental effort to review the work itself, along with a mechanism to verify whether it is working."
+    }
+  ]
+}
