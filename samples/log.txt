@@ -1,52 +1,46 @@
 engine "0.25.2"
-Traceback (most recent call last):
-  File "/home/runner/work/shiori/shiori/tools/voice_samples.py", line 31, in <module>
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", "/tmp/s.wav", "-ac", "1", "-b:a", "48k", fn], check=True)
-  File "/usr/lib/python3.12/subprocess.py", line 548, in run
-    with Popen(*popenargs, **kwargs) as process:
-         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/subprocess.py", line 1026, in __init__
-    self._execute_child(args, executable, preexec_fn, close_fds,
-  File "/usr/lib/python3.12/subprocess.py", line 1955, in _execute_child
-    raise child_exception_type(errno_num, err_msg, err_filename)
-FileNotFoundError: [Errno 2] No such file or directory: 'ffmpeg'
-
-利用規約の詳細は以下をご確認ください。
-https://zunko.jp/con_ongen_kiyaku.html
-
-## 夜語トバリ
-
-夜語トバリの音声ライブラリを用いて生成した音声は、
-「VOICEVOX:夜語トバリ」とクレジットを記載すれば、商用・非商用で利用可能です。
-
-利用規約の詳細は以下をご確認ください。
-https://yogataritobari.studio.site/#rules
-
-## 暁記ミタマ
-
-暁記ミタマの音声ライブラリを用いて生成した音声は、
-「VOICEVOX:暁記ミタマ」とクレジットを記載すれば、商用・非商用で利用可能です。
-
-利用規約の詳細は以下をご確認ください。
-https://yogataritobari.studio.site/#rules
-
-## 里石ユカ
-
-里石ユカ（つぼみ）の音声ライブラリを用いて生成した音声は、
-「VOICEVOX:里石ユカ（つぼみ）」とクレジットを記載すれば、商用・非商用で利用可能です。
-
-利用規約の詳細は以下をご確認ください。
-https://satoishiyuka.wixsite.com/satoishi/kiyaku
-+ exec gosu user /opt/voicevox_engine/run --host 0.0.0.0
-voicevox_engine/core/core_initializer.py:99: UserWarning: cpu_num_threads is set to 0. Setting it to an appropriate value.
-2026-10-21T06:55:34.121741+00:00  INFO voicevox_core::synthesizer: CPUを利用します
-reading /home/user/.local/share/voicevox-engine/user.dict_csv-f21f78ce-d60f-4bf9-bec2-ca823627b9b9.tmp ... 96
-emitting double-array:   1% |                                           | emitting double-array:   2% |                                           | emitting double-array:   3% |#                                          | emitting double-array:   4% |#                                          | emitting double-array:   5% |##                                         | emitting double-array:   6% |##                                         | emitting double-array:   7% |###                                        | emitting double-array:   8% |###                                        | emitting double-array:   9% |####                                       | emitting double-array:  10% |####                                       | emitting double-array:  11% |####                                       | emitting double-array:  12% |#####                                      | emitting double-array:  13% |#####                                      | emitting double-array:  14% |######                                     | emitting double-array:  15% |######                                     | emitting double-array:  16% |#######                                    | emitting double-array:  17% |#######                                    | emitting double-array:  18% |########                                   | emitting double-array:  19% |########                                   | emitting double-array:  20% |########                                   | emitting double-array:  21% |#########                                  | emitting double-array:  22% |#########                                  | emitting double-array:  23% |##########                                 | emitting double-array:  25% |##########                                 | emitting double-array:  26% |###########                                | emitting double-array:  27% |###########                                | emitting double-array:  28% |############                               | emitting double-array:  29% |############                               | emitting double-array:  30% |############                               | emitting double-array:  31% |#############                              | emitting double-array:  32% |#############                              | emitting double-array:  33% |##############                             | emitting double-array:  34% |##############                             | emitting double-array:  35% |###############                            | emitting double-array:  36% |###############                            | emitting double-array:  37% |################                           | emitting double-array:  38% |################                           | emitting double-array:  39% |#################                          | emitting double-array:  40% |#################                          | emitting double-array:  41% |#################                          | emitting double-array:  42% |##################                         | emitting double-array:  43% |##################                         | emitting double-array:  44% |###################                        | emitting double-array:  45% |###################                        | emitting double-array:  46% |####################                       | emitting double-array:  47% |####################                       | emitting double-array:  48% |#####################                      | emitting double-array:  50% |#####################                      | emitting double-array:  51% |#####################                      | emitting double-array:  52% |######################                     | emitting double-array:  53% |######################                     | emitting double-array:  54% |#######################                    | emitting double-array:  55% |#######################                    | emitting double-array:  56% |########################                   | emitting double-array:  57% |########################                   | emitting double-array:  58% |#########################                  | emitting double-array:  59% |#########################                  | emitting double-array:  60% |#########################                  | emitting double-array:  61% |##########################                 | emitting double-array:  62% |##########################                 | emitting double-array:  63% |###########################                | emitting double-array:  64% |###########################                | emitting double-array:  65% |############################               | emitting double-array:  66% |############################               | emitting double-array:  67% |#############################              | emitting double-array:  68% |#############################              | emitting double-array:  69% |##############################             | emitting double-array:  70% |##############################             | emitting double-array:  71% |##############################             | emitting double-array:  72% |###############################            | emitting double-array:  73% |###############################            | emitting double-array:  75% |################################           | emitting double-array:  76% |################################           | emitting double-array:  77% |#################################          | emitting double-array:  78% |#################################          | emitting double-array:  79% |##################################         | emitting double-array:  80% |##################################         | emitting double-array:  81% |##################################         | emitting double-array:  82% |###################################        | emitting double-array:  83% |###################################        | emitting double-array:  84% |####################################       | emitting double-array:  85% |####################################       | emitting double-array:  86% |#####################################      | emitting double-array:  87% |#####################################      | emitting double-array:  88% |######################################     | emitting double-array:  89% |######################################     | emitting double-array:  90% |######################################     | emitting double-array:  91% |#######################################    | emitting double-array:  92% |#######################################    | emitting double-array:  93% |########################################   | emitting double-array:  94% |########################################   | emitting double-array:  95% |#########################################  | emitting double-array:  96% |#########################################  | emitting double-array:  97% |########################################## | emitting double-array:  98% |########################################## | emitting double-array: 100% |###########################################| 
-INFO:     Started server process [1]
-INFO:     Waiting for application startup.
-INFO:     Application startup complete.
-INFO:     Uvicorn running on http://0.0.0.0:50021 (Press CTRL+C to quit)
-INFO:     172.17.0.1:56078 - "GET /version HTTP/1.1" 200 OK
-INFO:     172.17.0.1:56080 - "GET /speakers HTTP/1.1" 200 OK
-INFO:     172.17.0.1:56096 - "POST /audio_query?text=%E8%BF%91%E6%89%80%E3%81%AB%E5%8F%A4%E3%81%84%E9%8A%AD%E6%B9%AF%E3%81%8C%E3%81%82%E3%82%8B%E3%80%82%E5%85%88%E9%80%B1%E3%80%81%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%80%82%E5%85%A5%E3%82%8A%E5%8F%A3%E3%81%A7%E6%96%99%E9%87%91%E3%82%92%E6%89%95%E3%81%86%E3%81%A8%E3%80%81%E3%81%8A%E3%81%B0%E3%81%82%E3%81%95%E3%82%93%E3%81%8C%E3%80%8C%E3%82%BF%E3%82%AA%E3%83%AB%E3%81%AF%E6%8C%81%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E3%80%8D%E3%81%A8%E8%81%9E%E3%81%84%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E3%80%82&speaker=2 HTTP/1.1" 200 OK
-INFO:     172.17.0.1:56108 - "POST /synthesis?speaker=2 HTTP/1.1" 200 OK
+2 四国めたん ノーマル
+3 ずんだもん ノーマル
+8 春日部つむぎ ノーマル
+10 雨晴はう ノーマル
+9 波音リツ ノーマル
+11 玄野武宏 ノーマル
+12 白上虎太郎 ふつう
+13 青山龍星 ノーマル
+14 冥鳴ひまり ノーマル
+16 九州そら ノーマル
+20 もち子さん ノーマル
+21 剣崎雌雄 ノーマル
+23 WhiteCUL ノーマル
+27 後鬼 人間ver.
+29 No.7 ノーマル
+30 No.7 アナウンス
+31 No.7 読み聞かせ
+42 ちび式じい ノーマル
+43 櫻歌ミコ ノーマル
+46 小夜/SAYO ノーマル
+47 ナースロボ＿タイプＴ ノーマル
+51 †聖騎士 紅桜† ノーマル
+52 雀松朱司 ノーマル
+53 麒ヶ島宗麟 ノーマル
+54 春歌ナナ ノーマル
+55 猫使アル ノーマル
+58 猫使ビィ ノーマル
+61 中国うさぎ ノーマル
+67 栗田まろん ノーマル
+68 あいえるたん ノーマル
+69 満別花丸 ノーマル
+74 琴詠ニア ノーマル
+89 Voidoll ノーマル
+90 ぞん子 ノーマル
+94 中部つるぎ ノーマル
+99 離途 ノーマル
+100 黒沢冴白 ノーマル
+102 ユーレイちゃん ノーマル
+107 東北ずん子 ノーマル
+108 東北きりたん ノーマル
+109 東北イタコ ノーマル
+113 あんこもん ノーマル
+118 夜語トバリ ノーマル
+122 暁記ミタマ ノーマル
+126 里石ユカ つぼみ

@@ -1,0 +1,275 @@
+{
+ "text": "近所に古い銭湯がある。先週、はじめて行ってみた。入り口で料金を払うと、おばあさんが「タオルは持ってる？」と聞いてくれた。",
+ "voices": [
+  {
+   "id": 2,
+   "speaker": "四国めたん",
+   "style": "ノーマル",
+   "file": "samples/2.mp3"
+  },
+  {
+   "id": 3,
+   "speaker": "ずんだもん",
+   "style": "ノーマル",
+   "file": "samples/3.mp3"
+  },
+  {
+   "id": 8,
+   "speaker": "春日部つむぎ",
+   "style": "ノーマル",
+   "file": "samples/8.mp3"
+  },
+  {
+   "id": 10,
+   "speaker": "雨晴はう",
+   "style": "ノーマル",
+   "file": "samples/10.mp3"
+  },
+  {
+   "id": 9,
+   "speaker": "波音リツ",
+   "style": "ノーマル",
+   "file": "samples/9.mp3"
+  },
+  {
+   "id": 11,
+   "speaker": "玄野武宏",
+   "style": "ノーマル",
+   "file": "samples/11.mp3"
+  },
+  {
+   "id": 12,
+   "speaker": "白上虎太郎",
+   "style": "ふつう",
+   "file": "samples/12.mp3"
+  },
+  {
+   "id": 13,
+   "speaker": "青山龍星",
+   "style": "ノーマル",
+   "file": "samples/13.mp3"
+  },
+  {
+   "id": 14,
+   "speaker": "冥鳴ひまり",
+   "style": "ノーマル",
+   "file": "samples/14.mp3"
+  },
+  {
+   "id": 16,
+   "speaker": "九州そら",
+   "style": "ノーマル",
+   "file": "samples/16.mp3"
+  },
+  {
+   "id": 20,
+   "speaker": "もち子さん",
+   "style": "ノーマル",
+   "file": "samples/20.mp3"
+  },
+  {
+   "id": 21,
+   "speaker": "剣崎雌雄",
+   "style": "ノーマル",
+   "file": "samples/21.mp3"
+  },
+  {
+   "id": 23,
+   "speaker": "WhiteCUL",
+   "style": "ノーマル",
+   "file": "samples/23.mp3"
+  },
+  {
+   "id": 27,
+   "speaker": "後鬼",
+   "style": "人間ver.",
+   "file": "samples/27.mp3"
+  },
+  {
+   "id": 29,
+   "speaker": "No.7",
+   "style": "ノーマル",
+   "file": "samples/29.mp3"
+  },
+  {
+   "id": 30,
+   "speaker": "No.7",
+   "style": "アナウンス",
+   "file": "samples/30.mp3"
+  },
+  {
+   "id": 31,
+   "speaker": "No.7",
+   "style": "読み聞かせ",
+   "file": "samples/31.mp3"
+  },
+  {
+   "id": 42,
+   "speaker": "ちび式じい",
+   "style": "ノーマル",
+   "file": "samples/42.mp3"
+  },
+  {
+   "id": 43,
+   "speaker": "櫻歌ミコ",
+   "style": "ノーマル",
+   "file": "samples/43.mp3"
+  },
+  {
+   "id": 46,
+   "speaker": "小夜/SAYO",
+   "style": "ノーマル",
+   "file": "samples/46.mp3"
+  },
+  {
+   "id": 47,
+   "speaker": "ナースロボ＿タイプＴ",
+   "style": "ノーマル",
+   "file": "samples/47.mp3"
+  },
+  {
+   "id": 51,
+   "speaker": "†聖騎士 紅桜†",
+   "style": "ノーマル",
+   "file": "samples/51.mp3"
+  },
+  {
+   "id": 52,
+   "speaker": "雀松朱司",
+   "style": "ノーマル",
+   "file": "samples/52.mp3"
+  },
+  {
+   "id": 53,
+   "speaker": "麒ヶ島宗麟",
+   "style": "ノーマル",
+   "file": "samples/53.mp3"
+  },
+  {
+   "id": 54,
+   "speaker": "春歌ナナ",
+   "style": "ノーマル",
+   "file": "samples/54.mp3"
+  },
+  {
+   "id": 55,
+   "speaker": "猫使アル",
+   "style": "ノーマル",
+   "file": "samples/55.mp3"
+  },
+  {
+   "id": 58,
+   "speaker": "猫使ビィ",
+   "style": "ノーマル",
+   "file": "samples/58.mp3"
+  },
+  {
+   "id": 61,
+   "speaker": "中国うさぎ",
+   "style": "ノーマル",
+   "file": "samples/61.mp3"
+  },
+  {
+   "id": 67,
+   "speaker": "栗田まろん",
+   "style": "ノーマル",
+   "file": "samples/67.mp3"
+  },
+  {
+   "id": 68,
+   "speaker": "あいえるたん",
+   "style": "ノーマル",
+   "file": "samples/68.mp3"
+  },
+  {
+   "id": 69,
+   "speaker": "満別花丸",
+   "style": "ノーマル",
+   "file": "samples/69.mp3"
+  },
+  {
+   "id": 74,
+   "speaker": "琴詠ニア",
+   "style": "ノーマル",
+   "file": "samples/74.mp3"
+  },
+  {
+   "id": 89,
+   "speaker": "Voidoll",
+   "style": "ノーマル",
+   "file": "samples/89.mp3"
+  },
+  {
+   "id": 90,
+   "speaker": "ぞん子",
+   "style": "ノーマル",
+   "file": "samples/90.mp3"
+  },
+  {
+   "id": 94,
+   "speaker": "中部つるぎ",
+   "style": "ノーマル",
+   "file": "samples/94.mp3"
+  },
+  {
+   "id": 99,
+   "speaker": "離途",
+   "style": "ノーマル",
+   "file": "samples/99.mp3"
+  },
+  {
+   "id": 100,
+   "speaker": "黒沢冴白",
+   "style": "ノーマル",
+   "file": "samples/100.mp3"
+  },
+  {
+   "id": 102,
+   "speaker": "ユーレイちゃん",
+   "style": "ノーマル",
+   "file": "samples/102.mp3"
+  },
+  {
+   "id": 107,
+   "speaker": "東北ずん子",
+   "style": "ノーマル",
+   "file": "samples/107.mp3"
+  },
+  {
+   "id": 108,
+   "speaker": "東北きりたん",
+   "style": "ノーマル",
+   "file": "samples/108.mp3"
+  },
+  {
+   "id": 109,
+   "speaker": "東北イタコ",
+   "style": "ノーマル",
+   "file": "samples/109.mp3"
+  },
+  {
+   "id": 113,
+   "speaker": "あんこもん",
+   "style": "ノーマル",
+   "file": "samples/113.mp3"
+  },
+  {
+   "id": 118,
+   "speaker": "夜語トバリ",
+   "style": "ノーマル",
+   "file": "samples/118.mp3"
+  },
+  {
+   "id": 122,
+   "speaker": "暁記ミタマ",
+   "style": "ノーマル",
+   "file": "samples/122.mp3"
+  },
+  {
+   "id": 126,
+   "speaker": "里石ユカ",
+   "style": "つぼみ",
+   "file": "samples/126.mp3"
+  }
+ ]
+}
