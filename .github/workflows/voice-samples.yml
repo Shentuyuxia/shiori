@@ -1,0 +1,25 @@
+name: Voice samples (VOICEVOX)
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/voice-samples.yml", "tools/voice_samples.py"]
+permissions:
+  contents: write
+jobs:
+  samples:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Start VOICEVOX engine
+        run: docker run -d --name vv -p 50021:50021 voicevox/voicevox_engine:cpu-latest
+      - name: Generate samples
+        run: python3 tools/voice_samples.py
+      - name: Commit samples
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add samples
+          git commit -m "Add VOICEVOX voice samples" || exit 0
+          git pull --rebase origin main
+          git push origin HEAD:main
