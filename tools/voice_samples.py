@@ -7,11 +7,12 @@ WANT = ("ノーマル", "ふつう", "読み聞かせ", "アナウンス", "落�
 def call(path, data=None, method="GET"):
     req = urllib.request.Request(API + path, data=data, method=method,
                                  headers={"Content-Type": "application/json"} if data else {})
+    if data == b"": req = urllib.request.Request(API + path, data=b"", method=method)
     with urllib.request.urlopen(req, timeout=300) as r:
         return r.read()
 
-for _ in range(120):
-    try: call("/version"); break
+for _ in range(150):
+    try: print("engine", call("/version").decode(), flush=True); break
     except Exception: time.sleep(2)
 
 os.makedirs("samples", exist_ok=True)
@@ -20,8 +21,11 @@ for sp in json.loads(call("/speakers")):
     styles = [s for s in sp["styles"] if s.get("type", "talk") == "talk"]
     picked = [s for s in styles if s["name"] in WANT] or styles[:1]
     for st in picked:
-        q = call(f"/audio_query?text={urllib.parse.quote(TEXT)}&speaker={st['id']}", b"", "POST")
-        wav = call(f"/synthesis?speaker={st['id']}", q, "POST")
+        try:
+            q = call(f"/audio_query?text={urllib.parse.quote(TEXT)}&speaker={st['id']}", b"", "POST")
+            wav = call(f"/synthesis?speaker={st['id']}", q, "POST")
+        except Exception as e:
+            print("FAIL", st["id"], sp["name"], st["name"], repr(e), flush=True); continue
         open("/tmp/s.wav", "wb").write(wav)
         fn = f"samples/{st['id']}.mp3"
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", "/tmp/s.wav", "-ac", "1", "-b:a", "48k", fn], check=True)

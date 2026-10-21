@@ -14,8 +14,12 @@ jobs:
       - name: Start VOICEVOX engine
         run: docker run -d --name vv -p 50021:50021 voicevox/voicevox_engine:cpu-latest
       - name: Generate samples
-        run: python3 tools/voice_samples.py
+        run: |
+          mkdir -p samples
+          set -o pipefail
+          python3 tools/voice_samples.py 2>&1 | tee samples/log.txt || (docker logs vv 2>&1 | tail -40 >> samples/log.txt; true)
       - name: Commit samples
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
