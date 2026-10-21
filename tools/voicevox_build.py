@@ -1,12 +1,14 @@
-"""Synthesize every text in tools/tts_texts.json with the VOICEVOX voice in tools/voice.json.
-Output: audio/v<ID>/<key>.mp3 and audio/manifest.json. Incremental: existing files are kept."""
-import json, os, pathlib, subprocess, sys, time, urllib.parse, urllib.request
+"""Synthesize every text in tools/tts_texts.json with one VOICEVOX voice from tools/voices.json.
+Usage: VV_VOICE=<speaker id> python3 tools/voicevox_build.py
+Output: audio/v<ID>/<key>.mp3 and audio/v<ID>/manifest.json. Incremental: existing files are kept."""
+import json, os, pathlib, subprocess, time, urllib.parse, urllib.request
 from concurrent.futures import ThreadPoolExecutor
 API = "http://127.0.0.1:50021"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-cfg = json.loads((ROOT / "tools/voice.json").read_text(encoding="utf-8"))
+SID = int(os.environ["VV_VOICE"])
+cfg = next(v for v in json.loads((ROOT / "tools/voices.json").read_text(encoding="utf-8")) if int(v["id"]) == SID)
 texts = json.loads((ROOT / "tools/tts_texts.json").read_text(encoding="utf-8"))
-SID = int(cfg["id"]); OUT = ROOT / f"audio/v{SID}"; OUT.mkdir(parents=True, exist_ok=True)
+OUT = ROOT / f"audio/v{SID}"; OUT.mkdir(parents=True, exist_ok=True)
 
 def h32(s, seed):  # FNV-1a over UTF-16 code units, same as key() in index.html
     b = s.encode("utf-16-le"); h = seed & 0xFFFFFFFF
@@ -42,14 +44,19 @@ def synth(t):
 
 def manifest(keys):
     m = {"id": SID, "name": cfg["name"], "credit": cfg["credit"], "keys": sorted(keys)}
-    (ROOT / "audio/manifest.json").write_text(json.dumps(m, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    (OUT / "manifest.json").write_text(json.dumps(m, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 def commit(msg):
-    subprocess.run(["git", "add", "audio"], cwd=ROOT, check=True)
+    subprocess.run(["git", "add", f"audio/v{SID}"], cwd=ROOT, check=True)
     if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=ROOT).returncode == 0: return
     subprocess.run(["git", "commit", "-q", "-m", msg], cwd=ROOT, check=True)
-    subprocess.run(["git", "pull", "-q", "--rebase", "origin", "main"], cwd=ROOT, check=True)
-    subprocess.run(["git", "push", "-q", "origin", "HEAD:main"], cwd=ROOT, check=True)
+    # the three voice jobs push at the same time: retry the rebase+push a few times
+    for attempt in range(6):
+        if subprocess.run(["git", "pull", "-q", "--rebase", "origin", "main"], cwd=ROOT).returncode == 0 \
+           and subprocess.run(["git", "push", "-q", "origin", "HEAD:main"], cwd=ROOT).returncode == 0:
+            return
+        time.sleep(5 + 5 * attempt)
+    raise SystemExit("push failed after retries")
 
 done, fails, n = [], 0, 0
 with ThreadPoolExecutor(int(os.environ.get("VV_JOBS", "2"))) as ex:
@@ -59,7 +66,7 @@ with ThreadPoolExecutor(int(os.environ.get("VV_JOBS", "2"))) as ex:
         else: done.append(k)
         if n % 300 == 0:
             print(f"{n}/{len(texts)}", flush=True)
-            if os.environ.get("VV_COMMIT"): manifest(done); commit(f"Voice audio: {n}/{len(texts)}")
+            if os.environ.get("VV_COMMIT"): manifest(done); commit(f"Voice audio {SID}: {n}/{len(texts)}")
 manifest(done)
 print(f"done {len(done)}/{len(texts)}, failed {fails}", flush=True)
-if os.environ.get("VV_COMMIT"): commit(f"Voice audio: {cfg['credit']} ({len(done)} clips)")
+if os.environ.get("VV_COMMIT"): commit(f"Voice audio {SID}: {cfg['credit']} ({len(done)} clips)")

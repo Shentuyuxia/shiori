@@ -3,30 +3,27 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["tools/voice.json", "tools/tts_texts.json", "tools/voicevox_build.py", ".github/workflows/voice-build.yml"]
+    paths: ["tools/voices.json", "tools/tts_texts.json", "tools/voicevox_build.py", ".github/workflows/voice-build.yml"]
 permissions:
   contents: write
-concurrency:
-  group: voice-build
-  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        voice: [23, 118, 13]
     steps:
       - uses: actions/checkout@v4
-      - name: Check voice is chosen
-        id: cfg
-        run: if [ -f tools/voice.json ]; then echo "ok=1" >> "$GITHUB_OUTPUT"; else echo "tools/voice.json missing, nothing to build"; fi
       - name: Install ffmpeg
-        if: steps.cfg.outputs.ok == '1'
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - name: Start VOICEVOX engine
-        if: steps.cfg.outputs.ok == '1'
         run: docker run -d --name vv -p 50021:50021 voicevox/voicevox_engine:cpu-latest
-      - name: Synthesize
-        if: steps.cfg.outputs.ok == '1'
+      - name: Synthesize voice ${{ matrix.voice }}
         env:
+          VV_VOICE: ${{ matrix.voice }}
           VV_COMMIT: "1"
           VV_JOBS: "3"
         run: |

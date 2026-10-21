@@ -1769,7 +1769,7 @@ function viewSet(){
   <div class="item"><span class="lab">${t("dirLab")}</span><p></p><div class="c">${seg("vert",[["0",t("hor")],["1",t("ver")]],s.vert?1:0)}</div></div>
   <div class="item"><span class="lab">${t("size")}</span><p lang="ja" style="font-family:var(--f-read);font-size:${s.size}px;color:var(--ink)">秋の夜長</p><div class="c"><input id="size" type="range" min="15" max="26" value="${s.size}" aria-label="${t("size")}"></div></div>
   <div class="item"><span class="lab">${t("speed")}</span><p>${t("speedP")}</p><div class="c">${seg("rate",[[0.7,"0.7×"],[0.9,"0.9×"],[1.1,"1.1×"],[1.3,"1.3×"]],s.rate)}</div></div>
-  <div class="item"><span class="lab">${t("voice")}</span><p>${VV.on?esc(t("vvNote",VV.credit)):TTS.ok?t("voiceP"):t("noTTS")}</p><div class="c"><div class="vrow"><select id="voiceSel" class="sel" ${TTS.voices.length||VV.on?"":"disabled"} aria-label="${t("voice")}"><option value="">${t("auto")}${!s.voice?(VV.on?" · "+esc(VV.credit):TTS.voices.length?" · "+esc(rankedVoices()[0].name):""):""}</option>${VV.on?`<option value="vv" ${s.voice==="vv"?"selected":""}>★★ ${esc(VV.credit)}</option>`:""}${rankedVoices().map(v=>`<option value="${esc(v.voiceURI)}" ${v.voiceURI===s.voice?"selected":""}>${HQ(v)?"★ ":""}${esc(v.name)}</option>`).join("")}</select><button type="button" class="btn vtry" data-act="vtry" ${TTS.voices.length||VV.on?"":"disabled"}>${t("tryV")}</button></div></div><details class="vhelp"><summary>${t("vHelp")}</summary><div>${t("vTips")}</div></details></div>
+  <div class="item"><span class="lab">${t("voice")}</span><p>${VV.on?esc(t("vvNote",(vvCur()||{}).credit||"")):TTS.ok?t("voiceP"):t("noTTS")}</p><div class="c"><div class="vrow"><select id="voiceSel" class="sel" ${TTS.voices.length||VV.on?"":"disabled"} aria-label="${t("voice")}"><option value="">${t("auto")}${!s.voice?(VV.on?" · "+esc((vvCur()||{}).credit||""):TTS.voices.length?" · "+esc(rankedVoices()[0].name):""):""}</option>${VV.list.map(v=>`<option value="vv${v.id}" ${"vv"+v.id===s.voice?"selected":""}>★★ ${esc(v.credit)}</option>`).join("")}${rankedVoices().map(v=>`<option value="${esc(v.voiceURI)}" ${v.voiceURI===s.voice?"selected":""}>${HQ(v)?"★ ":""}${esc(v.name)}</option>`).join("")}</select><button type="button" class="btn vtry" data-act="vtry" ${TTS.voices.length||VV.on?"":"disabled"}>${t("tryV")}</button></div></div><details class="vhelp"><summary>${t("vHelp")}</summary><div>${t("vTips")}</div></details></div>
   <div class="item"><span class="lab">${t("autoSay")}</span><p>${t("autoSayP")}</p><div class="c">${seg("autosay",[["1",t("on")],["0",t("off")]],s.autoSay?"1":"0")}</div></div>
   <div class="item"><span class="lab">${t("dir")}</span><p>${t("dirP")}</p><div class="c">${seg("pdir",[["j2z",t("j2z")],["z2j",t("z2j")],["mix",t("mix")]],s.dir)}</div></div>
   <div class="item stack"><span class="lab">${t("goal")}</span><p>${t("goalP")}</p><div class="c"><div class="goal-row"><span class="seg">${[5,10,15].map(n=>`<button data-goal="${n}" aria-pressed="${s.goal===n}">${t("cards",n)}</button>`).join("")}</span><span class="goal-num"><input id="goalNum" type="number" min="1" max="500" inputmode="numeric" value="${s.goal}" aria-label="${t("goal")}"><span>${t("goalUnit")}</span></span></div></div></div>
@@ -1996,12 +1996,14 @@ function pickVoice(){return TTS.voices.find(v=>v.voiceURI===S.set.voice)||ranked
 function utter(text,rate){const u=new SpeechSynthesisUtterance(text);u.lang="ja-JP";const v=pickVoice();if(v)u.voice=v;u.rate=rate||S.set.rate;return u}
 let warned=false;function noVoiceOnce(){if(!warned){warned=true;toast(t("noVoice"))}}
 /* pre-recorded VOICEVOX audio (audio/manifest.json), falls back to device speech */
-const VV={on:false,id:0,name:"",credit:"",keys:new Set()};
+const VV_VOICES=[{id:23,name:"WhiteCUL"},{id:118,name:"夜語トバリ"},{id:13,name:"青山龍星"}];
+const VV={on:false,list:[]};
 function h32(s,seed){let h=seed>>>0;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)>>>0}return h.toString(16).padStart(8,"0")}
 const vkey=s=>{s=String(s).trim();return h32(s,2166136261)+h32(s,0x9747b28c)};
-try{fetch("audio/manifest.json",{cache:"no-cache"}).then(r=>r.ok?r.json():null).then(m=>{if(m&&m.keys&&m.keys.length){VV.on=true;VV.id=m.id;VV.name=m.name;VV.credit=m.credit;VV.keys=new Set(m.keys);try{if(V.view==="set")render();else updPlayer()}catch(e){}}}).catch(()=>{})}catch(e){}
-const useVV=()=>VV.on&&(!S.set.voice||S.set.voice==="vv");
-function vvSrc(text){if(!useVV())return null;const k=vkey(text);return VV.keys.has(k)?`audio/v${VV.id}/${k}.mp3`:null}
+VV_VOICES.forEach(vc=>{try{fetch(`audio/v${vc.id}/manifest.json`,{cache:"no-cache"}).then(r=>r.ok?r.json():null).then(m=>{if(m&&m.keys&&m.keys.length){VV.list.push({id:m.id,name:m.name,credit:m.credit,keys:new Set(m.keys)});VV.list.sort((a,b)=>VV_VOICES.findIndex(x=>x.id===a.id)-VV_VOICES.findIndex(x=>x.id===b.id));VV.on=true;try{if(V.view==="set")render();else updPlayer()}catch(e){}}}).catch(()=>{})}catch(e){}});
+const vvCur=()=>VV.list.find(v=>"vv"+v.id===S.set.voice)||VV.list[0]||null;
+const useVV=()=>VV.on&&(!S.set.voice||/^vv\d*$/.test(S.set.voice));
+function vvSrc(text){if(!useVV())return null;const v=vvCur();if(!v)return null;const k=vkey(text);return v.keys.has(k)?`audio/v${v.id}/${k}.mp3`:null}
 let AU=null;
 function deviceSpeak(text,rate,onend,onerr){TTS.cur="ss";if(!TTS.ok){toast(t("noTTS"));setTimeout(stopAll,0);return}if(!TTS.voices.length)loadVoices();if(!TTS.voices.length)noVoiceOnce();
   const u=utter(text,rate);if(onend)u.onend=onend;if(onerr)u.onerror=onerr;try{speechSynthesis.speak(u)}catch(e){toast(t("noTTS"))}}
@@ -2030,7 +2032,7 @@ function stopAll(){TTS.gen++;TTS.playing=false;TTS.paused=false;TTS.idx=-1;if(AU
 function togglePause(){if(!TTS.playing)return;try{if(TTS.cur==="au"&&AU){if(TTS.paused){AU.play();TTS.paused=false}else{AU.pause();TTS.paused=true}}else if(TTS.paused){speechSynthesis.resume();TTS.paused=false}else{speechSynthesis.pause();TTS.paused=true}}catch(e){}updPlayer()}
 function playerHTML(){const rates=[[0.7,"0.7×"],[0.9,"0.9×"],[1.1,"1.1×"]];
   return `${TTS.playing?`<button class="btn" data-act="tpause">${SPK}${TTS.paused?t("resume"):t("pause")}</button><button class="btn ghost" data-act="tstop">${t("stop")}</button>`:`<button class="btn primary" data-act="tplay">${SPK}${t("listen")}</button>`}
-  <span class="seg" role="group" aria-label="${t("speed")}">${rates.map(([v,l])=>`<button data-rate="${v}" aria-pressed="${S.set.rate===v}">${l}</button>`).join("")}</span>${useVV()?`<span class="vvcredit">${esc(VV.credit)}</span>`:""}`}
+  <span class="seg" role="group" aria-label="${t("speed")}">${rates.map(([v,l])=>`<button data-rate="${v}" aria-pressed="${S.set.rate===v}">${l}</button>`).join("")}</span>${useVV()?`<span class="vvcredit">${esc((vvCur()||{}).credit||"")}</span>`:""}`}
 function updPlayer(){const p=$("#player");if(p)p.innerHTML=playerHTML()}
 
 /* ---------- sheet ---------- */
