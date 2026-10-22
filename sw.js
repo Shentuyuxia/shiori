@@ -4,6 +4,7 @@
 // Voice audio (audio/v*/*.mp3): file names are hashes of the text, so they never change → cache first,
 //   in a separate cache that survives app updates.
 // Google Fonts: cache first.  Sign-in / sync requests (Supabase) are never touched.
+// Only caches named "shiori-…" are cleaned up: the other apps on the same site keep theirs.
 const CACHE = "shiori-v1";
 const AUDIO = "shiori-audio-v1";
 const SHELL = ["./", "./index.html", "./app.js", "./style.css", "./data/content.json", "./manifest.webmanifest", "./favicon.svg"];
@@ -12,7 +13,7 @@ self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => Promise.all(SHELL.map(u => c.add(u).catch(() => null)))).then(() => self.skipWaiting()));
 });
 self.addEventListener("activate", e => {
-  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE && k !== AUDIO).map(k => caches.delete(k)))).then(() => self.clients.claim()));
+  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k.startsWith("shiori-") && k !== CACHE && k !== AUDIO).map(k => caches.delete(k)))).then(() => self.clients.claim()));
 });
 
 const cacheFirst = (cacheName, req, key) => caches.open(cacheName).then(async c => {
