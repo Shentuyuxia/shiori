@@ -303,3 +303,6 @@ nav.tabs button{padding-inline:10px}
 .sbtns{display:flex;gap:6px}
 /* shown by index.html while data/content.json loads */
 .boot{color:var(--muted);text-align:center;padding:30vh 16px 0;font-family:var(--f-ui)}
+
+/* favourites + export */
+.favs{margin:0 0 28px}.favx{margin:10px 0 0}.fst{color:#d4a017}

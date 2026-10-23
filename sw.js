@@ -5,9 +5,9 @@
 //   in a separate cache that survives app updates.
 // Google Fonts: cache first.  Sign-in / sync requests (Supabase) are never touched.
 // Only caches named "shiori-…" are cleaned up: the other apps on the same site keep theirs.
-const CACHE = "shiori-v1";
+const CACHE = "shiori-v2";
 const AUDIO = "shiori-audio-v1";
-const SHELL = ["./", "./index.html", "./app.js", "./style.css", "./data/content.json", "./manifest.webmanifest", "./favicon.svg"];
+const SHELL = ["./", "./index.html", "./app.js", "./style.css", "./data/content.json", "./manifest.webmanifest", "./favicon.svg", "./vendor/printkit.js"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => Promise.all(SHELL.map(u => c.add(u).catch(() => null)))).then(() => self.skipWaiting()));

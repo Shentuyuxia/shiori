@@ -293,6 +293,7 @@ function viewRead(){
       <span class="seg" role="group" aria-label="${t("fg")}">${[["all","fgAll"],["annot","fgAnnot"],["none","fgNone"]].map(([v,k])=>`<button data-fg="${v}" aria-pressed="${S.set.fg===v}">${t(k)}</button>`).join("")}</span>
       <span class="seg" role="group" aria-label="${t("dirLab")}"><button data-vert="0" aria-pressed="${!S.set.vert}">${t("hor")}</button><button data-vert="1" aria-pressed="${S.set.vert}">${t("ver")}</button></span>
       ${ptr?`<span class="seg"><button data-act="togptr" aria-pressed="${showP}">${t("trOn")}</button></span>`:""}
+      <span class="seg"><button data-act="fav" aria-pressed="${favOn(a.id)}"><span class="fst" aria-hidden="true">${favOn(a.id)?"★":"☆"}</span> ${favOn(a.id)?t("faved"):t("fav")}</button><button data-act="exp" aria-haspopup="menu">${PK_ICON}${t("exp")}</button></span>
     </div>
     <div class="player" id="player">${playerHTML()}</div>
     <div id="reader" lang="ja" class="fg-${S.set.fg} ${S.set.vert?"vert":""}">${paras}</div>
@@ -306,7 +307,7 @@ function viewRead(){
   <button class="todaycard" data-art="${tp.id}"><span class="tmeta"><span class="chip ${["n1","pro","x"].includes(tp.lv)?"k-adv":""}">${t("lv")[tp.lv]}</span><span class="chip">${esc(aGenre(tp))}</span><span class="dn">${t("dayN",tp.d+1)}</span>${S.read[tp.id]?`<span class="done">${t("doneMark")}</span>`:""}</span>
   <span class="tt" lang="ja">${esc(tp.title)}</span><span class="ts">${esc(aSub(tp))}</span><span class="go">${t("readToday")} →</span></button>
   <p class="newsh">${t("newsH")}</p><div class="news">${NEWS.map(([n,u])=>`<a href="${u}" target="_blank" rel="noopener">${n}</a>`).join("")}</div></section>`:""}
-  ${shelf()}
+  ${favSection()}${shelf()}
   <p class="eyebrow">${t("readEy")}</p><h2>${t("libH")}</h2><p class="lede">${t("libN",rel.length,ARTICLES.length)} · ${t("readLede")}</p>
   ${lvlSeg()}${(()=>{const list=rel.filter(a=>S.set.lvl==="all"||(S.set.lvl==="wiki"?a.wiki:a.lv===S.set.lvl)).sort((x,y)=>y.d-x.d);return list.length?`<ul class="alist">${list.map(a=>`<li><button data-art="${a.id}"><span class="t" lang="ja">${esc(a.title)}</span>
   <span class="s">${a.d>=0?`<span class="dn">${a.d+1}</span> `:""}${esc(aSub(a))} · ${esc(aGenre(a))}${S.read[a.id]?` · <span class="done">${t("doneMark")}</span>`:""}</span>
@@ -682,6 +683,45 @@ for(const k in GOALI) Object.assign(I18N[k],GOALI[k]);
 for(const k in ACCT2) Object.assign(I18N[k],ACCT2[k]);
 for(const k in ACCT) Object.assign(I18N[k],ACCT[k]);
 
+/* ---------- favourites and print / Word export (vendor/printkit.js) ---------- */
+const PKI={
+"zh-Hant":{fav:"收藏",faved:"已收藏",favH:"我的收藏",favN:n=>`${n} 篇`,exp:"匯出",expAll:"匯出全部",pPrint:"列印 / 存成 PDF",pWord:"Word 檔案 (.docx)",glH:"單字",trH:"翻譯",noPK:"匯出功能沒有載入，請重新整理頁面。"},
+"zh-Hans":{fav:"收藏",faved:"已收藏",favH:"我的收藏",favN:n=>`${n} 篇`,exp:"导出",expAll:"导出全部",pPrint:"打印 / 存成 PDF",pWord:"Word 文件 (.docx)",glH:"单词",trH:"翻译",noPK:"导出功能没有载入，请刷新页面再试。"},
+"ja":{fav:"お気に入り",faved:"お気に入り済み",favH:"お気に入り",favN:n=>`${n} 編`,exp:"書き出し",expAll:"すべて書き出す",pPrint:"印刷 / PDF に保存",pWord:"Word 文書 (.docx)",glH:"語彙",trH:"翻訳",noPK:"書き出し機能を読み込めませんでした。ページを再読み込みしてください。"},
+"en":{fav:"Save",faved:"Saved",favH:"Saved texts",favN:n=>`${n} texts`,exp:"Export",expAll:"Export all",pPrint:"Print / save as PDF",pWord:"Word document (.docx)",glH:"Vocabulary",trH:"Translation",noPK:"Export didn't load. Please reload the page."},
+"de":{fav:"Merken",faved:"Gemerkt",favH:"Gemerkte Texte",favN:n=>`${n} Texte`,exp:"Exportieren",expAll:"Alle exportieren",pPrint:"Drucken / als PDF sichern",pWord:"Word-Dokument (.docx)",glH:"Wörter",trH:"Übersetzung",noPK:"Export wurde nicht geladen. Bitte Seite neu laden."}};
+for(const k in PKI) Object.assign(I18N[k],PKI[k]);
+const favOn=id=>!!(S.fav&&S.fav[id]);
+function favToggle(id){S.fav=S.fav||{};if(S.fav[id])delete S.fav[id];else S.fav[id]=Date.now();persist()}
+const favList=()=>Object.entries(S.fav||{}).sort((a,b)=>b[1]-a[1]).map(([id])=>ARTICLES.find(x=>x.id===id)).filter(Boolean);
+const PK_ICON='<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="vertical-align:-3px;margin-right:4px"><path d="M6 9V3h12v6"/><rect x="3" y="9" width="18" height="8" rx="2"/><path d="M7 14h10v7H7z"/></svg>';
+function favSection(){
+  const list=favList(); if(!list.length) return "";
+  return `<section class="favs"><p class="eyebrow">${t("favH")} · ${t("favN",list.length)}</p><ul class="alist">${list.map(a=>`<li><button data-art="${a.id}"><span class="t" lang="ja">${esc(a.title)}</span><span class="s">${esc(aSub(a))} · ${esc(aGenre(a))}</span><span class="lv"><span class="chip ${["n1","pro","x"].includes(a.lv)?"k-adv":""}">${t("lv")[a.lv]}</span></span></button></li>`).join("")}</ul>
+  <p class="favx"><button class="btn sm" data-act="favexp" aria-haspopup="menu">${PK_ICON}${t("expAll")}</button></p></section>`;
+}
+function pkSegs(line){ // [[語|ご]] = annotated word, {字|じ} = plain furigana; follows the 振假名 setting
+  const out=[]; let last=0, m; RX.lastIndex=0;
+  while((m=RX.exec(line))){ if(m.index>last) out.push(line.slice(last,m.index));
+    const w=m[1]||m[3], r=m[1]?m[2]:m[4], show=S.set.fg==="all"||(S.set.fg==="annot"&&!!m[1]);
+    out.push(show&&r&&r!==w?{b:w,r}:w); last=RX.lastIndex; }
+  if(last<line.length) out.push(line.slice(last)); return out;
+}
+function pkDoc(a){
+  const paras=a.body.split(/\n\n/).flatMap(p=>a.letter?p.split("\n"):[p]).map(pkSegs);
+  const read={}; a.body.replace(RX,(m,w,r)=>{ if(w&&!read[w]) read[w]=r; return m; });
+  const ptr=TRP[a.id];
+  return {title:a.title,sub:aSub(a),meta:[t("lv")[a.lv],aGenre(a),a.d>=0?t("dayN",a.d+1):""].filter(Boolean).join(" · "),lang:"ja",paras,
+    gloss:Object.keys(a.gloss||{}).length?{label:t("glH"),rows:Object.keys(a.gloss).map(w=>{ const g=aGloss(a,w); return {w,r:read[w]&&read[w]!==w?read[w]:"",m:[g.m,g.n]}; })}:null,
+    trans:ptr&&ptr.length?{label:t("trH"),lang:GL(),paras:ptr.map(x=>tri(x)).filter(Boolean)}:null,
+    src:a.src?[{title:a.src}]:[],srcLabel:t("srcLab")};
+}
+function pkMenu(btn,arts,name){
+  if(!window.PrintKit){toast(t("noPK"));return}
+  const docs=arts.map(pkDoc), opt={title:name,filename:name,footer:"栞 Shiori",ea:"ja",creator:"Shiori"};
+  PrintKit.menu(btn,[{label:t("pPrint"),run:()=>PrintKit.print(docs,opt)},{label:t("pWord"),run:()=>PrintKit.docx(docs,opt)}]);
+}
+
 /* ---------- speech ---------- */
 const SPK='<svg class="spk" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor"/><path d="M16.5 8.5a5 5 0 0 1 0 7M19 6a8.5 8.5 0 0 1 0 12" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>';
 const TTS={ok:"speechSynthesis" in window,voices:[],playing:false,paused:false,idx:-1,gen:0};
@@ -811,6 +851,9 @@ document.addEventListener("click",e=>{
     case "tstop":stopAll();break;
     case "back":V.art=null;render();scrollTo(0,0);break;
     case "markread":S.read[V.art]=!S.read[V.art];persist();render();break;
+    case "fav":favToggle(V.art);render();break;
+    case "exp":{const a=ARTICLES.find(x=>x.id===V.art);if(a)pkMenu(b,[a],a.title);break}
+    case "favexp":pkMenu(b,favList(),t("favH")+" "+todayStr());break;
     case "close":closeSheet();break;
     case "savegloss":{const a=findArt(d.a),g=aGloss(a,d.w),al=allGloss(a,d.w);addCard({w:d.w,r:d.r===d.w?"":d.r,m:g.m||"",note:g.n||"",mi:al.mi,ni:a.les?undefined:al.ni,ex:d.s,src:a.title||a.t});closeSheet();render();break}
     case "openadd":V.showAdd=true;render();setTimeout(()=>$("#f_w")&&$("#f_w").focus(),30);break;
