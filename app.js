@@ -293,13 +293,13 @@ function viewRead(){
       <span class="seg" role="group" aria-label="${t("fg")}">${[["all","fgAll"],["annot","fgAnnot"],["none","fgNone"]].map(([v,k])=>`<button data-fg="${v}" aria-pressed="${S.set.fg===v}">${t(k)}</button>`).join("")}</span>
       <span class="seg" role="group" aria-label="${t("dirLab")}"><button data-vert="0" aria-pressed="${!S.set.vert}">${t("hor")}</button><button data-vert="1" aria-pressed="${S.set.vert}">${t("ver")}</button></span>
       ${ptr?`<span class="seg"><button data-act="togptr" aria-pressed="${showP}">${t("trOn")}</button></span>`:""}
-      <span class="seg"><button data-act="fav" aria-pressed="${favOn(a.id)}"><span class="fst" aria-hidden="true">${favOn(a.id)?"★":"☆"}</span> ${favOn(a.id)?t("faved"):t("fav")}</button><button data-act="exp" aria-haspopup="menu">${PK_ICON}${t("exp")}</button></span>
+      <span class="seg"><button data-act="fav" aria-pressed="${favOn(a.id)}"><span class="fst" aria-hidden="true">${favOn(a.id)?"★":"☆"}</span> ${favOn(a.id)?t("faved"):t("fav")}</button></span>
     </div>
     <div class="player" id="player">${playerHTML()}</div>
     <div id="reader" lang="ja" class="fg-${S.set.fg} ${S.set.vert?"vert":""}">${paras}</div>
     ${a.src?`<p class="tip">${t("srcLab")}：${esc(a.src)}</p>`:""}
     ${S.set.vert?`<p class="tip">${t("tip")}</p>`:""}
-    <div class="mark-done"><button class="btn ${S.read[a.id]?"ghost":"primary"}" data-act="markread">${S.read[a.id]?t("markedRead"):t("markRead")}</button></div>`}
+    <div class="mark-done"><button class="btn ${S.read[a.id]?"ghost":"primary"}" data-act="markread">${S.read[a.id]?t("markedRead"):t("markRead")}</button> <button class="btn ghost" data-act="exp" aria-haspopup="menu">${PK_ICON}${t("exp")}</button></div>`}
   const tp=todayPiece(),dt=new Date(),rel=ARTICLES.filter(released);
   const NEWS=[["NHK NEWS WEB","https://www3.nhk.or.jp/news/"],["NHK NEWS WEB EASY","https://www3.nhk.or.jp/news/easy/"],["朝日新聞","https://www.asahi.com/"],["毎日新聞","https://mainichi.jp/"],["日本経済新聞","https://www.nikkei.com/"],["東京新聞","https://www.tokyo-np.co.jp/"]];
   const note=S.set.mode==="begin"?`<div class="note"><p>${t("beginNote")} ${t("beginNote2")}</p><button class="btn sm primary" data-tab="start">${t("toStart")}</button></div>`:"";
@@ -718,7 +718,7 @@ function pkDoc(a){
 }
 function pkMenu(btn,arts,name){
   if(!window.PrintKit){toast(t("noPK"));return}
-  const docs=arts.map(pkDoc), opt={title:name,filename:name,footer:"栞 Shiori",ea:"ja",creator:"Shiori"};
+  const docs=arts.map(pkDoc), opt={title:name,filename:name,ea:"ja",creator:"Shiori",brand:{name:"栞 · Shiori",url:"shentuyuxia.github.io/shiori",accent:"#2c6b64",font:"var(--f-read)",sans:"var(--f-ui)",docFont:"Georgia",docEa:"Yu Mincho"}};
   PrintKit.menu(btn,[{label:t("pPrint"),run:()=>PrintKit.print(docs,opt)},{label:t("pWord"),run:()=>PrintKit.docx(docs,opt)}]);
 }
 

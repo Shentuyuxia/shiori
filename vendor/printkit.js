@@ -14,8 +14,8 @@
      blocks:[{label, paras:[[seg…]], early}]  extra sections (grammar, questions …); early:true = right after the text
      src:   [{title, url}]                    sources
    }
-   PrintKit.print(docs, opt)   opt: {title, footer}
-   PrintKit.docx(docs, opt)    opt: {title, filename, footer, ea:"zh"|"ja"}  → downloads / shares a .docx
+   PrintKit.print(docs, opt)   opt: {title, footer, brand:{name,url,accent,font,sans}}  (prints without the translation)
+   PrintKit.docx(docs, opt)    opt: {title, filename, footer, ea:"zh"|"ja", brand:{…, docFont, docEa}}  → downloads / shares a .docx
    PrintKit.menu(btn, items)   tiny pop-up menu next to a button: items=[{label, run}]
 */
 (function(){
@@ -32,16 +32,18 @@ const CSS=`
   @page{margin:18mm 16mm}
   html,body{background:#fff!important;height:auto!important;overflow:visible!important}
   body>*:not(#pk-root){display:none!important}
-  #pk-root{display:block!important;color:#1d1d1f;font:11.5pt/1.65 "Source Serif 4","Iowan Old Style",Georgia,"Songti SC","Noto Serif CJK SC","Hiragino Mincho ProN","Yu Mincho",serif}
+  #pk-root{display:block!important;color:#1d1d1f;font:11.5pt/1.65 var(--pk-font,"Source Serif 4","Iowan Old Style",Georgia,"Songti SC","Noto Serif CJK SC","Hiragino Mincho ProN","Yu Mincho",serif)}
+  #pk-root .pkx-brand{display:flex;justify-content:space-between;align-items:baseline;gap:12pt;margin:0 0 14pt;padding-bottom:5pt;border-bottom:1.2pt solid var(--pk-accent,#555);font:600 9pt/1.3 var(--pk-sans,-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans",sans-serif);color:var(--pk-accent,#555);letter-spacing:.03em}
+  #pk-root .pkx-brand span+span{font-weight:400;color:#888}
   #pk-root *{box-sizing:border-box}
   #pk-root .pkx-doc+.pkx-doc{break-before:page;page-break-before:always}
-  #pk-root .pkx-meta{font:9pt/1.4 -apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans",sans-serif;color:#6b6b70;letter-spacing:.02em;margin:0 0 6pt}
+  #pk-root .pkx-meta{font:9pt/1.4 var(--pk-sans,-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans",sans-serif);color:#6b6b70;letter-spacing:.02em;margin:0 0 6pt}
   #pk-root .pkx-title{font-size:20pt;line-height:1.3;margin:0 0 4pt;font-weight:600}
   #pk-root .pkx-sub{font-size:12pt;color:#444;margin:0 0 14pt;font-style:italic}
   #pk-root .pkx-body p{margin:0 0 9pt;text-align:justify;orphans:2;widows:2}
   #pk-root .pkx-ruby .pkx-body p, #pk-root .pkx-ruby .pkx-blk p{line-height:2.45;font-size:13.5pt;text-align:left}
-  #pk-root ruby{ruby-position:over} #pk-root rt{font-size:.46em;letter-spacing:-.01em;color:#555;font-family:-apple-system,"Helvetica Neue",Arial,sans-serif}
-  #pk-root .pkx-h{font:600 9.5pt/1.3 -apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans",sans-serif;text-transform:uppercase;letter-spacing:.08em;color:#6b6b70;margin:16pt 0 6pt;padding-top:6pt;border-top:.6pt solid #ccc;break-after:avoid}
+  #pk-root ruby{ruby-position:over} #pk-root rt{font-size:.46em;letter-spacing:0;color:#555;font-family:var(--pk-sans,-apple-system,"Helvetica Neue",Arial,sans-serif)}
+  #pk-root .pkx-h{font:600 9.5pt/1.3 var(--pk-sans,-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans",sans-serif);text-transform:uppercase;letter-spacing:.08em;color:var(--pk-accent,#6b6b70);margin:16pt 0 6pt;padding-top:6pt;border-top:.6pt solid #ccc;break-after:avoid}
   #pk-root .pkx-tr p{margin:0 0 7pt;color:#333;font-size:10.5pt}
   #pk-root .pkx-gl{width:100%;border-collapse:collapse;font-size:10pt}
   #pk-root .pkx-gl td{padding:3pt 6pt 3pt 0;vertical-align:top;border-bottom:.4pt solid #e2e2e2;break-inside:avoid}
@@ -56,6 +58,7 @@ function segHTML(segs){ return asSegs(segs).map(s=>typeof s==="string"?esc(s):(s
 function docHTML(d,opt){
   const ruby=(d.paras||[]).some(p=>asSegs(p).some(s=>typeof s!=="string"&&s.r));
   let h=`<article class="pkx-doc${ruby?" pkx-ruby":""}" lang="${esc(d.lang||"")}">`;
+  if(opt&&opt.brand) h+=`<header class="pkx-brand"><span>${esc(opt.brand.name||"")}</span><span>${esc(opt.brand.url||"")}</span></header>`;
   if(d.meta) h+=`<p class="pkx-meta">${esc(d.meta)}</p>`;
   h+=`<h1 class="pkx-title">${d.titleRuby?segHTML(d.titleRuby):esc(d.title)}</h1>`;
   if(d.sub) h+=`<p class="pkx-sub">${esc(d.sub)}</p>`;
@@ -63,7 +66,7 @@ function docHTML(d,opt){
   const blk=early=>(d.blocks||[]).forEach(b=>{ if(!b||!!b.early!==early||!(b.paras||[]).length) return; h+=`<h2 class="pkx-h">${esc(b.label)}</h2><div class="pkx-blk" ${b.lang?`lang="${esc(b.lang)}"`:""}>${b.paras.map(p=>`<p>${segHTML(p)}</p>`).join("")}</div>`; });
   blk(true);
   if(d.gloss&&d.gloss.rows&&d.gloss.rows.length) h+=`<h2 class="pkx-h">${esc(d.gloss.label)}</h2><table class="pkx-gl">${d.gloss.rows.map(g=>`<tr><td class="w">${esc(g.w)}${g.r?`<span class="r">${esc(g.r)}</span>`:""}</td><td>${(g.m||[]).filter(Boolean).map((m,i)=>`<span class="${i?"m2":"m1"}">${esc(m)}</span>`).join("")}</td></tr>`).join("")}</table>`;
-  if(d.trans&&d.trans.paras&&d.trans.paras.length) h+=`<h2 class="pkx-h">${esc(d.trans.label)}</h2><div class="pkx-tr" lang="${esc(d.trans.lang||"")}">${d.trans.paras.map(p=>`<p>${esc(p)}</p>`).join("")}</div>`;
+  if(!(opt&&opt.noTrans)&&d.trans&&d.trans.paras&&d.trans.paras.length) h+=`<h2 class="pkx-h">${esc(d.trans.label)}</h2><div class="pkx-tr" lang="${esc(d.trans.lang||"")}">${d.trans.paras.map(p=>`<p>${esc(p)}</p>`).join("")}</div>`;
   blk(false);
   if(d.src&&d.src.length) h+=`<h2 class="pkx-h">${esc(d.srcLabel||"Sources")}</h2><div class="pkx-src">${d.src.map(s=>`<div>${esc(s.title||"")}${s.url?` — ${esc(s.url)}`:""}</div>`).join("")}</div>`;
   if(opt&&opt.footer) h+=`<p class="pkx-foot">${esc(opt.footer)}</p>`;
@@ -73,7 +76,9 @@ function print(docs,opt){
   opt=opt||{}; docs=(docs||[]).filter(Boolean); if(!docs.length) return;
   let st=document.getElementById("pk-style"); if(!st){ st=document.createElement("style"); st.id="pk-style"; st.textContent=CSS; document.head.appendChild(st); }
   let root=document.getElementById("pk-root"); if(root) root.remove();
+  opt=Object.assign({noTrans:true},opt); // a printout is for reading: no translation (the Word file keeps it)
   root=document.createElement("div"); root.id="pk-root"; root.innerHTML=docs.map(d=>docHTML(d,opt)).join(""); document.body.appendChild(root);
+  const br=opt.brand||{}; if(br.accent) root.style.setProperty("--pk-accent",br.accent); if(br.font) root.style.setProperty("--pk-font",br.font); if(br.sans) root.style.setProperty("--pk-sans",br.sans);
   const old=document.title; if(opt.title) document.title=opt.title; // becomes the PDF file name in most browsers
   const back=()=>{ document.title=old; };
   window.addEventListener("afterprint",back,{once:true});
@@ -122,8 +127,10 @@ function docXML(docs,opt){
   let b="";
   docs.forEach((d,n)=>{
     const lang=d.lang||"", ruby=(d.paras||[]).some(p=>asSegs(p).some(s=>typeof s!=="string"&&s.r));
-    if(d.meta) b+=para(run(d.meta,{sz:18,color:"6B6B70"}),{after:60,pageBreak:n>0});
-    b+=para(d.titleRuby?segRuns(d.titleRuby,{lang}):run(d.title,{lang}),{style:"Title",pageBreak:n>0&&!d.meta});
+    const br=opt&&opt.brand;
+    if(br) b+=`<w:p><w:pPr>${n>0?"<w:pageBreakBefore/>":""}<w:pBdr><w:bottom w:val="single" w:sz="10" w:space="4" w:color="${hex(br.accent)}"/></w:pBdr><w:tabs><w:tab w:val="right" w:pos="9700"/></w:tabs><w:spacing w:after="240"/></w:pPr>${run(br.name||"",{b:true,sz:18,color:hex(br.accent)})}<w:r><w:tab/></w:r>${run(br.url||"",{sz:16,color:"888888"})}</w:p>`;
+    if(d.meta) b+=para(run(d.meta,{sz:18,color:"6B6B70"}),{after:60,pageBreak:n>0&&!br});
+    b+=para(d.titleRuby?segRuns(d.titleRuby,{lang}):run(d.title,{lang}),{style:"Title",pageBreak:n>0&&!d.meta&&!br});
     if(d.sub) b+=para(run(d.sub,{i:true,color:"444444"}),{after:240});
     (d.paras||[]).forEach(p=>{ b+=para(segRuns(p,ruby?{lang,sz:27}:{lang}),{line:ruby?440:300,after:160,jc:ruby?"left":"both"}); });
     const blk=early=>(d.blocks||[]).forEach(bl=>{ if(!bl||!!bl.early!==early||!(bl.paras||[]).length) return; b+=para(run(bl.label),{style:"Heading2",keep:true}); bl.paras.forEach(p=>{ const r=asSegs(p).some(x=>typeof x!=="string"&&x.r); b+=para(segRuns(p,{lang:bl.lang||lang}),{after:100,line:r?400:280}); }); });
@@ -140,13 +147,14 @@ function docXML(docs,opt){
   if(opt&&opt.footer) b+=para(run(opt.footer,{sz:16,color:"999999"}),{after:0});
   return `<?xml version="1.0" encoding="UTF-8" standalone="yes"?><w:document ${W}><w:body>${b}<w:sectPr><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1134" w:right="1077" w:bottom="1134" w:left="1077" w:header="567" w:footer="567" w:gutter="0"/></w:sectPr></w:body></w:document>`;
 }
-function stylesXML(ea){
-  const eaf=ea==="ja"?"Yu Mincho":ea==="zht"?"PMingLiU":"SimSun", lat="Georgia";
+const hex=c=>{ c=String(c||"6B6B70").replace("#",""); return /^[0-9a-f]{6}$/i.test(c)?c.toUpperCase():"6B6B70"; };
+function stylesXML(ea,br){
+  br=br||{}; const eaf=br.docEa||(ea==="ja"?"Yu Mincho":ea==="zht"?"PMingLiU":"SimSun"), lat=br.docFont||"Georgia";
   return `<?xml version="1.0" encoding="UTF-8" standalone="yes"?><w:styles ${W}>
 <w:docDefaults><w:rPrDefault><w:rPr><w:rFonts w:ascii="${lat}" w:hAnsi="${lat}" w:eastAsia="${eaf}" w:cs="${lat}"/><w:sz w:val="23"/><w:szCs w:val="23"/></w:rPr></w:rPrDefault><w:pPrDefault><w:pPr><w:spacing w:after="120" w:line="300" w:lineRule="auto"/></w:pPr></w:pPrDefault></w:docDefaults>
 <w:style w:type="paragraph" w:default="1" w:styleId="Normal"><w:name w:val="Normal"/><w:qFormat/></w:style>
 <w:style w:type="paragraph" w:styleId="Title"><w:name w:val="Title"/><w:basedOn w:val="Normal"/><w:next w:val="Normal"/><w:qFormat/><w:pPr><w:keepNext/><w:spacing w:after="80"/><w:outlineLvl w:val="0"/></w:pPr><w:rPr><w:b/><w:sz w:val="40"/><w:szCs w:val="40"/></w:rPr></w:style>
-<w:style w:type="paragraph" w:styleId="Heading2"><w:name w:val="heading 2"/><w:basedOn w:val="Normal"/><w:next w:val="Normal"/><w:qFormat/><w:pPr><w:keepNext/><w:spacing w:before="320" w:after="100"/><w:outlineLvl w:val="1"/></w:pPr><w:rPr><w:rFonts w:ascii="Arial" w:hAnsi="Arial"/><w:b/><w:caps/><w:color w:val="6B6B70"/><w:spacing w:val="10"/><w:sz w:val="19"/><w:szCs w:val="19"/></w:rPr></w:style>
+<w:style w:type="paragraph" w:styleId="Heading2"><w:name w:val="heading 2"/><w:basedOn w:val="Normal"/><w:next w:val="Normal"/><w:qFormat/><w:pPr><w:keepNext/><w:spacing w:before="320" w:after="100"/><w:outlineLvl w:val="1"/></w:pPr><w:rPr><w:rFonts w:ascii="Arial" w:hAnsi="Arial"/><w:b/><w:caps/><w:color w:val="${hex(br.accent)}"/><w:spacing w:val="10"/><w:sz w:val="19"/><w:szCs w:val="19"/></w:rPr></w:style>
 </w:styles>`; }
 async function docx(docs,opt){
   opt=opt||{}; docs=(docs||[]).filter(Boolean); if(!docs.length) return;
@@ -156,7 +164,7 @@ async function docx(docs,opt){
     {name:"docProps/core.xml",data:`<?xml version="1.0" encoding="UTF-8" standalone="yes"?><cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><dc:title>${xesc(opt.title||docs[0].title||"")}</dc:title><dc:creator>${xesc(opt.creator||"")}</dc:creator><dcterms:created xsi:type="dcterms:W3CDTF">${new Date().toISOString().replace(/\.\d+Z$/,"Z")}</dcterms:created></cp:coreProperties>`},
     {name:"word/_rels/document.xml.rels",data:`<?xml version="1.0" encoding="UTF-8" standalone="yes"?><Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships"><Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/></Relationships>`},
     {name:"word/document.xml",data:docXML(docs,opt)},
-    {name:"word/styles.xml",data:stylesXML(opt.ea)}
+    {name:"word/styles.xml",data:stylesXML(opt.ea,opt.brand)}
   ];
   const blob=zip(files), name=(opt.filename||"reading").replace(/[\\/:*?"<>|]+/g," ").trim().slice(0,80)+".docx";
   await save(blob,name);
