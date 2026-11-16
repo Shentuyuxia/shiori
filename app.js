@@ -32,7 +32,7 @@ tip:"小提示：在直排模式左右滑動閱讀。",markRead:"標記為已讀
 add:"加入單字本",added:"已在單字本",addSel:s=>`＋ 加入「${s}」`,
 word:"單字",reading:"讀音",meaning:"意思",example:"例句",note:"備註",source:"來源",save:"儲存",cancel:"取消",
 vocabEy:"單字本",vocabH:n=>`${n} 個單字`,search:"搜尋單字或意思",newWord:"新增單字",
-seed:"範例",del:"刪除",delSure:"確定刪除？",due:"今天複習",box:n=>`第 ${n} 盒`,noWords:"還沒有單字。先去讀一篇，點詞加入吧。",noMatch:"找不到符合的單字。",
+seed:"範例",del:"刪除",addEx:"新增例句",editEx:"修改例句",delEx:"刪除例句",exSaved:"例句已儲存",privacyLink:"隱私說明",delSure:"確定刪除？",due:"今天複習",box:n=>`第 ${n} 盒`,noWords:"還沒有單字。先去讀一篇，點詞加入吧。",noMatch:"找不到符合的單字。",
 pracEy:"練習",pracH:"今天的複習",today:"今日進度",dueNow:"待複習",streak:"連續天數",days:n=>`${n} 天`,
 boxes:"記憶盒分布",boxLab:n=>n===0?"新卡":`盒 ${n}`,start:"開始練習",tapFlip:"點卡片翻面",
 again:"再一次",hard:"有點難",good:"記得",later:{again:"馬上",hard:"1 天後",good:d=>`${d} 天後`},
@@ -62,7 +62,7 @@ tip:"縦書きは左右にスクロールして読めます。",markRead:"読了
 add:"単語帳に追加",added:"追加済み",addSel:s=>`＋「${s}」を追加`,
 word:"単語",reading:"読み",meaning:"意味",example:"例文",note:"メモ",source:"出典",save:"保存",cancel:"キャンセル",
 vocabEy:"単語帳",vocabH:n=>`${n} 語`,search:"単語や意味で検索",newWord:"単語を追加",
-seed:"サンプル",del:"削除",delSure:"本当に削除？",due:"今日復習",box:n=>`${n} 番の箱`,noWords:"まだ単語がありません。読みものから追加してみましょう。",noMatch:"該当する単語がありません。",
+seed:"サンプル",del:"削除",addEx:"例文を追加",editEx:"例文を編集",delEx:"例文を削除",exSaved:"例文を保存しました",privacyLink:"プライバシー",delSure:"本当に削除？",due:"今日復習",box:n=>`${n} 番の箱`,noWords:"まだ単語がありません。読みものから追加してみましょう。",noMatch:"該当する単語がありません。",
 pracEy:"練習",pracH:"今日の復習",today:"今日の進み具合",dueNow:"復習待ち",streak:"連続日数",days:n=>`${n} 日`,
 boxes:"箱ごとの枚数",boxLab:n=>n===0?"新規":`箱 ${n}`,start:"練習を始める",tapFlip:"タップして裏返す",
 again:"もう一度",hard:"難しい",good:"覚えた",later:{again:"すぐ",hard:"1 日後",good:d=>`${d} 日後`},
@@ -92,7 +92,7 @@ tip:"Tip: swipe sideways to read vertical text.",markRead:"Mark as read",markedR
 add:"Add to words",added:"Already saved",addSel:s=>`+ Add “${s}”`,
 word:"Word",reading:"Reading",meaning:"Meaning",example:"Example",note:"Note",source:"Source",save:"Save",cancel:"Cancel",
 vocabEy:"Words",vocabH:n=>`${n} words`,search:"Search words or meanings",newWord:"Add word",
-seed:"Sample",del:"Delete",delSure:"Delete?",due:"Due today",box:n=>`Box ${n}`,noWords:"No words yet. Read something and tap words to add them.",noMatch:"No matching words.",
+seed:"Sample",del:"Delete",addEx:"Add example",editEx:"Edit example",delEx:"Delete example",exSaved:"Example saved",privacyLink:"Privacy",delSure:"Delete?",due:"Due today",box:n=>`Box ${n}`,noWords:"No words yet. Read something and tap words to add them.",noMatch:"No matching words.",
 pracEy:"Review",pracH:"Today's review",today:"Today",dueNow:"Due",streak:"Streak",days:n=>`${n} days`,
 boxes:"Cards per box",boxLab:n=>n===0?"New":`Box ${n}`,start:"Start review",tapFlip:"Tap to flip",
 again:"Again",hard:"Hard",good:"Got it",later:{again:"now",hard:"in 1 day",good:d=>`in ${d} days`},
@@ -122,7 +122,7 @@ tip:"Tipp: Senkrechten Text seitlich wischen.",markRead:"Als gelesen markieren",
 add:"Zu Wörtern hinzufügen",added:"Schon gespeichert",addSel:s=>`+ „${s}“ hinzufügen`,
 word:"Wort",reading:"Lesung",meaning:"Bedeutung",example:"Beispiel",note:"Notiz",source:"Quelle",save:"Speichern",cancel:"Abbrechen",
 vocabEy:"Wörter",vocabH:n=>`${n} Wörter`,search:"Wörter oder Bedeutungen suchen",newWord:"Wort hinzufügen",
-seed:"Beispiel",del:"Löschen",delSure:"Wirklich löschen?",due:"Heute fällig",box:n=>`Fach ${n}`,noWords:"Noch keine Wörter. Lies etwas und tippe Wörter an, um sie zu speichern.",noMatch:"Keine passenden Wörter.",
+seed:"Beispiel",del:"Löschen",addEx:"Beispiel hinzufügen",editEx:"Beispiel bearbeiten",delEx:"Beispiel löschen",exSaved:"Beispiel gespeichert",privacyLink:"Datenschutz",delSure:"Wirklich löschen?",due:"Heute fällig",box:n=>`Fach ${n}`,noWords:"Noch keine Wörter. Lies etwas und tippe Wörter an, um sie zu speichern.",noMatch:"Keine passenden Wörter.",
 pracEy:"Üben",pracH:"Heutige Wiederholung",today:"Heute",dueNow:"Fällig",streak:"Serie",days:n=>`${n} Tage`,
 boxes:"Karten pro Fach",boxLab:n=>n===0?"Neu":`Fach ${n}`,start:"Üben starten",tapFlip:"Antippen zum Umdrehen",
 again:"Nochmal",hard:"Schwer",good:"Gewusst",later:{again:"sofort",hard:"in 1 Tag",good:d=>`in ${d} Tagen`},
@@ -153,7 +153,7 @@ tip:"小提示：在直排模式左右滑动阅读。",markRead:"标记为已读
 add:"加入单词本",added:"已在单词本",addSel:s=>`＋ 加入「${s}」`,
 word:"单词",reading:"读音",meaning:"意思",example:"例句",note:"备注",source:"来源",save:"保存",cancel:"取消",
 vocabEy:"单词本",vocabH:n=>`${n} 个单词`,search:"搜索单词或意思",newWord:"添加单词",
-seed:"范例",del:"删除",delSure:"确定删除？",due:"今天复习",box:n=>`第 ${n} 盒`,noWords:"还没有单词。先去读一篇，点词加入吧。",noMatch:"找不到符合的单词。",
+seed:"范例",del:"删除",addEx:"添加例句",editEx:"修改例句",delEx:"删除例句",exSaved:"例句已保存",privacyLink:"隐私说明",delSure:"确定删除？",due:"今天复习",box:n=>`第 ${n} 盒`,noWords:"还没有单词。先去读一篇，点词加入吧。",noMatch:"找不到符合的单词。",
 pracEy:"练习",pracH:"今天的复习",today:"今日进度",dueNow:"待复习",streak:"连续天数",days:n=>`${n} 天`,
 boxes:"记忆盒分布",boxLab:n=>n===0?"新卡":`盒 ${n}`,start:"开始练习",tapFlip:"点卡片翻面",
 again:"再一次",hard:"有点难",good:"记得",later:{again:"马上",hard:"1 天后",good:d=>`${d} 天后`},
@@ -427,10 +427,11 @@ function viewVocab(){
   `<ul class="vlist">${list.map(c=>`<li>
     <div><span class="vw" lang="ja">${esc(c.w)}</span>${c.r&&c.r!==c.w?`<span class="vr" lang="ja">${esc(c.r)}</span>`:""}${roHTML(c.r||c.w)}<button class="iconbtn sm" data-say="${esc(c.r||c.w)}" aria-label="${t("say")}">${SPK}</button></div>
     <div class="vm">${esc(cm(c))}${cn(c)?` <span style="color:var(--muted);font-size:13px">— ${esc(cn(c))}</span>`:""}</div>
-    ${c.ex?`<div class="vx" lang="ja">${esc(c.ex)}</div>`:""}
+    ${V.exEd===c.id?exEdForm(c):`${c.ex?`<div class="vx" lang="ja">${esc(c.ex)}</div>`:""}<div class="exacts"><button class="linkbtn" data-exedit="${c.id}">${t(c.ex?"editEx":"addEx")}</button>${c.ex?`<button class="linkbtn ${V.exDel===c.id?"warn":""}" data-exdel="${c.id}">${V.exDel===c.id?t("delSure"):t("delEx")}</button>`:""}</div>`}
     <div class="vside">${c.seed?`<span class="chip">${t("seed")}</span>`:""}<span class="boxpip">${c.due<=todayStr()?t("due"):t("box",c.box)}</span>
     <button class="linkbtn ${V.confirm===c.id?"warn":""}" data-del="${c.id}">${V.confirm===c.id?t("delSure"):t("del")}</button></div></li>`).join("")}</ul>`}`;
 }
+function exEdForm(c){return `<div class="exed"><textarea id="exTa" rows="2" lang="ja" aria-label="${t("example")}">${esc(c.ex||"")}</textarea><div class="exacts"><button class="btn primary" data-exsave="${c.id}">${t("save")}</button><button class="btn ghost" data-excancel="1">${t("cancel")}</button></div></div>`}
 function viewPrac(){
   const done=S.log[todayStr()]||0, goal=S.set.goal, due=dueCards().length;
   if(V.sess){const s=V.sess;
@@ -588,7 +589,7 @@ function acctBox(){
     return `<div class="acct-card"><div class="acct-row"><span class="av" aria-hidden="true">${ini}</span><div class="acct-who"><b>${esc(SY.email||"")}</b><span>${esc(SY.err||last)}</span></div></div>
       <div class="iorow acct-acts"><button class="btn" data-act="acctnow">${t("acctNow")}</button><button class="btn" data-act="acctout">${t("acctOut")}</button><button class="btn danger" data-act="acctdel">${t("acctDel")}</button></div><details class="acct-pw"${V.pwOpen?" open":""}><summary>${t("acctPwSetOpen")}</summary><input id="acct-pw-set" type="password" autocomplete="new-password" placeholder="${t("acctPwSetPh")}" aria-label="${t("acctPwSetPh")}"><div class="iorow" style="margin-top:10px"><button class="btn primary" data-act="acctpwset">${t("acctPwSetBtn")}</button></div></details>${msg}</div>`;
   }
-  const head=`<div class="acct-row"><span class="av av-off" aria-hidden="true">·</span><div class="acct-who"><b>${t("acctLab")}</b><span>${t("acctP")}</span></div></div>`;
+  const head=`<div class="acct-row"><span class="av av-off" aria-hidden="true">·</span><div class="acct-who"><b>${t("acctLab")}</b><span>${t("acctP")} <a href="privacy.html" target="_blank" rel="noopener">${t("privacyLink")}</a></span></div></div>`;
   if(!V.acct||V.acct.step!==2){
     return `<div class="acct-card">${head}<div class="acct-acts"><input id="acct-email" class="sel" type="email" inputmode="email" autocomplete="email" placeholder="${t("acctEmailPh")}" value="${esc(SY.email||"")}" aria-label="${t("acctEmailPh")}">
       <div class="iorow" style="margin-top:10px"><button class="btn primary" data-act="acctsend">${t("acctSend")}</button></div><details class="acct-pw"${V.pwOpen?" open":""}><summary>${t("acctPwOpen")}</summary><input id="acct-pw" type="password" autocomplete="current-password" placeholder="${t("acctPwPh")}" aria-label="${t("acctPwPh")}"><div class="iorow" style="margin-top:10px"><button class="btn primary" data-act="acctpwlogin">${t("acctPwLogin")}</button></div></details></div>${msg}</div>`;
@@ -801,8 +802,12 @@ function addCard(o){S.cards.push(Object.assign({id:uid(),r:"",ex:"",note:"",src:
 
 /* ---------- events ---------- */
 document.addEventListener("click",e=>{
-  const b=e.target.closest("[data-showall],[data-say],[data-from],[data-rate],[data-voice],[data-autosay],[data-tab],[data-art],[data-act],[data-fg],[data-vert],[data-ui],[data-gl],[data-mode],[data-romaji],[data-wlang],[data-wmode],[data-sv],[data-ks],[data-kana],[data-kqset],[data-kqdir],[data-kpick],[data-addles],[data-addcat],[data-pdir],[data-goal],[data-lvl],[data-del],[data-ans],.an,#card");
+  const b=e.target.closest("[data-showall],[data-say],[data-from],[data-rate],[data-voice],[data-autosay],[data-tab],[data-art],[data-act],[data-fg],[data-vert],[data-ui],[data-gl],[data-mode],[data-romaji],[data-wlang],[data-wmode],[data-sv],[data-ks],[data-kana],[data-kqset],[data-kqdir],[data-kpick],[data-addles],[data-addcat],[data-pdir],[data-goal],[data-lvl],[data-del],[data-ans],[data-exedit],[data-exdel],[data-exsave],[data-excancel],.an,#card");
   if(!b)return; const d=b.dataset;
+  if(d.exedit!==undefined){V.exEd=d.exedit;V.exDel=null;render();const ta=$("#exTa");if(ta)ta.focus();return}
+  if(d.excancel!==undefined){V.exEd=null;render();return}
+  if(d.exsave!==undefined){const c=S.cards.find(x=>x.id===d.exsave);if(c){c.ex=$("#exTa").value.trim();persist()}V.exEd=null;render();toast(t("exSaved"));return}
+  if(d.exdel!==undefined){if(V.exDel!==d.exdel){V.exDel=d.exdel;render();return}const c=S.cards.find(x=>x.id===d.exdel);if(c){c.ex="";persist()}V.exDel=null;render();return}
   if(d.say!==undefined){e.stopPropagation();say(d.say);return}
   if(d.kana){V.kanaSel=d.kana;render();sayKana(d.kana);return}
   if(d.from!==undefined){closeSheet();playFrom(+d.from);return}

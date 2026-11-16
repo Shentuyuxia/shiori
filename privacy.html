@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Privacy · Shiori</title>
+<style>
+:root{--bg:#f6f4ef;--ink:#23201b;--muted:#6a645a;--line:#dedad1;--acc:#8a4b2e}
+@media (prefers-color-scheme:dark){:root{--bg:#171513;--ink:#ece8e1;--muted:#a39d93;--line:#3a3631;--acc:#e0a57f}}
+body{margin:0;background:var(--bg);color:var(--ink);font:300 16px/1.75 "Source Sans 3","PingFang SC","Hiragino Sans",sans-serif}
+main{max-width:680px;margin:0 auto;padding:28px 16px 56px}
+h1{font-size:24px;margin:0 0 4px;font-weight:600}h2{font-size:18px;margin:28px 0 6px}
+p,li{margin:6px 0}.m{color:var(--muted);font-size:14px}a{color:var(--acc)}
+section+section{border-top:1px solid var(--line);margin-top:32px;padding-top:12px}
+section[lang=en]{font-family:Georgia,"Source Serif 4",serif}
+.lnav{font-size:14px;margin:0 0 18px}.lnav a{text-decoration:none;font-weight:500}
+</style>
+</head>
+<body>
+<main>
+<nav class="lnav"><a href="#en">English</a> · <a href="#zh">中文</a></nav>
+<section lang="en" id="en">
+<h1>Privacy</h1>
+<p class="m">Shiori 栞 is a private, non-commercial tool for reading and learning Japanese. Last updated: November 2026.</p>
+<h2>By default, everything stays on your device</h2>
+<p>Without signing in, your vocabulary, review progress, read marks and settings are stored only in this browser on this device. Nothing is uploaded. No ads, no analytics, no tracking code.</p>
+<h2>If you sign in to sync</h2>
+<ul>
+  <li><b>What is stored:</b> your email address and your sync data (vocabulary, review progress, read marks and settings). No name, phone number or location.</li>
+  <li><b>Where:</b> Supabase servers in Dublin, Ireland (EU).</li>
+  <li><b>Who can read it:</b> you, through the app. The maintainer can technically access the database. Sync data is <b>not</b> encrypted on your device before upload.</li>
+  <li><b>Password:</b> optional. If you set one, Supabase Auth stores it as a hash, never in plain text. Otherwise you sign in with a code sent to your email.</li>
+  <li><b>Email:</b> used only to send login codes.</li>
+  <li><b>Deleting:</b> “Delete account &amp; cloud data” in Settings removes your account and cloud data right away. Data on your device stays.</li>
+</ul>
+<h2>Outside services</h2>
+<ul>
+  <li><b>Google Fonts:</b> the app loads its fonts from Google when you open it, so Google receives your IP address and browser information, as with any site that uses Google Fonts.</li>
+  <li><b>Japanese voice:</b> most read-aloud audio is pre-generated and included with the app. Any sentence without a pre-generated file is read by your device’s or browser’s built-in Japanese voice; depending on your platform, that speech may be provided by Apple or Google.</li>
+  <li><b>News links:</b> the “Today’s news” section links to outside news sites (NHK, Asahi, Mainichi and others). Their own privacy policies apply once you open them.</li>
+  <li><b>GitHub Pages:</b> hosts the app and the daily texts.</li>
+</ul>
+<h2>Contact</h2>
+<p>Questions or deletion requests: <a href="mailto:emo_yuan@outlook.com">emo_yuan@outlook.com</a></p>
+</section>
+<section lang="zh-Hant" id="zh">
+  <h2>隱私說明（繁體中文）</h2>
+  <p class="m">栞 Shiori 是私人維護、非商業的日語閱讀與單字學習工具。最後更新：2026 年 11 月</p>
+  <h2>預設：一切都只在你的裝置上</h2>
+  <p>不登入的話，你的單字本、複習進度、已讀記錄和設定只保存在這台裝置的瀏覽器裡。不會上傳。沒有廣告，沒有統計或追蹤程式碼。</p>
+  <h2>開啟電子郵件登入同步時</h2>
+  <ul>
+    <li><b>存什麼：</b>你的電子郵件地址，以及同步資料（單字本、複習進度、已讀記錄和設定）。不收集姓名、電話或位置。</li>
+    <li><b>存在哪裡：</b>Supabase 的歐盟伺服器（愛爾蘭都柏林）。</li>
+    <li><b>誰能看到：</b>只有你能透過 app 讀寫自己的資料。維護者在技術上可以存取資料庫。同步資料上傳前<b>不會</b>在你的裝置上加密。</li>
+    <li><b>密碼：</b>可選。設定密碼後，Supabase Auth 只保存它的雜湊值，不會明文儲存。不設密碼的話，用寄到信箱的驗證碼登入。</li>
+    <li><b>郵件：</b>只用來寄送登入驗證碼。</li>
+    <li><b>刪除：</b>在「設定」裡點「刪除帳號與雲端資料」，帳號和雲端資料會立刻刪除。裝置上的資料不受影響。</li>
+  </ul>
+  <h2>會連接的外部服務</h2>
+  <ul>
+    <li><b>Google 字型：</b>開啟 app 時會從 Google 載入字型，因此 Google 會收到你的 IP 位址和瀏覽器資訊，與其他使用 Google 字型的網站相同。</li>
+    <li><b>日語語音：</b>大部分朗讀語音已預先生成並隨 app 提供。沒有預先生成檔案的句子，會由裝置或瀏覽器內建的日語語音朗讀；依平台不同，這些語音可能由蘋果或谷歌提供。</li>
+    <li><b>新聞連結：</b>「今天的新聞」會連到外部新聞網站（NHK、朝日、每日新聞等）。打開後，適用各網站自己的隱私政策。</li>
+    <li><b>GitHub Pages：</b>app 本身和每日文章放在這裡。</li>
+  </ul>
+  <h2>聯絡</h2>
+  <p>有問題或想刪除資料，請寫信到 <a href="mailto:emo_yuan@outlook.com">emo_yuan@outlook.com</a>。</p>
+</section>
+</main>
+<script>if(!location.hash&&/^zh/i.test(navigator.language||""))addEventListener("DOMContentLoaded",()=>{const z=document.getElementById("zh");if(z)z.scrollIntoView();});</script>
+</body>
+</html>
