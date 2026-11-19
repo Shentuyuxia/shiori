@@ -439,7 +439,7 @@ function viewPrac(){
     const c=S.cards.find(x=>x.id===s.q[s.i]);if(!c){s.i++;return viewPrac()}
     const mode=S.set.dir==="mix"?(c.id.charCodeAt(0)%2?"j2z":"z2j"):S.set.dir;
     const front=mode==="j2z"?`<div class="big" lang="ja">${esc(c.w)}</div>`:`<div class="meaning">${esc(cm(c))}</div>`;
-    const back=`<div class="big" lang="ja">${esc(c.w)}</div><button class="iconbtn" data-say="${esc(c.r||c.w)}" aria-label="${t("say")}">${SPK}</button>${c.r&&c.r!==c.w?`<div class="reading" lang="ja">${esc(c.r)}</div>`:""}${S.set.romaji?`<div class="hint">${esc(romaji(c.r||c.w))}</div>`:""}<div class="meaning">${esc(cm(c))}</div>${cn(c)?`<div class="hint">${esc(cn(c))}</div>`:""}${c.ex?`<div class="ex" lang="ja">${esc(c.ex)}</div>`:""}`;
+    const back=`<div class="big" lang="ja">${esc(c.w)}</div><button class="iconbtn" data-say="${esc(c.r||c.w)}" aria-label="${t("say")}">${SPK}</button>${c.r&&c.r!==c.w?`<div class="reading" lang="ja">${esc(c.r)}</div>`:""}${S.set.romaji?`<div class="hint">${esc(romaji(c.r||c.w))}</div>`:""}<div class="meaning">${esc(cm(c))}</div>${cn(c)?`<div class="hint">${esc(cn(c))}</div>`:""}${c.ex?`<div class="ex" lang="ja">${esc(c.ex)}</div>`:""}${c.m&&!(c.mi&&c.mi[GL()])?`<div class="hint gapnote">${t("gapM")}</div>`:""}`;
     const nb=Math.min(c.box+1,IV.length-1);
     return `<p class="eyebrow">${t("pracEy")}</p>
     <div class="card ${V.flip?"flip":""}" id="card" tabindex="0" role="button">${V.flip?back:front+`<div class="hint">${t("tapFlip")}</div>`}</div>
@@ -679,6 +679,9 @@ const ACCT3={
 "ja":{acctLinkOld:"このログインリンクは期限切れか、すでに使われています。下から新しく送ってください。",acctLinkOk:"メールのリンクでログインしました。"}
 };
 for(const k in ACCT3) Object.assign(I18N[k],ACCT3[k]);
+// words added by hand carry only the one meaning typed at the time: say so on the card, so it doesn't look like a bug
+const GAPT={"zh-Hant":"這是你自己加的詞，只有你當時寫的那一種釋義，切換釋義語言時不會跟著變。","zh-Hans":"这是你自己加的词，只有你当时写的那一种释义，切换释义语言时不会跟着变。","en":"You added this word yourself, so it only has the one meaning you typed. It won't change when you switch the meaning language.","de":"Dieses Wort hast du selbst hinzugefügt. Es hat nur die eine Bedeutung, die du eingegeben hast, und ändert sich nicht, wenn du die Sprache der Bedeutungen wechselst.","ja":"自分で追加した単語なので、入力した意味が一つだけです。意味の言語を切り替えても変わりません。"};
+for(const k in GAPT) if(I18N[k]) I18N[k].gapM=GAPT[k];
 const GOALI={"zh-Hant":{goalUnit:"張"},"zh-Hans":{goalUnit:"张"},"en":{goalUnit:"cards"},"de":{goalUnit:"Karten"},"ja":{goalUnit:"枚"}};
 for(const k in GOALI) Object.assign(I18N[k],GOALI[k]);
 for(const k in ACCT2) Object.assign(I18N[k],ACCT2[k]);
